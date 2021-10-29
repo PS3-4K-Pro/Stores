@@ -1,8 +1,8 @@
 <div align="center"> 
 
-# Unofficial®Store
+# Unofficial®Stores
   
-Unofficial®Store support for PS3™ 4K Pro.
+Unofficial®Stores support for PS3™ 4K Pro.
   
 ![screenshot_2021_10_29_00_03_15](https://user-images.githubusercontent.com/74815634/139367595-07b35c17-34f0-47be-8ea0-8168b79bf5f7.png)
 ![screenshot_2021_10_29_00_03_25](https://user-images.githubusercontent.com/74815634/139367597-b36e893a-7a6c-479f-a3ac-22e05cd1183a.png)
