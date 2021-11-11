@@ -56,5 +56,5 @@ Unofficial®Stores support for PS3™ 4K Pro.
 |
   
  # Credits
- All credits go to the respective developers.
+ All credits goes to the respective developers.
 </div>
