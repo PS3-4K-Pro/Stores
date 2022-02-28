@@ -11,71 +11,14 @@ Unofficial®Stores support for PS3™ 4K Pro.
 
 
 # Supported Unofficial®Stores
-
-| Alex Store™ 
-| Alvn Store™ 
-| Black Store™ 
-| Bud Spencer Store™ 
-| Carlos Tuga Store™ 
-| Death Store™ 
-| Duck Store™ 
-| Erne Store™ 
-| Free Store™ 
-| Gamers Store™  
-| Ghost Store™  
-| Guci Store™ 
-| HAN Stuff™ 
-| HEN ToolShop™ 
-| InfoTec StoreBox™ VIP 
-| InfoTec Store™ (Old) 
-| InfoTec Store™ Free 
-| JRK Games Blog™ 
-| JXL Store™ 
-| Jars Games Store™ 
-| Jmds Store™ 
-| Jym Store™ 	
-| Kat Store™ 
-| Killer Store™ 
-| Koopa Store™ 
-| LR Store™ Free 
-| LR Store™ VIP 
-| Mac Store™ 
-| Matheus Store™ 
-| Max Play Games Store™ 
-| Maxi Store™ 
-| Maxx Store™ 				
-| Monterxto Store™ 
-| Ninja Store™ 
-| Oasis Store™ 
-| PKGi Store™ 
-| PS3HEN Games Store™ 
-| PSN Games Mais™ 
-| Retro Store™ 
-| SG4Y STools™ 
-| Sallayin Store™ 
-| Sandro Store™ Free 
-| Sandro Store™ VIP  
-| Shadow Store™ 
-| Soccer Store™ 
-| Sr Guti Store™ 
-| TCXS Project™ 
-| TKDor Modder Blog™ 
-| Thanos Store™ 
-| The Latin Shop Store™ 
-| Tojjo Games Blog™ 
-| UniPlay Games Store™ Free 
-| UniPlay Games Store™ VIP 
-| Video Store™ 
-| Web Store™ 
-| Web Store™ New Edition 
-| Wiki Store™ PSN Edition 
-| Wiki Store™ 
-| You Game Store™ 
-| Yukio Store™ 
-| ZeBr Store™ 
-| Zuko Store™ 
-
   
+<div align="justify">
+    
+| Alex Store™ | Alvn Store™ | Black Store™ | Bud Spencer Store™ | Carlos Tuga Store™ | Death Store™ | Duck Store™ | Erne Store™ | Free Store™ | | Gamers Store™  | Ghost Store™  |  HAN Stuff™ | HEN ToolShop™ | InfoTec Storebox™ | JRK Blog Store™ | JXL Store™ | Jars Store™ | Jmds Store™ | | Jym Store™ | Kat Store™ | Killer Store™ | Koopa Store™ | LR Store™ | Mac Store™ | Maxi Store™ | Monterxto Store™ | Max Play Games Store™ㅤ| | Ninja Store™ | Oasis Store™ | PKGi Store™ | PS3HEN Store™ | PSN Games Mais Store™ | Retro Store™ | SG4Y'S Tools Store™ | Sallayin Store™ㅤ| | Sandro Store™ | Shadow Store™ | Soccer Store™ | Sr Guti Store™ | TCXS Project™ | TKDor Modder Blog™ | Thanos Store™ | The Latin Shop™ㅤ| |  Tojjo Blog™ | UniPlay Games Store™ | Video Store™ | Web Store™ | Wiki Store™ | You Game Store™ | Yukio Store™ | ZBR Store™ | Zuko Store™ | 
+</div>
+  
+<div align="center"> 
+ 
  # Credits
  All credits goes to the respective developers.
 </div>
