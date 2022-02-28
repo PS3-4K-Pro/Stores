@@ -12,47 +12,69 @@ Unofficial®Stores support for PS3™ 4K Pro.
 
 # Supported Unofficial®Stores
 
-| Alex Store™
-| Alvn Store™
-| Black Store™
-| Bud Spencer Store™
-| Carlos Tuga Store™
-| Erne Store™
-| Free Store™
-| Gamers Store™
-| Guti Store™
-| Han Stuff Store™
-| Han/Hen Toolbox Mod™
-| Hen Tool Shop™
-| InfoTec Store™
-| Jars Games Store™
-| Jmds Store™
-| Jym Store™
-| Jxl Store™
-| Kat Store™
-| Koopa Store™
-| Mac Store™
-| Maxx Store™
-| Monster Store™
-| Monterxto Store™
-| Oasis Store™
-| PS3 HEN Games Store™
-| PSN Games Mais Store™
-| Sallayin Store™
-| Sandro Store™
-| Shadow Store™
-| Sr G Store™
-| TCXS Project Store™
-| Thanos Store™
-| The Latin Shop™
-| UniPlay Games Store™
-| Video Store™
-| Web Store™
-| Wiki Store™
-| You Game Store™
-| Yukio Store™
-| ZuKo Store™ 
-|
+| Alex Store™ 
+| Alvn Store™ 
+| Black Store™ 
+| Bud Spencer Store™ 
+| Carlos Tuga Store™ 
+| Death Store™ 
+| Duck Store™ 
+| Erne Store™ 
+| Free Store™ 
+| Gamers Store™  
+| Ghost Store™  
+| Guci Store™ 
+| HAN Stuff™ 
+| HEN ToolShop™ 
+| InfoTec StoreBox™ VIP 
+| InfoTec Store™ (Old) 
+| InfoTec Store™ Free 
+| JRK Games Blog™ 
+| JXL Store™ 
+| Jars Games Store™ 
+| Jmds Store™ 
+| Jym Store™ 	
+| Kat Store™ 
+| Killer Store™ 
+| Koopa Store™ 
+| LR Store™ Free 
+| LR Store™ VIP 
+| Mac Store™ 
+| Matheus Store™ 
+| Max Play Games Store™ 
+| Maxi Store™ 
+| Maxx Store™ 				
+| Monterxto Store™ 
+| Ninja Store™ 
+| Oasis Store™ 
+| PKGi Store™ 
+| PS3HEN Games Store™ 
+| PSN Games Mais™ 
+| Retro Store™ 
+| SG4Y STools™ 
+| Sallayin Store™ 
+| Sandro Store™ Free 
+| Sandro Store™ VIP  
+| Shadow Store™ 
+| Soccer Store™ 
+| Sr Guti Store™ 
+| TCXS Project™ 
+| TKDor Modder Blog™ 
+| Thanos Store™ 
+| The Latin Shop Store™ 
+| Tojjo Games Blog™ 
+| UniPlay Games Store™ Free 
+| UniPlay Games Store™ VIP 
+| Video Store™ 
+| Web Store™ 
+| Web Store™ New Edition 
+| Wiki Store™ PSN Edition 
+| Wiki Store™ 
+| You Game Store™ 
+| Yukio Store™ 
+| ZeBr Store™ 
+| Zuko Store™ 
+
   
  # Credits
  All credits goes to the respective developers.
