@@ -1,9 +1,10 @@
 <div align="center"> 
 
 # Unofficial®Stores
-  
 Unofficial®Stores support for PS3™ 4K Pro.
- 
+
+[![Github downloads (by repository)](https://img.shields.io/github/downloads/LuanTeles/Stores/total?style=social)](https://github.com/LuanTeles/Stores/releases/)
+
 ![screenshot_2021_10_29_00_03_25](https://user-images.githubusercontent.com/74815634/139367597-b36e893a-7a6c-479f-a3ac-22e05cd1183a.png)
 ![screenshot_2021_10_29_00_03_38](https://user-images.githubusercontent.com/74815634/139367599-5886cfc4-ed0f-4cb3-ba60-5f0b76581e6b.png)
 ![screenshot_2021_10_29_00_05_56](https://user-images.githubusercontent.com/74815634/139367601-3cecb190-b077-4953-b432-e27251d789a7.png)
@@ -19,6 +20,7 @@ Unofficial®Stores support for PS3™ 4K Pro.
   
 <div align="center"> 
  
- # Credits
- All credit goes to the respective developers.
+# Credits
+All credit goes to the respective developers.
+  
 </div>
