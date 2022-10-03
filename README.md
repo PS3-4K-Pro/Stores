@@ -15,7 +15,8 @@ Unofficial®Stores support for PS3™ 4K Pro.
   
 <div align="justify">
     
-| Alex Store™ | Alvn Store™ | Black Store™ | Bud Spencer Store™ | Carlos Tuga Store™  | Darking Store™ | Death Store™ | Duck Store™ | Duke Store™ | Erne Store™ | Free Store™ | Fury Store™ | Gamers Store™ | Ghost Store™ | HAN Stuff™ | HEN ToolShop™ | InfoTec Storebox™ | JRK Blog Store™ | JXL Store™ | Jars Store™ | Jmds Store™ | Jym Store™ | Kat Store™ | Kiko Retro Store™ | Killer Store™ | Koopa Store™ | LR Store™ | Mac Store™ | Maxi Store™ | Monterxto Store™ | Max Play Games Store™ | Ninja Store™ | Oasis Store™ | PKGi Store™ | PS3HEN Store™ | PSN Games Mais Store™ | Retro Store™ | SG4Y'S Tools Store™ | Sallayin Store™ | Sandro Store™ | Shadow Store™ | Soccer Store™ | Sr Guti Store™ | TCXS Project™ | TKDor Modder Blog™ | Thanos Store™ | The Latin Shop™ | Tojjo Blog™ | UniPlay Games Store™ | Video Store™ | Web Store™ | Wiki Store™ | You Game Store™ | Yukio Store™ | ZBR Store™ | Zuko Store™ |
+|  Alex Store™ | Alvn Store™ | Black Store™ | Bud Spencer Store™ | Carlos Tuga Store™ | Darking Store™ | Dark Store™ | Death Store™ | Duck Store™ | Duke Store™ | Erne Store™ | Free Store™ | Fury Store™ | Gamers Store™ | Ghost Store™ | HAN Stuff™ | HEN Tool Shop™ | InfoTec Storebox™ | JRK Blog Store™ | JXL Store™ | Jars Store™ | Jmds Store™ | Jym Store™ | Kat Store™ | Kiko Retro Store™ | Killer Store™ | Koopa Store™ | LR Store™ | Mac Store™ | Maxi Store™ | Monterxto Store™ | Max Play Games Store™ | Ninja Store™ | Oasis Store™ | PKGi Store™ | PS3HEN Store™ | PSArchive Store ™ | PSN Games Mais Store™ | Retro Store™ | SG4Y'S Tools Store™ | Sallayin Store™ | Sandro Store™ | Shadow Store™ | Soccer Store™ | Sr Guti Store™ | TCXS Project™ | TKDor Modder Blog™ | Thanos Store™ | The Latin Shop™ | Tojjo Blog™ | UniPlay Games Store™ | Video Store™ | Web Store™ | Wiki Store™ | You Game Store™ | Yukio Store™ | ZBR Store™ | Zuko Store™ |
+
   
 </div>
   
