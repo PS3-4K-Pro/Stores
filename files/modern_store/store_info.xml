@@ -1,0 +1,91 @@
+<nsx ver="1.0" rev="28" lt-id="128" anno="" min-sys-ver="">
+	<spc id="257" rep="f" multi="o" anno=""/>
+	<spc id="7681" rep="f" multi="o" anno=""/>
+	<spc id="32769" rep="f" multi="o" anno="">
+		<!-- <mtrl id="1080412092" mname="US Country Settings" from="2008-01-01T00:00:00.000Z" until="2009-06-02T18:30:00.000Z" lastm="2008-07-15T22:48:58.000Z" anno="">
+			<data name="a6edea9a2348da0692842827d3fd22b5fa37b878-4805.xml" type="33">77u/PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4NCjwhLS0gQ3JlYXRlZCB3aXRoIExpcXVpZCBYTUwgU3R1ZGlvIDEuMC43LjAgKGh0dHA6Ly93d3cubGlxdWlkLXRlY2hub2xvZ2llcy5jb20pIC0tPg0KPGNudHJ5aW5mbyB4bWxuczp4c2k9Imh0dHA6Ly93d3cudzMub3JnLzIwMDEvWE1MU2NoZW1hLWluc3RhbmNlIg0KCXhzaTpub05hbWVzcGFjZVNjaGVtYUxvY2F0aW9uPSJjbnRyeWluZm8ueHNkIg0KCWdhbWVfYXZhaWxhYmxlX3VudGlsPSI5OTk5LTEyLTMxVDIzOjU5OjU5Ljk5WiIgZ2FtZV9hdmFpbGFibGVfZnJvbT0iMjAwOC0wMy0wMVQwMDowMDowMC4wMFoiDQoJdmlkZW9fYXZhaWxhYmxlX3VudGlsPSI5OTk5LTEyLTMxVDIzOjU5OjU5Ljk5WiIgdmlkZW9fYXZhaWxhYmxlX2Zyb209IjIwMDgtMDctMTZUMDM6MDA6MDAuMDBaIj4NCiAgPGxhYmVsIGxhbmc9IjEiPlVuaXRlZCBTdGF0ZXM8L2xhYmVsPg0KICA8Y3VyZm10IGxhbmc9IjEiIGRlY3BudD0iLiIgc3ltcG9zPSJiIiBzcGFjZT0ibiIgZmlnbnVtPSIzIiBmaWdwbnQ9IiwiIHRheHBydD0ieSIgLz4NCiAgPGRhdGVmbXQgdHlwZT0ibWR5IiAvPg0KICA8YWRkcj4NCiAgICA8ZWxtIHR5cGU9InNhMSIgZWRpdD0ieSIgbGlzdD0ibiIgLz4NCiAgICA8ZWxtIHR5cGU9InNhMiIgZWRpdD0ieSIgbGlzdD0ibiIgLz4NCiAgICA8ZWxtIHR5cGU9InNhMiIgZWRpdD0ieSIgbGlzdD0ibiIgLz4NCiAgICA8ZWxtIHR5cGU9ImN0IiBlZGl0PSJ5IiBsaXN0PSJuIiAvPg0KICAgIDxlbG0gdHlwZT0ic3AiIGVkaXQ9InkiIGxpc3Q9InkiIC8+DQogICAgPGVsbSB0eXBlPSJwYyIgZWRpdD0ieSIgbGlzdD0ibiIgb3NrPSJudW0iIC8+DQogICAgPGVsbSB0eXBlPSJjciIgZWRpdD0ibiIgbGlzdD0ibiIgLz4NCiAgPC9hZGRyPg0KICA8Y2hhcmdlPg0KICAgIDxlbG0gdHlwZT0iY2MiIC8+DQogICAgPGVsbSB0eXBlPSJwc25jIiAvPg0KICA8L2NoYXJnZT4NCjwvY250cnlpbmZvPg==</data>
+			<cntry agelmt="0">us</cntry>
+			<lang>all</lang>
+		</mtrl>
+		<mtrl id="1080415156" mname="Country Info for US (PS3)" from="2009-06-02T18:30:00.000Z" until="2012-11-02T05:00:00.000Z" lastm="2012-01-20T11:34:29.000Z" anno="">
+			<name/>
+			<owner/>
+			<desc/>
+			<data name="bdc33a4249e27592f2e8c5ec577a34bb7b300cc4-9455.xml" type="33">77u/PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4NCjxjbnRyeWluZm8geG1sbnM6eHNpPSJodHRwOi8vd3d3LnczLm9yZy8yMDAxL1hNTFNjaGVtYS1pbnN0YW5jZSINCgl4c2k6bm9OYW1lc3BhY2VTY2hlbWFMb2NhdGlvbj0iY250cnlpbmZvLnhzZCINCglza2luX3ZlcnNpb249IjIiDQoJZ2FtZV9hdmFpbGFibGVfdW50aWw9Ijk5OTktMTItMzFUMjM6NTk6NTkuOTlaIiBnYW1lX2F2YWlsYWJsZV9mcm9tPSIyMDA4LTAzLTAxVDAwOjAwOjAwLjAwWiINCgl2aWRlb19hdmFpbGFibGVfdW50aWw9Ijk5OTktMTItMzFUMjM6NTk6NTkuOTlaIiB2aWRlb19hdmFpbGFibGVfZnJvbT0iMjAwOC0wNy0xNlQwMzowMDowMC4wMFoiPg0KCTxxdWVzdGlvbm5haXJlX3VybD48L3F1ZXN0aW9ubmFpcmVfdXJsPg0KPC9jbnRyeWluZm8+</data>
+			<cntry agelmt="0">us</cntry>
+			<lang>all</lang>
+		</mtrl>
+		<mtrl id="1080563935" mname="Country Info for A_USa (PS3)" from="2012-11-02T05:00:00.000Z" until="2012-11-02T06:00:00.000Z" lastm="2012-10-31T11:36:19.000Z" anno="">
+			<data name="5d823889769f9c40682fe10fd9faed3c08f97e25-317023.xml" type="33">77u/PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4NCjxjbnRyeWluZm8geG1sbnM6eHNpPSJodHRwOi8vd3d3LnczLm9yZy8yMDAxL1hNTFNjaGVtYS1pbnN0YW5jZSINCgl4c2k6bm9OYW1lc3BhY2VTY2hlbWFMb2NhdGlvbj0iY250cnlpbmZvLnhzZCINCglza2luX3ZlcnNpb249IjMiDQoJZ2FtZV9hdmFpbGFibGVfdW50aWw9Ijk5OTktMTItMzFUMjM6NTk6NTkuOTlaIiBnYW1lX2F2YWlsYWJsZV9mcm9tPSIyMDEyLTExLTAxVDAxOjAwOjAwLjAwWiINCgl2aWRlb19hdmFpbGFibGVfdW50aWw9Ijk5OTktMTItMzFUMjM6NTk6NTkuOTlaIiB2aWRlb19hdmFpbGFibGVfZnJvbT0iMjAxMi0xMS0wMVQwMTowMDowMC4wMFoiPg0KCTxxdWVzdGlvbm5haXJlX3VybD48L3F1ZXN0aW9ubmFpcmVfdXJsPg0KCTxzdG9yZV9wa2dfdXJsPmh0dHA6Ly9hcmVzLmRsLnBsYXlzdGF0aW9uLm5ldC9jZG4vSVA5MTAwL05QSUEwMDAyNV8wMC9GT2tndHBRSlBPT1ZtTllpTktsRnRpdVpQaXRFcVBaQW12ZGtvenBjSHFxblpWQkhCYWhpeWtDY0ZaZllJanBPQXNGRENUTmR5UXFoa3BZenJkclZEZ0FVTndNTFpjUlRlRmNJVC5wa2c8L3N0b3JlX3BrZ191cmw+DQo8L2NudHJ5aW5mbz4=</data>
+			<cntry agelmt="35">us</cntry>
+			<lang>1</lang>
+		</mtrl>
+		<mtrl id="1080563936" mname="Country Info for A_USb (PS3)" from="2012-11-02T05:00:00.000Z" until="2012-11-02T06:00:00.000Z" lastm="2012-10-31T11:38:31.000Z" anno="">
+			<data name="bdc33a4249e27592f2e8c5ec577a34bb7b300cc4-317024.xml" type="33">77u/PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4NCjxjbnRyeWluZm8geG1sbnM6eHNpPSJodHRwOi8vd3d3LnczLm9yZy8yMDAxL1hNTFNjaGVtYS1pbnN0YW5jZSINCgl4c2k6bm9OYW1lc3BhY2VTY2hlbWFMb2NhdGlvbj0iY250cnlpbmZvLnhzZCINCglza2luX3ZlcnNpb249IjIiDQoJZ2FtZV9hdmFpbGFibGVfdW50aWw9Ijk5OTktMTItMzFUMjM6NTk6NTkuOTlaIiBnYW1lX2F2YWlsYWJsZV9mcm9tPSIyMDA4LTAzLTAxVDAwOjAwOjAwLjAwWiINCgl2aWRlb19hdmFpbGFibGVfdW50aWw9Ijk5OTktMTItMzFUMjM6NTk6NTkuOTlaIiB2aWRlb19hdmFpbGFibGVfZnJvbT0iMjAwOC0wNy0xNlQwMzowMDowMC4wMFoiPg0KCTxxdWVzdGlvbm5haXJlX3VybD48L3F1ZXN0aW9ubmFpcmVfdXJsPg0KPC9jbnRyeWluZm8+</data>
+			<cntry agelmt="0" uagelmt="34">us</cntry>
+			<lang>1</lang>
+		</mtrl>
+		<mtrl id="1080563937" mname="Country Info for A_USc (PS3)" from="2012-11-02T06:00:00.000Z" until="2012-11-20T00:00:00.000Z" lastm="2012-10-31T11:39:31.000Z" anno="">
+			<data name="5d823889769f9c40682fe10fd9faed3c08f97e25-317025.xml" type="33">77u/PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4NCjxjbnRyeWluZm8geG1sbnM6eHNpPSJodHRwOi8vd3d3LnczLm9yZy8yMDAxL1hNTFNjaGVtYS1pbnN0YW5jZSINCgl4c2k6bm9OYW1lc3BhY2VTY2hlbWFMb2NhdGlvbj0iY250cnlpbmZvLnhzZCINCglza2luX3ZlcnNpb249IjMiDQoJZ2FtZV9hdmFpbGFibGVfdW50aWw9Ijk5OTktMTItMzFUMjM6NTk6NTkuOTlaIiBnYW1lX2F2YWlsYWJsZV9mcm9tPSIyMDEyLTExLTAxVDAxOjAwOjAwLjAwWiINCgl2aWRlb19hdmFpbGFibGVfdW50aWw9Ijk5OTktMTItMzFUMjM6NTk6NTkuOTlaIiB2aWRlb19hdmFpbGFibGVfZnJvbT0iMjAxMi0xMS0wMVQwMTowMDowMC4wMFoiPg0KCTxxdWVzdGlvbm5haXJlX3VybD48L3F1ZXN0aW9ubmFpcmVfdXJsPg0KCTxzdG9yZV9wa2dfdXJsPmh0dHA6Ly9hcmVzLmRsLnBsYXlzdGF0aW9uLm5ldC9jZG4vSVA5MTAwL05QSUEwMDAyNV8wMC9GT2tndHBRSlBPT1ZtTllpTktsRnRpdVpQaXRFcVBaQW12ZGtvenBjSHFxblpWQkhCYWhpeWtDY0ZaZllJanBPQXNGRENUTmR5UXFoa3BZenJkclZEZ0FVTndNTFpjUlRlRmNJVC5wa2c8L3N0b3JlX3BrZ191cmw+DQo8L2NudHJ5aW5mbz4=</data>
+			<cntry agelmt="0">us</cntry>
+			<lang>1</lang>
+		</mtrl> -->
+		<mtrl id="1080567042" mname="Country Info for W_G1 (PS3)" from="2012-11-20T00:00:00.000Z" until="2100-12-31T23:59:00.000Z" lastm="2016-05-12T03:56:29.000Z" anno="">
+			<name/>
+			<owner/>
+			<desc/>
+			<data name="a0bd013b4f45e650dc45ed6c80e9c4f8b5074413-1143243.xml" type="33">PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4NCjxjbnRyeWluZm8geG1sbnM6eHNpPSJodHRwOi8vd3d3LnczLm9yZy8yMDAxL1hNTFNjaGVtYS1pbnN0YW5jZSINCgl4c2k6bm9OYW1lc3BhY2VTY2hlbWFMb2NhdGlvbj0iY250cnlpbmZvLnhzZCINCglza2luX3ZlcnNpb249IjMiDQoJZ2FtZV9hdmFpbGFibGVfdW50aWw9Ijk5OTktMTItMzFUMjM6NTk6NTkuOTlaIiBnYW1lX2F2YWlsYWJsZV9mcm9tPSIyMDEyLTExLTIwVDAwOjAwOjAwLjAwWiINCgl2aWRlb19hdmFpbGFibGVfdW50aWw9Ijk5OTktMTItMzFUMjM6NTk6NTkuOTlaIiB2aWRlb19hdmFpbGFibGVfZnJvbT0iMjAxMi0xMS0yMFQwMDowMDowMC4wMFoiPg0KCTxxdWVzdGlvbm5haXJlX3VybD48L3F1ZXN0aW9ubmFpcmVfdXJsPg0KCTxzdG9yZV9wa2dfdXJsPmh0dHA6Ly9hcmVzLmRsLnBsYXlzdGF0aW9uLm5ldC9jZG4vSVA5MTAwL05QSUEwMDAyNV8wMC9JUDkxMDAtTlBJQTAwMDI1XzAwLVNGUFJPRDAwMDAwMDAwMDBfYmdfN19hN2M3ZmI1MDc0ZGE4ZjVkN2I0MzA1ZWNkODY4M2Q0Yzk5MDcwZGFiLnBrZzwvc3RvcmVfcGtnX3VybD4NCjwvY250cnlpbmZvPg0K</data>
+			<cntry agelmt="0">ar</cntry>
+			<cntry agelmt="0">bg</cntry>
+			<cntry agelmt="0">bh</cntry>
+			<cntry agelmt="0">bo</cntry>
+			<cntry agelmt="0">br</cntry>
+			<cntry agelmt="0">ca</cntry>
+			<cntry agelmt="0">cl</cntry>
+			<cntry agelmt="0">co</cntry>
+			<cntry agelmt="0">cr</cntry>
+			<cntry agelmt="0">cy</cntry>
+			<cntry agelmt="0">cz</cntry>
+			<cntry agelmt="0">ec</cntry>
+			<cntry agelmt="0">gr</cntry>
+			<cntry agelmt="0">gt</cntry>
+			<cntry agelmt="0">hk</cntry>
+			<cntry agelmt="0">hn</cntry>
+			<cntry agelmt="0">hr</cntry>
+			<cntry agelmt="0">hu</cntry>
+			<cntry agelmt="0">id</cntry>
+			<cntry agelmt="0">il</cntry>
+			<cntry agelmt="0">in</cntry>
+			<cntry agelmt="0">is</cntry>
+			<cntry agelmt="0">jp</cntry>
+			<cntry agelmt="0">kr</cntry>
+			<cntry agelmt="0">kw</cntry>
+			<cntry agelmt="0">lb</cntry>
+			<cntry agelmt="0">mt</cntry>
+			<cntry agelmt="0">mx</cntry>
+			<cntry agelmt="0">my</cntry>
+			<cntry agelmt="0">ni</cntry>
+			<cntry agelmt="0">om</cntry>
+			<cntry agelmt="0">pa</cntry>
+			<cntry agelmt="0">pe</cntry>
+			<cntry agelmt="0">py</cntry>
+			<cntry agelmt="0">qa</cntry>
+			<cntry agelmt="0">ro</cntry>
+			<cntry agelmt="0">sa</cntry>
+			<cntry agelmt="0">sg</cntry>
+			<cntry agelmt="0">si</cntry>
+			<cntry agelmt="0">sk</cntry>
+			<cntry agelmt="0">sv</cntry>
+			<cntry agelmt="0">th</cntry>
+			<cntry agelmt="0">tr</cntry>
+			<cntry agelmt="0">tw</cntry>
+			<cntry agelmt="0">ua</cntry>
+			<cntry agelmt="0">us</cntry>
+			<cntry agelmt="0">uy</cntry>
+			<cntry agelmt="0">za</cntry>
+			<lang>all</lang>
+		</mtrl>
+	</spc>
+	<spc id="32770" rep="f" multi="o" anno=""/>
+	<spc id="32771" rep="f" multi="o" anno=""/>
+</nsx>
