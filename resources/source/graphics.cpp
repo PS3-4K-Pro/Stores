@@ -66,7 +66,7 @@ void bitmap_background(string version, string type)
 	ILogo.AlphaDrawIMGtoBitmap(imgX,imgY,&png_logo,&Menu_Layer);
 	//Color in HEX 0xd38900
 	F2.PrintfToBitmap(center_text_x(sizeFont, "Firmware: X.XX (CEX)"),Graphics->height-(sizeFont+ypos(20)+(sizeFont-ypos(5))+ypos(10)),&Menu_Layer,0x00ff00,sizeFont, "Firmware: %s (%s)", version.c_str(), type.c_str());
-	F2.PrintfToBitmap(center_text_x(sizeFont-ypos(5), "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"),Graphics->height-((sizeFont-ypos(5))+ypos(10)),&Menu_Layer,0xb22222,sizeFont-ypos(5), "Todas as Suas Lojas em um só Lugar");
+	F2.PrintfToBitmap(center_text_x(sizeFont-ypos(5), "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"),Graphics->height-((sizeFont-ypos(5))+ypos(10)),&Menu_Layer,0xb22222,sizeFont-ypos(5), "Todas as Suas Lojas em um so Lugar!");
 }
 
 void draw_menu(int choosed)
