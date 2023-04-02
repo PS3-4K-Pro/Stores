@@ -83,7 +83,7 @@
 			<Query class="type:x-xmb/folder-pixmap" key="You Game Store™" type="free" version="1.20" downloadable="yes" src="xmb://localhost/dev_hdd0/game/YOUGSTORE/USRDIR/YOUGAMESTORE_xmb.xml#YOUGAMESTORE_xmb_main"/>
 			<Query class="type:x-xmb/folder-pixmap" key="Yukio Store™" type="free" version="3.00" downloadable="yes" src="xmb://localhost/dev_hdd0/game/YGYOSTORE/USRDIR/YGYOSTORE_xmb.xml#YGYOSTORE_xmb_main"/>
 			<Query class="type:x-xmb/folder-pixmap" key="ZeBr Store™" type="free" version="2.21" downloadable="yes" src="xmb://localhost/dev_hdd0/game/ZEBRSTORE/USRDIR/zebr_store_xmb.xml#zebr_store_xmb_main"/>
-			<Query class="type:x-xmb/folder-pixmap" key="Zuko Store™" type="free" version="4.20" downloadable="yes" src="xmb://localhost/dev_hdd0/game/ZukoSTORE/USRDIR/the_Zukostore.xml#the_Zukostore"/>
+			<Query class="type:x-xmb/folder-pixmap" key="Zuko Store™" type="free" version="4.20" downloadable="yes" src="xmb://localhost/dev_hdd0/game/ZUKOSTORE/USRDIR/the_zukostore.xml#the_zukostore"/>
 			<!-- Official PlayStation®Store -->
 			<Query class="type:x-xmb/folder-pixmap" key="PlayStation®Store" src="#seg_playstation_store"/>
 			<!-- PlayStation™Network Download -->
@@ -161,8 +161,8 @@
 		<Attributes>
 			<Table key="download">
 			<Pair key="info"><String>net_package_install</String></Pair>
-				<Pair key="pkg_src"><String>http://github.com/PS3-4K-Pro/Stores/releases/download/Stores/Unofficial_Stores.pkg</String></Pair>
-				<Pair key="pkg_src_qa"><String>http://github.com/PS3-4K-Pro/Stores/releases/download/Stores/Unofficial_Stores.pkg</String></Pair>
+				<Pair key="pkg_src"><String>http://github.com/PS3-4K-Pro/Stores/releases/download/Stores/Unofficial_Stores_-_Update.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://github.com/PS3-4K-Pro/Stores/releases/download/Stores/Unofficial_Stores_-_Update.pkg</String></Pair>
 				<Pair key="content_name"><String>msg_install</String></Pair>
 				<Pair key="content_id"><String>CUSTOM-UNISTORES_00-0000000000000000</String></Pair>
 				<Pair key="prod_pict_path"><String>/dev_flash/vsh/resource/explore/icon/download.png</String></Pair>
@@ -245,7 +245,7 @@
 				<Pair key="title"><String>Desinstalar Unofficial®Stores?</String></Pair>
 				<Pair key="info"><String>Pressione  para continuar e reiniciar ou pressione  para voltar</String></Pair>
 				<Pair key="module_name"><String>idle_plugin</String></Pair>
-				<Pair key="module_action"><String>/delete.ps3/dev_blind/vsh/resource/explore/xmb/category_unofficial_stores.xml;/reboot.ps3?quick</String></Pair>
+				<Pair key="module_action"><String>/dev_blind?1;/wait.ps3?1;/delete.ps3/dev_blind/vsh/resource/explore/xmb/category_unofficial_stores.xml;/reboot.ps3?quick</String></Pair>
 				<Pair key="bar_action"><String>none</String></Pair>
 			</Table>
 		</Attributes>
