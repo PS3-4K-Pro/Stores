@@ -1,0 +1,152 @@
+<!-- This is part of PS3™ 4K Pro by Luan Teles -  01/02/2020 - DD/MM/YY -->
+
+<XMBML version="1.0">
+	<!-- XMB™ Menu > PlayStation™Network Category > ®Stores > Essentials Applications -->
+	<View id="seg_essential_applications">
+		<Attributes>
+			<Table key="essential_applications">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/folder_xmbm.png</String></Pair>
+				<Pair key="title"><String>Applicativos Essenciais</String></Pair>
+				<Pair key="info"><String>Seleçao de applicativos essenciais para tirar o máximo do sistema.</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/folder-pixmap" key="essential_applications" attr="essential_applications" src="#seg_essential_applications_items"/>
+		</Items>
+	</View>
+
+	<!-- XMB™ Menu > PlayStation™Network Category > ®Stores > Essentials Applications > -->
+	<View id="seg_essential_applications_items">
+		<Attributes>
+			<!-- System Activate -->
+			<Table key="sytem_activation">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/face.png</String></Pair>
+				<Pair key="title"><String>Ativação do Sistema</String></Pair>
+				<Pair key="info"><String>Seleção de ferramentas e licenças necessárias para ativar o sistema e executar jogos em formato digital.</String></Pair>
+				<Pair key="child"><String>segment</String></Pair>
+			</Table>
+			<!-- Media Downloader -->
+			<Table key="psn_apps_downloader">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/sen_no.png</String></Pair>
+				<Pair key="title"><String>Aplicativos Multimédia</String></Pair>
+				<Pair key="info"><String>Seleção de aplicativos multimédia e streaming.</String></Pair>
+			</Table>
+			<!-- Emulator Downloader -->
+			<Table key="emulator_downloader">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/emu.png</String></Pair>
+				<Pair key="title"><String>Emuladores Retro</String></Pair>
+				<Pair key="info"><String>Seleção de aplicativos de para emulação de consoles de outras gerações
+				
+				Observação: Jogos não inclusos, para incluir jogos coloque-os nos seus respectivos diretórios.</String></Pair>
+				<Pair key="fo_lbl2_alpha"><String>0</String></Pair>
+			</Table>
+			<!-- System Tools Downloader -->
+			<Table key="tools_downloader">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/tools.png</String></Pair>
+				<Pair key="title"><String>Ferramentas e Utilitários</String></Pair>
+				<Pair key="info"><String>Seleção de applicativos de ferramentas e utilitários.</String></Pair>
+			</Table>
+			<!-- Backup Manager Downloader -->
+			<Table key="backup_manager_downloader">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/disc.png</String></Pair>
+				<Pair key="title"><String>Gerenciadores de Backup</String></Pair>
+				<Pair key="info"><String>Seleção de aplicativos de gerenciamento de arquivos e backups.</String></Pair>
+			</Table>
+			<!-- Homebrew Game Downloader -->
+			<Table key="homebrew_games_downloader">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/package.png</String></Pair>
+				<Pair key="title"><String>Jogos Homebrew</String></Pair>
+				<Pair key="info"><String>Seleção de jogos homebrew desenvolvidos pela comunidade.</String></Pair>
+			</Table>
+			<!-- Ported Games Downloader -->
+			<Table key="ported_games_downloader">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/game.png</String></Pair>
+				<Pair key="title"><String>Jogos Portados</String></Pair>
+				<Pair key="info"><String>Seleção de jogos portados de outras plataformas pela comunidade.</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/folder-pixmap" key="sytem_activation" attr="sytem_activation" src="#seg_sytem_activation_menu"/>
+			<Query class="type:x-xmb/folder-pixmap" key="psn_apps_downloader" attr="psn_apps_downloader" src="xmb://localhost/dev_hdd0/game/UNOSTORES/USRDIR/store/xmls/app/app_downloader.xml#seg_app_downloader_items"/>
+			<Query class="type:x-xmb/folder-pixmap" key="emulator_downloader" attr="emulator_downloader" src="xmb://localhost/dev_hdd0/game/UNOSTORES/USRDIR/store/xmls/emulator/emulator_downloader.xml#seg_emulator_downloader_items"/>
+			<Query class="type:x-xmb/folder-pixmap" key="tools_downloader" attr="tools_downloader" src="xmb://localhost/dev_hdd0/game/UNOSTORES/USRDIR/store/xmls/tool/tool_downloader.xml#seg_tool_downloader_items"/>
+			<Query class="type:x-xmb/folder-pixmap" key="backup_manager_downloader" attr="backup_manager_downloader" src="xmb://localhost/dev_hdd0/game/UNOSTORES/USRDIR/store/xmls/backup_manager/backup_manager_downloader.xml#seg_backup_manager_downloader_items"/>
+			<Query class="type:x-xmb/folder-pixmap" key="homebrew_games_downloader" attr="homebrew_games_downloader" src="xmb://localhost/dev_hdd0/game/UNOSTORES/USRDIR/store/xmls/homebrew/homebrew_game_downloader.xml#seg_homebrew_game_downloader_items"/>
+			<Query class="type:x-xmb/folder-pixmap" key="ported_games_downloader" attr="ported_games_downloader" src="xmb://localhost/dev_hdd0/game/UNOSTORES/USRDIR/store/xmls/ports/ported_games_downloader.xml#seg_ported_games_downloader_items"/>
+		</Items>
+	</View>
+	
+	<View id="seg_sytem_activation_menu">
+		<Attributes>
+			<Table key="focus_item">
+				<Pair key="focus_priority"><String>-80</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/folder-pixmap" key="seg_sytem_activation" src="#seg_sytem_activation_items"/>
+			<Query class="type:x-xmb/folder-pixmap" key="seg_licenses_pack" attr="focus_item" src="#seg_licenses_pack_item"/>
+		</Items>
+	</View>
+	
+	<!-- XMB™ Menu > PlayStation™Network Category > ®Stores > Essentials Applications > System Activation > (Upper Items) -->
+	<View id="seg_sytem_activation_items">
+		<Attributes>
+			<Table key="shared_actions">
+				<Pair key="module_name"><String>xai_plugin</String></Pair>
+				<Pair key="bar_action"><String>none</String></Pair>
+			</Table>
+			<!-- Show Account ID -->
+			<Table key="set_accountid" include="shared_actions">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/patch_accountid.png</String></Pair>
+				<Pair key="title"><String>Criar ID da Conta</String></Pair>
+				<Pair key="info"><String>Cria um id de usuário falso caso não exista.
+				Aviso: Necessário para ativar a conta para jogos digitais.</String></Pair>
+				<Pair key="module_action"><String>set_accountid</String></Pair>
+			</Table>
+			<!-- Create Activation File -->
+			<Table key="create_act_dat" include="shared_actions">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/key_text.png</String></Pair>
+				<Pair key="title"><String>Ativar Conta</String></Pair>
+				<Pair key="info"><String>Cria o arquivo de ativação do sistema caso não exista.
+				Aviso: Necessário para as licenças serem vinculadas ao usuário atual.</String></Pair>
+				<Pair key="module_action"><String>activate_account</String></Pair>
+			</Table>
+			
+		</Attributes>
+		<Items>	
+			<Item class="type:x-xmb/module-action" key="set_accountid" attr="set_accountid"/>	
+			<Item class="type:x-xmb/module-action" key="create_act_dat" attr="create_act_dat"/>
+		</Items>
+	</View>
+	
+	<!-- XMB™ Menu > PlayStation™Network Category > ®Stores > Essentials Applications > System Activation > (Lower Item) -->
+	<View id="seg_licenses_pack_item">
+		<Attributes>
+			<!-- Licenses Pack -->
+			<Table key="license_downloader">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/key.png</String></Pair>
+				<Pair key="title"><String>Pacote de Licenças</String></Pair>
+				<Pair key="info"><String>Baixa e instala todas as licenças necessárias para executar os jogos.</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>	
+			<Query class="type:x-xmb/folder-pixmap" key="license_downloader" attr="license_downloader" src="#license_downloader_item"/>
+		</Items>
+	</View>
+	
+	<View id="license_downloader_item"> 	
+		<Attributes>
+			<Table key="license_pack_download">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://github.com/PS3-4K-Pro/Packages/releases/download/Homebrews/License_Pack.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://github.com/PS3-4K-Pro/Packages/releases/download/Homebrews/License_Pack.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>PS3CFW-LICENSES0_00-0000000000000000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/download.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="license_pack_download" attr="license_pack_download"/> 
+		</Items>
+	</View>
+</XMBML>

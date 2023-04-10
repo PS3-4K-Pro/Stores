@@ -1,0 +1,1004 @@
+<!-- This is part of PS3™ 4K Pro by Luan Teles - 01/02/2020 - DD/MM/YY --><XMBML version="1.0">	<!-- XMB™ Menu > PlayStation™Network Category > Unofficial®Stores > Package Downloader > App Downloader -->
+	<View id="seg_app_downloader_items">
+		<Attributes>
+			<Table key="app_001">				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/app_icons/abc_iview.png</String></Pair>
+				<Pair key="title"><String>ABC iView</String></Pair>
+				<Pair key="info"><String>ABC0IVIEW  41.80 MB  [No-PSN]</String></Pair>
+			</Table>
+			<Table key="app_002">				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/app_icons/all4.png</String></Pair>
+				<Pair key="title"><String>All 4</String></Pair>
+				<Pair key="info"><String>NPEB01271  57.20 MB  [No-PSN]</String></Pair>
+			</Table>
+			<Table key="app_003">				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/app_icons/amazon.png</String></Pair>
+				<Pair key="title"><String>Amazon Prime Video</String></Pair>
+				<Pair key="info"><String>NPEB00344  54.60 MB  [No-PSN]</String></Pair>
+			</Table>
+			<Table key="app_004">				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/app_icons/animelab.png</String></Pair>
+				<Pair key="title"><String>AnimeLab</String></Pair>
+				<Pair key="info"><String>NPEB02357  68.80 MB  [No-PSN]</String></Pair>
+			</Table>
+			<Table key="app_005">				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/app_icons/cinepolis.png</String></Pair>
+				<Pair key="title"><String>Cinépolis</String></Pair>
+				<Pair key="info"><String>NPUP31348  44.40 MB  [No-PSN]</String></Pair>
+			</Table>
+			<Table key="app_006">				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/app_icons/clan.png</String></Pair>
+				<Pair key="title"><String>ClanTV</String></Pair>
+				<Pair key="info"><String>NPEB02080  41.90 MB  [No-PSN]</String></Pair>
+			</Table>
+			<Table key="app_007">				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/app_icons/crackle.png</String></Pair>
+				<Pair key="title"><String>Crackle</String></Pair>
+				<Pair key="info"><String>NPUP00077  21.70 MB  [No-PSN]</String></Pair>
+			</Table>
+			<Table key="app_008">				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/app_icons/crunchyroll.png</String></Pair>
+				<Pair key="title"><String>CrunchyRoll</String></Pair>
+				<Pair key="info"><String>NPUP10027  23.10 MB  [By Sdw]</String></Pair>
+			</Table>
+			<Table key="app_009">				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/app_icons/dansk.png</String></Pair>
+				<Pair key="title"><String>Dansk Filmskat</String></Pair>
+				<Pair key="info"><String>NPEB02344  68.70 MB  [No-PSN]</String></Pair>
+			</Table>
+			<Table key="app_010">				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/app_icons/danz.png</String></Pair>
+				<Pair key="title"><String>Danz</String></Pair>
+				<Pair key="info"><String>NPEB02391  54.10 MB  [No-PSN]</String></Pair>
+			</Table>
+			<Table key="app_011">				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/app_icons/fi1m.png</String></Pair>
+				<Pair key="title"><String>Film1</String></Pair>
+				<Pair key="info"><String>NPEB02412  51.90 MB  [PSN]</String></Pair>
+			</Table>
+			<Table key="app_012">				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/app_icons/foxtel_play.png</String></Pair>
+				<Pair key="title"><String>Foxtel</String></Pair>
+				<Pair key="info"><String>NPEB02003  42.50 MB  [No-PSN]</String></Pair>
+			</Table>
+			<Table key="app_013">				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/app_icons/game_one.png</String></Pair>
+				<Pair key="title"><String>Game One</String></Pair>
+				<Pair key="info"><String>NPEB01941  37.40 MB  [No-PSN]</String></Pair>
+			</Table>
+			<Table key="app_014">				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/app_icons/hbo_nordic.png</String></Pair>
+				<Pair key="title"><String>HBO</String></Pair>
+				<Pair key="info"><String>NPEB02292  59.20 MB  [No-PSN]</String></Pair>
+			</Table>
+			<Table key="app_015">				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/app_icons/hulu.png</String></Pair>
+				<Pair key="title"><String>Hulu</String></Pair>
+				<Pair key="info"><String>NPUP00046  46.30 MB  [No-PSN]</String></Pair>
+			</Table>
+			<Table key="app_016">				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/app_icons/iheart.png</String></Pair>
+				<Pair key="title"><String>iHeart</String></Pair>
+				<Pair key="info"><String>NPUP31352  41.70 MB  [PSN]</String></Pair>
+			</Table>
+			<Table key="app_017">				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/app_icons/ipla.png</String></Pair>
+				<Pair key="title"><String>iPla</String></Pair>
+				<Pair key="info"><String>NPEB00703  0.10 MB  [PSN]</String></Pair>
+			</Table>
+			<Table key="app_018">				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/app_icons/maxdome.png</String></Pair>
+				<Pair key="title"><String>Maxdome</String></Pair>
+				<Pair key="info"><String>NPEB01192  33.70 MB  [PSN]</String></Pair>
+			</Table>
+			<Table key="app_019">				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/app_icons/meo.png</String></Pair>
+				<Pair key="title"><String>MEO</String></Pair>
+				<Pair key="info"><String>NPEB01906  37.20 MB  [No-PSN]</String></Pair>
+			</Table>
+			<Table key="app_020">				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/app_icons/min_bio.png</String></Pair>
+				<Pair key="title"><String>Min Bio</String></Pair>
+				<Pair key="info"><String>NPEB02345  67.00 MB  [PSN]</String></Pair>
+			</Table>
+			<Table key="app_021">				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/app_icons/mlb.tv.png</String></Pair>
+				<Pair key="title"><String>MLB.TV®</String></Pair>
+				<Pair key="info"><String>NPUP313531  17.90 MB  [No-PSN]</String></Pair>
+			</Table>
+			<Table key="app_022">				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/app_icons/movian.png</String></Pair>
+				<Pair key="title"><String>Movian</String></Pair>
+				<Pair key="info"><String>HTSS00003  9.47 MB  [No-PSN]</String></Pair>
+			</Table>
+			<Table key="app_023">				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/app_icons/mubi.png</String></Pair>
+				<Pair key="title"><String>Mubi</String></Pair>
+				<Pair key="info"><String>NPEB02391  41.00 MB  [PSN]</String></Pair>
+			</Table>
+			<Table key="app_024">				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/app_icons/multiplayer.it.png</String></Pair>
+				<Pair key="title"><String>Multiplayer.it</String></Pair>
+				<Pair key="info"><String>NPEB01990  41.00 MB  [No-PSN]</String></Pair>
+			</Table>
+			<Table key="app_025">				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/app_icons/netflix.png</String></Pair>
+				<Pair key="title"><String>Netflix</String></Pair>
+				<Pair key="info"><String>NPUP00030  12.50 MB  [No-PSN]</String></Pair>
+			</Table>
+			<Table key="app_026">				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/app_icons/nfl.png</String></Pair>
+				<Pair key="title"><String>NFL</String></Pair>
+				<Pair key="info"><String>NPUO00019  120.00 MB  [PSN]</String></Pair>
+			</Table>
+			<Table key="app_027">				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/app_icons/nrk_super.png</String></Pair>
+				<Pair key="title"><String>NRK TV</String></Pair>
+				<Pair key="info"><String>NPEB02137  50.70 MB  [PSN]</String></Pair>
+			</Table>
+			<Table key="app_028">				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/app_icons/nrk_tv.png</String></Pair>
+				<Pair key="title"><String>NRK Super</String></Pair>
+				<Pair key="info"><String>NPEB02136  51.51 MB  [PSN]</String></Pair>
+			</Table>
+			<Table key="app_029">				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/app_icons/pathe_thuis.png</String></Pair>
+				<Pair key="title"><String>Pathé Thuis</String></Pair>
+				<Pair key="info"><String>NPEB01974  51.70 MB  [PSN]</String></Pair>
+			</Table>
+			<Table key="app_030">				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/app_icons/plex.png</String></Pair>
+				<Pair key="title"><String>Plex</String></Pair>
+				<Pair key="info"><String>NPEB02214  40.90 MB  [PSN]</String></Pair>
+			</Table>
+			<Table key="app_031">				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/app_icons/rakuten.tv.png</String></Pair>
+				<Pair key="title"><String>Rakuten TV</String></Pair>
+				<Pair key="info"><String>NPEB01813  36.60 MB  [PSN]</String></Pair>
+			</Table>
+			<Table key="app_032">				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/app_icons/red_bull_tv.png</String></Pair>
+				<Pair key="title"><String>Red Bull TV</String></Pair>
+				<Pair key="info"><String>NPEB02455  16.10 MB  [PSN]</String></Pair>
+			</Table>
+			<Table key="app_033">				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/app_icons/rtbf.png</String></Pair>
+				<Pair key="title"><String>RTBF</String></Pair>
+				<Pair key="info"><String>NPEB01429  32.50 MB  [PSN]</String></Pair>
+			</Table>
+			<Table key="app_034">				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/app_icons/spotify.png</String></Pair>
+				<Pair key="title"><String>Spotify</String></Pair>
+				<Pair key="info"><String>NPEB02222  43.70 MB  [PSN]</String></Pair>
+			</Table>
+			<Table key="app_035">				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/app_icons/stan.png</String></Pair>
+				<Pair key="title"><String>Stan</String></Pair>
+				<Pair key="info"><String>NPEB02362  81.10 MB  [PSN]</String></Pair>
+			</Table>
+			<Table key="app_036">				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/app_icons/tv2_sumo.png</String></Pair>
+				<Pair key="title"><String>TV2 Sumo</String></Pair>
+				<Pair key="info"><String>NPEB01956  69.20 MB  [No-PSN]</String></Pair>
+			</Table>
+			<Table key="app_037">				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/app_icons/tv3.png</String></Pair>
+				<Pair key="title"><String>TV3</String></Pair>
+				<Pair key="info"><String>NPEB02166  42.30 MB  [No-PSN]</String></Pair>
+			</Table>
+			<Table key="app_038">				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/app_icons/twitch.png</String></Pair>
+				<Pair key="title"><String>Twitch</String></Pair>
+				<Pair key="info"><String>NPEB02359  9.87 MB  [No-PSN]</String></Pair>
+			</Table>
+			<Table key="app_039">				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/app_icons/vevo.png</String></Pair>
+				<Pair key="title"><String>Vevo</String></Pair>
+				<Pair key="info"><String>NPEB02212  41.80 MB  [No-PSN]</String></Pair>
+			</Table>
+			<Table key="app_040">				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/app_icons/viaplay.png</String></Pair>
+				<Pair key="title"><String>ViaPlay</String></Pair>
+				<Pair key="info"><String>NPEB00863  29.70 MB  [PSN]</String></Pair>
+			</Table>
+			<Table key="app_041">				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/app_icons/vudu.png</String></Pair>
+				<Pair key="title"><String>VUDU™ Movie Service</String></Pair>
+				<Pair key="info"><String>NPUP00047  13.10 MB  [No-PSN]</String></Pair>
+			</Table>
+			<Table key="app_042">				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/app_icons/youtube.png</String></Pair>
+				<Pair key="title"><String>YouTube</String></Pair>
+				<Pair key="info"><String>NPEB01229  48.90 MB  [No-PSN]</String></Pair>
+			</Table>
+			<Table key="app_043">				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/app_icons/yupptv.png</String></Pair>
+				<Pair key="title"><String>YuppTV</String></Pair>
+				<Pair key="info"><String>NPEB02350  69.80 MB  [No-PSN]</String></Pair>
+			</Table>
+			<Table key="app_044">				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/app_icons/tubi.png</String></Pair>
+				<Pair key="title"><String>Tubi TV</String></Pair>
+				<Pair key="info"><String>NPUP31377  50.80 MB  [PSN]</String></Pair>
+			</Table>
+			<Table key="app_045">				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/app_icons/xvideos_straight.png</String></Pair>
+				<Pair key="title"><String>XVideos</String></Pair>
+				<Pair key="info"><String>XVIDEOSHT  2.08 MB  [No-PSN]</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/folder-pixmap" key="app_001" attr="app_001" src="#app_001_item"/>
+			<Query class="type:x-xmb/folder-pixmap" key="app_002" attr="app_002" src="#app_002_item"/>
+			<Query class="type:x-xmb/folder-pixmap" key="app_003" attr="app_003" src="#app_003_item"/>
+			<Query class="type:x-xmb/folder-pixmap" key="app_004" attr="app_004" src="#app_004_item"/>
+			<Query class="type:x-xmb/folder-pixmap" key="app_005" attr="app_005" src="#app_005_item"/>
+			<Query class="type:x-xmb/folder-pixmap" key="app_006" attr="app_006" src="#app_006_item"/>	
+			<Query class="type:x-xmb/folder-pixmap" key="app_007" attr="app_007" src="#app_007_item"/>
+			<Query class="type:x-xmb/folder-pixmap" key="app_008" attr="app_008" src="#app_008_item"/>
+			<Query class="type:x-xmb/folder-pixmap" key="app_009" attr="app_009" src="#app_009_item"/>
+			<Query class="type:x-xmb/folder-pixmap" key="app_010" attr="app_010" src="#app_010_item"/>
+			<Query class="type:x-xmb/folder-pixmap" key="app_011" attr="app_011" src="#app_011_item"/>
+			<Query class="type:x-xmb/folder-pixmap" key="app_012" attr="app_012" src="#app_012_item"/>
+			<Query class="type:x-xmb/folder-pixmap" key="app_013" attr="app_013" src="#app_013_item"/>
+			<Query class="type:x-xmb/folder-pixmap" key="app_014" attr="app_014" src="#app_014_item"/>
+			<Query class="type:x-xmb/folder-pixmap" key="app_015" attr="app_015" src="#app_015_item"/>
+			<Query class="type:x-xmb/folder-pixmap" key="app_016" attr="app_016" src="#app_016_item"/>	
+			<Query class="type:x-xmb/folder-pixmap" key="app_017" attr="app_017" src="#app_017_item"/>
+			<Query class="type:x-xmb/folder-pixmap" key="app_018" attr="app_018" src="#app_018_item"/>
+			<Query class="type:x-xmb/folder-pixmap" key="app_019" attr="app_019" src="#app_019_item"/>
+			<Query class="type:x-xmb/folder-pixmap" key="app_020" attr="app_020" src="#app_020_item"/>
+			<Query class="type:x-xmb/folder-pixmap" key="app_021" attr="app_021" src="#app_021_item"/>
+			<Query class="type:x-xmb/folder-pixmap" key="app_022" attr="app_022" src="#app_022_item"/>
+			<Query class="type:x-xmb/folder-pixmap" key="app_023" attr="app_023" src="#app_023_item"/>
+			<Query class="type:x-xmb/folder-pixmap" key="app_024" attr="app_024" src="#app_024_item"/>
+			<Query class="type:x-xmb/folder-pixmap" key="app_025" attr="app_025" src="#app_025_item"/>
+			<Query class="type:x-xmb/folder-pixmap" key="app_026" attr="app_026" src="#app_026_item"/>	
+			<Query class="type:x-xmb/folder-pixmap" key="app_027" attr="app_027" src="#app_027_item"/>
+			<Query class="type:x-xmb/folder-pixmap" key="app_028" attr="app_028" src="#app_028_item"/>
+			<Query class="type:x-xmb/folder-pixmap" key="app_029" attr="app_029" src="#app_029_item"/>
+			<Query class="type:x-xmb/folder-pixmap" key="app_030" attr="app_030" src="#app_030_item"/>
+			<Query class="type:x-xmb/folder-pixmap" key="app_031" attr="app_031" src="#app_031_item"/>
+			<Query class="type:x-xmb/folder-pixmap" key="app_032" attr="app_032" src="#app_032_item"/>
+			<Query class="type:x-xmb/folder-pixmap" key="app_033" attr="app_033" src="#app_033_item"/>
+			<Query class="type:x-xmb/folder-pixmap" key="app_034" attr="app_034" src="#app_034_item"/>
+			<Query class="type:x-xmb/folder-pixmap" key="app_035" attr="app_035" src="#app_035_item"/>			<Query class="type:x-xmb/folder-pixmap" key="app_036" attr="app_036" src="#app_036_item"/>			<Query class="type:x-xmb/folder-pixmap" key="app_037" attr="app_037" src="#app_037_item"/>			<Query class="type:x-xmb/folder-pixmap" key="app_038" attr="app_038" src="#app_038_item"/>			<Query class="type:x-xmb/folder-pixmap" key="app_039" attr="app_039" src="#app_039_item"/>			<Query class="type:x-xmb/folder-pixmap" key="app_040" attr="app_040" src="#app_040_item"/>			<Query class="type:x-xmb/folder-pixmap" key="app_041" attr="app_041" src="#app_041_item"/>					<Query class="type:x-xmb/folder-pixmap" key="app_042" attr="app_042" src="#app_042_item"/>			<Query class="type:x-xmb/folder-pixmap" key="app_043" attr="app_043" src="#app_043_item"/>			<Query class="type:x-xmb/folder-pixmap" key="app_044" attr="app_044" src="#app_044_item"/>			<Query class="type:x-xmb/folder-pixmap" key="app_045" attr="app_045" src="#app_045_items"/>						
+		</Items>
+	</View>
+
+	<!-- Links -->
+	<View id="app_001_item">
+		<Attributes>
+			<Table key="download">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://github.com/PS3-4K-Pro/Packages/releases/download/Multimedia/ABC_iView_v1.01.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://github.com/PS3-4K-Pro/Packages/releases/download/Multimedia/ABC_iView_v1.01.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>EP4443-NPEB02205_00-ABC0IVIEW0000000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/download.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>
+
+	<View id="app_002_item">
+		<Attributes>
+			<Table key="download">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://github.com/PS3-4K-Pro/Packages/releases/download/Multimedia/All4_v1.06.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://github.com/PS3-4K-Pro/Packages/releases/download/Multimedia/All4_v1.06.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>EP4449-NPEB01271_00-CHANNEL404OD0100</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/download.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>
+
+	<View id="app_003_item">
+		<Attributes>
+			<Table key="download">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://github.com/PS3-4K-Pro/Packages/releases/download/Multimedia/Amazon_Instant_Video_v4.06.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://github.com/PS3-4K-Pro/Packages/releases/download/Multimedia/Amazon_Instant_Video_v4.06.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>EP4183-NPEB00344_00-LOVEFILMFULL0100</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/download.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>
+
+	<View id="app_004_item">
+		<Attributes>
+			<Table key="download">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://github.com/PS3-4K-Pro/Packages/releases/download/Multimedia/AnimeLab_v1.00.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://github.com/PS3-4K-Pro/Packages/releases/download/Multimedia/AnimeLab_v1.00.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>EP8812-NPEB02357_00-WEBMAF00ANIMELAB</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/download.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>
+
+	<View id="app_005_item">
+		<Attributes>
+			<Table key="download">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://github.com/PS3-4K-Pro/Packages/releases/download/Multimedia/Cinepolis_v1.04.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://github.com/PS3-4K-Pro/Packages/releases/download/Multimedia/Cinepolis_v1.04.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>UP2191-NPUP31348_00-CINEPOLISKLICPS3</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/download.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>
+
+
+	<View id="app_006_item">
+		<Attributes>
+			<Table key="download">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://github.com/PS3-4K-Pro/Packages/releases/download/Multimedia/ClanTV_v1.00.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://github.com/PS3-4K-Pro/Packages/releases/download/Multimedia/ClanTV_v1.00.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>EP4490-NPEB02080_00-WEBMAF0000CLANTV</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/download.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>
+
+	<View id="app_007_item">
+		<Attributes>
+			<Table key="download">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://github.com/PS3-4K-Pro/Packages/releases/download/Multimedia/Crackle_v2.01.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://github.com/PS3-4K-Pro/Packages/releases/download/Multimedia/Crackle_v2.01.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>US0007-NPUP00077_00-CRACKLEPS3TRILIT</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/download.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>
+
+	<View id="app_008_item">
+		<Attributes>
+			<Table key="download">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://github.com/PS3-4K-Pro/Packages/releases/download/Multimedia/Crunchyroll_v1.30.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://github.com/PS3-4K-Pro/Packages/releases/download/Multimedia/Crunchyroll_v1.30.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>CUP2074-NPUP10027_00-2012070500000001</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/download.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>
+
+	<View id="app_009_item">
+		<Attributes>
+			<Table key="download">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://github.com/PS3-4K-Pro/Packages/releases/download/Multimedia/Dansk_Filmskat_v1.01.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://github.com/PS3-4K-Pro/Packages/releases/download/Multimedia/Dansk_Filmskat_v1.01.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>EP8811-NPEB02344_00-000DANSKFILMSKAT</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/download.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>
+
+	<View id="app_010_item">
+		<Attributes>
+			<Table key="download">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://github.com/PS3-4K-Pro/Packages/releases/download/Multimedia/DAZN_v1.03.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://github.com/PS3-4K-Pro/Packages/releases/download/Multimedia/DAZN_v1.03.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>EP8819-NPEB02391_00-PERFORMGROUP2016</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/download.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>
+
+	<View id="app_011_item">
+		<Attributes>
+			<Table key="download">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://github.com/PS3-4K-Pro/Packages/releases/download/Multimedia/Film1_v1.00.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://github.com/PS3-4K-Pro/Packages/releases/download/Multimedia/Film1_v1.00.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>EP8820-NPEB02412_00-WEBMAF00PS4FILM1</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/download.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>
+
+	<View id="app_012_item">
+		<Attributes>
+			<Table key="download">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://github.com/PS3-4K-Pro/Packages/releases/download/Multimedia/Foxtel_Play_v1.01.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://github.com/PS3-4K-Pro/Packages/releases/download/Multimedia/Foxtel_Play_v1.01.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>EP4480-NPEB02003_00-FOXTELFULLAPP000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/download.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>
+
+	<View id="app_013_item">
+		<Attributes>
+			<Table key="download">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://github.com/PS3-4K-Pro/Packages/releases/download/Multimedia/GameOne_v1.00.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://github.com/PS3-4K-Pro/Packages/releases/download/Multimedia/GameOne_v1.00.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>EP4455-NPEB01941_00-WEBMAF000GAMEONE</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/download.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>
+
+	<View id="app_014_item">
+		<Attributes>
+			<Table key="download">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://github.com/PS3-4K-Pro/Packages/releases/download/Multimedia/HBO_Nordic_v1.11.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://github.com/PS3-4K-Pro/Packages/releases/download/Multimedia/HBO_Nordic_v1.11.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>EP8806-NPEB02292_00-WEBMAF0HBONORDIC</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/download.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>
+
+	<View id="app_015_item">
+		<Attributes>
+			<Table key="download">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://github.com/PS3-4K-Pro/Packages/releases/download/Multimedia/Hulu_v2.30.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://github.com/PS3-4K-Pro/Packages/releases/download/Multimedia/Hulu_v2.30.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>UT0008-NPUP00046_00-2010101201639300</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/download.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>
+
+	<View id="app_016_item">
+		<Attributes>
+			<Table key="download">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://github.com/PS3-4K-Pro/Packages/releases/download/Multimedia/iHeart_Radio_v1.03.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://github.com/PS3-4K-Pro/Packages/releases/download/Multimedia/iHeart_Radio_v1.03.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>UP2207-NPUP31352_00-IHEARTRADIOAPP15</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/download.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>
+
+	<View id="app_017_item">
+		<Attributes>
+			<Table key="download">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://github.com/PS3-4K-Pro/Packages/releases/download/Multimedia/iPLA_v1.00.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://github.com/PS3-4K-Pro/Packages/releases/download/Multimedia/iPLA_v1.00.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>EP4451-NPEB00703_00-PL000000FULL0100</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/download.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>
+
+	<View id="app_018_item">
+		<Attributes>
+			<Table key="download">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://github.com/PS3-4K-Pro/Packages/releases/download/Multimedia/Maxdome_v1.01.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://github.com/PS3-4K-Pro/Packages/releases/download/Multimedia/Maxdome_v1.01.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>EP4374-NPEB01192_00-MAXDOMEFULLAPP006</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/download.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>
+
+	<View id="app_019_item">
+		<Attributes>
+			<Table key="download">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://github.com/PS3-4K-Pro/Packages/releases/download/Multimedia/MEO_VideoClube_v1.01.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://github.com/PS3-4K-Pro/Packages/releases/download/Multimedia/MEO_VideoClube_v1.01.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>EP4428-NPEB01906_00-WEBMAF00000MEOGO</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/download.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>
+
+	<View id="app_020_item">
+		<Attributes>
+			<Table key="download">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://github.com/PS3-4K-Pro/Packages/releases/download/Multimedia/MinBio_v1.00.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://github.com/PS3-4K-Pro/Packages/releases/download/Multimedia/MinBio_v1.00.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>EP8811-NPEB02345_00-WEBMAF0000MINBIO</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/download.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>
+
+	<View id="app_021_item">
+		<Attributes>
+			<Table key="download">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://github.com/PS3-4K-Pro/Packages/releases/download/Multimedia/MLB_TV_v2.95.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://github.com/PS3-4K-Pro/Packages/releases/download/Multimedia/MLB_TV_v2.95.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>UP0181-NPUP31353_00-MLBTVPS3US000001</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/download.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>
+
+	<View id="app_022_item">
+		<Attributes>
+			<Table key="download">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://github.com/PS3-4K-Pro/Packages/releases/download/Multimedia/Movian_v5.0.724.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://github.com/PS3-4K-Pro/Packages/releases/download/Multimedia/Movian_v5.0.724.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>UP0001-HTSS00003_00-0000000000000000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/download.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>
+
+	<View id="app_023_item">
+		<Attributes>
+			<Table key="download">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://github.com/PS3-4K-Pro/Packages/releases/download/Multimedia/MUBI_v1.01.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://github.com/PS3-4K-Pro/Packages/releases/download/Multimedia/MUBI_v1.01.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>EP4164-NPEB02149_00-WEBMAF000000MUBI</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/download.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>
+
+	<View id="app_024_item">
+		<Attributes>
+			<Table key="download">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://github.com/PS3-4K-Pro/Packages/releases/download/Multimedia/Multiplayer_It_v1.01.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://github.com/PS3-4K-Pro/Packages/releases/download/Multimedia/Multiplayer_It_v1.01.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>EP4462-NPEB01990_00-WEBMAF00000MULTI</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/download.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>
+
+	<View id="app_025_item">
+		<Attributes>
+			<Table key="download">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://github.com/PS3-4K-Pro/Packages/releases/download/Multimedia/Netflix_v2.36.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://github.com/PS3-4K-Pro/Packages/releases/download/Multimedia/Netflix_v2.36.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>UT0007-NPUP00030_00-NETFLIXRIGEL01NA</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/download.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>
+
+
+	<View id="app_026_item">
+		<Attributes>
+			<Table key="download">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://github.com/PS3-4K-Pro/Packages/releases/download/Multimedia/DirecTV_NFL_v6.01.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://github.com/PS3-4K-Pro/Packages/releases/download/Multimedia/DirecTV_NFL_v6.01.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>UP9002-NPUO00019_00-NFLTVPS3STREAM01</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/download.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>
+
+	<View id="app_027_item">
+		<Attributes>
+			<Table key="download">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://github.com/PS3-4K-Pro/Packages/releases/download/Multimedia/NRK_TV_v1.02.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://github.com/PS3-4K-Pro/Packages/releases/download/Multimedia/NRK_TV_v1.02.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>EP4509-NPEB02137_00-WEBMAF00000NRKTV</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/download.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>
+
+	<View id="app_028_item">
+		<Attributes>
+			<Table key="download">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://github.com/PS3-4K-Pro/Packages/releases/download/Multimedia/NRK_Super_v1.02.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://github.com/PS3-4K-Pro/Packages/releases/download/Multimedia/NRK_Super_v1.02.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>EP4509-NPEB02136_00-WEBMAF00NRKSUPER</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/download.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>
+
+	<View id="app_029_item">
+		<Attributes>
+			<Table key="download">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://github.com/PS3-4K-Pro/Packages/releases/download/Multimedia/Pathe_Thuis_v1.00.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://github.com/PS3-4K-Pro/Packages/releases/download/Multimedia/Pathe_Thuis_v1.00.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>EP4466-NPEB01974_00-WEBMAF00000PATHE</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/download.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>
+
+	<View id="app_030_item">
+		<Attributes>
+			<Table key="download">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://github.com/PS3-4K-Pro/Packages/releases/download/Multimedia/Plex_v1.01.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://github.com/PS3-4K-Pro/Packages/releases/download/Multimedia/Plex_v1.01.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>EP4544-NPEB02214_00-WEBMAF000000PLEX</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/download.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>
+
+	<View id="app_031_item">
+		<Attributes>
+			<Table key="download">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://github.com/PS3-4K-Pro/Packages/releases/download/Multimedia/Rakuten_v1.02.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://github.com/PS3-4K-Pro/Packages/releases/download/Multimedia/Rakuten_v1.02.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>EP4410-NPEB01813_00-WUAKI0FULL000000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/download.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>
+
+	<View id="app_032_item">
+		<Attributes>
+			<Table key="download">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://github.com/PS3-4K-Pro/Packages/releases/download/Multimedia/RedBull_v1.00.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://github.com/PS3-4K-Pro/Packages/releases/download/Multimedia/RedBull_v1.00.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>EP8842-NPEB02455_00-GREDBULLTV000001</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/download.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>
+
+	<View id="app_033_item">
+		<Attributes>
+			<Table key="download">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://github.com/PS3-4K-Pro/Packages/releases/download/Multimedia/Rakuten_v1.02.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://github.com/PS3-4K-Pro/Packages/releases/download/Multimedia/Rakuten_v1.02.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>EP4400-NPEB01429_00-RTBF0000WEBMAF00</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/download.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>
+
+	<View id="app_034_item">
+		<Attributes>
+			<Table key="download">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://github.com/PS3-4K-Pro/Packages/releases/download/Multimedia/Spotify_v1.22.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://github.com/PS3-4K-Pro/Packages/releases/download/Multimedia/Spotify_v1.22.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>EP4950-NPEB02222_00-SPOTIFY0FULL0000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/download.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>
+
+	<View id="app_035_item">
+		<Attributes>
+			<Table key="download">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://github.com/PS3-4K-Pro/Packages/releases/download/Multimedia/Stan_v1.00.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://github.com/PS3-4K-Pro/Packages/releases/download/Multimedia/Stan_v1.00.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>EP8814-NPEB02362_00-WEBMAF000000STAN</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/download.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>
+
+	<View id="app_036_item">
+		<Attributes>
+			<Table key="download">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://github.com/PS3-4K-Pro/Packages/releases/download/Multimedia/TV2_Sumo_v1.02.pkgg</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://github.com/PS3-4K-Pro/Packages/releases/download/Multimedia/TV2_Sumo_v1.02.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>EP4458-NPEB01956_00-WEBMAF000TV2SUMO</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/download.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>
+
+
+	<View id="app_037_item">
+		<Attributes>
+			<Table key="download">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://github.com/PS3-4K-Pro/Packages/releases/download/Multimedia/TV3_v1.01.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://github.com/PS3-4K-Pro/Packages/releases/download/Multimedia/TV3_v1.01.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>EP4516-NPEB02166_00-WEBMAF0000000TV33</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/download.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>
+
+	<View id="app_038_item">
+		<Attributes>
+			<Table key="download">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://github.com/PS3-4K-Pro/Packages/releases/download/Multimedia/Twitch_v1.07.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://github.com/PS3-4K-Pro/Packages/releases/download/Multimedia/Twitch_v1.07.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>EP8816-NPEB02359_00-GTWITCHXXX000001</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/download.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>
+
+	<View id="app_039_item">
+		<Attributes>
+			<Table key="download">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://github.com/PS3-4K-Pro/Packages/releases/download/Multimedia/Vevo_v1.00.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://github.com/PS3-4K-Pro/Packages/releases/download/Multimedia/Vevo_v1.00.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>EP4547-NPEB02212_00-WEBMAF000000VEVO</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/download.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>
+
+	<View id="app_040_item">
+		<Attributes>
+			<Table key="download">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://github.com/PS3-4K-Pro/Packages/releases/download/Multimedia/ViaPlay_v1.02.pk</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://github.com/PS3-4K-Pro/Packages/releases/download/Multimedia/ViaPlay_v1.02.pk</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>EP4345-NPEB00863_00-VIAPLAYFULLAPP00</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/download.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>
+
+	<View id="app_041_item">
+		<Attributes>
+			<Table key="download">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://github.com/PS3-4K-Pro/Packages/releases/download/Multimedia/Vudu_v2.01.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://github.com/PS3-4K-Pro/Packages/releases/download/Multimedia/Vudu_v2.01.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>UT0015-NPUP00047_00-VUDU000000065977</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/download.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>
+
+	<View id="app_042_item">
+		<Attributes>
+			<Table key="download">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://github.com/PS3-4K-Pro/Packages/releases/download/Multimedia/Youtube_v3.03.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://github.com/PS3-4K-Pro/Packages/releases/download/Multimedia/Youtube_v3.03.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>EP4381-NPEB01229_00-YOUTUBE000000001</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/download.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>
+
+	<View id="app_043_item">
+		<Attributes>
+			<Table key="download">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://github.com/PS3-4K-Pro/Packages/releases/download/Multimedia/YuppTV_v1.02.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://github.com/PS3-4K-Pro/Packages/releases/download/Multimedia/YuppTV_v1.02.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>EP8810-NPEB02350_00-WEBMAF0000YUPPTV</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/download.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>
+
+	<View id="app_044_item">
+		<Attributes>
+			<Table key="download">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://github.com/PS3-4K-Pro/Packages/releases/download/Multimedia/Tubi_TV_v1.02.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://github.com/PS3-4K-Pro/Packages/releases/download/Multimedia/Tubi_TV_v1.02.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>UP8834-NPUP31377_00-TUBITVPS30000000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/download.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>
+	
+	<View id="app_045_items">
+		<Attributes>	
+			<Table key="app_045_1">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/app_icons/xvideos_straight.png</String></Pair>
+				<Pair key="title"><String>XVideos Straight</String></Pair>
+				<Pair key="info"><String>XVIDEOSHT  2.08 MB  [No-PSN]</String></Pair>
+			</Table>
+			<Table key="app_045_2">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/app_icons/xvideos_gay.png</String></Pair>
+				<Pair key="title"><String>XVideos Gay</String></Pair>
+				<Pair key="info"><String>XVIDEOSGA  1.78 MB  [No-PSN]</String></Pair>
+			</Table>
+			<Table key="app_045_3">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/app_icons/xvideos_lesbian.png</String></Pair>
+				<Pair key="title"><String>XVideos Lesbian</String></Pair>
+				<Pair key="info"><String>XVIDEOSLB  1.77 MB  [No-PSN]</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/folder-pixmap" key="app_045_1" attr="app_045_1" src="#app_045_1_item"/>
+			<Query class="type:x-xmb/folder-pixmap" key="app_045_2" attr="app_045_2" src="#app_045_2_item"/>
+			<Query class="type:x-xmb/folder-pixmap" key="app_045_3" attr="app_045_3" src="#app_045_3_item"/>
+		</Items>
+	</View>
+
+	<View id="app_045_1_item"> 	
+		<Attributes>
+			<Table key="download">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://github.com/PS3-4K-Pro/Packages/releases/download/Multimedia/XVideos_Straight_v1.00.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://github.com/PS3-4K-Pro/Packages/releases/download/Multimedia/XVideos_Straight_v1.00.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>PS3CFW-XVIDEOSHT_00-0000000000000000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/download.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>
+
+	<View id="app_045_2_item"> 	
+		<Attributes>
+			<Table key="download">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://github.com/PS3-4K-Pro/Packages/releases/download/Multimedia/XVideos_Gay_v1.00.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://github.com/PS3-4K-Pro/Packages/releases/download/Multimedia/XVideos_Gay_v1.00.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>PS3CFW-XVIDEOSGA_00-0000000000000000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/download.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>
+
+	<View id="app_045_3_item"> 	
+		<Attributes>
+			<Table key="download">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://github.com/PS3-4K-Pro/Packages/releases/download/Multimedia/XVideos_Lesbian_v1.00.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://github.com/PS3-4K-Pro/Packages/releases/download/Multimedia/XVideos_Lesbian_v1.00.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>PS3CFW-XVIDEOSLB_00-0000000000000000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/download.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>
+</XMBML>

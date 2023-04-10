@@ -1,0 +1,1537 @@
+﻿<!-- This is part of PS3™ 4K Pro by Luan Teles -  01/02/2020 - DD/MM/YY -->
+
+<XMBML version="1.0">
+	<!-- XMB Menu™ > PlayStation™Network Category > Unofficial®Stores > (Supported Stores) -->
+	<View id="seg_unofficial_stores_items">
+		<Attributes>
+			<Table key="focus_item">
+				<Pair key="focus_priority"><String>-80</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<!-- Applicativos Essenciais -->
+			<Query class="type:x-xmb/folder-pixmap" key="Applicativos Essenciais"  attr="focus_item" src="xmb://localhost/dev_hdd0/game/UNOSTORES/USRDIR/store/xmls/essential_applications.xml#seg_essential_applications"/>
+			<!-- Unofficial®Stores (75 Stores)-->
+			<Query class="type:x-xmb/folder-pixmap" key="Alex Store™" type="free" version="1.00" downloadable="yes" src="xmb://localhost/dev_hdd0/game/ALEXSTORE/USRDIR/pett_xmb.xml#pett_xmb_main"/>
+			<Query class="type:x-xmb/folder-pixmap" key="Alvn Store™" type="free" version="1.00" downloadable="yes" src="xmb://localhost/dev_hdd0/game/ALVNSTORE/USRDIR/han_toolbox_xmb.xml#han_toolbox_xmb_main"/>
+			<Query class="type:x-xmb/folder-pixmap" key="Black Store™" type="free" version="1.20" downloadable="yes" src="xmb://localhost/dev_hdd0/game/BLACK0STR/USRDIR/BLACKSTORE.XML#CENTRAL"/>
+			<Query class="type:x-xmb/folder-pixmap" key="Bud Spencer Store™" type="free" version="1.00" downloadable="yes" src="xmb://localhost/dev_hdd0/game/BUDSPENCE/USRDIR/budspencer.xml#external"/>
+			<Query class="type:x-xmb/folder-pixmap" key="Carlos Tuga Store™" type="free" version="1.00" downloadable="yes" src="xmb://localhost/dev_hdd0/game/TUGASTORE/USRDIR/carlostuga_store.xml#carlostuga_store_main"/>
+			<Query class="type:x-xmb/folder-pixmap" key="Chrooma Basic Store™" type="free" version="1.00" downloadable="no" src="xmb://localhost/dev_hdd0/game/CHROOMASH/USRDIR/chrooma_store_xmb.xml#chrooma_store_xmb_main"/>
+			<Query class="type:x-xmb/folder-pixmap" key="Dark Store™" type="free" version="1.00" downloadable="yes" src="xmb://localhost/dev_hdd0/game/DARKSTORE/USRDIR/DARKSTOREMENU_xmb.xml#DARKSTOREMENU_xmb_main"/>
+			<Query class="type:x-xmb/folder-pixmap" key="Darking Store™" type="free" version="4.10" downloadable="yes" src="xmb://localhost/dev_hdd0/game/DARKINGYT/USRDIR/darkingps3_xmb.xml#darkingps3_xmb_main"/>
+			<Query class="type:x-xmb/folder-pixmap" key="Death Store™" type="free" version="1.00" downloadable="yes" src="xmb://localhost/dev_hdd0/game/DEATHSTOR/USRDIR/death_store.xml#death_store_main"/>
+			<Query class="type:x-xmb/folder-pixmap" key="Duck Store™" type="free" version="1.70" downloadable="yes" src="xmb://localhost/dev_hdd0/game/DUCKSTORE/USRDIR/duckstores.xml#duckstores_store_xmb_main"/>
+			<Query class="type:x-xmb/folder-pixmap" key="Duke Store™" type="free" version="2.00" downloadable="yes" src="xmb://localhost/dev_hdd0/game/DUKESTORE/USRDIR/duke_store_xmb.xml#duke_store_xmb_main"/>
+			<Query class="type:x-xmb/folder-pixmap" key="Erne Store™" type="free" version="2.50" downloadable="yes" src="xmb://localhost/dev_hdd0/game/ERNESTORE/USRDIR/ernestore_store_xmb.xml#ernestore_store_xmb_main"/>
+			<Query class="type:x-xmb/folder-pixmap" key="Fury Store™" type="free" version="2.00" downloadable="yes" src="xmb://localhost/dev_hdd0/game/FURYSTORE/USRDIR/FURYSTOREMENU_xmb.xml#FURYSTOREMENU_xmb_main"/>
+			<Query class="type:x-xmb/folder-pixmap" key="Free Store™" type="free" version="1.00" downloadable="yes" src="xmb://localhost/dev_hdd0/game/HANTOOLSA/USRDIR/han_toolbox_xmb_sa.xml#han_toolbox_xmb_main"/>
+			<Query class="type:x-xmb/folder-pixmap" key="Gamers Store™" type="free" version="4.03" downloadable="yes" src="xmb://localhost/dev_hdd0/game/GAMESTORE/USRDIR/game_xmb_gs.xml#han_toolbox_xmb_main"/>
+			<Query class="type:x-xmb/folder-pixmap" key="Ghost Store™" type="free" version="3.00" downloadable="yes" src="xmb://localhost/dev_hdd0/game/GHOSTSHOP/USRDIR/ghost_store.xml#ghost_store_main"/>
+			<Query class="type:x-xmb/folder-pixmap" key="GTA The Trilogy Store™" type="premium" version="1.00" downloadable="no" src="xmb://localhost/dev_hdd0/game/GTATRILOG/USRDIR/GTA_xmb.xml#GTA_main"/>
+			<Query class="type:x-xmb/folder-pixmap" key="Guci Store™" type="free" version="unknow" downloadable="no" src="xmb://localhost/dev_hdd0/game/PSN3WGUTI/USRDIR/ps3_new.xml#ps3_new_main"/>
+			<Query class="type:x-xmb/folder-pixmap" key="HAN Stuff™" type="free" version="1.00" downloadable="yes" src="xmb://localhost/dev_hdd0/game/HANXMBA05/USRDIR/han_xmb_addon5.xml#han_xmb_addon5_main"/>
+			<Query class="type:x-xmb/folder-pixmap" key="HEN ToolBox/Box Store™" type="premium" downloadable="yes" version="1.0" src="xmb://localhost/dev_hdd0/game/HENTOOLBX/USRDIR/hen_toolbox_xmb.xml#hen_toolbox_xmb_main"/>
+			<Query class="type:x-xmb/folder-pixmap" key="HEN ToolShop™" type="free" version="2.20" downloadable="yes" src="xmb://localhost/dev_hdd0/game/HENTOSHOP/USRDIR/xml/HEN_ToolShop.xml#hen_tool_shop_main"/>
+			<Query class="type:x-xmb/folder-pixmap" key="InfoTec Store Box™ VIP" type="premium" version="1.00" downloadable="no" src="xmb://localhost/dev_hdd0/game/INFOSTORE/USRDIR/INFOTECSTORE_xmb.xml#INFOTECSTORE_xmb_main"/>
+			<Query class="type:x-xmb/folder-pixmap" key="InfoTec Store™ Old" type="free" version="1.00" downloadable="no" src="xmb://localhost/dev_hdd0/game/INFOTEC69/USRDIR/INFOTEC.xml#INFOTECSTUDIOS_xmb_main"/>
+			<Query class="type:x-xmb/folder-pixmap" key="InfoTec Store™" type="free" version="3.00" downloadable="yes" src="xmb://localhost/dev_hdd0/game/INFOTECST/USRDIR/infotec_main.xml#INFOTECSTORE_xmb_main"/>
+			<Query class="type:x-xmb/folder-pixmap" key="ISO Store™" type="premium" version="1.00" downloadable="no" src="xmb://localhost/dev_hdd0/game/ISOEDITIO/USRDIR/ISOEDITION_xmb.xml#ISOEDITIO_xmb_main" />
+			<Query class="type:x-xmb/folder-pixmap" key="JRK Games Blog™" type="free" version="1.00" src="xcb://localhost/query?sort=+Game:Common.titleForSort&cond=Oe+Game:Game.titleId JRKGABLOG"/>
+			<Query class="type:x-xmb/folder-pixmap" key="JXL Store™" type="free" version="4.00" downloadable="yes" src="xmb://localhost/dev_hdd0/game/JTSMODDER/USRDIR/jts_store_xmb.xml#jts_store_main"/>
+			<Query class="type:x-xmb/folder-pixmap" key="Jars Games Store™" type="free" version="2.40" downloadable="yes" src="xmb://localhost/dev_hdd0/game/JARSGAMES/USRDIR/han_toolbox_xmb.xml#han_toolbox_xmb_main"/>
+			<Query class="type:x-xmb/folder-pixmap" key="Jmds Store™" type="free" version="unknow" downloadable="no" src="xmb://localhost/dev_hdd0/game/JMDSSTORE/USRDIR/jmds_store_xmb.xml#jmds_store_xmb_main"/>
+			<Query class="type:x-xmb/folder-pixmap" key="Jyms Store™" type="free" version="3.10" downloadable="yes" src="xmb://localhost/dev_hdd0/game/JYMSSTORE/USRDIR/jyms_store_xmb.xml#jyms_store_xmb_main"/>	
+			<Query class="type:x-xmb/folder-pixmap" key="Kat Store™" type="free" version="0.90" downloadable="yes" src="xmb://localhost/dev_hdd0/game/KATSTORES/USRDIR/han_toolbox_xmb.xml#han_toolbox_xmb_main"/>
+			<Query class="type:x-xmb/folder-pixmap" key="Kiko Retro Store™" type="free" version="1.00" downloadable="yes" src="xmb://localhost/dev_hdd0/game/KIKOSTORE/USRDIR/KIKOSTORE_xmb.xml#KIKOSTORE_xmb_main"/>
+			<Query class="type:x-xmb/folder-pixmap" key="Koopa Store™" type="free" version="1.21" downloadable="yes" src="xmb://localhost/dev_hdd0/game/KOPASTORE/USRDIR/koopashop_store_xmb.xml#koopashop_store_xmb_main"/>
+			<Query class="type:x-xmb/folder-pixmap" key="LR Store™ Free" type="free" version="1.00" downloadable="yes" src="xmb://localhost/dev_hdd0/game/LOJALRFRE/USRDIR/LOJALRFRE_xmb.xml#LOJALRFRE_xmb_main"/>
+			<Query class="type:x-xmb/folder-pixmap" key="LR Store™ VIP" type="premium" version="2.60" downloadable="yes" src="xmb://localhost/dev_hdd0/game/LRVIPSTOR/USRDIR/LRVIPSTORE_xmb.xml#LRVIPSTORE_xmb_main"/>
+			<Query class="type:x-xmb/folder-pixmap" key="Mac Store™" type="free" version="1.00" downloadable="no" src="xmb://localhost/dev_hdd0/game/MACBSTORE/USRDIR/CENTRALMCB.xml#CENTRALMCB"/>
+			<Query class="type:x-xmb/folder-pixmap" key="Matheus Store™" type="free" version="unknow" downloadable="no" src="xmb://localhost/dev_hdd0/game/MATHEUSTORE/USRDIR/MATHEUSTORE_xmb.xml#MATHEUSTORE_xmb_main" />
+			<Query class="type:x-xmb/folder-pixmap"	key="Max Play Games Store™" type="free" version="2.00" downloadable="yes" src="xmb://localhost/dev_hdd0/game/MAXPGAMES/USRDIR/MAXPGAMES_xmb.xml#MAXPGAMES_xmb_main"/>
+			<Query class="type:x-xmb/folder-pixmap"	key="Max Games Store™" type="free" version="unknow" downloadable="no" src="xmb://localhost/dev_hdd0/game/MAXGAMESV/USRDIR/MAXGAMESV_xmb.xml#MAXGAMESV_xmb_main"/>
+			<Query class="type:x-xmb/folder-pixmap"	key="Maxi Store™" type="free" version="3.50" downloadable="yes" src="xmb://localhost/dev_hdd0/game/MAXISTORE/USRDIR/maxistore_store_xmb.xml#maxistore_store_xmb_main"/>
+			<Query class="type:x-xmb/folder-pixmap" key="Maxx Store™" type="free" version="unknow" downloadable="no" src="xmb://localhost/dev_hdd0/game/MAXXSTORE/USRDIR/maxx_store_xmb.xml#maxx_store_xmb_main"/>				
+			<Query class="type:x-xmb/folder-pixmap" key="Modz Store™" type="free" version="1.60" downloadable="yes" src="xmb://localhost/dev_hdd0/game/MODZSTORE/USRDIR/modzstore.xml#modzstore_main"/>			
+			<Query class="type:x-xmb/folder-pixmap" key="Monterxto Store™" type="free" version="1.30" downloadable="no" src="xmb://localhost/dev_hdd0/game/MONTERXTO/USRDIR/han_toolbox_xmb.xml#han_toolbox_xmb_main"/>
+			<Query class="type:x-xmb/folder-pixmap" key="Ninja Store™" type="free" version="3.01" downloadable="yes" src="xmb://localhost/dev_hdd0/game/NINJASTOR/USRDIR/Menuninjagames_xmb.xml#Menuninjagames_xmb_main"/>
+			<Query class="type:x-xmb/folder-pixmap" key="Oasis Store™" type="free" version="unknow" downloadable="no" src="xmb://localhost/dev_hdd0/game/JUGONXSPS/USRDIR/JUGONXS.xml#OASISSTORE"/>
+			<Query class="type:x-xmb/folder-pixmap" key="PKGi_Store Store™" type="free" version="1.22" downloadable="yes" src="xcb://localhost/query?sort=+Game:Common.titleForSort&cond=Oe+Game:Game.titleId PKGI0ZMOD+Oe+Game:Game.titleId NP00PKGI3+An+Game:Game.category 2D+An+Game:Game.category BV+An+Game:Game.category GD+An+Game:Game.category HM+An+Game:Game.category SD+An+Game:Game.category VF+An+Game:Game.category WT"/>
+			<Query class="type:x-xmb/folder-pixmap" key="PS3HEN Games Store™" type="free" vesion="2.10" downloadable="yes" src="xmb://localhost/dev_hdd0/game/PS3HGAMES/USRDIR/PS3HEN.xml#ps3_hen_games"/>
+			<Query class="type:x-xmb/folder-pixmap" key="PSArchive Store™" type="free" vesion="1.00" downloadable="yes" src="xcb://localhost/query?sort=+Game:Common.titleForSort&cond=Oe+Game:Game.titleId PSARCHIVE"/>
+			<Query class="type:x-xmb/folder-pixmap" key="PSN Games Mais™" type="free" vesion="1.00" downloadable="no" src="xmb://localhost/dev_hdd0/game/PSNGAMESM/USRDIR/han_toolbox_xmb.xml#han_toolbox_xmb_main"/>
+			<Query class="type:x-xmb/folder-pixmap" key="Retro Store™" type="free" version="1.00" downloadable="yes" src="xmb://localhost/dev_hdd0/game/RETROSTOR/USRDIR/RETROSTOR_xmb.xml#RETROSTOR_xmb_main" />
+			<Query class="type:x-xmb/folder-pixmap" key="SG4Y STools™" type="free" version="1.00" downloadable="yes" src="xmb://localhost/dev_hdd0/game/SG4YTOOLS/USRDIR/pett_xmb.xml#pett_xmb_main"/>
+			<Query class="type:x-xmb/folder-pixmap" key="SallayinStore Store™" type="free" version="1.00" downloadable="yes" src="xmb://localhost/dev_hdd0/game/SALLAYINS/USRDIR/han_toolbox_xmb_sa.xml#han_toolbox_xmb_mainMMM"/>
+			<Query class="type:x-xmb/folder-pixmap" key="Sandro Store™ Free" type="free" version="2.00" downloadable="yes" src="xmb://localhost/dev_hdd0/game/SANDROGAM/USRDIR/SANDROGAM_xmb.xml#SANDROGAM_xmb_main"/>
+			<Query class="type:x-xmb/folder-pixmap" key="Sandro Store™ VIP" type="premium" version="3.00" downloadable="yes" src="xmb://localhost/dev_hdd0/game/SANDROSTO/USRDIR/SANDROSTO_xmb.xml#SANDROSTO_xmb_main"/>
+			<Query class="type:x-xmb/folder-pixmap" key="Shadow Store™" type="free" version="1.00" downloadable="yes" src="xmb://localhost/dev_hdd0/game/SHADOWSTR/USRDIR/CENTRAL.XML#CENTRAL"/>
+			<Query class="type:x-xmb/folder-pixmap" key="Soccer Store™" type="free" version="1.20" downloadable="yes" src="xmb://localhost/dev_hdd0/game/SOCCERPS3/USRDIR/SOCCERSTORE_xmb.xml#SOCCERSTORE_xmb_main"/>
+			<Query class="type:x-xmb/folder-pixmap" key="Sr Guti Store™" type="free" version="1.00" downloadable="yes" src="xmb://localhost/dev_hdd0/game/TSRGSTORE/USRDIR/srg.xml#srg_store"/>
+			<Query class="type:x-xmb/folder-pixmap" key="Telo Store™" type="free" version="unknow" downloadable="no" src="xmb://localhost/dev_hdd0/game/TELOSTORE/USRDIR/start_store.xml#XMB_main"/>
+			<Query class="type:x-xmb/folder-pixmap" key="TCXS Project™" type="free" version="1.00" downloadable="yes" src="xmb://localhost/dev_hdd0/game/HENBSTORE/USRDIR/henbrew_store_xmb.xml#henbrew_store_xmb_main"/>
+			<Query class="type:x-xmb/folder-pixmap" key="TKBol Soccer Store™" type="premium" version="1.00" downloadable="no" src="xmb://localhost/dev_hdd0/game/JMDSSTORE/USRDIR/XMLS/jmds_1_Ltens.xml#jmds_1_Ltens_main"/>
+			<Query class="type:x-xmb/folder-pixmap" key="TKDor Modder Blog™" type="free" version="1.00" downloadable="yes" src="xcb://localhost/query?sort=+Game:Common.titleForSort&cond=Oe+Game:Game.titleId TKDORBLOG"/>
+			<Query class="type:x-xmb/folder-pixmap" key="Thanos Store™" type="free" vesion="1.30" downloadable="yes" src="xmb://localhost/dev_hdd0/game/ZMODOOLBX/USRDIR/zmod_xmb_gs.xml#han_toolbox_xmb_main"/>
+			<Query class="type:x-xmb/folder-pixmap" key="The Latin Shop Store™" type="free" version="2.30" downloadable="yes" src="xmb://localhost/dev_hdd0/game/TLSPKGPS3/USRDIR/CENTRAL.XML#CENTRAL"/>
+			<Query class="type:x-xmb/folder-pixmap" key="Tojjo Games Blog™" type="free" version="1.00" downloadable="yes" src="xcb://localhost/query?sort=+Game:Common.titleForSort&cond=Oe+Game:Game.titleId TOJJOBLOG"/>
+			<Query class="type:x-xmb/folder-pixmap" key="UniPlay Games Store™ Free" type="free" version="2.70" downloadable="yes" src="xmb://localhost/dev_hdd0/game/UNIPLAYME/USRDIR/uniplaygames_xmb.xml#uniplaygames_xmb_main"/>
+			<Query class="type:x-xmb/folder-pixmap" key="UniPlay Games Store™ VIP" type="premium" version="2.70" downloadable="yes" src="xmb://localhost/dev_hdd0/game/UNIPLAYGA/USRDIR/uniplaygames_xmb.xml#uniplaygames_xmb_main"/>
+			<Query class="type:x-xmb/folder-pixmap" key="Video Store™" type="free" version="2.20" downloadable="yes" src="xmb://localhost/dev_hdd0/game/VIDESTORE/USRDIR/VIDEOGAMESSCZ_xmb.xml#VIDEOGAMESSCZ_xmb_main"/>
+			<Query class="type:x-xmb/folder-pixmap" key="Web Store™" type="free" version="5.30" downloadable="no" src="xmb://localhost/dev_hdd0/game/WEBSTOREG/USRDIR/webst.xml#main"/>
+			<Query class="type:x-xmb/folder-pixmap" key="Web Store™ Comunity Edition" type="free" version="3.10" downloadable="yes" src="xmb://localhost/dev_hdd0/game/WEBSTOREC/USRDIR/webstCOM.xml#main" />
+			<Query class="type:x-xmb/folder-pixmap" key="Wiki Store™" type="free" verion="1.08" downloadable="yes" src="xmb://localhost/dev_hdd0/game/WIKISTORE/USRDIR/thewizwiki_store_xmb.xml#thewizwiki_store_xmb_main"/>
+			<Query class="type:x-xmb/folder-pixmap" key="Wiki Store™ PSN Edition" type="free" version="1.04" downloadable="yes" src="xmb://localhost/dev_hdd0/game/WIKISTPSN/USRDIR/thewizwiki_store_xmb.xml#thewizwiki_store_xmb_main"/>
+			<Query class="type:x-xmb/folder-pixmap" key="You Game Store™" type="free" version="1.20" downloadable="yes" src="xmb://localhost/dev_hdd0/game/YOUGSTORE/USRDIR/YOUGAMESTORE_xmb.xml#YOUGAMESTORE_xmb_main"/>
+			<Query class="type:x-xmb/folder-pixmap" key="Yukio Store™" type="free" version="3.00" downloadable="yes" src="xmb://localhost/dev_hdd0/game/YGYOSTORE/USRDIR/YGYOSTORE_xmb.xml#YGYOSTORE_xmb_main"/>
+			<Query class="type:x-xmb/folder-pixmap" key="ZeBr Store™" type="free" version="2.21" downloadable="yes" src="xmb://localhost/dev_hdd0/game/ZEBRSTORE/USRDIR/zebr_store_xmb.xml#zebr_store_xmb_main"/>
+			<Query class="type:x-xmb/folder-pixmap" key="Zuko Store™" type="free" version="4.30" downloadable="yes" src="xmb://localhost/dev_hdd0/game/ZUKOSTORE/USRDIR/the_zukostore.xml#the_zukostore"/>
+			<!-- Official PlayStation®Store -->
+			<Query class="type:x-xmb/folder-pixmap" key="PlayStation®Store" src="#seg_playstation_store"/>
+			<!-- Download Stores -->
+			<Query class="type:x-xmb/folder-pixmap" key="Downloads" src="#seg_unofficial_store_download"/>
+			<!-- Settings -->
+			<Query class="type:x-xmb/folder-pixmap" key="Settings" src="#seg_unofficial_store_settings"/>
+		</Items>
+	</View> 
+	
+	<!-- PlayStation™Network Category > Unofficial®Stores > Settings -->
+	<View id="seg_unofficial_store_settings">
+		<Attributes>
+			<Table key="unofficial_store_settings">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/settings.png</String></Pair>
+				<Pair key="title"><String>Configurações </String></Pair>
+				<Pair key="info"><String>Links rápidos para as configurações das lojas não oficiais.</String></Pair>
+				<Pair key="child"><String>segment</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/folder-pixmap" key="unofficial_store_settings" attr="unofficial_store_settings" src="#seg_unofficial_store_settings_menu"/>
+		</Items>
+	</View>
+	
+	<!-- PlayStation™Network Category > Unofficial®Stores > Settings > -->
+	<View id="seg_unofficial_store_settings_menu">
+		<Attributes>
+			<Table key="focus_item">
+				<Pair key="focus_priority"><String>-80</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/folder-pixmap" key="seg_upper" src="#seg_unofficial_store_settings_upper_item"/>
+			<Query class="type:x-xmb/folder-pixmap" key="seg_lower" attr="focus_item" src="#seg_unofficial_store_settings_lower_items"/>
+		</Items>
+	</View>
+	
+	<!-- PlayStation™Network Category > Unofficial®Stores > Settings > Update -->
+	<View id="seg_unofficial_store_settings_upper_item">
+		<Attributes>
+			<!-- Update Supported Stores -->
+			<Table key="update_store" include="shared_actions">
+				<Pair key="icon"><String>http://github.com/PS3-4K-Pro/Stores/raw/main/files/unofficial_store/icon/v1.2.png</String></Pair>
+				<Pair key="title"><String>Atualizar</String></Pair>
+				<Pair key="info"><String>Baixa e instala a versão mais recente disponivel.
+				Quando uma nova atualização estiver disponível, um ponto laranja aparecerá.</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/folder-pixmap" key="update_store" attr="update_store" src="#update_store_item"/>
+		</Items>
+	</View>
+
+	<View id="update_store_item"> 	
+		<Attributes>
+			<Table key="download">
+			<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://github.com/PS3-4K-Pro/Stores/releases/download/Stores/Unofficial_Stores_-_Update.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://github.com/PS3-4K-Pro/Stores/releases/download/Stores/Unofficial_Stores_-_Update.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>CUSTOM-UNOSTORES_00-0000000000000000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/download.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/>
+		</Items>
+	</View>
+	<!-- Note: The Update Item is Separate From The Other Items, due to the Update Item being Hosted Online, Otherwise,
+	When There isn't Internet Connection, The Update Item Will Not Load and Will Break The Items Below it. Separating the Items Below It Avoids This Error. -->
+	
+	
+	<!-- PlayStation™Network Category > Unofficial®Stores > -->
+	<View id="seg_unofficial_store_settings_lower_items">
+		<Attributes>
+			<Table key="shared_actions">
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+			</Table>
+			<!-- About -->
+			<Table key="about" include="shared_actions">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/about.png</String></Pair>
+				<Pair key="title"><String>Informações</String></Pair>
+				<Pair key="info"><String>Mostra as lojas não oficiais suportadas.</String></Pair>
+				<Pair key="module_action"><String>javascript:window.resizeTo(screen.width,screen.height);window.moveTo(0,0);eval('var changelogs,$lastButton=null;function trimFn(t){return t.replace(/^\\s+|\\s+$/g,"")}function $(t){return"#"===t[0]?document.getElementById(t):document.querySelectorAll(t)}function toArray(t){return Array.prototype.slice.call(t)}function render(t,e){var n=toArray($(\47script[type="cl"]\47));$lastButton&&$lastButton.setAttribute("class",""),$(".content")[0].innerHTML="\74h1\76"+n[t].getAttribute("id")+"\74/h1\76"+changelogs[t].replace(/\\\74p\\\76\\\74\\/p\\\76/g,"").replace(/\\[(.+?)]\\((http[s]?:\\/\\/.+?)\\)/g,\47\74a href="$2" target="_blank"\76$1\74/a\76\47),e.setAttribute("class","-active"),$lastButton=e}function renderMenu(){var t=$(".side-menu")[0],e=toArray($(\47script[type="cl"]\47));t.innerHTML="\74li title\76Unofficial®Stores\74/li\76"+e.map(function(t,e){return"\74li tabindex=\470\47 onclick=\47render("+e+",this)\47\76\74button\76"+t.getAttribute("id")+"\74/button\76\74/li\76"}).join("")}function main(){var t=toArray($(\47script[type="cl"]\47));changelogs=t.map(function(t){var e=t.innerHTML.split("\\n"),n=!1,r=e.reduce(function(t,e){var r=trimFn(e),u=r[0];if(""===r)return t+=n?"\74/ul\76":"",n=!1,t;switch(!0){case"#"===u:t+=n?"\74/ul\76":"",t+="\74h2\76"+r.substr(1)+"\74/h2\76",n=!1;break;case"-"===u:t+=n?"":"\74ul\76",t+="\74li\76"+r.substr(1)+"\74/li\76",n=!0;break;case"@"===u:t+=n?"\74/ul\76":"",t+="\74blockquote\76"+r.substr(1)+"\74/blockquote\76",n=!1;break;default:t+=n?"\74/ul\76":"",t+="\74p\76"+r+"\74/p\76",n=!1}return t},"");return r+=n?"\74/ul\76":""}),renderMenu(),render(0,$(".side-menu li")[1])}document.write(\47\74html\76\74head\76\74style\76body,html{height:100%;margin:0;overflow:hidden;padding:0;width:100%}*{-webkit-box-sizing:border-box}aside{background-color:#280000;border-right:3px solid #160000;display:block;height:100%;padding-top:8px;position:fixed;width:170px}section{background-color:#2e0000;height:100%;left:170px;margin:0;padding:32px;position:absolute;width:1654px}.side-menu{background-color:#2e0000;border-right:3px solid #370000;display:block;height:100%;list-style-type:none;margin:0;overflow:hidden;padding:0;position:fixed;top:0;width:200px;left:170px}.side-menu li{cursor:pointer;font-size:14px;font-weight:light;padding:10px 14px;padding-left:50px;position:relative;text-align:left}.side-menu li[title]{border-bottom:3px solid #370000;color:#fff;font-weight:700;margin-bottom:16px;margin-top:16px;user-select:none}.side-menu li:hover{background-color:#370000}.side-menu li button{background-color:transparent;border:0;color:#fff;text-align:left;width:100%}.side-menu li.-active{background-color:#eb0000;font-size:20px;font-weight:700;left:-32px;margin-right:-32px}.side-menu li.-active button{color:#270000}.-scrollbar::-webkit-scrollbar{width:8px}.-scrollbar::-webkit-scrollbar-track{-webkit-box-shadow:inset 0 0 6px #160000}.-scrollbar::-webkit-scrollbar-thumb{-webkit-border-radius:4px;background-color:rgba(0,0,0,.6)}.content{background-color:#4e0000;color:#fff;height:100%;left:370px;overflow:hidden;overflow-y:auto;padding:32px;padding-top:32px;position:absolute;top:0;width:846px}.content h1,.content h2{-webkit-border-radius:5px;border-bottom:3px solid #160000;font-weight:700;margin:0;padding:8px 16px;text-shadow:2px 2px #000}.content h1{background-color:#180000;font-size:44px;margin-bottom:32px}.content h2{background-color:#200000;border-bottom:3px solid #160000;font-size:24px}.content\76ul{padding-bottom:16px}.content li{font-size:18px;margin-bottom:4px}.content\76blockquote{font-weight:700}blockquote{font-size:20px;background-color:#160000;border-bottom:3px solid #160000;border-left:4px solid #0f0;margin:8px 10px;padding:8px 16px;margin-left:48px;margin-bottom:32px;-webkit-border-radius:10px}a{color:#000;font-weight:700;text-decoration:none}a::after{content:"link";font-size:12px;position:relative;margin-left:4px;top:-6px;text-decoration:underline}@media only screen and (min-width:1824px){.side-menu{width:360px}.side-menu li{font-size:24px;padding:16px 14px;padding-left:80px}.side-menu li.-active{font-size:32px}.content{left:530px;width:1294px}.content h1,.content h2{padding:16px}blockquote{padding:16px}}\74/style\76\74/head\76\74body\76 \74aside\76\74img src="data:image/png;base64,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" /\76\74/aside\76 \74section\76\74ul class="side-menu"\76\74/ul\76\74/section\76\74div class="content -scrollbar" tabindex="0"\76\74/div\76\47+["\74script type=\\"cl\\" id=\\"About\\"\76","#Unofficial®Stores","Download the new and exclusive games, playable demos, add-ons packs via Unofficial®Stores.","#Supported Unofficial®Stores:","-Alex Store™.","-Alvn Store™.","-Black Store™.","-Box Store™.","-Bud Spencer Store™.","-Carlos Tuga Store™.","-Dark Store™.","-Darking Store™.","-Death Store™.","-Duck Store™.","-Duke Store™.","-Erne Store™.","-Free Store™.","-Fury Store™.","-Gamers Store™.","-GTA The Trilogy Store™.","-Guti Store™.","-Han Stuff Store™.","-Han/Hen Toolbox Mod™.","-Hen Tool Shop™.","-InfoTec Store™.","-InfoTec StoreBox™.","-ISO Store™.","-Jars Games Store™.","-Jmds Store™.","-JRK Games™.","-Jym Store™.","-Jxl Store™.","-Kat Store™.","-Kiko Retro Store™","-Koopa Store™.","-LR Store™.","-Mac Store™.","-Matheus Store™.","-Maxx Store™.","-Max Play Games Store™.","-Monster Store™.","-Monterxto Store™.","-Ninja Store™.","-Oasis Store™.","-PS3 HEN Games Store™.","-PSArchive Store™.","-PSN Games Mais Store™.","Retro Store™.","-SallayinStore Store™.","-Sandro Store.™","-Shadow Store™.","-Soccer Store™.","-Sr. G Store™.","-TCXS Project Store™.","-Thanos Store™.","-The Latin Shop™.","-TKBol Soccer Store™.","-TKDor Games™.","-Tojjo Games™.","-UniPlay Games Store™.","-Video Store™.","-Web Store™.","-Wiki Store™.","-You Game Store™.","-Yukio Store™.","-Zuko Store™.","#Unsupported Stores:","-Hen Root.","@Requires the \\"Restore Games Column\\" option.\74/script\76","\74script type=\\"cl\\" id=\\"Changelogs\\"\76","#v1.2","Support for:","-Alvn Store™.","-Black Store™.","-Box Store™","-Dark Store™.","-Darking Store™.","-Duck Store™.","-Duke Store™.","-Free Store™.","-Fury Store™.","-GTA The Triology Store™."," -Guti Store™.","-InfoTec Store™.","-InfoTec StoreBox™.","-ISO Store™.","-Jmds Store™.","-JRK Games™.","-Jym Store™.","-Jxl Store™.","-Kiko Retro Store™.","-LR Store™.","-Mac Store™.","-Matheus Store™.","-Maxx Store™","-Max Play Games Store™","-Monster Store™.","-Ninja Store™.","-Oasis Store™.","-PS3 HEN Games Store™.","-PSArchive Store™.","-Retro Store™.","-TKBol Soccer Store™.","-TKDor Games™.","-Tojjo Games™.","-Soccer Store™.","-Sr. G Store™.","-Web Store™.","-You Game Store™.","-Yukio Store™.","#v1.1","Support for:","-Carlos Tuga Store™.","-Erne Store™.","-Han/Hen Toolbox Mod™.","-Koopa Store™.","-Maxi Store™.","-PSN Games Mais Store™.","-Sandro Store™.","-Shadow Store™.","-UniPlay Games Store™.","-Video Store™.","-Zuko Store™.","#v1.0","Support for:","-Alex Store™.","-Bud Spencer Store™.","-Death Store™.","-Free Store™.","-Gamers Store™.","-Han Stuff Store™.","-Hen Tool Shop™.","-Hen Root™.","-Jars Games Store™.","-Kat Store™.","-Monterxto Store™.","-SallayinStore Store™.","-TCXS Project Store™.","-Thanos Store™.","-The Latin Shop™.","-Wiki Store™.","-ZeBr Store™.","\74/script\76",""].join("\\n")+\47\74/body\76\74/html\76\47),main();')</String></Pair>
+			</Table>
+			<!-- Installed Version -->
+			<Table key="installed_version" include="shared_actions">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/display_current_version.png</String></Pair>
+				<Pair key="title"><String>Versão Instalada</String></Pair>
+				<Pair key="info"><String>Mostra a versão atualmente instalada.</String></Pair>
+				<Pair key="module_action"><String>javascript:window.resizeTo(screen.width,screen.height);window.location.assign("http://github.com/PS3-4K-Pro/Stores/raw/main/files/unofficial_store/specific/v1.2.png");</String></Pair>
+			</Table>
+			<!-- Uninstall Stores -->
+			<Table key="uninstall_stores">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/trash.png</String></Pair>
+				<Pair key="title"><String>Desinstalar Unofficial®Stores</String></Pair>
+				<Pair key="info"><String>Execute o desintalador para remover a loja universal.</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Item class="type:x-xmb/module-action" key="installed_version" attr="installed_version"/>
+			<Query class="type:x-xmb/folder-pixmap" key="uninstall_stores" attr="uninstall_stores" src="xcb://localhost/query?sort=+Game:Common.titleForSort&cond=Oe+Game:Game.titleId UNOSTORES+Ae+Game:Game.category HM"/>
+			<Item class="type:x-xmb/module-action" key="about" attr="about"/>
+		</Items>
+	</View>
+	
+	<!-- PlayStation™Network Category > Unofficial®Stores > Download Unofficial®Stores -->
+	<View id="seg_unofficial_store_download">
+		<Attributes>
+			<Table key="unofficial_store_download">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/shopping.png</String></Pair>
+				<Pair key="title"><String>Download de lojas</String></Pair>
+				<Pair key="info"><String>Lista de lojas disponíveis para instalação.</String></Pair>
+				<Pair key="str_noitem"><String>msg_error_no_title</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/folder-pixmap" key="unofficial_store_download" attr="unofficial_store_download" src="#seg_unofficial_store_download_items"/>
+		</Items>
+	</View>
+
+	<View id="seg_unofficial_store_download_items">
+		<Attributes>
+			<Table key="Alex_Store">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/package_download.png</String></Pair>
+				<Pair key="title"><String>Alex Store™</String></Pair>
+				<Pair key="info"><String>Baixa e instala uma versão melhorada dessa loja.</String></Pair>
+			</Table>
+			<Table key="Alvn_Store">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/package_download.png</String></Pair>
+				<Pair key="title"><String>Alvn Store™</String></Pair>
+				<Pair key="info"><String>Baixa e instala uma versão melhorada dessa loja.</String></Pair>
+			</Table>
+			<Table key="Black_Store">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/package_download.png</String></Pair>
+				<Pair key="title"><String>Black Store™</String></Pair>
+				<Pair key="info"><String>Baixa e instala uma versão melhorada dessa loja.</String></Pair>
+			</Table>
+			<Table key="Bud_Spencer_Store">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/package_download.png</String></Pair>
+				<Pair key="title"><String>Bud Spencer Store™</String></Pair>
+				<Pair key="info"><String>Baixa e instala uma versão melhorada dessa loja.</String></Pair>
+			</Table>
+			<Table key="Carlos_Tuga_Store">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/package_download.png</String></Pair>
+				<Pair key="title"><String>Carlos Tuga Store™</String></Pair>
+				<Pair key="info"><String>Baixa e instala uma versão melhorada dessa loja.</String></Pair>
+			</Table>
+			<Table key="Dark_Store">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/package_download.png</String></Pair>
+				<Pair key="title"><String>Dark Store™</String></Pair>
+				<Pair key="info"><String>Baixa e instala uma versão melhorada dessa loja.</String></Pair>
+			</Table>
+			<Table key="Darking_Store">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/package_download.png</String></Pair>
+				<Pair key="title"><String>Darking Store™</String></Pair>
+				<Pair key="info"><String>Baixa e instala uma versão melhorada dessa loja.</String></Pair>
+			</Table>
+			<Table key="Death_Store">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/package_download.png</String></Pair>
+				<Pair key="title"><String>Death Store™</String></Pair>
+				<Pair key="info"><String>Baixa e instala uma versão melhorada dessa loja.</String></Pair>
+			</Table>
+			<Table key="Duck_Store">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/package_download.png</String></Pair>
+				<Pair key="title"><String>Duck Store™</String></Pair>
+				<Pair key="info"><String>Baixa e instala uma versão melhorada dessa loja.</String></Pair>
+			</Table>
+			<Table key="Duke_Store">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/package_download.png</String></Pair>
+				<Pair key="title"><String>Duke Store™</String></Pair>
+				<Pair key="info"><String>Baixa e instala uma versão melhorada dessa loja.</String></Pair>
+			</Table>
+			<Table key="Erne_Store">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/package_download.png</String></Pair>
+				<Pair key="title"><String>Erne Store™</String></Pair>
+				<Pair key="info"><String>Baixa e instala uma versão melhorada dessa loja.</String></Pair>
+			</Table>
+			<Table key="Flix_Store">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/package_download.png</String></Pair>
+				<Pair key="title"><String>Flix Store™</String></Pair>
+				<Pair key="info"><String>Baixa e instala uma versão melhorada dessa loja.</String></Pair>
+			</Table>
+			<Table key="Fury_Store">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/package_download.png</String></Pair>
+				<Pair key="title"><String>Fury Store™</String></Pair>
+				<Pair key="info"><String>Baixa e instala uma versão melhorada dessa loja.</String></Pair>
+			</Table>
+			<Table key="Free_Store">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/package_download.png</String></Pair>
+				<Pair key="title"><String>Free Store™</String></Pair>
+				<Pair key="info"><String>Baixa e instala uma versão melhorada dessa loja.</String></Pair>
+			</Table>
+			<Table key="Gamers_Store">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/package_download.png</String></Pair>
+				<Pair key="title"><String>Gamers Store™</String></Pair>
+				<Pair key="info"><String>Baixa e instala uma versão melhorada dessa loja.</String></Pair>
+			</Table>
+			<Table key="Ghost_Store">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/package_download.png</String></Pair>
+				<Pair key="title"><String>Ghost Store™</String></Pair>
+				<Pair key="info"><String>Baixa e instala uma versão melhorada dessa loja.</String></Pair>
+			</Table>
+			<Table key="Han_Stuff_Store">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/package_download.png</String></Pair>
+				<Pair key="title"><String>Han Stuff™</String></Pair>
+				<Pair key="info"><String>Baixa e instala uma versão melhorada dessa loja.</String></Pair>
+			</Table>
+			<Table key="Hen_Toolbox_Mod_Store">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/package_download.png</String></Pair>
+				<Pair key="title"><String>Han/Hen Toolbox Mod Store™</String></Pair>
+				<Pair key="info"><String>Baixa e instala uma versão melhorada dessa loja.</String></Pair>
+			</Table>
+			<Table key="Hen_Tool_Shop_Store">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/package_download.png</String></Pair>
+				<Pair key="title"><String>Hen Tool Shop™</String></Pair>
+				<Pair key="info"><String>Baixa e instala uma versão melhorada dessa loja.</String></Pair>
+			</Table>
+			<Table key="InfoTec_Store">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/package_download.png</String></Pair>
+				<Pair key="title"><String>InfoTec Store™</String></Pair>
+				<Pair key="info"><String>Baixa e instala uma versão melhorada dessa loja.</String></Pair>
+			</Table>
+			<Table key="Jars_Games_Store">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/package_download.png</String></Pair>
+				<Pair key="title"><String>Jars Games Store™</String></Pair>
+				<Pair key="info"><String>Baixa e instala uma versão melhorada dessa loja.</String></Pair>
+			</Table>
+			<Table key="JRK_Games_Blog">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/package_download.png</String></Pair>
+				<Pair key="title"><String>JRK Games Blog™</String></Pair>
+				<Pair key="info"><String>Baixa e instala uma versão melhorada dessa loja.</String></Pair>
+			</Table>
+			<Table key="JXL_Store">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/package_download.png</String></Pair>
+				<Pair key="title"><String>JXL Store™</String></Pair>
+				<Pair key="info"><String>Baixa e instala uma versão melhorada dessa loja.</String></Pair>
+			</Table>
+			<Table key="JYMS_Store">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/package_download.png</String></Pair>
+				<Pair key="title"><String>JYMS Store™</String></Pair>
+				<Pair key="info"><String>Baixa e instala uma versão melhorada dessa loja.</String></Pair>
+			</Table>
+			<Table key="Kat_Store">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/package_download.png</String></Pair>
+				<Pair key="title"><String>Kat Store™</String></Pair>
+				<Pair key="info"><String>Baixa e instala uma versão melhorada dessa loja.</String></Pair>
+			</Table>
+			<Table key="Kiko_Store">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/package_download.png</String></Pair>
+				<Pair key="title"><String>Kiko Retro Store™</String></Pair>
+				<Pair key="info"><String>Baixa e instala uma versão melhorada dessa loja.</String></Pair>
+			</Table>
+			<Table key="Koopa_Store">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/package_download.png</String></Pair>
+				<Pair key="title"><String>Koopa Store™</String></Pair>
+				<Pair key="info"><String>Baixa e instala uma versão melhorada dessa loja.</String></Pair>
+			</Table>
+			<Table key="LR_Store_Free">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/package_download.png</String></Pair>
+				<Pair key="title"><String>LR Store™ Free</String></Pair>
+				<Pair key="info"><String>Baixa e instala uma versão melhorada dessa loja.</String></Pair>
+			</Table>
+			<Table key="LR_Store_VIP">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/package_download.png</String></Pair>
+				<Pair key="title"><String>LR Store™ VIP</String></Pair>
+				<Pair key="info"><String>Baixa e instala uma versão melhorada dessa loja.</String></Pair>
+			</Table>
+			<Table key="Maxi_Store">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/package_download.png</String></Pair>
+				<Pair key="title"><String>Maxi Store™</String></Pair>
+				<Pair key="info"><String>Baixa e instala uma versão melhorada dessa loja.</String></Pair>
+			</Table>
+			<Table key="Max_Play_Games_Store">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/package_download.png</String></Pair>
+				<Pair key="title"><String>Max Play Games Store™</String></Pair>
+				<Pair key="info"><String>Baixa e instala uma versão melhorada dessa loja.</String></Pair>
+			</Table>
+			<Table key="Modz_Store">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/package_download.png</String></Pair>
+				<Pair key="title"><String>Modz Store™</String></Pair>
+				<Pair key="info"><String>Baixa e instala uma versão melhorada dessa loja.</String></Pair>
+			</Table>
+			<Table key="Monterxto_Store">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/package_download.png</String></Pair>
+				<Pair key="title"><String>Monterxto Store™</String></Pair>
+				<Pair key="info"><String>Baixa e instala uma versão melhorada dessa loja.</String></Pair>
+			</Table>
+			<Table key="Ninja_Store">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/package_download.png</String></Pair>
+				<Pair key="title"><String>Ninja Store™</String></Pair>
+				<Pair key="info"><String>Baixa e instala uma versão melhorada dessa loja.</String></Pair>
+			</Table>
+			<Table key="PS3HEN_Games_Store">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/package_download.png</String></Pair>
+				<Pair key="title"><String>PS3 HEN Games Store™</String></Pair>
+				<Pair key="info"><String>Baixa e instala uma versão melhorada dessa loja.</String></Pair>
+			</Table>
+			<Table key="PSArchive_Store">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/package_download.png</String></Pair>
+				<Pair key="title"><String>PSArchive Store™</String></Pair>
+				<Pair key="info"><String>Baixa e instala uma versão melhorada dessa loja.</String></Pair>
+			</Table>
+			<Table key="PKGi_Store">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/package_download.png</String></Pair>
+				<Pair key="title"><String>PKGi Store™</String></Pair>
+				<Pair key="info"><String>Baixa e instala uma versão melhorada dessa loja.</String></Pair>
+			</Table>
+			<Table key="Retro_Store">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/package_download.png</String></Pair>
+				<Pair key="title"><String>Retro Store™</String></Pair>
+				<Pair key="info"><String>Baixa e instala uma versão melhorada dessa loja.</String></Pair>
+			</Table>
+			<Table key="Sallayin_Store">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/package_download.png</String></Pair>
+				<Pair key="title"><String>Sallayin Store™</String></Pair>
+				<Pair key="info"><String>Baixa e instala uma versão melhorada dessa loja.</String></Pair>
+			</Table>
+			<Table key="Sandro_Store_Free">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/package_download.png</String></Pair>
+				<Pair key="title"><String>Sandro Store™ Free</String></Pair>
+				<Pair key="info"><String>Baixa e instala uma versão melhorada dessa loja.</String></Pair>
+			</Table>
+			<Table key="Sandro_Store_VIP">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/package_download.png</String></Pair>
+				<Pair key="title"><String>Sandro Store™ VIP</String></Pair>
+				<Pair key="info"><String>Baixa e instala uma versão melhorada dessa loja.</String></Pair>
+			</Table>
+			<Table key="Shadow_Store">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/package_download.png</String></Pair>
+				<Pair key="title"><String>Shadow Store™</String></Pair>
+				<Pair key="info"><String>Baixa e instala uma versão melhorada dessa loja.</String></Pair>
+			</Table>
+			<Table key="SG4Y_STools_Store">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/package_download.png</String></Pair>
+				<Pair key="title"><String>SG4YS Tools Store™</String></Pair>
+				<Pair key="info"><String>Baixa e instala uma versão melhorada dessa loja.</String></Pair>
+			</Table>
+			<Table key="Soccer_Store">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/package_download.png</String></Pair>
+				<Pair key="title"><String>Soccer Store™</String></Pair>
+				<Pair key="info"><String>Baixa e instala uma versão melhorada dessa loja.</String></Pair>
+			</Table>
+			<Table key="SrG_Store">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/package_download.png</String></Pair>
+				<Pair key="title"><String>Sr. G Store™</String></Pair>
+				<Pair key="info"><String>Baixa e instala uma versão melhorada dessa loja.</String></Pair>
+			</Table>
+			<Table key="TCXS_Project_Store">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/package_download.png</String></Pair>
+				<Pair key="title"><String>TCXS Project™</String></Pair>
+				<Pair key="info"><String>Baixa e instala uma versão melhorada dessa loja.</String></Pair>
+			</Table>
+			<Table key="Thanos_Store">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/package_download.png</String></Pair>
+				<Pair key="title"><String>Thanos Store™</String></Pair>
+				<Pair key="info"><String>Baixa e instala uma versão melhorada dessa loja.</String></Pair>
+			</Table>
+			<Table key="The_Latin_Shop_Store">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/package_download.png</String></Pair>
+				<Pair key="title"><String>The Latin Shop™</String></Pair>
+				<Pair key="info"><String>Baixa e instala uma versão melhorada dessa loja.</String></Pair>
+			</Table>
+			<Table key="TKDor_Modder_Blog">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/package_download.png</String></Pair>
+				<Pair key="title"><String>TKDor Modder Blog™</String></Pair>
+				<Pair key="info"><String>Baixa e instala uma versão melhorada dessa loja.</String></Pair>
+			</Table>
+			<Table key="Tojjo_Games_Blog">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/package_download.png</String></Pair>
+				<Pair key="title"><String>Tojjo Games Blog™</String></Pair>
+				<Pair key="info"><String>Baixa e instala uma versão melhorada dessa loja.</String></Pair>
+			</Table>
+			<Table key="UniPlay_Games_Store_Free">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/package_download.png</String></Pair>
+				<Pair key="title"><String>UniPlay Games Store™ Free</String></Pair>
+				<Pair key="info"><String>Baixa e instala uma versão melhorada dessa loja.</String></Pair>
+			</Table>
+			<Table key="UniPlay_Games_Store_VIP">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/package_download.png</String></Pair>
+				<Pair key="title"><String>UniPlay Games Store™ VIP</String></Pair>
+				<Pair key="info"><String>Baixa e instala uma versão melhorada dessa loja.</String></Pair>
+			</Table>
+			<Table key="Video_Store">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/package_download.png</String></Pair>
+				<Pair key="title"><String>Video Store™</String></Pair>
+				<Pair key="info"><String>Baixa e instala uma versão melhorada dessa loja.</String></Pair>
+			</Table>
+			<Table key="Web_Store">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/package_download.png</String></Pair>
+				<Pair key="title"><String>Web Store™</String></Pair>
+				<Pair key="info"><String>Baixa e instala uma versão melhorada dessa loja.</String></Pair>
+			</Table>
+			<Table key="Wiki_Store">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/package_download.png</String></Pair>
+				<Pair key="title"><String>Wiki Store™</String></Pair>
+				<Pair key="info"><String>Baixa e instala uma versão melhorada dessa loja.</String></Pair>
+			</Table>
+			<Table key="Wiki_Store_PSN">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/package_download.png</String></Pair>
+				<Pair key="title"><String>Wiki Store™ PSN Edition</String></Pair>
+				<Pair key="info"><String>Baixa e instala uma versão melhorada dessa loja.</String></Pair>
+			</Table>
+			<Table key="You_Game_Store">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/package_download.png</String></Pair>
+				<Pair key="title"><String>You Game Store™</String></Pair>
+				<Pair key="info"><String>Baixa e instala uma versão melhorada dessa loja.</String></Pair>
+			</Table>
+			<Table key="Yukio_Store">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/package_download.png</String></Pair>
+				<Pair key="title"><String>Yukio Store™</String></Pair>
+				<Pair key="info"><String>Baixa e instala uma versão melhorada dessa loja.</String></Pair>
+			</Table>
+			<Table key="ZeBR_Store">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/package_download.png</String></Pair>
+				<Pair key="title"><String>ZeBR Store™</String></Pair>
+				<Pair key="info"><String>Baixa e instala uma versão melhorada dessa loja.</String></Pair>
+			</Table>
+			<Table key="Zuko_Store">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/package_download.png</String></Pair>
+				<Pair key="title"><String>Zuko Store™</String></Pair>
+				<Pair key="info"><String>Baixa e instala uma versão melhorada dessa loja.</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/folder-pixmap" key="Alex_Store" attr="Alex_Store" src="#Alex_Store_item"/>
+			<Query class="type:x-xmb/folder-pixmap" key="Alvn_Store" attr="Alvn_Store" src="#Alvn_Store_item"/>
+			<Query class="type:x-xmb/folder-pixmap" key="Black_Store" attr="Black_Store" src="#Black_Store_item"/>
+			<Query class="type:x-xmb/folder-pixmap" key="Bud_Spencer_Store" attr="Bud_Spencer_Store" src="#Bud_Spencer_Store_item"/>
+			<Query class="type:x-xmb/folder-pixmap" key="Carlos_Tuga_Store" attr="Carlos_Tuga_Store" src="#Carlos_Tuga_Store_item"/>
+			<Query class="type:x-xmb/folder-pixmap" key="Dark_Store" attr="Dark_Store" src="#Dark_Store_item"/>
+			<Query class="type:x-xmb/folder-pixmap" key="Darking_Store" attr="Darking_Store" src="#Darking_Store_item"/>
+			<Query class="type:x-xmb/folder-pixmap" key="Death_Store" attr="Death_Store" src="#Death_Store_item"/>
+			<Query class="type:x-xmb/folder-pixmap" key="Duck_Store" attr="Duck_Store" src="#Duck_Store_item"/>
+			<Query class="type:x-xmb/folder-pixmap" key="Duke_Store" attr="Duke_Store" src="#Duke_Store_item"/>
+			<Query class="type:x-xmb/folder-pixmap" key="Erne_Store" attr="Erne_Store" src="#Erne_Store_item"/>
+			<Query class="type:x-xmb/folder-pixmap" key="Flix_Store" attr="Flix_Store" src="#Flix_Store_item"/>
+			<Query class="type:x-xmb/folder-pixmap" key="Free_Store" attr="Free_Store" src="#Free_Store_item"/>
+			<Query class="type:x-xmb/folder-pixmap" key="Fury_Store" attr="Fury_Store" src="#Fury_Store_item"/>
+			<Query class="type:x-xmb/folder-pixmap" key="Gamers_Store" attr="Gamers_Store" src="#Gamers_Store_item"/>
+			<Query class="type:x-xmb/folder-pixmap" key="Ghost_Store" attr="Ghost_Store" src="#Ghost_Store_item"/>
+			<Query class="type:x-xmb/folder-pixmap" key="Han_Stuff_Store" attr="Han_Stuff_Store" src="#Han_Stuff_Store_item"/>
+			<Query class="type:x-xmb/folder-pixmap" key="Hen_Toolbox_Mod_Store" attr="Hen_Toolbox_Mod_Store" src="#Hen_Toolbox_Mod_Store_item"/>
+			<Query class="type:x-xmb/folder-pixmap" key="Hen_Tool_Shop_Store" attr="Hen_Tool_Shop_Store" src="#Hen_Tool_Shop_Store_item"/>
+			<Query class="type:x-xmb/folder-pixmap" key="InfoTec_Store" attr="InfoTec_Store" src="#InfoTec_Store_item"/>
+			<Query class="type:x-xmb/folder-pixmap" key="Jars_Games_Store" attr="Jars_Games_Store" src="#Jars_Games_Store_item"/>
+			<Query class="type:x-xmb/folder-pixmap" key="JXL_Store" attr="JXL_Store" src="#JXL_Store_item"/>
+			<Query class="type:x-xmb/folder-pixmap" key="JRK_Games_Blog" attr="JRK_Games_Blog" src="#JRK_Games_Blog_item"/>
+			<Query class="type:x-xmb/folder-pixmap" key="JYMS_Store" attr="JYMS_Store" src="#JYMS_Store_item"/>
+			<Query class="type:x-xmb/folder-pixmap" key="Kat_Store" attr="Kat_Store" src="#Kat_Store_item"/>
+			<Query class="type:x-xmb/folder-pixmap" key="Kiko_Store" attr="Kiko_Store" src="#Kiko_Store_item"/>
+			<Query class="type:x-xmb/folder-pixmap" key="Koopa_Store" attr="Koopa_Store" src="#Koopa_Store_item"/>
+			<Query class="type:x-xmb/folder-pixmap" key="LR_Store_Free" attr="LR_Store_Free" src="#LR_Store_Free_item"/>
+			<!-- <Query class="type:x-xmb/folder-pixmap" key="LR_Store_VIP" attr="LR_Store_VIP" src="#LR_Store_VIP_item"/> -->
+			<Query class="type:x-xmb/folder-pixmap" key="Maxi_Store" attr="Maxi_Store" src="#Maxi_Store_item"/>
+			<Query class="type:x-xmb/folder-pixmap" key="Max_Play_Games_Store" attr="Max_Play_Games_Store" src="#Max_Play_Games_Store_item"/>
+			<Query class="type:x-xmb/folder-pixmap" key="Modz_Store" attr="Modz_Store" src="#Modz_Store_item"/>
+			<Query class="type:x-xmb/folder-pixmap" key="Monterxto_Store" attr="Monterxto_Store" src="#Monterxto_Store_item"/>
+			<Query class="type:x-xmb/folder-pixmap" key="Ninja_Store" attr="Ninja_Store" src="#Ninja_Store_item"/>
+			<Query class="type:x-xmb/folder-pixmap" key="PS3HEN_Games_Store" attr="PS3HEN_Games_Store" src="#PS3HEN_Games_Store_item"/>
+			<Query class="type:x-xmb/folder-pixmap" key="PSArchive_Store" attr="PSArchive_Store" src="#PSArchive_Store_item"/>
+			<Query class="type:x-xmb/folder-pixmap" key="PKGi_Store" attr="PKGi_Store" src="#PKGi_Store_item"/>
+			<Query class="type:x-xmb/folder-pixmap" key="Retro_Store" attr="Retro_Store" src="#Retro_Store_item"/>
+			<Query class="type:x-xmb/folder-pixmap" key="Sallayin_Store" attr="Sallayin_Store" src="#Sallayin_Store_item"/>
+			<Query class="type:x-xmb/folder-pixmap" key="Sandro_Store_Free" attr="Sandro_Store_Free" src="#Sandro_Store_Free_item"/>
+			<!-- <Query class="type:x-xmb/folder-pixmap" key="Sandro_Store_VIP" attr="Sandro_Store_VIP" src="#Sandro_Store_VIP_item"/> -->
+			<Query class="type:x-xmb/folder-pixmap" key="Shadow_Store" attr="Shadow_Store" src="#Shadow_Store_item"/>
+			<Query class="type:x-xmb/folder-pixmap" key="SG4Y_STools_Store" attr="SG4Y_STools_Store" src="#SG4Y_STools_Store_item"/>
+			<Query class="type:x-xmb/folder-pixmap" key="Soccer_Store" attr="Soccer_Store" src="#Soccer_Store_item"/>
+			<Query class="type:x-xmb/folder-pixmap" key="SrG_Store" attr="SrG_Store" src="#SrG_Store_item"/>
+			<Query class="type:x-xmb/folder-pixmap" key="TCXS_Project_Store" attr="TCXS_Project_Store" src="#TCXS_Project_Store_item"/>
+			<Query class="type:x-xmb/folder-pixmap" key="Thanos_Store" attr="Thanos_Store" src="#Thanos_Store_item"/>
+			<Query class="type:x-xmb/folder-pixmap" key="The_Latin_Shop_Store" attr="The_Latin_Shop_Store" src="#The_Latin_Shop_Store_item"/>
+			<Query class="type:x-xmb/folder-pixmap" key="TKDor_Modder_Blog" attr="TKDor_Modder_Blog" src="#TKDor_Modder_Blog_item"/>
+			<Query class="type:x-xmb/folder-pixmap" key="Tojjo_Games_Blog" attr="Tojjo_Games_Blog" src="#Tojjo_Games_Blog_item"/>
+			<Query class="type:x-xmb/folder-pixmap" key="UniPlay_Games_Store_Free" attr="UniPlay_Games_Store_Free" src="#UniPlay_Games_Store_Free_item"/>
+			<!-- <Query class="type:x-xmb/folder-pixmap" key="UniPlay_Games_Store_VIP" attr="UniPlay_Games_Store_VIP" src="#UniPlay_Games_Store_VIP_item"/> -->
+			<Query class="type:x-xmb/folder-pixmap" key="Video_Store" attr="Video_Store" src="#Video_Store_item"/>
+			<Query class="type:x-xmb/folder-pixmap" key="Web_Store" attr="Web_Store" src="#Web_Store_item"/>
+			<Query class="type:x-xmb/folder-pixmap" key="Wiki_Store" attr="Wiki_Store" src="#Wiki_Store_item"/>
+			<Query class="type:x-xmb/folder-pixmap" key="Wiki_Store_PSN" attr="Wiki_Store_PSN" src="#Wiki_Store_PSN_item"/>
+			<Query class="type:x-xmb/folder-pixmap" key="You_Game_Store" attr="You_Game_Store" src="#You_Game_Store_item"/>
+			<Query class="type:x-xmb/folder-pixmap" key="Yukio_Store" attr="Yukio_Store" src="#Yukio_Store_item"/>
+			<Query class="type:x-xmb/folder-pixmap" key="ZeBR_Store" attr="ZeBR_Store" src="#ZeBR_Store_item"/>
+			<Query class="type:x-xmb/folder-pixmap" key="Zuko_Store" attr="Zuko_Store" src="#Zuko_Store_item"/>
+		</Items>
+	</View>
+
+	<View id="Alex_Store_item">
+		<Attributes>
+			<Table key="download">
+			<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://github.com/PS3-4K-Pro/Stores/releases/download/Stores/Alex_Store.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://github.com/PS3-4K-Pro/Stores/releases/download/Stores/Alex_Store.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>UP0003-ALEXSTORE_00-COMUNIDADGAMERSS</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/download.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>
+	
+	<View id="Alvn_Store_item">
+		<Attributes>
+			<Table key="download">
+			<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://github.com/PS3-4K-Pro/Stores/releases/download/Stores/Alvn_Store.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://github.com/PS3-4K-Pro/Stores/releases/download/Stores/Alvn_Store.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>TA9000-ALVNSTORE_00-GLORYOFBRUNESTUD</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/download.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>
+	
+	<View id="Black_Store_item">
+		<Attributes>
+			<Table key="download">
+			<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://github.com/PS3-4K-Pro/Stores/releases/download/Stores/Black_Store.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://github.com/PS3-4K-Pro/Stores/releases/download/Stores/Black_Store.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>TA9000-BLACK0STR_00-GLORYOFBRUNESTUD</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/download.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>
+	
+	<View id="Bud_Spencer_Store_item">
+		<Attributes>
+			<Table key="download">
+			<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://github.com/PS3-4K-Pro/Stores/releases/download/Stores/Bud_Spencer_Store.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://github.com/PS3-4K-Pro/Stores/releases/download/Stores/Bud_Spencer_Store.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>UP0100-BUDSPENCE_00-DIEGO18SN000ZMOD</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/download.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>
+
+	<View id="Carlos_Tuga_Store_item">
+		<Attributes>
+			<Table key="download">
+			<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://github.com/PS3-4K-Pro/Stores/releases/download/Stores/Carlos_Tuga_Store.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://github.com/PS3-4K-Pro/Stores/releases/download/Stores/Carlos_Tuga_Store.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>CUSTOM-TUGASTORE_00-0000000000000000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/download.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>
+	
+	<View id="Dark_Store_item">
+		<Attributes>
+			<Table key="download">
+			<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://github.com/PS3-4K-Pro/Stores/releases/download/Stores/Dark_Store.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://github.com/PS3-4K-Pro/Stores/releases/download/Stores/Dark_Store.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>CUSTOM-DARKSTORE_00-0000000000000000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/download.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>
+	
+	<View id="Darking_Store_item">
+		<Attributes>
+			<Table key="download">
+			<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://github.com/PS3-4K-Pro/Stores/releases/download/Stores/Darking_Store.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://github.com/PS3-4K-Pro/Stores/releases/download/Stores/Darking_Store.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>4PATCH-DARKINGYT_00-0000111122223333</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/download.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>
+	
+	<View id="Death_Store_item">
+		<Attributes>
+			<Table key="download">
+			<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://github.com/PS3-4K-Pro/Stores/releases/download/Stores/Death_Store.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://github.com/PS3-4K-Pro/Stores/releases/download/Stores/Death_Store.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>TA9000-DEATHSTOR_00-DEATHSTOREDEVSTM</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/download.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>
+	
+	<View id="Duck_Store_item">
+		<Attributes>
+			<Table key="download">
+			<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://github.com/PS3-4K-Pro/Stores/releases/download/Stores/Duck_Store.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://github.com/PS3-4K-Pro/Stores/releases/download/Stores/Duck_Store.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>CUSTOM-DUCKSTORE_00-0000000000000000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/download.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>
+	
+	<View id="Duke_Store_item">
+		<Attributes>
+			<Table key="download">
+			<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://github.com/PS3-4K-Pro/Stores/releases/download/Stores/Duke_Store.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://github.com/PS3-4K-Pro/Stores/releases/download/Stores/Duke_Store.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>UP0100-DUKESTORE_00-PINK1000DEVIL303</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/download.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>
+
+	<View id="Erne_Store_item">
+		<Attributes>
+			<Table key="download">
+			<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://github.com/PS3-4K-Pro/Stores/releases/download/Stores/Erne_Store.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://github.com/PS3-4K-Pro/Stores/releases/download/Stores/Erne_Store.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>TA9000-ERNESTORE_00-GLORYOFBRUNESTUD</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/download.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>
+	
+	<View id="Flix_Store_item">
+		<Attributes>
+			<Table key="download">
+			<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://github.com/PS3-4K-Pro/Stores/releases/download/Stores/Flix_Store.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://github.com/PS3-4K-Pro/Stores/releases/download/Stores/Flix_Store.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>CUSTOM-FLIXSTORE_00-0000000000000000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/download.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>
+
+	<View id="Free_Store_item">
+		<Attributes>
+			<Table key="download">
+			<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://github.com/PS3-4K-Pro/Stores/releases/download/Stores/Free_Store.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://github.com/PS3-4K-Pro/Stores/releases/download/Stores/Free_Store.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>TA9000-HANTOOLSA_00-GLORYOFBRUNESTUD</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/download.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>
+	
+	<View id="Fury_Store_item">
+		<Attributes>
+			<Table key="download">
+			<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://github.com/PS3-4K-Pro/Stores/releases/download/Stores/Fury_Store.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://github.com/PS3-4K-Pro/Stores/releases/download/Stores/Fury_Store.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>CUSTOM-FURYSTORE_00-0000000000000000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/download.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>
+
+	<View id="Gamers_Store_item">
+		<Attributes>
+			<Table key="download">
+			<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://github.com/PS3-4K-Pro/Stores/releases/download/Stores/Gamers_Store.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://github.com/PS3-4K-Pro/Stores/releases/download/Stores/Gamers_Store.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>TA9000-GAMESTORE_00-GLORYOFBRUNESTUD</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/download.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>
+	
+	<View id="Ghost_Store_item">
+		<Attributes>
+			<Table key="download">
+			<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://github.com/PS3-4K-Pro/Stores/releases/download/Stores/Ghost_Store.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://github.com/PS3-4K-Pro/Stores/releases/download/Stores/Ghost_Store.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>CUSTOM-GHOSTSHOP_00-0000000000000000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/download.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>
+
+	<View id="Han_Stuff_Store_item"> 	
+		<Attributes>
+			<Table key="download">
+			<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://github.com/PS3-4K-Pro/Stores/releases/download/Stores/Han_Stuff_Store.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://github.com/PS3-4K-Pro/Stores/releases/download/Stores/Han_Stuff_Store.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>000000-HANXMBA05_00-0000000HANXMBA05</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/download.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>
+	
+	<View id="Hen_Toolbox_Mod_Store_item">
+		<Attributes>
+			<Table key="download">
+			<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://github.com/PS3-4K-Pro/Stores/releases/download/Stores/Hen_Toolbox_Mod_Store.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://github.com/PS3-4K-Pro/Stores/releases/download/Stores/Hen_Toolbox_Mod_Store.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>TA9000-HANTOOLBX_00-GLORYOFBRUNESTUD</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/download.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>
+
+	<View id="Hen_Tool_Shop_Store_item"> 	
+		<Attributes>
+			<Table key="download">
+			<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://github.com/PS3-4K-Pro/Stores/releases/download/Stores/Hen_Tool_Shop_Store.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://github.com/PS3-4K-Pro/Stores/releases/download/Stores/Hen_Tool_Shop_Store.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>LATEST-HENTOSHOP_00-DIEGO18SN0000PSX</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/download.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>
+	
+	<View id="InfoTec_Store_item"> 	
+		<Attributes>
+			<Table key="download">
+			<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://github.com/PS3-4K-Pro/Stores/releases/download/Stores/InfoTec_Store.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://github.com/PS3-4K-Pro/Stores/releases/download/Stores/InfoTec_Store.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>TA9000-INFOTECST_00-GLORYOFBRUNESTUD</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/download.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>
+
+	<View id="Jars_Games_Store_item">
+		<Attributes>
+			<Table key="download">
+			<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://github.com/PS3-4K-Pro/Stores/releases/download/Stores/Jars_Games_Store.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://github.com/PS3-4K-Pro/Stores/releases/download/Stores/Jars_Games_Store.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>2PATCH-JARSGAMES_00-JARSGAMES0000000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/download.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>
+	
+	<View id="JRK_Games_Blog_item">
+		<Attributes>
+			<Table key="download">
+			<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://github.com/PS3-4K-Pro/Stores/releases/download/Stores/JRK_Games_Blog.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://github.com/PS3-4K-Pro/Stores/releases/download/Stores/JRK_Games_Blog.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>CUSTOM-JRKGABLOG_00-0000000000000000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/download.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>
+	
+	<View id="JXL_Store_item">
+		<Attributes>
+			<Table key="download">
+			<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://github.com/PS3-4K-Pro/Stores/releases/download/Stores/JXL_Store.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://github.com/PS3-4K-Pro/Stores/releases/download/Stores/JXL_Store.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>CUSTOM-JTSMODDER_00-0000000000000000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/download.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>
+	
+	<View id="JYMS_Store_item">
+		<Attributes>
+			<Table key="download">
+			<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://github.com/PS3-4K-Pro/Stores/releases/download/Stores/JYMS_Store.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://github.com/PS3-4K-Pro/Stores/releases/download/Stores/JYMS_Store.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>CUSTOM-JYMSSTORE_00-0000000000000000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/download.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>
+
+	<View id="Kat_Store_item">
+		<Attributes>
+			<Table key="download">
+			<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://github.com/PS3-4K-Pro/Stores/releases/download/Stores/Kat_Store.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://github.com/PS3-4K-Pro/Stores/releases/download/Stores/Kat_Store.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>TA9000-KATSTORES_00-GLORYOFBRUNESTUD</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/download.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>
+	
+	<View id="Kiko_Store_item">
+		<Attributes>
+			<Table key="download">
+			<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://github.com/PS3-4K-Pro/Stores/releases/download/Stores/Kiko_Retro_Store.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://github.com/PS3-4K-Pro/Stores/releases/download/Stores/Kiko_Retro_Store.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>CUSTOM-KIKOSTORE_00-0000000000000000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/download.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>
+
+	<View id="Koopa_Store_item">
+		<Attributes>
+			<Table key="download">
+			<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://github.com/PS3-4K-Pro/Stores/releases/download/Stores/Koopa_Store.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://github.com/PS3-4K-Pro/Stores/releases/download/Stores/Koopa_Store.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>CUSTOM-KOPASTORE_00-0000000000000000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/download.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>
+	
+	<View id="LR_Store_Free_item">
+		<Attributes>
+			<Table key="download">
+			<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://github.com/PS3-4K-Pro/Stores/releases/download/Stores/LR_Store_-_Free.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://github.com/PS3-4K-Pro/Stores/releases/download/Stores/LR_Store_-_Free.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>CUSTOM-LOJALRFRE_00-0000000000000000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/download.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>
+	
+	<View id="LR_Store_VIP_item">
+		<Attributes>
+			<Table key="download">
+			<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://github.com/PS3-4K-Pro/Stores/releases/download/Stores/LR_Store_-_VIP.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://github.com/PS3-4K-Pro/Stores/releases/download/Stores/LR_Store_-_VIP.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>CUSTOM-LRVIPSTOR_00-0000000000000000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/download.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>
+
+	<View id="Maxi_Store_item"> 	
+		<Attributes>
+			<Table key="download">
+			<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://github.com/PS3-4K-Pro/Stores/releases/download/Stores/Maxi_Store.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://github.com/PS3-4K-Pro/Stores/releases/download/Stores/Maxi_Store.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>TA9000-MAXISTORE_00-GLORYOFBRUNESTUD</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/download.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>
+	
+	<View id="Max_Play_Games_Store_item"> 	
+		<Attributes>
+			<Table key="download">
+			<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://github.com/PS3-4K-Pro/Stores/releases/download/Stores/Max_Play_Games_Store.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://github.com/PS3-4K-Pro/Stores/releases/download/Stores/Max_Play_Games_Store.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>CUSTOM-MAXPGAMES_00-0000000000000000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/download.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>
+	
+	<View id="Modz_Store_item"> 	
+		<Attributes>
+			<Table key="download">
+			<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://github.com/PS3-4K-Pro/Stores/releases/download/Stores/Modz_Store.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://github.com/PS3-4K-Pro/Stores/releases/download/Stores/Modz_Store.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>CUSTOM-MODZSTORE_00-0000000000000000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/download.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>
+
+	<View id="Monterxto_Store_item"> 	
+		<Attributes>
+			<Table key="download">
+			<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://github.com/PS3-4K-Pro/Stores/releases/download/Stores/Monterxto_Store.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://github.com/PS3-4K-Pro/Stores/releases/download/Stores/Monterxto_Store.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>CFWPS3-MONTERXTO_00-0000000000000000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/download.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>
+	
+	<View id="Ninja_Store_item"> 	
+		<Attributes>
+			<Table key="download">
+			<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://github.com/PS3-4K-Pro/Stores/releases/download/Stores/Ninja_Store.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://github.com/PS3-4K-Pro/Stores/releases/download/Stores/Ninja_Store.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>CUSTOM-NINJASTOR_00-0000000000000000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/download.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>
+	
+	<View id="PS3HEN_Games_Store_item">
+		<Attributes>
+			<Table key="download">
+			<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://github.com/PS3-4K-Pro/Stores/releases/download/Stores/PS3HEN_Games_Store.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://github.com/PS3-4K-Pro/Stores/releases/download/Stores/PS3HEN_Games_Store.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>CUSTOM-PS3HGAMES_00-0000000000000000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/download.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>
+	
+	<View id="PSArchive_Store_item">
+		<Attributes>
+			<Table key="download">
+			<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://github.com/PS3-4K-Pro/Stores/releases/download/Stores/PSArchive_Store.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://github.com/PS3-4K-Pro/Stores/releases/download/Stores/PSArchive_Store.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>CUSTOM-PSARCHIVE_00-0000000000000000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/download.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>
+
+	<View id="PKGi_Store_item">
+		<Attributes>
+			<Table key="download">
+			<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://github.com/PS3-4K-Pro/Stores/releases/download/Stores/PKGi_Store.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://github.com/PS3-4K-Pro/Stores/releases/download/Stores/PKGi_Store.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>UP0001-NP00PKGI3_00-0000000000000000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/download.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>
+	
+	<View id="Retro_Store_item">
+		<Attributes>
+			<Table key="download">
+			<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://github.com/PS3-4K-Pro/Stores/releases/download/Stores/Retro_Store.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://github.com/PS3-4K-Pro/Stores/releases/download/Stores/Retro_Store.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>TA9000-RETROSTOR_00-GLORYOFBRUNESTUD</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/download.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>
+
+	<View id="Sallayin_Store_item"> 	
+		<Attributes>
+			<Table key="download">
+			<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://github.com/PS3-4K-Pro/Stores/releases/download/Stores/Sallayin_Store.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://github.com/PS3-4K-Pro/Stores/releases/download/Stores/Sallayin_Store.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>CFWPS3-SALLAYINS_00-0000000000000000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/download.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>
+
+	<View id="Sandro_Store_VIP_item">
+		<Attributes>
+			<Table key="download">
+			<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://github.com/PS3-4K-Pro/Stores/releases/download/Stores/Sandro_Store_-_VIP.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://github.com/PS3-4K-Pro/Stores/releases/download/Stores/Sandro_Store_-_VIP.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>CUSTOM-SANDROSTO_00-0000000000000000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/download.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>
+	
+	<View id="Sandro_Store_VIP_item">
+		<Attributes>
+			<Table key="download">
+			<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://github.com/PS3-4K-Pro/Stores/releases/download/Stores/Sandro_Store_-_Free.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://github.com/PS3-4K-Pro/Stores/releases/download/Stores/Sandro_Store_-_Free.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>CUSTOM-SANDROGAM_00-0000000000000000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/download.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>
+
+	<View id="Shadow_Store_item">
+		<Attributes>
+			<Table key="download">
+			<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://github.com/PS3-4K-Pro/Stores/releases/download/Stores/Shadow_Store.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://github.com/PS3-4K-Pro/Stores/releases/download/Stores/Shadow_Store.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>TA9000-SHADOWSTR_00-GLORYOFBRUNESTUD</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/download.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>
+	
+	<View id="Soccer_Store_item">
+		<Attributes>
+			<Table key="download">
+			<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://github.com/PS3-4K-Pro/Stores/releases/download/Stores/Soccer_Store.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://github.com/PS3-4K-Pro/Stores/releases/download/Stores/Soccer_Store.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>CUSTOM-SOCCERPS3_00-0000000000000000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/download.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>
+
+	<View id="SG4Y_STools_Store_item">
+		<Attributes>
+			<Table key="download">
+			<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://github.com/PS3-4K-Pro/Stores/releases/download/Stores/SG4Y_Tools_Store.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://github.com/PS3-4K-Pro/Stores/releases/download/Stores/SG4Y_Tools_Store.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>TA9000-SG4YTOOLS_00-GLORYOFBRUNESTUD</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/download.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>
+	
+	<View id="SrG_Store_item">
+		<Attributes>
+			<Table key="download">
+			<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://github.com/PS3-4K-Pro/Stores/releases/download/Stores/SrG_Store.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://github.com/PS3-4K-Pro/Stores/releases/download/Stores/SrG_Store.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>CUSTOM-TSRGSTORE_00-0000000000000000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/download.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>
+
+	<View id="TCXS_Project_Store_item">
+		<Attributes>
+			<Table key="download">
+			<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://github.com/PS3-4K-Pro/Stores/releases/download/Stores/TCXS_Project_Store.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://github.com/PS3-4K-Pro/Stores/releases/download/Stores/TCXS_Project_Store.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>TA9000-HENBSTORE_00-GLORYOFBRUNESTUD</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/download.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>
+
+	<View id="Thanos_Store_item"> 	
+		<Attributes>
+			<Table key="download">
+			<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://github.com/PS3-4K-Pro/Stores/releases/download/Stores/Thanos_Store.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://github.com/PS3-4K-Pro/Stores/releases/download/Stores/Thanos_Store.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>UP0100-ZMODOOLBX_00-PINK1000DEVIL303</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/download.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>
+
+	<View id="The_Latin_Shop_Store_item"> 	
+		<Attributes>
+			<Table key="download">
+			<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://github.com/PS3-4K-Pro/Stores/releases/download/Stores/The_Latin_Shop_Store.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://github.com/PS3-4K-Pro/Stores/releases/download/Stores/The_Latin_Shop_Store.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>TA9000-TLSPKGPS3_00-GLORYOFBRUNESTUD</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/download.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>
+	
+	<View id="TKDor_Modder_Blog_item"> 	
+		<Attributes>
+			<Table key="download">
+			<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://github.com/PS3-4K-Pro/Stores/releases/download/Stores/TKDOR_Modder_Blog.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://github.com/PS3-4K-Pro/Stores/releases/download/Stores/TKDOR_Modder_Blog.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>CUSTOM-TKDORBLOG_00-0000000000000000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/download.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>
+	
+	<View id="Tojjo_Games_Blog_item"> 	
+		<Attributes>
+			<Table key="download">
+			<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://github.com/PS3-4K-Pro/Stores/releases/download/Stores/Tojjo_Games_Blog.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://github.com/PS3-4K-Pro/Stores/releases/download/Stores/Tojjo_Games_Blog.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>CUSTOM-TOJJOBLOG_00-0000000000000000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/download.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>
+
+	<View id="UniPlay_Games_Store_Free_item"> 	
+		<Attributes>
+			<Table key="download">
+			<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://github.com/PS3-4K-Pro/Stores/releases/download/Stores/UniPlay_Games_Store_-_Free.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://github.com/PS3-4K-Pro/Stores/releases/download/Stores/UniPlay_Games_Store_-_Free.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>TA9000-UNIPLAYME_00-GLORYOFBRUNESTUD</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/download.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>
+	
+	<View id="UniPlay_Games_Store_VIP_item"> 	
+		<Attributes>
+			<Table key="download">
+			<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://github.com/PS3-4K-Pro/Stores/releases/download/Stores/UniPlay_Games_Store_-_VIP.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://github.com/PS3-4K-Pro/Stores/releases/download/Stores/UniPlay_Games_Store_-_VIP.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>TA9000-UNIPLAYME_00-GLORYOFBRUNESTUD</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/download.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>
+
+	<View id="Video_Store_item"> 	
+		<Attributes>
+			<Table key="download">
+			<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://github.com/PS3-4K-Pro/Stores/releases/download/Stores/Video_Store.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://github.com/PS3-4K-Pro/Stores/releases/download/Stores/Video_Store.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>CUSTOM-VIDESTORE_00-0000000000000000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/download.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>
+	
+	<View id="Web_Store_item">
+		<Attributes>
+			<Table key="download">
+			<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://github.com/PS3-4K-Pro/Stores/releases/download/Stores/Web_Store.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://github.com/PS3-4K-Pro/Stores/releases/download/Stores/Web_Store.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>CUSTOM-WEBSTOREC_00-0000000000000000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/download.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>
+
+	<View id="Wiki_Store_item">
+		<Attributes>
+			<Table key="download">
+			<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://github.com/PS3-4K-Pro/Stores/releases/download/Stores/Wiki_Store.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://github.com/PS3-4K-Pro/Stores/releases/download/Stores/Wiki_Store.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>TA9000-WIKISTORE_00-GLORYOFBRUNESTUD</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/download.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>
+
+	<View id="Wiki_Store_PSN_item">
+		<Attributes>
+			<Table key="download">
+			<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://github.com/PS3-4K-Pro/Stores/releases/download/Stores/Wiki_Store_PSN.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://github.com/PS3-4K-Pro/Stores/releases/download/Stores/Wiki_Store_PSN.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>TA9000-WIKISTPSN_00-GLORYOFBRUNESTUD</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/download.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>
+	
+	<View id="You_Game_Store_item">
+		<Attributes>
+			<Table key="download">
+			<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://github.com/PS3-4K-Pro/Stores/releases/download/Stores/You_Game_Store.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://github.com/PS3-4K-Pro/Stores/releases/download/Stores/You_Game_Store.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>CUSTOM-YOUGSTORE_00-0000000000000000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/download.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>
+	
+	<View id="Yukio_Store_item">
+		<Attributes>
+			<Table key="download">
+			<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://github.com/PS3-4K-Pro/Stores/releases/download/Stores/Yukio_Store.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://github.com/PS3-4K-Pro/Stores/releases/download/Stores/Yukio_Store.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>CUSTOM-YGYOSTORE_00-0000000000000000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/download.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>
+
+	<View id="ZeBR_Store_item">
+		<Attributes>
+			<Table key="download">
+			<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://github.com/PS3-4K-Pro/Stores/releases/download/Stores/ZeBR_Store.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://github.com/PS3-4K-Pro/Stores/releases/download/Stores/ZeBR_Store.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>CUSTOM-ZEBRSTORE_00-0000000000000000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/download.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>
+
+	<View id="Zuko_Store_item">
+		<Attributes>
+			<Table key="download">
+			<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://github.com/PS3-4K-Pro/Stores/releases/download/Stores/Zuko_Store.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://github.com/PS3-4K-Pro/Stores/releases/download/Stores/Zuko_Store.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>CUSTOM-ZUKOSTORE_00-0000000000000000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/download.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>
+</XMBML>

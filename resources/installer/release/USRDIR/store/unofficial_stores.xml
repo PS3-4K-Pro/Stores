@@ -1,0 +1,21 @@
+﻿<!-- This is part of PS3™ 4K Pro by Luan Teles - 01/02/2020 - DD/MM/YY -->
+
+<XMBML version="1.0">
+	<!-- XMB™ Menu > PlayStation™Network Category > Unofficial®Stores -->
+	<View id="seg_unofficial_stores_main">
+		<Attributes>
+			<Table key="unofficial_stores">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/unofficial_stores.png</String></Pair>
+				<Pair key="title"><String>Unofficial®Stores</String></Pair>
+				<Pair key="info"><String>Todas as lojas em um só lugar.</String></Pair>
+				<Pair key="str_noitem"><String>msg_error_no_title</String></Pair>
+				<Pair key="child"><String>segment</String></Pair>
+				<Pair key="ingame"><String>disable</String></Pair>		
+			</Table>
+		</Attributes>
+		<Items>
+			<!-- XML Split to Save VSH Memory -->
+			<Query class="type:x-xmb/folder-pixmap" key="unofficial_stores" attr="unofficial_stores" src="xmb://localhost/dev_hdd0/game/UNOSTORES/USRDIR/store/unofficial_stores_items.xml#seg_unofficial_stores_items"/>
+		</Items>
+	</View>
+</XMBML>

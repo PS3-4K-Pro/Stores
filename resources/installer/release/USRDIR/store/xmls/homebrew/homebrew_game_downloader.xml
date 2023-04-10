@@ -1,0 +1,1425 @@
+<!-- This is part of PS3™ 4K Pro by Luan Teles - 01/02/2020 - DD/MM/YY -->
+
+<XMBML version="1.0">
+	<!-- XMB™ Menu > PlayStation™Network Category > Unofficial®Stores > Package Downloader > Homebrews Game Downloader -->
+	<View id="seg_homebrew_game_downloader_items">
+		<Attributes>
+			<Table key="homebrew_game_001">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/homebrew_game_icons/2048.png</String></Pair>
+				<Pair key="title"><String>2048</String></Pair>
+				<Pair key="info"><String>RXGAM3004  2.01 MB  [By Various]</String></Pair>
+			</Table>
+			<Table key="homebrew_game_002">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/homebrew_game_icons/2player_pong.png</String></Pair>
+				<Pair key="title"><String>2 Player Pong</String></Pair>
+				<Pair key="info"><String>PONG00LSD  1.42 MB  [By ThatOtherDev]</String></Pair>
+			</Table>
+			<Table key="homebrew_game_003">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/homebrew_game_icons/3card_monte.png</String></Pair>
+				<Pair key="title"><String>3 Card Monte</String></Pair>
+				<Pair key="info"><String>JCD00TEST  2.96 MB  [By ThatOtherDev]</String></Pair>
+			</Table>
+			<Table key="homebrew_game_004">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/homebrew_game_icons/alien_breed.png</String></Pair>
+				<Pair key="title"><String>Alien Breed</String></Pair>
+				<Pair key="info"><String>ALIENBRED  17.02 MB  [By Samson]</String></Pair>
+			</Table>
+			<Table key="homebrew_game_005">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/homebrew_game_icons/avoidance.png</String></Pair>
+				<Pair key="title"><String>Avoidance</String></Pair>
+			<Pair key="info"><String>AVOIDANCE  0.28 MB  [By ThatOtherDev]</String></Pair>
+			</Table>
+			<Table key="homebrew_game_006">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/homebrew_game_icons/barulandia.png</String></Pair>
+				<Pair key="title"><String>Barulandia</String></Pair>
+				<Pair key="info"><String>SDL20BARU  3.85 MB  [By TJMGK]</String></Pair>
+			</Table>
+			<Table key="homebrew_game_007">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/homebrew_game_icons/bomberman_hd.png</String></Pair>
+				<Pair key="title"><String>Bomberman HD</String></Pair>
+				<Pair key="info"><String>BOMB00000  4.56 MB  [By Darkhacker]</String></Pair>
+			</Table>
+			<Table key="homebrew_game_008">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/homebrew_game_icons/break_out_x.png</String></Pair>
+				<Pair key="title"><String>BreakOut X</String></Pair>
+				<Pair key="info"><String>JBEB55555  9.46 MB  [By Lachrymose]</String></Pair>
+			</Table>
+			<Table key="homebrew_game_009">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/homebrew_game_icons/cascade_beneath.png</String></Pair>
+				<Pair key="title"><String>Cascade Beneath</String></Pair>
+				<Pair key="info"><String>CASCADEBE  0.32 MB  [By ThatOtherDev]</String></Pair>
+			</Table>
+			<Table key="homebrew_game_010">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/homebrew_game_icons/cherophobe.png</String></Pair>
+				<Pair key="title"><String>Cherophobe</String></Pair>
+				<Pair key="info"><String>CHEROPHOB  0.43 MB  [By ThatOtherDev]</String></Pair>
+			</Table>
+			<Table key="homebrew_game_011">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/homebrew_game_icons/codename_quadtris.png</String></Pair>
+				<Pair key="title"><String>Codename Quadtris</String></Pair>
+				<Pair key="info"><String>QUAD00LSD  9.22 MB  [By ThatOtherDev]</String></Pair>
+			</Table>
+			<Table key="homebrew_game_012">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/homebrew_game_icons/cubicle_shooter.png</String></Pair>
+				<Pair key="title"><String>Cubicle Shooter</String></Pair>
+				<Pair key="info"><String>CUBE66666  17.30 MB  [By ThatOtherPerson]</String></Pair>
+			</Table>
+			<Table key="homebrew_game_013">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/homebrew_game_icons/cubicle_shooter_city.png</String></Pair>
+				<Pair key="title"><String>Cubicle Shooter City</String></Pair>
+				<Pair key="info"><String>CUBESCITY  0.41 MB  [By ThatOtherPerson]</String></Pair>
+			</Table>
+			<Table key="homebrew_game_014">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/homebrew_game_icons/cylinder_dodge.png</String></Pair>
+				<Pair key="title"><String>Cylinder Dodge</String></Pair>
+				<Pair key="info"><String>CYLINDERD  0.21 MB  [By ThatOtherDev]</String></Pair>
+			</Table>
+			<Table key="homebrew_game_015">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/homebrew_game_icons/dont_get_crushed.png</String></Pair>
+				<Pair key="title"><String>Don't Get Crushed</String></Pair>
+				<Pair key="info"><String>DGCRUSHED  0.33 MB  [By ThatOtherDev]</String></Pair>
+			</Table>
+			<Table key="homebrew_game_016">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/homebrew_game_icons/dungeon.png</String></Pair>
+				<Pair key="title"><String>Dungeon</String></Pair>
+				<Pair key="info"><String>DUNGEON01  1.21 MB  [By ThatOtherDev]</String></Pair>
+			</Table>
+			<Table key="homebrew_game_017">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/homebrew_game_icons/eleganted_repitile.png</String></Pair>
+				<Pair key="title"><String>Eleganted Repitile</String></Pair>
+				<Pair key="info"><String>ELONLOREP  0.34 MB  [By ThatOtherDev]</String></Pair>
+			</Table>
+			<Table key="homebrew_game_018">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/homebrew_game_icons/eskiss.png</String></Pair>
+				<Pair key="title"><String>Ekiss</String></Pair>
+				<Pair key="info"><String>ESKISS000  6.05 MB  [By KaKaRoTo]</String></Pair>
+			</Table>
+			<Table key="homebrew_game_019">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/homebrew_game_icons/espionage.png</String></Pair>
+				<Pair key="title"><String>Espionage</String></Pair>
+				<Pair key="info"><String>RXESP3851  2.31 MB  [By Fredik Brundin]</String></Pair>
+			</Table>
+			<Table key="homebrew_game_020">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/homebrew_game_icons/flappy_birds_family.png</String></Pair>
+				<Pair key="title"><String>Flappy Birds Family</String></Pair>
+				<Pair key="info"><String>FLAPBIRD0  2.10 MB  [By Sandroron]</String></Pair>
+			</Table>
+			<Table key="homebrew_game_021">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/homebrew_game_icons/gambol.png</String></Pair>
+				<Pair key="title"><String>Gambol</String></Pair>
+				<Pair key="info"><String>GAMBOL123  0.48 MB  [By ThatOtherDev]</String></Pair>
+			</Table>
+			<Table key="homebrew_game_022">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/homebrew_game_icons/goodby_world.png</String></Pair>
+				<Pair key="title"><String>Goodby World</String></Pair>
+				<Pair key="info"><String>GDBYEWRLD  0.41 MB  [By ThatOtherDev]</String></Pair>
+			</Table>
+			<Table key="homebrew_game_023">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/homebrew_game_icons/hero_city_1.png</String></Pair>
+				<Pair key="title"><String>Hero City 1</String></Pair>
+				<Pair key="info"><String>HEROCITY1  0.83 MB  [By ThatOtherDev]</String></Pair>
+			</Table>
+			<Table key="homebrew_game_024">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/homebrew_game_icons/hero_city_2.png</String></Pair>
+				<Pair key="title"><String>Hero City 2</String></Pair>
+				<Pair key="info"><String>HCTW00000  10.00 MB  [By ThatOtherDev]</String></Pair>
+			</Table>
+			<Table key="homebrew_game_025">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/homebrew_game_icons/maze_generator.png</String></Pair>
+				<Pair key="title"><String>Maze Generator</String></Pair>
+				<Pair key="info"><String>MAZEGENRT  1.07 MB  [By ThatOtherDev]</String></Pair>
+			</Table>
+			<Table key="homebrew_game_026">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/homebrew_game_icons/neo_race.png</String></Pair>
+				<Pair key="title"><String>Neo Race</String></Pair>
+				<Pair key="info"><String>NEOR66666  13.40 MB  [By ThatOtherPerson]</String></Pair>
+			</Table>
+			<Table key="homebrew_game_027">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/homebrew_game_icons/neo_tanks.png</String></Pair>
+				<Pair key="title"><String>Neo Tanks</String></Pair>
+				<Pair key="info"><String>NEOTANKS1  0.65 MB  [By ThatOtherDev]</String></Pair>
+			</Table>
+			<Table key="homebrew_game_028">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/homebrew_game_icons/neo_trail.png</String></Pair>
+				<Pair key="title"><String>Neo Trail</String></Pair>
+				<Pair key="info"><String>NEOTRAIL1  0.41 MB  [By ThatOtherDev]</String></Pair>
+			</Table>
+			<Table key="homebrew_game_029">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/homebrew_game_icons/paintown.png</String></Pair>
+				<Pair key="title"><String>Paintown</String></Pair>
+				<Pair key="info"><String>PAINTOWN2  81.40 MB  [By Various]</String></Pair>
+			</Table>
+			<Table key="homebrew_game_030">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/homebrew_game_icons/pongus.png</String></Pair>
+				<Pair key="title"><String>Pongus</String></Pair>
+				<Pair key="info"><String>HBRW00001  0.37 MB  [By CodeZombie]</String></Pair>
+			</Table>
+			<Table key="homebrew_game_031">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/homebrew_game_icons/ps3noid.png</String></Pair>
+				<Pair key="title"><String>PS3Noid</String></Pair>
+				<Pair key="info"><String>GFX012345  6.28 MB  [By NoNameno]</String></Pair>
+			</Table>
+			<Table key="homebrew_game_032">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/homebrew_game_icons/ps3pong.png</String></Pair>
+				<Pair key="title"><String>PS3Pong</String></Pair>
+				<Pair key="info"><String>TEST12345  9.81 MB  [By Lachrymose]</String></Pair>
+			</Table>
+			<Table key="homebrew_game_033">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/homebrew_game_icons/ps3tetris.png</String></Pair>
+				<Pair key="title"><String>PS3Tetris</String></Pair>
+				<Pair key="info"><String>TEST00003  0.10 MB  [By Slicer4ever]</String></Pair>
+			</Table>
+			<Table key="homebrew_game_034">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/homebrew_game_icons/resident_evil_operation_paintown.png</String></Pair>
+				<Pair key="title"><String>ResidentEvil Operation Paintown</String></Pair>
+				<Pair key="info"><String>EVIL00095  241.0 MB  [By Markus95]</String></Pair>
+			</Table>
+			<Table key="homebrew_game_035">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/homebrew_game_icons/scooger.png</String></Pair>
+				<Pair key="title"><String>Scooger</String></Pair>
+				<Pair key="info"><String>SCOG00001  3.90 MB  [By Scognito]</String></Pair>
+			</Table>
+			<Table key="homebrew_game_036">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/homebrew_game_icons/sgt_puzzle.png</String></Pair>
+				<Pair key="title"><String>SGT Puzzle</String></Pair>
+				<Pair key="info"><String>SGTPZL010  1.80 MB  [By ThatOtherDev]</String></Pair>
+			</Table>
+			<Table key="homebrew_game_037">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/homebrew_game_icons/sketch_fight.png</String></Pair>
+				<Pair key="title"><String>Sketch Fight</String></Pair>
+				<Pair key="info"><String>SKETCHFIT  2.10 MB  [By ThatOtherDev]</String></Pair>
+			</Table>
+			<Table key="homebrew_game_038">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/homebrew_game_icons/slime_roll.png</String></Pair>
+				<Pair key="title"><String>Slime Roll</String></Pair>
+				<Pair key="info"><String>SLIMEROLL  0.40 MB  [By ThatOtherPerson]</String></Pair>
+			</Table>
+			<Table key="homebrew_game_039">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/homebrew_game_icons/spin_pong.png</String></Pair>
+				<Pair key="title"><String>Spin Pong</String></Pair>
+				<Pair key="info"><String>SPNP12345  10.30 MB  [By Apanloco]</String></Pair>
+			</Table>
+			<Table key="homebrew_game_040">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/homebrew_game_icons/streets_of_rage.png</String></Pair>
+				<Pair key="title"><String>Streets of Rage</String></Pair>
+				<Pair key="info"><String>SOR000095  318.0 MB  [By Markus95]</String></Pair>
+			</Table>
+			<Table key="homebrew_game_041">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/homebrew_game_icons/supaplex.png</String></Pair>
+				<Pair key="title"><String>Supaplex</String></Pair>
+				<Pair key="info"><String>OSPX00001  7.30 MB  [By ThatOtherDev]</String></Pair>
+			</Table>
+			<Table key="homebrew_game_042">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/homebrew_game_icons/super_pixel_jumper.png</String></Pair>
+				<Pair key="title"><String>Super Pixel Jumper</String></Pair>
+				<Pair key="info"><String>SUPERJUMP  0.27 MB  [By ThatOtherDev]</String></Pair>
+			</Table>
+			<Table key="homebrew_game_043">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/homebrew_game_icons/swingball2.png</String></Pair>
+				<Pair key="title"><String>Swingball 2</String></Pair>
+				<Pair key="info"><String>SWINGBAL2  0.43 MB  [By ThatOtherDev]</String></Pair>
+			</Table>
+			<Table key="homebrew_game_044">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/homebrew_game_icons/swing_copters.png</String></Pair>
+				<Pair key="title"><String>Swing Copters</String></Pair>
+				<Pair key="info"><String>SWINGCOP0  1.78 MB  [By Sandroron]</String></Pair>
+			</Table>
+			<Table key="homebrew_game_045">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/homebrew_game_icons/tetris_eol.png</String></Pair>
+				<Pair key="title"><String>Tetris EOL</String></Pair>
+				<Pair key="info"><String>TETRISEOL  1.78 MB  [By Various]</String></Pair>
+			</Table>
+			<Table key="homebrew_game_046">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/homebrew_game_icons/that_other_pong.png</String></Pair>
+				<Pair key="title"><String>That Other Pong</String></Pair>
+				<Pair key="info"><String>THATOPONG  0.45 MB  [By ThatOtherDev]</String></Pair>
+			</Table>
+			<Table key="homebrew_game_047">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/homebrew_game_icons/that_other_space_shooter.png</String></Pair>
+				<Pair key="title"><String>That Other Space Shooter</String></Pair>
+				<Pair key="info"><String>TOSC66666  12.10 MB  [By ThatOtherDev]</String></Pair>
+			</Table>
+			<Table key="homebrew_game_048">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/homebrew_game_icons/the_catachthonic.png</String></Pair>
+				<Pair key="title"><String>The Catachtonic</String></Pair>
+				<Pair key="info"><String>CATA00000  5.19 MB  [By ThatOtherPerson]</String></Pair>
+			</Table>
+			<Table key="homebrew_game_049">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/homebrew_game_icons/the_jarred_mind3.png</String></Pair>
+				<Pair key="title"><String>The Jarred Mind3</String></Pair>
+				<Pair key="info"><String>TJARMIND3  1.07 MB  [By ThatOtherDev]</String></Pair>
+			</Table>
+			<Table key="homebrew_game_050">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/homebrew_game_icons/the_unmapped_forest.png</String></Pair>
+				<Pair key="title"><String>The Unmapped Forest</String></Pair>
+				<Pair key="info"><String>UNMAPPEDF  0.62 MB  [By ThatOtherDev]</String></Pair>
+			</Table>
+			<Table key="homebrew_game_051">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/homebrew_game_icons/they_do_not_die2.png</String></Pair>
+				<Pair key="title"><String>They Do Not Die2</String></Pair>
+				<Pair key="info"><String>DONOTDIE2  0.80 MB  [By ThatOtherDev]</String></Pair>
+			</Table>
+			<Table key="homebrew_game_052">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/homebrew_game_icons/they_do_not_die2.png</String></Pair>
+				<Pair key="title"><String>The World Drowns</String></Pair>
+				<Pair key="info"><String>DROW66666  10.60 MB  [By ThatOtherPerson]</String></Pair>
+			</Table>
+			<Table key="homebrew_game_053">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/homebrew_game_icons/tron_clone.png</String></Pair>
+				<Pair key="title"><String>Tron Clone</String></Pair>
+				<Pair key="info"><String>TRONMSDOS  10.60 MB  [By Mr. Goodfrag]</String></Pair>
+			</Table>
+			<Table key="homebrew_game_054">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/homebrew_game_icons/ufo_racer.png</String></Pair>
+				<Pair key="title"><String>UFO Racer</String></Pair>
+				<Pair key="info"><String>UFOR00000  5.83 MB  [By ThatOtherDev]</String></Pair>
+			</Table>
+			<Table key="homebrew_game_055">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/homebrew_game_icons/untitled_pokemon_project.png</String></Pair>
+				<Pair key="title"><String>Untitled Pokemon Project</String></Pair>
+				<Pair key="info"><String>POCKETMON  0.39 MB  [By ThatOtherPerson]</String></Pair>
+			</Table>
+			<Table key="homebrew_game_056">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/homebrew_game_icons/wall_pong.png</String></Pair>
+				<Pair key="title"><String>Wall Pong</String></Pair>
+				<Pair key="info"><String>PNG00TEST  1.14 MB  [By ThatOtherDev]</String></Pair>
+			</Table>
+			<Table key="homebrew_game_057">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/homebrew_game_icons/we_are_now_here.png</String></Pair>
+				<Pair key="title"><String>We Are Nowhere</String></Pair>
+				<Pair key="info"><String>WRNOWHERE  0.28 MB  [By ThatOtherDev]</String></Pair>
+			</Table>
+			<Table key="homebrew_game_058">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/homebrew_game_icons/winter_end.png</String></Pair>
+				<Pair key="title"><String>Winter End</String></Pair>
+				<Pair key="info"><String>WINTERSEN  0.51 MB  [By ThatOtherDev]</String></Pair>
+			</Table>
+			<Table key="homebrew_game_059">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/homebrew_game_icons/fursan_aqsa_-_demo.png</String></Pair>
+				<Pair key="title"><String>Fursan Aqsa</String></Pair>
+				<Pair key="info"><String>FAQSAEP01  310.0 MB  [By Nidal Nijm]</String></Pair>
+			</Table>
+			<Table key="homebrew_game_060">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/homebrew_game_icons/gears_of_kombat.png</String></Pair>
+				<Pair key="title"><String>Gears of Kombat</String></Pair>
+				<Pair key="info"><String>TEST12345  150.0 MB  [By Nidal Nijm]</String></Pair>
+			</Table>
+			<Table key="homebrew_game_061">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/homebrew_game_icons/pintor_-_sony_vs_hackers.png</String></Pair>
+				<Pair key="title"><String>Pintor - Sony vs Hackers</String></Pair>
+				<Pair key="info"><String>PINTOR001  81.40 MB  [By Hermes]</String></Pair>
+			</Table>
+			<Table key="homebrew_game_062">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/homebrew_game_icons/bubble_bobble_-_normal.png</String></Pair>
+				<Pair key="title"><String>Bubble Bobble</String></Pair>
+				<Pair key="info"><String>BUBL00002  6.98 MB  [By Voda123 and Sandungas]</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/folder-pixmap" key="homebrew_game_001" attr="homebrew_game_001" src="#homebrew_game_001_item"/>
+			<Query class="type:x-xmb/folder-pixmap" key="homebrew_game_002" attr="homebrew_game_002" src="#homebrew_game_002_item"/>
+			<Query class="type:x-xmb/folder-pixmap" key="homebrew_game_003" attr="homebrew_game_003" src="#homebrew_game_003_item"/>
+			<Query class="type:x-xmb/folder-pixmap" key="homebrew_game_004" attr="homebrew_game_004" src="#homebrew_game_004_item"/>
+			<Query class="type:x-xmb/folder-pixmap" key="homebrew_game_005" attr="homebrew_game_005" src="#homebrew_game_005_item"/>
+			<Query class="type:x-xmb/folder-pixmap" key="homebrew_game_006" attr="homebrew_game_006" src="#homebrew_game_006_item"/>
+			<Query class="type:x-xmb/folder-pixmap" key="homebrew_game_007" attr="homebrew_game_007" src="#homebrew_game_007_item"/>
+			<Query class="type:x-xmb/folder-pixmap" key="homebrew_game_008" attr="homebrew_game_008" src="#homebrew_game_008_item"/>
+			<Query class="type:x-xmb/folder-pixmap" key="homebrew_game_062" attr="homebrew_game_062" src="#seg_homebrew_game_062_items"/>
+			<Query class="type:x-xmb/folder-pixmap" key="homebrew_game_009" attr="homebrew_game_009" src="#homebrew_game_009_item"/>
+			<Query class="type:x-xmb/folder-pixmap" key="homebrew_game_010" attr="homebrew_game_010" src="#homebrew_game_010_item"/>
+			<Query class="type:x-xmb/folder-pixmap" key="homebrew_game_011" attr="homebrew_game_011" src="#homebrew_game_011_item"/>
+			<Query class="type:x-xmb/folder-pixmap" key="homebrew_game_012" attr="homebrew_game_012" src="#homebrew_game_012_item"/>
+			<Query class="type:x-xmb/folder-pixmap" key="homebrew_game_013" attr="homebrew_game_013" src="#homebrew_game_013_item"/>
+			<Query class="type:x-xmb/folder-pixmap" key="homebrew_game_014" attr="homebrew_game_014" src="#homebrew_game_014_item"/>
+			<Query class="type:x-xmb/folder-pixmap" key="homebrew_game_015" attr="homebrew_game_015" src="#homebrew_game_015_item"/>
+			<Query class="type:x-xmb/folder-pixmap" key="homebrew_game_016" attr="homebrew_game_016" src="#homebrew_game_016_item"/>
+			<Query class="type:x-xmb/folder-pixmap" key="homebrew_game_017" attr="homebrew_game_017" src="#homebrew_game_017_item"/>
+			<Query class="type:x-xmb/folder-pixmap" key="homebrew_game_018" attr="homebrew_game_018" src="#homebrew_game_018_item"/>
+			<Query class="type:x-xmb/folder-pixmap" key="homebrew_game_019" attr="homebrew_game_019" src="#homebrew_game_019_item"/>
+			<Query class="type:x-xmb/folder-pixmap" key="homebrew_game_020" attr="homebrew_game_020" src="#homebrew_game_020_item"/>
+			<Query class="type:x-xmb/folder-pixmap" key="homebrew_game_059" attr="homebrew_game_059" src="#homebrew_game_059_item"/>
+			<Query class="type:x-xmb/folder-pixmap" key="homebrew_game_021" attr="homebrew_game_021" src="#homebrew_game_021_item"/>
+			<Query class="type:x-xmb/folder-pixmap" key="homebrew_game_060" attr="homebrew_game_060" src="#homebrew_game_060_item"/>
+			<Query class="type:x-xmb/folder-pixmap" key="homebrew_game_022" attr="homebrew_game_022" src="#homebrew_game_022_item"/>
+			<Query class="type:x-xmb/folder-pixmap" key="homebrew_game_023" attr="homebrew_game_023" src="#homebrew_game_023_item"/>
+			<Query class="type:x-xmb/folder-pixmap" key="homebrew_game_024" attr="homebrew_game_024" src="#homebrew_game_024_item"/>
+			<Query class="type:x-xmb/folder-pixmap" key="homebrew_game_025" attr="homebrew_game_025" src="#homebrew_game_025_item"/>
+			<Query class="type:x-xmb/folder-pixmap" key="homebrew_game_026" attr="homebrew_game_026" src="#homebrew_game_026_item"/>
+			<Query class="type:x-xmb/folder-pixmap" key="homebrew_game_027" attr="homebrew_game_027" src="#homebrew_game_027_item"/>
+			<Query class="type:x-xmb/folder-pixmap" key="homebrew_game_028" attr="homebrew_game_028" src="#homebrew_game_028_item"/>
+			<Query class="type:x-xmb/folder-pixmap" key="homebrew_game_029" attr="homebrew_game_029" src="#homebrew_game_029_item"/>
+			<Query class="type:x-xmb/folder-pixmap" key="homebrew_game_061" attr="homebrew_game_061" src="#homebrew_game_061_item"/>
+			<Query class="type:x-xmb/folder-pixmap" key="homebrew_game_030" attr="homebrew_game_030" src="#homebrew_game_030_item"/>
+			<Query class="type:x-xmb/folder-pixmap" key="homebrew_game_031" attr="homebrew_game_031" src="#homebrew_game_031_item"/>
+			<Query class="type:x-xmb/folder-pixmap" key="homebrew_game_032" attr="homebrew_game_032" src="#homebrew_game_032_item"/>
+			<Query class="type:x-xmb/folder-pixmap" key="homebrew_game_033" attr="homebrew_game_033" src="#homebrew_game_033_item"/>
+			<Query class="type:x-xmb/folder-pixmap" key="homebrew_game_034" attr="homebrew_game_034" src="#homebrew_game_034_item"/>
+			<Query class="type:x-xmb/folder-pixmap" key="homebrew_game_035" attr="homebrew_game_035" src="#homebrew_game_035_item"/>
+			<Query class="type:x-xmb/folder-pixmap" key="homebrew_game_036" attr="homebrew_game_036" src="#homebrew_game_036_item"/>
+			<Query class="type:x-xmb/folder-pixmap" key="homebrew_game_037" attr="homebrew_game_037" src="#homebrew_game_037_item"/>
+			<Query class="type:x-xmb/folder-pixmap" key="homebrew_game_038" attr="homebrew_game_038" src="#homebrew_game_038_item"/>
+			<Query class="type:x-xmb/folder-pixmap" key="homebrew_game_039" attr="homebrew_game_039" src="#homebrew_game_039_item"/>
+			<Query class="type:x-xmb/folder-pixmap" key="homebrew_game_040" attr="homebrew_game_040" src="#homebrew_game_040_item"/>
+			<Query class="type:x-xmb/folder-pixmap" key="homebrew_game_041" attr="homebrew_game_041" src="#homebrew_game_041_item"/>
+			<Query class="type:x-xmb/folder-pixmap" key="homebrew_game_042" attr="homebrew_game_042" src="#homebrew_game_042_item"/>
+			<Query class="type:x-xmb/folder-pixmap" key="homebrew_game_043" attr="homebrew_game_043" src="#homebrew_game_043_item"/>
+			<Query class="type:x-xmb/folder-pixmap" key="homebrew_game_044" attr="homebrew_game_044" src="#homebrew_game_044_item"/>
+			<Query class="type:x-xmb/folder-pixmap" key="homebrew_game_045" attr="homebrew_game_045" src="#homebrew_game_045_item"/>
+			<Query class="type:x-xmb/folder-pixmap" key="homebrew_game_046" attr="homebrew_game_046" src="#homebrew_game_046_item"/>
+			<Query class="type:x-xmb/folder-pixmap" key="homebrew_game_047" attr="homebrew_game_047" src="#homebrew_game_047_item"/>
+			<Query class="type:x-xmb/folder-pixmap" key="homebrew_game_048" attr="homebrew_game_048" src="#homebrew_game_048_item"/>
+			<Query class="type:x-xmb/folder-pixmap" key="homebrew_game_049" attr="homebrew_game_049" src="#homebrew_game_049_item"/>
+			<Query class="type:x-xmb/folder-pixmap" key="homebrew_game_050" attr="homebrew_game_050" src="#homebrew_game_050_item"/>
+			<Query class="type:x-xmb/folder-pixmap" key="homebrew_game_051" attr="homebrew_game_051" src="#homebrew_game_051_item"/>
+			<Query class="type:x-xmb/folder-pixmap" key="homebrew_game_052" attr="homebrew_game_052" src="#homebrew_game_052_item"/>
+			<Query class="type:x-xmb/folder-pixmap" key="homebrew_game_053" attr="homebrew_game_053" src="#homebrew_game_053_item"/>
+			<Query class="type:x-xmb/folder-pixmap" key="homebrew_game_054" attr="homebrew_game_054" src="#homebrew_game_054_item"/>
+			<Query class="type:x-xmb/folder-pixmap" key="homebrew_game_055" attr="homebrew_game_055" src="#homebrew_game_055_item"/>
+			<Query class="type:x-xmb/folder-pixmap" key="homebrew_game_056" attr="homebrew_game_056" src="#homebrew_game_056_item"/>
+			<Query class="type:x-xmb/folder-pixmap" key="homebrew_game_057" attr="homebrew_game_057" src="#homebrew_game_057_item"/>
+			<Query class="type:x-xmb/folder-pixmap" key="homebrew_game_058" attr="homebrew_game_058" src="#homebrew_game_058_item"/>
+		</Items>
+	</View>
+	
+	<View id="homebrew_game_001_item">
+		<Attributes>
+			<Table key="download">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>https://github.com/PS3-4K-Pro/Packages/releases/download/Games/2048.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>https://github.com/PS3-4K-Pro/Packages/releases/download/Games/2048.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>GP0001-RXGAM3004_00-0000111122223333</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/download.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>	<View id="homebrew_game_002_item">
+		<Attributes>
+			<Table key="download">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://github.com/PS3-4K-Pro/Packages/releases/download/Games/2PlayerPong.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://github.com/PS3-4K-Pro/Packages/releases/download/Games/2PlayerPong.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>UP0001-PONG00LSD_00-0000000000000000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/download.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>	<View id="homebrew_game_003_item">
+		<Attributes>
+			<Table key="download">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://github.com/PS3-4K-Pro/Packages/releases/download/Games/3CardMonte.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://github.com/PS3-4K-Pro/Packages/releases/download/Games/3CardMonte.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>UP0001-JCD00TEST_00-0000000000000000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/download.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>
+	
+	<View id="homebrew_game_004_item">
+		<Attributes>
+			<Table key="download">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>https://github.com/PS3-4K-Pro/Packages/releases/download/Games/AlienBreed.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>https://github.com/PS3-4K-Pro/Packages/releases/download/Games/AlienBreed.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>UP0001-ALIENBRED_00-0000000000000000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/download.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>	<View id="homebrew_game_005_item">
+		<Attributes>
+			<Table key="download">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://github.com/PS3-4K-Pro/Packages/releases/download/Games/Avoidance.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://github.com/PS3-4K-Pro/Packages/releases/download/Games/Avoidance.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>EP0001-AVOIDANCE_00-0000111122223333</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/download.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>
+
+	<View id="homebrew_game_006_item">
+		<Attributes>
+			<Table key="download">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://github.com/PS3-4K-Pro/Packages/releases/download/Games/Barulandia.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://github.com/PS3-4K-Pro/Packages/releases/download/Games/Barulandia.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>UP0001-SDL20BARU_00-0000000000000000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/download.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>
+
+	<View id="homebrew_game_007_item">
+		<Attributes>
+			<Table key="download">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://github.com/PS3-4K-Pro/Packages/releases/download/Games/BombermanHD.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://github.com/PS3-4K-Pro/Packages/releases/download/Games/BombermanHD.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>UP0001-BOMB00000_00-0000000000000000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/download.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>
+
+	<View id="homebrew_game_008_item">
+		<Attributes>
+			<Table key="download">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://github.com/PS3-4K-Pro/Packages/releases/download/Games/BreakOutX.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://github.com/PS3-4K-Pro/Packages/releases/download/Games/BreakOutX.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>UP0001-JBEB55555_00-0000111122223333</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/download.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>
+
+	<View id="homebrew_game_009_item">
+		<Attributes>
+			<Table key="download">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://github.com/PS3-4K-Pro/Packages/releases/download/Games/CascadeBeneath.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://github.com/PS3-4K-Pro/Packages/releases/download/Games/CascadeBeneath.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>UP0001-CASCADEBE_00-0000000000000000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/download.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>
+
+	<View id="homebrew_game_010_item"> 	
+		<Attributes>
+			<Table key="download">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://github.com/PS3-4K-Pro/Packages/releases/download/Games/Cherophobe.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://github.com/PS3-4K-Pro/Packages/releases/download/Games/Cherophobe.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>UP0001-CHEROPHOB_00-0000000000000000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/download.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>	<View id="homebrew_game_011_item">
+		<Attributes>
+			<Table key="download">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://github.com/PS3-4K-Pro/Packages/releases/download/Games/CodenameQuadtris.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://github.com/PS3-4K-Pro/Packages/releases/download/Games/CodenameQuadtris.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>UP0001-QUAD00LSD_00-0000000000000000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/download.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>
+	
+	<View id="homebrew_game_012_item">
+		<Attributes>
+			<Table key="download">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>https://github.com/PS3-4K-Pro/Packages/releases/download/Games/Cubicle_Shooter.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>https://github.com/PS3-4K-Pro/Packages/releases/download/Games/Cubicle_Shooter.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>OPSY4K-CUBE66666_00-1648597256315895</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/download.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>
+	
+	<View id="homebrew_game_013_item">
+		<Attributes>
+			<Table key="download">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>https://github.com/PS3-4K-Pro/Packages/releases/download/Games/Cubicle_Shooter_City.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>https://github.com/PS3-4K-Pro/Packages/releases/download/Games/Cubicle_Shooter_City.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>UP0001-CUBESCITY_00-0000000000000000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/download.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>
+
+	<View id="homebrew_game_014_item"> 	
+		<Attributes>
+			<Table key="download">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://github.com/PS3-4K-Pro/Packages/releases/download/Games/CylinderDodge.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://github.com/PS3-4K-Pro/Packages/releases/download/Games/CylinderDodge.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>EP0001-CYLINDERD_00-0000111122223333</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/download.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>
+	
+	<View id="homebrew_game_015_item"> 	
+		<Attributes>
+			<Table key="download">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://github.com/PS3-4K-Pro/Packages/releases/download/Games/DontGetCrushed.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://github.com/PS3-4K-Pro/Packages/releases/download/Games/DontGetCrushed.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>UP0001-DGCRUSHED_00-0000000000000000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/download.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>
+
+	<View id="homebrew_game_016_item">
+		<Attributes>
+			<Table key="download">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://github.com/PS3-4K-Pro/Packages/releases/download/Games/Dungeon.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://github.com/PS3-4K-Pro/Packages/releases/download/Games/Dungeon.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>DUNPS3-DUNGEON01_00-0000000000000000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/download.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>
+
+	<View id="homebrew_game_017_item">
+		<Attributes>
+			<Table key="download">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://github.com/PS3-4K-Pro/Packages/releases/download/Games/ElegantedRepitile.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://github.com/PS3-4K-Pro/Packages/releases/download/Games/ElegantedRepitile.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>UP0001-ELONLOREP_00-0000000000000000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/download.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>
+	
+	<View id="homebrew_game_018_item">
+		<Attributes>
+			<Table key="download">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>https://github.com/PS3-4K-Pro/Packages/releases/download/Games/Eskiss.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>https://github.com/PS3-4K-Pro/Packages/releases/download/Games/Eskiss.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>UP0001-ESKISS000_00-0000000000000000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/download.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>
+	
+	<View id="homebrew_game_019_item">
+		<Attributes>
+			<Table key="download">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>https://github.com/PS3-4K-Pro/Packages/releases/download/Games/Espionage.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>https://github.com/PS3-4K-Pro/Packages/releases/download/Games/Espionage.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>EP0001-RXESP3851_00-0000111122223333</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/download.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>
+
+	<View id="homebrew_game_020_item">
+		<Attributes>
+			<Table key="download">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://github.com/PS3-4K-Pro/Packages/releases/download/Games/FlappyBirdsFamily.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://github.com/PS3-4K-Pro/Packages/releases/download/Games/FlappyBirdsFamily.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>UP0001-FLAPBIRD0_00-0000000000000000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/download.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>
+
+	<View id="homebrew_game_021_item"> 	
+		<Attributes>
+			<Table key="download">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://github.com/PS3-4K-Pro/Packages/releases/download/Games/Gambol.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://github.com/PS3-4K-Pro/Packages/releases/download/Games/Gambol.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>UP0001-GAMBOL123_00-0000000000000000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/download.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>
+
+	<View id="homebrew_game_022_item"> 	
+		<Attributes>
+			<Table key="download">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://github.com/PS3-4K-Pro/Packages/releases/download/Games/GoodbyWorld.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://github.com/PS3-4K-Pro/Packages/releases/download/Games/GoodbyWorld.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>UP0001-GDBYEWRLD_00-0000000000000000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/download.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>
+
+	<View id="homebrew_game_023_item">
+		<Attributes>
+			<Table key="download">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://github.com/PS3-4K-Pro/Packages/releases/download/Games/HeroCity1.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://github.com/PS3-4K-Pro/Packages/releases/download/Games/HeroCity1.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>UP0001-HEROCITY1_00-0000000000000000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/download.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>
+
+	<View id="homebrew_game_024_item">
+		<Attributes>
+			<Table key="download">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://github.com/PS3-4K-Pro/Packages/releases/download/Games/HeroCity2.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://github.com/PS3-4K-Pro/Packages/releases/download/Games/HeroCity2.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>548526-HCTW00000_00-6458256154285985</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/download.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>
+
+	<View id="homebrew_game_025_item"> 	
+		<Attributes>
+			<Table key="download">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://github.com/PS3-4K-Pro/Packages/releases/download/Games/MazeGenerator.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://github.com/PS3-4K-Pro/Packages/releases/download/Games/MazeGenerator.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>UP0001-MAZEGENRT_00-0000000000000000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/download.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>
+	
+	<View id="homebrew_game_026_item"> 	
+		<Attributes>
+			<Table key="download">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>https://github.com/PS3-4K-Pro/Packages/releases/download/Games/NeoRace.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>https://github.com/PS3-4K-Pro/Packages/releases/download/Games/NeoRace.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>458264-NEOR66666_00-5454256518239721</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/download.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>
+
+	<View id="homebrew_game_027_item">
+		<Attributes>
+			<Table key="download">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://github.com/PS3-4K-Pro/Packages/releases/download/Games/NeoTanks.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://github.com/PS3-4K-Pro/Packages/releases/download/Games/NeoTanks.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>UP0001-NEOTANKS1_00-0000000000000000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/download.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>
+
+	<View id="homebrew_game_028_item">
+		<Attributes>
+			<Table key="download">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://github.com/PS3-4K-Pro/Packages/releases/download/Games/NeoTrail.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://github.com/PS3-4K-Pro/Packages/releases/download/Games/NeoTrail.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>UP0001-NEOTRAIL1_00-0000000000000000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/download.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>
+	
+	<View id="homebrew_game_029_item">
+		<Attributes>
+			<Table key="download">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>https://github.com/PS3-4K-Pro/Packages/releases/download/Games/Paintown.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>https://github.com/PS3-4K-Pro/Packages/releases/download/Games/Paintown.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>UP0001-PAINTOWN2_00-0000000000000000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/download.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>
+
+	<View id="homebrew_game_030_item">
+		<Attributes>
+			<Table key="download">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>https://github.com/PS3-4K-Pro/Packages/releases/download/Games/Pongus.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>https://github.com/PS3-4K-Pro/Packages/releases/download/Games/Pongus.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>UP0001-HBRW00001_00-0000000000000000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/download.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>
+	
+	<View id="homebrew_game_031_item">
+		<Attributes>
+			<Table key="download">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>https://github.com/PS3-4K-Pro/Packages/releases/download/Games/PS3Noid.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>https://github.com/PS3-4K-Pro/Packages/releases/download/Games/PS3Noid.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>IV0000-GFX012345_00-1234567891234567</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/download.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>
+	
+	<View id="homebrew_game_032_item">
+		<Attributes>
+			<Table key="download">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>https://github.com/PS3-4K-Pro/Packages/releases/download/Games/PS3Pong.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>https://github.com/PS3-4K-Pro/Packages/releases/download/Games/PS3Pong.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>UP0001-TEST12345_00-0000111122223333</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/download.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>
+	
+	<View id="homebrew_game_033_item">
+		<Attributes>
+			<Table key="download">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>https://github.com/PS3-4K-Pro/Packages/releases/download/Games/PS3Tetris.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>https://github.com/PS3-4K-Pro/Packages/releases/download/Games/PS3Tetris.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>UP0001-TEST00003_00-0000000000000000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/download.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>
+	
+	<View id="homebrew_game_034_item">
+		<Attributes>
+			<Table key="download">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://github.com/PS3-4K-Pro/Packages/releases/download/Games/ResidentEvilOperationPaintown.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://github.com/PS3-4K-Pro/Packages/releases/download/Games/ResidentEvilOperationPaintown.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>EP0001-EVIL00095_00-0000111122223333</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/download.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>
+	
+	<View id="homebrew_game_035_item">
+		<Attributes>
+			<Table key="download">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>https://github.com/PS3-4K-Pro/Packages/releases/download/Games/Scooger.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>https://github.com/PS3-4K-Pro/Packages/releases/download/Games/Scooger.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>UP0001-SCOG00001_00-0000000000000000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/download.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>
+
+	<View id="homebrew_game_036_item">
+		<Attributes>
+			<Table key="download">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://github.com/PS3-4K-Pro/Packages/releases/download/Games/SGTPuzzle.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://github.com/PS3-4K-Pro/Packages/releases/download/Games/SGTPuzzle.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>UP0001-SGTPZL010_00-0000000000000000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/download.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>
+
+	<View id="homebrew_game_037_item"> 	
+		<Attributes>
+			<Table key="download">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://github.com/PS3-4K-Pro/Packages/releases/download/Games/SketchFight.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://github.com/PS3-4K-Pro/Packages/releases/download/Games/SketchFight.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>EP0001-SKETCHFIT_00-0000111122223333</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/download.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>
+	
+	<View id="homebrew_game_038_item"> 	
+		<Attributes>
+			<Table key="download">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>https://github.com/PS3-4K-Pro/Packages/releases/download/Games/SlimeRoll.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>https://github.com/PS3-4K-Pro/Packages/releases/download/Games/SlimeRoll.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>UP0001-SLIMEROLL_00-0000000000000000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/download.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>
+	
+	<View id="homebrew_game_039_item"> 	
+		<Attributes>
+			<Table key="download">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>https://github.com/PS3-4K-Pro/Packages/releases/download/Games/SpinPong.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>https://github.com/PS3-4K-Pro/Packages/releases/download/Games/SpinPong.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>UP0001-SPNP12345_00-1000111122223333</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/download.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>
+	
+	<View id="homebrew_game_040_item"> 	
+		<Attributes>
+			<Table key="download">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>https://github.com/PS3-4K-Pro/Packages/releases/download/Games/Streets_Of_Rage.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>https://github.com/PS3-4K-Pro/Packages/releases/download/Games/Streets_Of_Rage.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>EP0001-SOR000095_00-0000111122223333</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/download.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>
+
+	<View id="homebrew_game_041_item"> 	
+		<Attributes>
+			<Table key="download">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://github.com/PS3-4K-Pro/Packages/releases/download/Games/Supaplex.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://github.com/PS3-4K-Pro/Packages/releases/download/Games/Supaplex.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>UP0001-OSPX00001_00-0000000000000000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/download.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>
+
+	<View id="homebrew_game_042_item"> 	
+		<Attributes>
+			<Table key="download">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://github.com/PS3-4K-Pro/Packages/releases/download/Games/SuperPixelJumper.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://github.com/PS3-4K-Pro/Packages/releases/download/Games/SuperPixelJumper.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>UP0001-SUPERJUMP_00-0000000000000000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/download.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>
+	
+	<View id="homebrew_game_043_item">
+		<Attributes>
+			<Table key="download">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://github.com/PS3-4K-Pro/Packages/releases/download/Games/Swingball2.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://github.com/PS3-4K-Pro/Packages/releases/download/Games/Swingball2.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>EP0001-SWINGBAL2_00-0000111122223333</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/download.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>
+	
+	<View id="homebrew_game_044_item">
+		<Attributes>
+			<Table key="download">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>https://github.com/PS3-4K-Pro/Packages/releases/download/Games/Swing_Copters.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>https://github.com/PS3-4K-Pro/Packages/releases/download/Games/Swing_Copters.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>UP0001-SWINGCOP0_00-0000000000000000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/download.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>
+	
+	<View id="homebrew_game_045_item">
+		<Attributes>
+			<Table key="download">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>https://github.com/PS3-4K-Pro/Packages/releases/download/Games/TetrisEOL.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>https://github.com/PS3-4K-Pro/Packages/releases/download/Games/TetrisEOL.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>UP0001-TETRISEOL_00-0000000000000000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/download.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>
+
+	<View id="homebrew_game_046_item">
+		<Attributes>
+			<Table key="download">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://github.com/PS3-4K-Pro/Packages/releases/download/Games/ThatOtherPong.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://github.com/PS3-4K-Pro/Packages/releases/download/Games/ThatOtherPong.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>UP0001-THATOPONG_00-0000000000000000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/download.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>
+	
+	<View id="homebrew_game_047_item">
+		<Attributes>
+			<Table key="download">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>https://github.com/PS3-4K-Pro/Packages/releases/download/Games/That_Other_Space_Shooter.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>https://github.com/PS3-4K-Pro/Packages/releases/download/Games/That_Other_Space_Shooter.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>UP0001-TOSC66666_00-0000000000000001</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/download.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>
+	
+	<View id="homebrew_game_048_item">
+		<Attributes>
+			<Table key="download">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>https://github.com/PS3-4K-Pro/Packages/releases/download/Games/TheCatachthonic.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>https://github.com/PS3-4K-Pro/Packages/releases/download/Games/TheCatachthonic.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>548526-CATA00000_00-6458256154285985</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/download.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>
+
+	<View id="homebrew_game_049_item">
+		<Attributes>
+			<Table key="download">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://github.com/PS3-4K-Pro/Packages/releases/download/Games/TheJarredMind3.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://github.com/PS3-4K-Pro/Packages/releases/download/Games/TheJarredMind3.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>UP0001-TJARMIND3_00-0000000000000000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/download.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>
+	
+	<View id="homebrew_game_050_item">
+		<Attributes>
+			<Table key="download">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://github.com/PS3-4K-Pro/Packages/releases/download/Games/TheUnmappedForest.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://github.com/PS3-4K-Pro/Packages/releases/download/Games/TheUnmappedForest.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>UP0001-UNMAPPEDF_00-0000000000000000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/download.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>
+
+	<View id="homebrew_game_051_item">
+		<Attributes>
+			<Table key="download">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://github.com/PS3-4K-Pro/Packages/releases/download/Games/TheyDoNotDie2.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://github.com/PS3-4K-Pro/Packages/releases/download/Games/TheyDoNotDie2.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>UP0001-DONOTDIE2_00-0000000000000000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/download.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>
+	
+	<View id="homebrew_game_052_item">
+		<Attributes>
+			<Table key="download">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>https://github.com/PS3-4K-Pro/Packages/releases/download/Games/The_World_Drowns.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>https://github.com/PS3-4K-Pro/Packages/releases/download/Games/The_World_Drowns.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>849573-DROW66666_00-9458264715152536</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/download.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>
+	
+	<View id="homebrew_game_053_item">
+		<Attributes>
+			<Table key="download">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>https://github.com/PS3-4K-Pro/Packages/releases/download/Games/TronClone.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>https://github.com/PS3-4K-Pro/Packages/releases/download/Games/TronClone.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>UP0001-TRONMSDOS_00-0000111122223333</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/download.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>
+
+	<View id="homebrew_game_054_item">
+		<Attributes>
+			<Table key="download">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://github.com/PS3-4K-Pro/Packages/releases/download/Games/UFORacer.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://github.com/PS3-4K-Pro/Packages/releases/download/Games/UFORacer.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>548526-UFOR00000_00-6458256154285985</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/download.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>
+	
+	<View id="homebrew_game_055_item">
+		<Attributes>
+			<Table key="download">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>https://github.com/PS3-4K-Pro/Packages/releases/download/Games/Untitled_Pokemon_Project.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>https://github.com/PS3-4K-Pro/Packages/releases/download/Games/Untitled_Pokemon_Project.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>UP0001-POCKETMON_00-0000000000000000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/download.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>
+	
+	<View id="homebrew_game_056_item">
+		<Attributes>
+			<Table key="download">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://github.com/PS3-4K-Pro/Packages/releases/download/Games/WallPong.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://github.com/PS3-4K-Pro/Packages/releases/download/Games/WallPong.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>UP0001-PNG00TEST_00-0000000000000000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/download.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>
+	
+	<View id="homebrew_game_057_item">
+		<Attributes>
+			<Table key="download">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://github.com/PS3-4K-Pro/Packages/releases/download/Games/WeAreNowhere.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://github.com/PS3-4K-Pro/Packages/releases/download/Games/WeAreNowhere.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>UP0001-WRNOWHERE_00-0000000000000000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/download.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>
+	
+	<View id="homebrew_game_058_item">
+		<Attributes>
+			<Table key="download">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>https://github.com/PS3-4K-Pro/Packages/releases/download/Games/WinterEnd.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>https://github.com/PS3-4K-Pro/Packages/releases/download/Games/WinterEnd.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>UP0001-WINTERSEN_00-0000000000000000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/download.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>
+	
+	<View id="homebrew_game_059_item">
+		<Attributes>
+			<Table key="download">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://github.com/PS3-4K-Pro/Packages/releases/download/Games/Fursan_Aqsa_-_Demo.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://github.com/PS3-4K-Pro/Packages/releases/download/Games/Fursan_Aqsa_-_Demo.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>UP9000-FAQSAEP01_00-0000000000000000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/download.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>
+	
+	<View id="homebrew_game_060_item">
+		<Attributes>
+			<Table key="download">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://github.com/PS3-4K-Pro/Packages/releases/download/Games/Gears_Of_Kombat.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://github.com/PS3-4K-Pro/Packages/releases/download/Games/Gears_Of_Kombat.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>UP0001-GOFKOMBAT_00-0000000000000000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/download.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>
+	
+	<View id="homebrew_game_061_item">
+		<Attributes>
+			<Table key="download">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://github.com/PS3-4K-Pro/Packages/releases/download/Games/Pintor_-_Sony_vs_Hackers.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://github.com/PS3-4K-Pro/Packages/releases/download/Games/Pintor_-_Sony_vs_Hackers.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>UP0001-PINTOR001_00-0000000000000000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/download.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>
+	
+	<!-- Bubble Bobble Modes -->
+	<View id="seg_homebrew_game_062_items">
+		<Attributes>
+			<!-- Normal Mode  -->
+			<Table key="homebrew_game_062_normal">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/homebrew_game_icons/bubble_bobble_-_normal.png</String></Pair>
+				<Pair key="title"><String>Normal Version</String></Pair>
+			</Table>
+			<!-- Parent Mode -->
+			<Table key="homebrew_game_062_parent">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/homebrew_game_icons/bubble_bobble_-_parent.png</String></Pair>
+				<Pair key="title"><String>Parent Version</String></Pair>
+			</Table>
+			<!-- Maniac Mode -->
+			<Table key="homebrew_game_062_maniac">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/homebrew_game_icons/bubble_bobble_-_maniac.png</String></Pair>
+				<Pair key="title"><String>Maniac Version</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/folder-pixmap" key="homebrew_game_062_normal" attr="homebrew_game_062_normal" src="#homebrew_game_062_normal_item"/>
+			<Query class="type:x-xmb/folder-pixmap" key="homebrew_game_062_parent" attr="homebrew_game_062_parent" src="#homebrew_game_062_parent_item"/>
+			<Query class="type:x-xmb/folder-pixmap" key="homebrew_game_062_maniac" attr="homebrew_game_062_maniac" src="#homebrew_game_062_maniac_item"/>
+		</Items>
+	</View>
+	
+	<View id="homebrew_game_062_normal_item">
+		<Attributes>
+			<Table key="download">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>https://github.com/PS3-4K-Pro/Packages/releases/download/Games/Bubble_Bobble_-_Normal.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>https://github.com/PS3-4K-Pro/Packages/releases/download/Games/Bubble_Bobble_-_Normal.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>UP0001-BUBL00002_00-0000000000000000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/download.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>
+	
+	<View id="homebrew_game_062_parent_item">
+		<Attributes>
+			<Table key="download">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>https://github.com/PS3-4K-Pro/Packages/releases/download/Games/Bubble_Bobble_-_Parent.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>https://github.com/PS3-4K-Pro/Packages/releases/download/Games/Bubble_Bobble_-_Parent.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>UP0001-BUBL00003_00-0000000000000000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/download.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>
+	
+	<View id="homebrew_game_062_maniac_item">
+		<Attributes>
+			<Table key="download">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>https://github.com/PS3-4K-Pro/Packages/releases/download/Games/Bubble_Bobble_-_Maniac.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>https://github.com/PS3-4K-Pro/Packages/releases/download/Games/Bubble_Bobble_-_Maniac.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>UP0001-BUBL00004_00-0000000000000000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/download.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>
+</XMBML>
