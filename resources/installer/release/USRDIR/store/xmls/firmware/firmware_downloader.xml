@@ -1,0 +1,1236 @@
+<!-- This is part of PS3™ 4K Pro by Luan Teles - 01/02/2020 - DD/MM/YY -->
+
+<XMBML version="1.0">
+	<!-- XMB™ Menu > PlayStation™Network Category > Unofficial®Stores > Essential Applications > System Software -->
+	<View id="seg_firmware_downloader_items">
+		<Attributes>
+			<Table key="focus_item">
+				<Pair key="focus_priority"><String>-80</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/folder-pixmap" key="hdd_reserved_space_unlocker" src="#seg_hdd_reserved_space_unlocker_item"/>
+			<Query class="type:x-xmb/folder-pixmap" key="seg_system_firmwares" attr="focus_item" src="#seg_system_firmwares"/>
+		</Items>
+	</View>
+	
+	<!-- XMB™ Menu > PlayStation™Network Category > Unofficial®Stores > Essential Applications > System Software -->
+	<View id="seg_hdd_reserved_space_unlocker_item">
+		<Attributes>
+			<!-- System Reserved Storage Space -->
+			<Table key="hdd_reserved_space_unlocker">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/firmware_icons/hdd_unlock.png</String></Pair>
+				<Pair key="title"><String>Espaço de Reservado do Sistema</String></Pair>
+				<Pair key="info"><String>Ativa/Desativa a reserva de 8% do armazenamento interno para otimização do sistema.</String></Pair>
+				<Pair key="module_action"><String>toggle_hdd_space</String></Pair>
+				<Pair key="module_name"><String>xai_plugin</String></Pair>
+				<Pair key="bar_action"><String>none</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Item class="type:x-xmb/module-action" key="hdd_reserved_space_unlocker" attr="hdd_reserved_space_unlocker"/>
+		</Items>
+	</View>
+	
+	<!-- XMB™ Menu > PlayStation™Network Category > Unofficial®Stores > Essential Applications > System Software > -->
+	<View id="seg_system_firmwares">
+		<Attributes>
+			<!-- System Firwares --> 
+			<Table key="system_firmwares">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/firmware_icons/firmware.png</String></Pair>
+				<Pair key="title"><String>Firmware do Sistema</String></Pair>
+				<Pair key="info"><String>Baixe a ultima versão de diversos tipos de firmware.</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/folder-pixmap" key="system_firmwares" attr="system_firmwares" src="#seg_system_firmwares_items"/>
+		</Items>
+	</View>
+	
+	<!-- XMB™ Menu > PlayStation™Network Category > Unofficial®Stores > Essential Applications > System Software > System Firmware > -->
+	<View id="seg_system_firmwares_items">
+		<Attributes>
+			<!-- Debug System Update --> 
+			<Table key="debug_system_update">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/firmware_icons/software_update_mode.png</String></Pair>
+				<Pair key="title"><String>Modo de Atualização do Sistema</String></Pair>
+				<Pair key="info"><String>Ativa/Desativa o modo debug do menu de atualização do sistema.
+				
+				Aviso: Requer webMAN MOD instalado.</String></Pair>
+				<Pair key="fo_lbl2_alpha"><String>0</String></Pair>
+			</Table>
+			<!-- Regular Firmwares --> 
+			<Table key="essentials_firmware_regular">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/firmware_icons/folder.png</String></Pair>
+				<Pair key="title"><String>Firmwares Normais</String></Pair>
+				<Pair key="info"><String>Baixe firmwares normais para consoles totalmente funcionais.</String></Pair>
+			</Table>
+			<!-- Special Firmwares --> 
+			<Table key="essentials_firmware_special">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/firmware_icons/folder.png</String></Pair>
+				<Pair key="title"><String>Firmwares Especiais</String></Pair>
+				<Pair key="info"><String>Baixe firmwares especiais para consoles com problemas de hardware.</String></Pair>
+			</Table>
+			<!-- Overcloked Firmwares --> 
+			<Table key="essentials_firmware_overclocked">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/firmware_icons/folder.png</String></Pair>
+				<Pair key="title"><String>Firmwares com Overclock</String></Pair>
+				<Pair key="info"><String>Baixe firmwares personalizados com patches de overclock aplicados.</String></Pair>
+			</Table>
+			<!-- Firmware Manager -->
+			<Table key="essentials_firmware_manager">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/firmware_icons/folder_firmware.png</String></Pair>
+				<Pair key="title"><String>Gerenciador de Firmwares</String></Pair>
+				<Pair key="info"><String>Mostra todos os arquivos de firmware no disco rígido e nas unidades USB.</String></Pair>
+				<Pair key="child"><String>segment</String></Pair>
+				<Pair key="str_noitem"><String>msg_error_no_content</String></Pair>
+			</Table>
+			<!-- Information -->
+			<Table key="essentials_firmware_information">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/about.png</String></Pair>
+				<Pair key="title"><String>Informações</String></Pair>
+				<Pair key="info"><String>Mostra informações sobre os tipos de firmwares.</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>javascript:window.resizeTo(screen.width,screen.height);window.location.assign("http://ps3-4k-pro.github.io/Guides/files/system_firmwares.html");</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/folder-pixmap" key="debug_system_update" attr="debug_system_update" src="#seg_debug_system_update_items"/>
+			<Query class="type:x-xmb/folder-pixmap" key="essentials_firmware_regular" attr="essentials_firmware_regular" src="#seg_essentials_firmware_regular_items"/>
+			<Query class="type:x-xmb/folder-pixmap" key="essentials_firmware_special" attr="essentials_firmware_special" src="#seg_essentials_firmware_special_items"/>
+			<Query class="type:x-xmb/folder-pixmap" key="essentials_firmware_overclocked" attr="essentials_firmware_overclocked" src="#seg_essentials_firmware_overclocked_items"/>
+			<Query class="type:x-xmb/folder-pixmap" key="essentials_firmware_manager" attr="essentials_firmware_manager" src="#seg_essentials_firmware_manager_items"/>
+			<Item class="type:x-xmb/module-action" key="essentials_firmware_information" attr="essentials_firmware_information"/>
+		</Items>
+	</View>
+	
+	<View id="seg_debug_system_update_items">
+		<Attributes>
+			<Table key="shared_actions">
+				<Pair key="module_name"><String>idle_plugin</String></Pair>
+				<Pair key="bar_action"><String>none</String></Pair>
+			</Table>
+			<!-- Enable Debug System Update -->
+			<Table key="enable_debug_system_update" include="shared_actions">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/firmware_icons/step.png</String></Pair>
+				<Pair key="title"><String>Modo Debug</String></Pair>
+				<Pair key="info"><String>Ativa o modo de atualização do sistema debug, oferencendo novas opções como a instalação e armazenamento de firmwares através do disco rígido interno
+				
+				Aviso: O sistema será reiniciado para as alterações entrarem em vigor, o desbloqueio deve estar ativado para as opções serem mostradas.</String></Pair>
+				<Pair key="module_action"><String>/beep.ps3?1;/popup.ps3/O sistema será reiniciado!;/xmb.ps3$xregistry(/setting/system/debugSystemUpdate)=1;/wait?10;/reboot.ps3?quick</String></Pair>
+			</Table>
+			<!-- Disable Debug System Update -->
+			<Table key="enable_retail_system_update" include="shared_actions">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/firmware_icons/step.png</String></Pair>
+				<Pair key="title"><String>Modo Retail</String></Pair>
+				<Pair key="info"><String>Ativa o modo de atualização do sistema retail, possibilitando apenas a instalação de firmwares via dispositivos USB e via internet
+				
+				Aviso: O sistema será reiniciado para as alterações entrarem em vigor.</String></Pair>
+				<Pair key="module_action"><String>/beep.ps3?1;/popup.ps3/O sistema será reiniciado!;/xmb.ps3$xregistry(/setting/system/debugSystemUpdate)=0;/wait?10;/reboot.ps3?quick</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Item class="type:x-xmb/module-action" key="enable_debug_system_update" attr="enable_debug_system_update"/>
+			<Item class="type:x-xmb/module-action" key="enable_retail_system_update" attr="enable_retail_system_update"/>
+		</Items>
+	</View>
+	
+	<View id="seg_essentials_firmware_regular_items">
+		<Attributes>
+			<!-- Official Firmware -->
+			<Table key="essentials_firmware_ofw">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/firmware_icons/update_download.png</String></Pair>
+				<Pair key="title"><String>Firmware Official</String></Pair>
+				<Pair key="info"><String>Baixa o firmware oficial mais recente disponível.</String></Pair>
+			</Table>
+			<!-- Hybrid Firmware -->
+			<Table key="essentials_firmware_hfw">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/firmware_icons/update_download.png</String></Pair>
+				<Pair key="title"><String>Firmware Híbrido</String></Pair>
+				<Pair key="info"><String>Baixa o firmware híbrido mais recente disponível.</String></Pair>
+			</Table>
+			<!-- Custom Firmware -->
+			<Table key="essentials_firmware_cfw">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/firmware_icons/update_download.png</String></Pair>
+				<Pair key="title"><String>Firmware Customizado</String></Pair>
+				<Pair key="info"><String>Baixa o firmware customizado mais recente disponível.</String></Pair>
+			</Table>
+			<!-- Rebug Firmware -->
+			<Table key="essentials_firmware_rbg">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/firmware_icons/update_download.png</String></Pair>
+				<Pair key="title"><String>Firmware Rebug</String></Pair>
+				<Pair key="info"><String>Baixa o firmware rebug mais recente disponível.</String></Pair>
+			</Table>
+			<!-- Debug Firmware -->
+			<Table key="essentials_firmware_dex">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/firmware_icons/update_download.png</String></Pair>
+				<Pair key="title"><String>Firmware Debug</String></Pair>
+				<Pair key="info"><String>Baixa o firmware debug mais recente disponível.</String></Pair>
+			</Table>
+			<!-- Dual Firmware -->
+			<Table key="essentials_firmware_dfw">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/firmware_icons/update_download.png</String></Pair>
+				<Pair key="title"><String>Firmware Dual Boot</String></Pair>
+				<Pair key="info"><String>Baixa o firmware dual boot mais recente disponível.</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/folder-pixmap" key="essentials_firmware_ofw" attr="essentials_firmware_ofw" src="#seg_essentials_firmware_ofw_items"/>
+			<Query class="type:x-xmb/folder-pixmap" key="essentials_firmware_hfw" attr="essentials_firmware_hfw" src="#seg_essentials_firmware_hfw_items"/>
+			<Query class="type:x-xmb/folder-pixmap" key="essentials_firmware_cfw" attr="essentials_firmware_cfw" src="#seg_essentials_firmware_cfw_items"/>
+			<Query class="type:x-xmb/folder-pixmap" key="essentials_firmware_rbg" attr="essentials_firmware_rbg" src="#seg_essentials_firmware_rbg_items"/>
+			<Query class="type:x-xmb/folder-pixmap" key="essentials_firmware_dex" attr="essentials_firmware_dex" src="#seg_essentials_firmware_dex_items"/>
+			<Query class="type:x-xmb/folder-pixmap" key="essentials_firmware_dfw" attr="essentials_firmware_dfw" src="#seg_essentials_firmware_dfw_items"/>
+		</Items>
+	</View>
+
+	<!-- XMB™ Menu > Game Category > File Manager > Essentials Applications > Firmwares > Regular Firmwares > Oficial Firmware -->
+	<View id="seg_essentials_firmware_ofw_items">
+		<Attributes>
+			<!-- Download Firmware to USB -->
+			<Table key="essentials_firmware_ofw_usb">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/firmware_icons/usb.png</String></Pair>
+				<Pair key="title"><String>Baixar no USB</String></Pair>
+				<Pair key="info"><String>Baixa o firmware para /dev_usb000/PS3/UPDATE/. (Porta Direita)</String></Pair>
+			</Table>
+			<!-- Download Firmware to HDD -->
+			<Table key="essentials_firmware_ofw_hdd">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/firmware_icons/hdd.png</String></Pair>
+				<Pair key="title"><String>Baixar no HDD</String></Pair>
+				<Pair key="info"><String>Baixa o firmware para /dev_hdd0/updater/01/
+
+				Aviso: A Depuração de Atualização do Sistema deve ser ativada atráves de:
+				[Configurações] > (Debug Settings) > [Debug System Update].</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/folder-pixmap" key="essentials_firmware_ofw_usb" attr="essentials_firmware_ofw_usb" src="#essentials_firmware_ofw_usb_item"/>
+			<Query class="type:x-xmb/folder-pixmap" key="essentials_firmware_ofw_hdd" attr="essentials_firmware_ofw_hdd" src="#essentials_firmware_ofw_hdd_item"/>
+		</Items>
+	</View>
+
+	<View id="essentials_firmware_ofw_usb_item"> 	
+		<Attributes>
+			<Table key="firmware_ofw_download">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://github.com/PS3-4K-Pro/Firmwares/releases/download/Regular/Official_Firmware_USB.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://github.com/PS3-4K-Pro/Firmwares/releases/download/Regular/Official_Firmware_USB.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>PS3OFW-INSTALLER_00-0000000000000000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/download.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="firmware_ofw_download" attr="firmware_ofw_download"/>
+		</Items>
+	</View>
+	
+	<View id="essentials_firmware_ofw_hdd_item"> 	
+		<Attributes>
+			<Table key="firmware_ofw_download">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://github.com/PS3-4K-Pro/Firmwares/releases/download/Regular/Official_Firmware_HDD.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://github.com/PS3-4K-Pro/Firmwares/releases/download/Regular/Official_Firmware_HDD.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>PS3OFW-INSTALLER_00-0000000000000000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/download.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="firmware_ofw_download" attr="firmware_ofw_download"/>
+		</Items>
+	</View>
+	
+	<!-- XMB™ Menu > Game Category > File Manager > Essentials Applications > Firmwares > Regular Firmwares > Hybrid Firmware -->
+	<View id="seg_essentials_firmware_hfw_items">
+		<Attributes>
+			<!-- Download Firmware to USB -->
+			<Table key="essentials_firmware_hfw_usb">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/firmware_icons/usb.png</String></Pair>
+				<Pair key="title"><String>Baixar no USB</String></Pair>
+				<Pair key="info"><String>Baixa o firmware para /dev_usb000/PS3/UPDATE/. (Porta Direita)</String></Pair>
+			</Table>
+			<!-- Download Firmware to HDD -->
+			<Table key="essentials_firmware_hfw_hdd">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/firmware_icons/hdd.png</String></Pair>
+				<Pair key="title"><String>Baixar no HDD</String></Pair>
+				<Pair key="info"><String>Baixa o firmware para /dev_hdd0/updater/01/
+				
+				Aviso: A Depuração de Atualização do Sistema deve ser ativada atráves de:
+				[Configurações] > (Debug Settings) > [Debug System Update].</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/folder-pixmap" key="essentials_firmware_hfw_usb" attr="essentials_firmware_hfw_usb" src="#essentials_firmware_hfw_usb_item"/>
+			<Query class="type:x-xmb/folder-pixmap" key="essentials_firmware_hfw_hdd" attr="essentials_firmware_hfw_hdd" src="#essentials_firmware_hfw_hdd_item"/>
+		</Items>
+	</View>
+
+	<View id="essentials_firmware_hfw_usb_item"> 	
+		<Attributes>
+			<Table key="firmware_hfw_download">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://github.com/PS3-4K-Pro/Firmwares/releases/download/Regular/Hybrid_Firmware_USB.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://github.com/PS3-4K-Pro/Firmwares/releases/download/Regular/Hybrid_Firmware_USB.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>PS3HFW-INSTALLER_00-0000000000000000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/download.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="firmware_hfw_download" attr="firmware_hfw_download"/>
+		</Items>
+	</View>
+	
+	<View id="essentials_firmware_hfw_hdd_item"> 	
+		<Attributes>
+			<Table key="firmware_hfw_download">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://github.com/PS3-4K-Pro/Firmwares/releases/download/Regular/Hybrid_Firmware_HDD.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://github.com/PS3-4K-Pro/Firmwares/releases/download/Regular/Hybrid_Firmware_HDD.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>PS3HFW-INSTALLER_00-0000000000000000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/download.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="firmware_hfw_download" attr="firmware_hfw_download"/>
+		</Items>
+	</View>
+	
+	<!-- XMB™ Menu > Game Category > File Manager > Essentials Applications > Firmwares > Regular Firmwares > Custom Firmware -->
+	<View id="seg_essentials_firmware_cfw_items">
+		<Attributes>
+			<!-- Download Firmware to USB -->
+			<Table key="essentials_firmware_cfw_usb">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/firmware_icons/usb.png</String></Pair>
+				<Pair key="title"><String>Baixar no USB</String></Pair>
+				<Pair key="info"><String>Baixa o firmware para /dev_usb000/PS3/UPDATE/. (Porta Direita)</String></Pair>
+			</Table>
+			<!-- Download Firmware to HDD -->
+			<Table key="essentials_firmware_cfw_hdd">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/firmware_icons/hdd.png</String></Pair>
+				<Pair key="title"><String>Baixar no HDD</String></Pair>
+				<Pair key="info"><String>Baixa o firmware para /dev_hdd0/updater/01/
+				
+				Aviso: A Depuração de Atualização do Sistema deve ser ativada atráves de:
+				[Configurações] > (Debug Settings) > [Debug System Update].</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/folder-pixmap" key="essentials_firmware_cfw_usb" attr="essentials_firmware_cfw_usb" src="#essentials_firmware_cfw_usb_item"/>
+			<Query class="type:x-xmb/folder-pixmap" key="essentials_firmware_cfw_hdd" attr="essentials_firmware_cfw_hdd" src="#essentials_firmware_cfw_hdd_item"/>
+		</Items>
+	</View>
+
+	<View id="essentials_firmware_cfw_usb_item"> 	
+		<Attributes>
+			<Table key="firmware_cfw_download">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://github.com/PS3-4K-Pro/Firmwares/releases/download/Regular/Custom_Firmware_USB.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://github.com/PS3-4K-Pro/Firmwares/releases/download/Regular/Custom_Firmware_USB.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>PS3CFW-INSTALLER_00-0000000000000000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/download.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="firmware_cfw_download" attr="firmware_cfw_download"/>
+		</Items>
+	</View>
+	
+	<View id="essentials_firmware_cfw_hdd_item"> 	
+		<Attributes>
+			<Table key="firmware_cfw_download">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://github.com/PS3-4K-Pro/Firmwares/releases/download/Regular/Custom_Firmware_HDD.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://github.com/PS3-4K-Pro/Firmwares/releases/download/Regular/Custom_Firmware_HDD.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>PS3CFW-INSTALLER_00-0000000000000000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/download.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="firmware_cfw_download" attr="firmware_cfw_download"/>
+		</Items>
+	</View>
+	
+	<!-- XMB™ Menu > Game Category > File Manager > Essentials Applications > Firmwares > Regular Firmwares > Rebug Firmware -->
+	<View id="seg_essentials_firmware_rbg_items">
+		<Attributes>
+			<!-- Download Firmware to USB -->
+			<Table key="essentials_firmware_rbg_usb">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/firmware_icons/usb.png</String></Pair>
+				<Pair key="title"><String>Baixar no USB</String></Pair>
+				<Pair key="info"><String>Baixa o firmware para /dev_usb000/PS3/UPDATE/. (Porta Direita)</String></Pair>
+			</Table>
+			<!-- Download Firmware to HDD -->
+			<Table key="essentials_firmware_rbg_hdd">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/firmware_icons/hdd.png</String></Pair>
+				<Pair key="title"><String>Baixar no HDD</String></Pair>
+				<Pair key="info"><String>Baixa o firmware para /dev_hdd0/updater/01/
+				
+				Aviso: A Depuração de Atualização do Sistema deve ser ativada atráves de:
+				[Configurações] > (Debug Settings) > [Debug System Update].</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/folder-pixmap" key="essentials_firmware_rbg_usb" attr="essentials_firmware_rbg_usb" src="#essentials_firmware_rbg_usb_item"/>
+			<Query class="type:x-xmb/folder-pixmap" key="essentials_firmware_rbg_hdd" attr="essentials_firmware_rbg_hdd" src="#essentials_firmware_rbg_hdd_item"/>
+		</Items>
+	</View>
+	
+	<View id="essentials_firmware_rbg_usb_item"> 	
+		<Attributes>
+			<Table key="firmware_rbg_download">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://github.com/PS3-4K-Pro/Firmwares/releases/download/Regular/Rebug_Firmware_USB.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://github.com/PS3-4K-Pro/Firmwares/releases/download/Regular/Rebug_Firmware_USB.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>PS3RBG-INSTALLER_00-0000000000000000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/download.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="firmware_rbg_download" attr="firmware_rbg_download"/>
+		</Items>
+	</View>
+	
+	<View id="essentials_firmware_rbg_hdd_item"> 	
+		<Attributes>
+			<Table key="firmware_rbg_download">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://github.com/PS3-4K-Pro/Firmwares/releases/download/Regular/Rebug_Firmware_HDD.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://github.com/PS3-4K-Pro/Firmwares/releases/download/Regular/Rebug_Firmware_HDD.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>PS3RBG-INSTALLER_00-0000000000000000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/download.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="firmware_rbg_download" attr="firmware_rbg_download"/>
+		</Items>
+	</View>
+	
+	<!-- XMB™ Menu > Game Category > File Manager > Essentials Applications > Firmwares > Regular Firmwares > Developer Firmware -->
+	<View id="seg_essentials_firmware_dex_items">
+		<Attributes>
+			<!-- Download Firmware to USB -->
+			<Table key="essentials_firmware_dex_usb">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/firmware_icons/usb.png</String></Pair>
+				<Pair key="title"><String>Baixar no USB</String></Pair>
+				<Pair key="info"><String>Baixa o firmware para /dev_usb000/PS3/UPDATE/. (Porta Direita)</String></Pair>
+			</Table>
+			<!-- Download Firmware to HDD -->
+			<Table key="essentials_firmware_dex_hdd">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/firmware_icons/hdd.png</String></Pair>
+				<Pair key="title"><String>Baixar no HDD</String></Pair>
+				<Pair key="info"><String>Baixa o firmware para /dev_hdd0/updater/01/
+				
+				Aviso: A Depuração de Atualização do Sistema deve ser ativada atráves de:
+				[Configurações] > (Debug Settings) > [Debug System Update].</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/folder-pixmap" key="essentials_firmware_dex_usb" attr="essentials_firmware_dex_usb" src="#essentials_firmware_dex_usb_item"/>
+			<Query class="type:x-xmb/folder-pixmap" key="essentials_firmware_dex_hdd" attr="essentials_firmware_dex_hdd" src="#essentials_firmware_dex_hdd_item"/>
+		</Items>
+	</View>
+	
+	<View id="essentials_firmware_dex_usb_item"> 	
+		<Attributes>
+			<Table key="firmware_dex_download">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://github.com/PS3-4K-Pro/Firmwares/releases/download/Regular/Developer_Firmware_USB.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://github.com/PS3-4K-Pro/Firmwares/releases/download/Regular/Developer_Firmware_USB.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>PS3DEX-INSTALLER_00-0000000000000000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/download.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="firmware_dex_download" attr="firmware_dex_download"/>
+		</Items>
+	</View>
+	
+	<View id="essentials_firmware_dex_hdd_item"> 	
+		<Attributes>
+			<Table key="firmware_dex_download">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://github.com/PS3-4K-Pro/Firmwares/releases/download/Regular/Developer_Firmware_HDD.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://github.com/PS3-4K-Pro/Firmwares/releases/download/Regular/Developer_Firmware_HDD.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>PS3DEX-INSTALLER_00-0000000000000000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/download.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="firmware_dex_download" attr="firmware_dex_download"/>
+		</Items>
+	</View>
+	
+	<!-- XMB™ Menu > Game Category > File Manager > Essentials Applications > Firmwares > Regular Firmwares > Dual Boot Firmware -->
+	<View id="seg_essentials_firmware_dfw_items">
+		<Attributes>
+			<!-- Download Firmware to USB -->
+			<Table key="essentials_firmware_dfw_usb">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/firmware_icons/usb.png</String></Pair>
+				<Pair key="title"><String>Baixar no USB</String></Pair>
+				<Pair key="info"><String>Baixa o firmware para /dev_usb000/PS3/UPDATE/. (Porta Direita)</String></Pair>
+			</Table>
+			<!-- Download Firmware to HDD -->
+			<Table key="essentials_firmware_dfw_hdd">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/firmware_icons/hdd.png</String></Pair>
+				<Pair key="title"><String>Baixar no HDD</String></Pair>
+				<Pair key="info"><String>Baixa o firmware para /dev_hdd0/updater/01/
+				
+				Aviso: A Depuração de Atualização do Sistema deve ser ativada atráves de:
+				[Configurações] > (Debug Settings) > [Debug System Update].</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/folder-pixmap" key="essentials_firmware_dfw_usb" attr="essentials_firmware_dfw_usb" src="#essentials_firmware_dfw_usb_item"/>
+			<Query class="type:x-xmb/folder-pixmap" key="essentials_firmware_dfw_hdd" attr="essentials_firmware_dfw_hdd" src="#essentials_firmware_dfw_hdd_item"/>
+		</Items>
+	</View>
+
+	<View id="essentials_firmware_dfw_usb_item"> 	
+		<Attributes>
+			<Table key="firmware_dfw_download">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://github.com/PS3-4K-Pro/Firmwares/releases/download/Regular/Dual_Firmware_USB.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://github.com/PS3-4K-Pro/Firmwares/releases/download/Regular/Dual_Firmware_USB.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>PS3DFW-INSTALLER_00-0000000000000000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/download.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="firmware_dfw_download" attr="firmware_dfw_download"/>
+		</Items>
+	</View>
+	
+	<View id="essentials_firmware_dfw_hdd_item"> 	
+		<Attributes>
+			<Table key="firmware_dfw_download">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://github.com/PS3-4K-Pro/Firmwares/releases/download/Regular/Dual_Firmware_HDD.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://github.com/PS3-4K-Pro/Firmwares/releases/download/Regular/Dual_Firmware_HDD.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>PS3DFW-INSTALLER_00-0000000000000000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/download.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="firmware_dfw_download" attr="firmware_dfw_download"/>
+		</Items>
+	</View>
+	
+	<!-- XMB™ Menu > Game Category > File Manager > Essentials Applications > Firmwares > Especial Firmwares > -->
+	<View id="seg_essentials_firmware_special_items">
+		<Attributes>
+			<!-- Regular/Retail CEX -->
+			<Table key="essentials_firmware_special_cex">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/firmware_icons/update_download.png</String></Pair>
+				<Pair key="title"><String>Retail (CEX)</String></Pair>
+				<Pair key="info"><String>Firmwares especiais para consoles em modo CEX com problemas de hardware.</String></Pair>
+			</Table>
+			<!-- Developer/Debug DEX -->
+			<Table key="essentials_firmware_special_dex">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/firmware_icons/update_download.png</String></Pair>
+				<Pair key="title"><String>Debug (DEX)</String></Pair>
+				<Pair key="info"><String>Firmwares especiais para consoles em modo DEX com problemas de hardware.</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/folder-pixmap" key="essentials_firmware_special_cex" attr="essentials_firmware_special_cex" src="#seg_essentials_firmware_special_cex_items"/>
+			<Query class="type:x-xmb/folder-pixmap" key="essentials_firmware_special_dex" attr="essentials_firmware_special_dex" src="#seg_essentials_firmware_special_dex_items"/>
+		</Items>
+	</View>
+	
+	<!-- XMB™ Menu > Game Category > File Manager > Essentials Applications > Firmwares > Especial Firmwares > Retail Firmwares -->
+	<View id="seg_essentials_firmware_special_cex_items">
+		<Attributes>
+			<!-- Regular/Retail NO BD Firmware -->
+			<Table key="essentials_firmware_nobd_cex">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/firmware_icons/update_download.png</String></Pair>
+				<Pair key="title"><String>Firmmare NO-BD</String></Pair>
+				<Pair key="info"><String>Baixa o firmware mais recente disponível para consoles com problemas no drive de blu-ray.</String></Pair>
+			</Table>
+			<!-- Regular/Retail NO BT Firmware -->
+			<Table key="essentials_firmware_nobt_cex">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/firmware_icons/update_download.png</String></Pair>
+				<Pair key="title"><String>Firmware NO-BT</String></Pair>
+				<Pair key="info"><String>Baixa o firmware mais recente disponível para consoles com problemas de módulo bluetooth.</String></Pair>
+			</Table>
+			<!-- Regular/Retail NO BT Firmware -->
+			<Table key="essentials_firmware_nobd_nobt_cex">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/firmware_icons/update_download.png</String></Pair>
+				<Pair key="title"><String>Firmware NO-BT/BD</String></Pair>
+				<Pair key="info"><String>Baixa o firmware mais recente disponível para consoles com problemas no drive de blu-ray e no módulo de bluetooth.</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/folder-pixmap" key="essentials_firmware_nobd_cex" attr="essentials_firmware_nobd_cex" src="#seg_essentials_firmware_nobd_cex_items"/>
+			<Query class="type:x-xmb/folder-pixmap" key="essentials_firmware_nobt_cex" attr="essentials_firmware_nobt_cex" src="#seg_essentials_firmware_nobt_cex_items"/>
+			<Query class="type:x-xmb/folder-pixmap" key="essentials_firmware_nobd_nobt_cex" attr="essentials_firmware_nobd_nobt_cex" src="#seg_essentials_firmware_nobd_nobt_cex_items"/>
+		</Items>
+	</View>
+	
+	<!-- XMB™ Menu > Game Category > File Manager > Essentials Applications > Firmwares > Special Firmwares > Retail NoBD Firmware -->
+	<View id="seg_essentials_firmware_nobd_cex_items">
+		<Attributes>
+			<!-- Download Firmware to USB -->
+			<Table key="essentials_firmware_nobd_cex_usb">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/firmware_icons/usb.png</String></Pair>
+				<Pair key="title"><String>Baixar no USB</String></Pair>
+				<Pair key="info"><String>Baixa o firmware para /dev_usb000/PS3/UPDATE/. (Porta Direita)</String></Pair>
+			</Table>
+			<!-- Download Firmware to HDD -->
+			<Table key="essentials_firmware_nobd_cex_hdd">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/firmware_icons/hdd.png</String></Pair>
+				<Pair key="title"><String>Baixar no HDD</String></Pair>
+				<Pair key="info"><String>Baixa o firmware para /dev_hdd0/updater/01/
+				
+				Aviso: A Depuração de Atualização do Sistema deve ser ativada atráves de:
+				[Configurações] > (Debug Settings) > [Debug System Update].</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/folder-pixmap" key="essentials_firmware_nobd_cex_usb" attr="essentials_firmware_nobd_cex_usb" src="#essentials_firmware_nobd_usb_cex_item"/>
+			<Query class="type:x-xmb/folder-pixmap" key="essentials_firmware_nobd_cex_hdd" attr="essentials_firmware_nobd_cex_hdd" src="#essentials_firmware_nobd_hdd_cex_item"/>
+		</Items>
+	</View>
+
+	<View id="essentials_firmware_nobd_usb_cex_item"> 	
+		<Attributes>
+			<Table key="firmware_nobd_cex_download">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://github.com/PS3-4K-Pro/Firmwares/releases/download/Special/Retail_NoBD_Firmware_USB.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://github.com/PS3-4K-Pro/Firmwares/releases/download/Special/Retail_NoBD_Firmware_USB.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>PS3NBD-INSTALLER_00-0000000000000000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/download.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="firmware_nobd_cex_download" attr="firmware_nobd_cex_download"/>
+		</Items>
+	</View>
+	
+	<View id="essentials_firmware_nobd_hdd_cex_item"> 	
+		<Attributes>
+			<Table key="firmware_nobd_cex_download">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://github.com/PS3-4K-Pro/Firmwares/releases/download/Special/Retail_NoBD_Firmware_HDD.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://github.com/PS3-4K-Pro/Firmwares/releases/download/Special/Retail_NoBD_Firmware_HDD.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>PS3NBD-INSTALLER_00-0000000000000000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/download.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="firmware_nobd_cex_download" attr="firmware_nobd_cex_download"/>
+		</Items>
+	</View>
+	
+	<!-- XMB™ Menu > Game Category > File Manager > Essentials Applications > Firmwares > Special Firmwares > Retail NoBT Firmware -->
+	<View id="seg_essentials_firmware_nobt_cex_items">
+		<Attributes>
+			<!-- Download Firmware to USB -->
+			<Table key="essentials_firmware_nobt_cex_usb">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/firmware_icons/usb.png</String></Pair>
+				<Pair key="title"><String>Baixar no USB</String></Pair>
+				<Pair key="info"><String>Baixa o firmware para /dev_usb000/PS3/UPDATE/. (Porta Direita)</String></Pair>
+			</Table>
+			<!-- Download Firmware to HDD -->
+			<Table key="essentials_firmware_nobt_cex_hdd">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/firmware_icons/hdd.png</String></Pair>
+				<Pair key="title"><String>Baixar no HDD</String></Pair>
+				<Pair key="info"><String>Baixa o firmware para /dev_hdd0/updater/01/
+				
+				Aviso: A Depuração de Atualização do Sistema deve ser ativada atráves de:
+				[Configurações] > (Debug Settings) > [Debug System Update].</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/folder-pixmap" key="essentials_firmware_nobt_cex_usb" attr="essentials_firmware_nobt_cex_usb" src="#essentials_firmware_nobt_usb_cex_item"/>
+			<Query class="type:x-xmb/folder-pixmap" key="essentials_firmware_nobt_cex_hdd" attr="essentials_firmware_nobt_cex_hdd" src="#essentials_firmware_nobt_hdd_cex_item"/>
+		</Items>
+	</View>
+
+	<View id="essentials_firmware_nobt_usb_cex_item"> 	
+		<Attributes>
+			<Table key="firmware_nobt_cex_download">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://github.com/PS3-4K-Pro/Firmwares/releases/download/Special/Retail_NoBT_Firmware_USB.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://github.com/PS3-4K-Pro/Firmwares/releases/download/Special/Retail_NoBT_Firmware_USB.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>PS3NBT-INSTALLER_00-0000000000000000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/download.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="firmware_nobt_cex_download" attr="firmware_nobt_cex_download"/>
+		</Items>
+	</View>
+	
+	<View id="essentials_firmware_nobt_hdd_cex_item"> 	
+		<Attributes>
+			<Table key="firmware_nobt_cex_download">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://github.com/PS3-4K-Pro/Firmwares/releases/download/Special/Retail_NoBT_Firmware_HDD.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://github.com/PS3-4K-Pro/Firmwares/releases/download/Special/Retail_NoBT_Firmware_HDD.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>PS3NBT-INSTALLER_00-0000000000000000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/download.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="firmware_nobt_cex_download" attr="firmware_nobt_cex_download"/>
+		</Items>
+	</View>
+	
+	<!-- XMB™ Menu > Game Category > File Manager > Essentials Applications > Firmwares > Special Firmwares > Retail NoBD/BT Firmware -->
+	<View id="seg_essentials_firmware_nobd_nobt_cex_items">
+		<Attributes>
+			<!-- Download Firmware to USB -->
+			<Table key="essentials_firmware_nobd_nobt_cex_usb">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/firmware_icons/usb.png</String></Pair>
+				<Pair key="title"><String>Baixar no USB</String></Pair>
+				<Pair key="info"><String>Baixa o firmware para /dev_usb000/PS3/UPDATE/. (Porta Direita)</String></Pair>
+			</Table>
+			<!-- Download Firmware to HDD -->
+			<Table key="essentials_firmware_nobd_nobt_cex_hdd">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/firmware_icons/hdd.png</String></Pair>
+				<Pair key="title"><String>Baixar no HDD</String></Pair>
+				<Pair key="info"><String>Baixa o firmware para /dev_hdd0/updater/01/
+				
+				Aviso: A Depuração de Atualização do Sistema deve ser ativada atráves de:
+				[Configurações] > (Debug Settings) > [Debug System Update].</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/folder-pixmap" key="essentials_firmware_nobd_nobt_cex_usb" attr="essentials_firmware_nobd_nobt_cex_usb" src="#essentials_firmware_nobd_nobt_usb_cex_item"/>
+			<Query class="type:x-xmb/folder-pixmap" key="essentials_firmware_nobd_nobt_cex_hdd" attr="essentials_firmware_nobd_nobt_cex_hdd" src="#essentials_firmware_nobd_nobt_hdd_cex_item"/>
+		</Items>
+	</View>
+
+	<View id="essentials_firmware_nobd_nobt_usb_cex_item"> 	
+		<Attributes>
+			<Table key="firmware_nobd_nobt_cex_download">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://github.com/PS3-4K-Pro/Firmwares/releases/download/Special/Retail_NoBD_NoBT_Firmware_USB.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://github.com/PS3-4K-Pro/Firmwares/releases/download/Special/Retail_NoBD_NoBT_Firmware_USB.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>PS3BDT-INSTALLER_00-0000000000000000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/download.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="firmware_nobd_nobt_cex_download" attr="firmware_nobd_nobt_cex_download"/>
+		</Items>
+	</View>
+	
+	<View id="essentials_firmware_nobd_nobt_hdd_cex_item"> 	
+		<Attributes>
+			<Table key="firmware_nobd_nobt_cex_download">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://github.com/PS3-4K-Pro/Firmwares/releases/download/Special/Retail_NoBD_NoBT_Firmware_HDD.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://github.com/PS3-4K-Pro/Firmwares/releases/download/Special/Retail_NoBD_NoBT_Firmware_HDD.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>PS3BDT-INSTALLER_00-0000000000000000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/download.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="firmware_nobd_nobt_cex_download" attr="firmware_nobd_nobt_cex_download"/>
+		</Items>
+	</View>
+	
+	<!-- XMB™ Menu > Game Category > File Manager > Essentials Applications > Firmwares > Especial Firmwares > Developer Firmwares -->
+	<View id="seg_essentials_firmware_special_dex_items">
+		<Attributes>
+			<!-- Developer/Debug NO BD Firmware -->
+			<Table key="essentials_firmware_nobd_dex">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/firmware_icons/update_download.png</String></Pair>
+				<Pair key="title"><String>Firmmare NO-BD</String></Pair>
+				<Pair key="info"><String>Baixa o firmware mais recente disponível para consoles com problemas no drive de blu-ray.</String></Pair>
+			</Table>
+			<!-- Developer/Debug NO BT Firmware -->
+			<Table key="essentials_firmware_nobt_dex">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/firmware_icons/update_download.png</String></Pair>
+				<Pair key="title"><String>Firmware NO-BT</String></Pair>
+				<Pair key="info"><String>Baixa o firmware mais recente disponível para consoles com problemas de módulo bluetooth.</String></Pair>
+			</Table>
+			<!-- Developer/Debug NO BT Firmware -->
+			<Table key="essentials_firmware_nobd_nobt_dex">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/firmware_icons/update_download.png</String></Pair>
+				<Pair key="title"><String>Firmware NO-BT/BD</String></Pair>
+				<Pair key="info"><String>Baixa o firmware mais recente disponível para consoles com problemas no drive de blu-ray e no módulo de bluetooth.</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/folder-pixmap" key="essentials_firmware_nobd_dex" attr="essentials_firmware_nobd_dex" src="#seg_essentials_firmware_nobd_dex_items"/>
+			<Query class="type:x-xmb/folder-pixmap" key="essentials_firmware_nobt_dex" attr="essentials_firmware_nobt_dex" src="#seg_essentials_firmware_nobt_dex_items"/>
+			<Query class="type:x-xmb/folder-pixmap" key="essentials_firmware_nobd_nobt_dex" attr="essentials_firmware_nobd_nobt_dex" src="#seg_essentials_firmware_nobd_nobt_dex_items"/>
+		</Items>
+	</View>
+	
+	<!-- XMB™ Menu > Game Category > File Manager > Essentials Applications > Firmwares > Special Firmwares > Developer NoBD Firmware -->
+	<View id="seg_essentials_firmware_nobd_dex_items">
+		<Attributes>
+			<!-- Download Firmware to USB -->
+			<Table key="essentials_firmware_nobd_dex_usb">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/firmware_icons/usb.png</String></Pair>
+				<Pair key="title"><String>Baixar no USB</String></Pair>
+				<Pair key="info"><String>Baixa o firmware para /dev_usb000/PS3/UPDATE/. (Porta Direita)</String></Pair>
+			</Table>
+			<!-- Download Firmware to HDD -->
+			<Table key="essentials_firmware_nobd_dex_hdd">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/firmware_icons/hdd.png</String></Pair>
+				<Pair key="title"><String>Baixar no HDD</String></Pair>
+				<Pair key="info"><String>Baixa o firmware para /dev_hdd0/updater/01/
+				
+				Aviso: A Depuração de Atualização do Sistema deve ser ativada atráves de:
+				[Configurações] > (Debug Settings) > [Debug System Update].</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/folder-pixmap" key="essentials_firmware_nobd_dex_usb" attr="essentials_firmware_nobd_dex_usb" src="#essentials_firmware_nobd_usb_dex_item"/>
+			<Query class="type:x-xmb/folder-pixmap" key="essentials_firmware_nobd_dex_hdd" attr="essentials_firmware_nobd_dex_hdd" src="#essentials_firmware_nobd_hdd_dex_item"/>
+		</Items>
+	</View>
+
+	<View id="essentials_firmware_nobd_usb_dex_item"> 	
+		<Attributes>
+			<Table key="firmware_nobd_dex_download">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://github.com/PS3-4K-Pro/Firmwares/releases/download/Special/Developer_NoBD_Firmware_USB.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://github.com/PS3-4K-Pro/Firmwares/releases/download/Special/Developer_NoBD_Firmware_USB.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>PS3NBD-INSTALLER_00-0000000000000000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/download.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="firmware_nobd_dex_download" attr="firmware_nobd_dex_download"/>
+		</Items>
+	</View>
+	
+	<View id="essentials_firmware_nobd_hdd_dex_item"> 	
+		<Attributes>
+			<Table key="firmware_nobd_dex_download">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://github.com/PS3-4K-Pro/Firmwares/releases/download/Special/Developer_NoBD_Firmware_HDD.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://github.com/PS3-4K-Pro/Firmwares/releases/download/Special/Developer_NoBD_Firmware_HDD.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>PS3NBD-INSTALLER_00-0000000000000000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/download.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="firmware_nobd_dex_download" attr="firmware_nobd_dex_download"/>
+		</Items>
+	</View>
+	
+	<!-- XMB™ Menu > Game Category > File Manager > Essentials Applications > Firmwares > Special Firmwares > Developer NoBT Firmware -->
+	<View id="seg_essentials_firmware_nobt_dex_items">
+		<Attributes>
+			<!-- Download Firmware to USB -->
+			<Table key="essentials_firmware_nobt_dex_usb">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/firmware_icons/usb.png</String></Pair>
+				<Pair key="title"><String>Baixar no USB</String></Pair>
+				<Pair key="info"><String>Baixa o firmware para /dev_usb000/PS3/UPDATE/. (Porta Direita)</String></Pair>
+			</Table>
+			<!-- Download Firmware to HDD -->
+			<Table key="essentials_firmware_nobt_dex_hdd">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/firmware_icons/hdd.png</String></Pair>
+				<Pair key="title"><String>Baixar no HDD</String></Pair>
+				<Pair key="info"><String>Baixa o firmware para /dev_hdd0/updater/01/
+				
+				Aviso: A Depuração de Atualização do Sistema deve ser ativada atráves de:
+				[Configurações] > (Debug Settings) > [Debug System Update].</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/folder-pixmap" key="essentials_firmware_nobt_dex_usb" attr="essentials_firmware_nobt_dex_usb" src="#essentials_firmware_nobt_usb_dex_item"/>
+			<Query class="type:x-xmb/folder-pixmap" key="essentials_firmware_nobt_dex_hdd" attr="essentials_firmware_nobt_dex_hdd" src="#essentials_firmware_nobt_hdd_dex_item"/>
+		</Items>
+	</View>
+
+	<View id="essentials_firmware_nobt_usb_dex_item"> 	
+		<Attributes>
+			<Table key="firmware_nobt_dex_download">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://github.com/PS3-4K-Pro/Firmwares/releases/download/Special/Developer_NoBT_Firmware_USB.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://github.com/PS3-4K-Pro/Firmwares/releases/download/Special/Developer_NoBT_Firmware_USB.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>PS3NBT-INSTALLER_00-0000000000000000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/download.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="firmware_nobt_dex_download" attr="firmware_nobt_dex_download"/>
+		</Items>
+	</View>
+	
+	<View id="essentials_firmware_nobt_hdd_dex_item"> 	
+		<Attributes>
+			<Table key="firmware_nobt_dex_download">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://github.com/PS3-4K-Pro/Firmwares/releases/download/Special/Developer_NoBT_Firmware_HDD.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://github.com/PS3-4K-Pro/Firmwares/releases/download/Special/Developer_NoBT_Firmware_HDD.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>PS3NBT-INSTALLER_00-0000000000000000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/download.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="firmware_nobt_dex_download" attr="firmware_nobt_dex_download"/>
+		</Items>
+	</View>
+	
+	<!-- XMB™ Menu > Game Category > File Manager > Essentials Applications > Firmwares > Special Firmwares > Developer NoBD/BT Firmware -->
+	<View id="seg_essentials_firmware_nobd_nobt_dex_items">
+		<Attributes>
+			<!-- Download Firmware to USB -->
+			<Table key="essentials_firmware_nobd_nobt_dex_usb">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/firmware_icons/usb.png</String></Pair>
+				<Pair key="title"><String>Baixar no USB</String></Pair>
+				<Pair key="info"><String>Baixa o firmware para /dev_usb000/PS3/UPDATE/. (Porta Direita)</String></Pair>
+			</Table>
+			<!-- Download Firmware to HDD -->
+			<Table key="essentials_firmware_nobd_nobt_dex_hdd">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/firmware_icons/hdd.png</String></Pair>
+				<Pair key="title"><String>Baixar no HDD</String></Pair>
+				<Pair key="info"><String>Baixa o firmware para /dev_hdd0/updater/01/
+				
+				Aviso: A Depuração de Atualização do Sistema deve ser ativada atráves de:
+				[Configurações] > (Debug Settings) > [Debug System Update].</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/folder-pixmap" key="essentials_firmware_nobd_nobt_dex_usb" attr="essentials_firmware_nobd_nobt_dex_usb" src="#essentials_firmware_nobd_nobt_usb_dex_item"/>
+			<Query class="type:x-xmb/folder-pixmap" key="essentials_firmware_nobd_nobt_dex_hdd" attr="essentials_firmware_nobd_nobt_dex_hdd" src="#essentials_firmware_nobd_nobt_hdd_dex_item"/>
+		</Items>
+	</View>
+
+	<View id="essentials_firmware_nobd_nobt_usb_dex_item"> 	
+		<Attributes>
+			<Table key="firmware_nobd_nobt_dex_download">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://github.com/PS3-4K-Pro/Firmwares/releases/download/Special/Developer_NoBD_NoBT_Firmware_USB.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://github.com/PS3-4K-Pro/Firmwares/releases/download/Special/Developer_NoBD_NoBT_Firmware_USB.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>PS3BDT-INSTALLER_00-0000000000000000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/download.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="firmware_nobd_nobt_dex_download" attr="firmware_nobd_nobt_dex_download"/>
+		</Items>
+	</View>
+	
+	<View id="essentials_firmware_nobd_nobt_hdd_dex_item"> 	
+		<Attributes>
+			<Table key="firmware_nobd_nobt_dex_download">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://github.com/PS3-4K-Pro/Firmwares/releases/download/Special/Developer_NoBD_NoBT_Firmware_HDD.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://github.com/PS3-4K-Pro/Firmwares/releases/download/Special/Developer_NoBD_NoBT_Firmware_HDD.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>PS3BDT-INSTALLER_00-0000000000000000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/download.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="firmware_nobd_nobt_dex_download" attr="firmware_nobd_nobt_dex_download"/>
+		</Items>
+	</View>
+	
+	<!-- XMB™ Menu > Game Category > File Manager > Essentials Applications > Firmwares > Overclocked Firmwares > -->
+	<View id="seg_essentials_firmware_overclocked_items">
+		<Attributes>
+			<!-- Custom Firmware -->
+			<Table key="essentials_firmware_cfw_overlocked">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/firmware_icons/update_download.png</String></Pair>
+				<Pair key="title"><String>Firmware Customizado</String></Pair>
+				<Pair key="info"><String>Baixa o firmware customizado com patches de overclock aplicados mais recente disponível.</String></Pair>
+			</Table>
+			<!-- Rebug Firmware -->
+			<Table key="essentials_firmware_rbg_overlocked">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/firmware_icons/update_download.png</String></Pair>
+				<Pair key="title"><String>Firmware Rebug</String></Pair>
+				<Pair key="info"><String>Baixa o firmware rebug com patches de overclock aplicados mais recente disponível.</String></Pair>
+			</Table>
+			<!-- Debug Firmware -->
+			<Table key="essentials_firmware_dex_overlocked">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/firmware_icons/update_download.png</String></Pair>
+				<Pair key="title"><String>Firmware Debug</String></Pair>
+				<Pair key="info"><String>Baixa o firmware Debug com patches de overclock aplicados mais recente disponível.</String></Pair>
+			</Table>
+			<!-- Debug Firmware -->
+			<Table key="essentials_firmware_dfw_overlocked">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/firmware_icons/update_download.png</String></Pair>
+				<Pair key="title"><String>Firmware Dual Boot</String></Pair>
+				<Pair key="info"><String>Baixa o firmware dual boot com patches de overclock aplicados mais recente disponível.</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/folder-pixmap" key="essentials_firmware_cfw_overlocked" attr="essentials_firmware_cfw_overlocked" src="#seg_essentials_firmware_cfw_overclocked_items"/>
+			<Query class="type:x-xmb/folder-pixmap" key="essentials_firmware_rbg_overlocked" attr="essentials_firmware_rbg_overlocked" src="#seg_essentials_firmware_rbg_overclocked_items"/>
+			<Query class="type:x-xmb/folder-pixmap" key="essentials_firmware_dex_overlocked" attr="essentials_firmware_dex_overlocked" src="#seg_essentials_firmware_dex_overclocked_items"/>
+			<Query class="type:x-xmb/folder-pixmap" key="essentials_firmware_dfw_overlocked" attr="essentials_firmware_dfw_overlocked" src="#seg_essentials_firmware_dfw_overclocked_items"/>
+		</Items>
+	</View>
+	
+	<!-- XMB™ Menu > Game Category > File Manager > Essentials Applications > Firmwares > Overclocked Firmwares > Custom Firmware -->
+	<View id="seg_essentials_firmware_cfw_overclocked_items">
+		<Attributes>
+			<!-- Download Firmware to USB -->
+			<Table key="essentials_firmware_cfw_overclocked_usb">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/firmware_icons/usb.png</String></Pair>
+				<Pair key="title"><String>Baixar no USB</String></Pair>
+				<Pair key="info"><String>Baixa o firmware para /dev_usb000/PS3/UPDATE/. (Porta Direita)</String></Pair>
+			</Table>
+			<!-- Download Firmware to HDD -->
+			<Table key="essentials_firmware_cfw_overclocked_hdd">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/firmware_icons/hdd.png</String></Pair>
+				<Pair key="title"><String>Baixar no HDD</String></Pair>
+				<Pair key="info"><String>Baixa o firmware para /dev_hdd0/updater/01/
+				
+				Aviso: A Depuração de Atualização do Sistema deve ser ativada atráves de:
+				[Configurações] > (Debug Settings) > [Debug System Update].</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/folder-pixmap" key="essentials_firmware_cfw_overclocked_usb" attr="essentials_firmware_cfw_overclocked_usb" src="#essentials_firmware_cfw_overclocked_usb_item"/>
+			<Query class="type:x-xmb/folder-pixmap" key="essentials_firmware_cfw_overclocked_hdd" attr="essentials_firmware_cfw_overclocked_hdd" src="#essentials_firmware_cfw_overclocked_hdd_item"/>
+		</Items>
+	</View>
+
+	<View id="essentials_firmware_cfw_overclocked_usb_item"> 	
+		<Attributes>
+			<Table key="firmware_cfw_overclocked_download">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://github.com/PS3-4K-Pro/Firmwares/releases/download/Overclocked/Custom_Firmware_Overclocked_USB.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://github.com/PS3-4K-Pro/Firmwares/releases/download/Overclocked/Custom_Firmware_Overclocked_USB.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>PS3CFW-INSTALLER_00-0000000000000000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/download.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="firmware_cfw_overclocked_download" attr="firmware_cfw_overclocked_download"/>
+		</Items>
+	</View>
+	
+	<View id="essentials_firmware_cfw_overclocked_hdd_item"> 	
+		<Attributes>
+			<Table key="firmware_cfw_overclocked_download">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://github.com/PS3-4K-Pro/Firmwares/releases/download/Overclocked/Custom_Firmware_Overclocked_HDD.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://github.com/PS3-4K-Pro/Firmwares/releases/download/Overclocked/Custom_Firmware_Overclocked_HDD.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>PS3CFW-INSTALLER_00-0000000000000000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/download.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="firmware_cfw_overclocked_download" attr="firmware_cfw_overclocked_download"/>
+		</Items>
+	</View>
+	
+	<!-- XMB™ Menu > Game Category > File Manager > Essentials Applications > Firmwares > Overclocked Firmwares > Rebug Firmware -->
+	<View id="seg_essentials_firmware_rbg_overclocked_items">
+		<Attributes>
+			<!-- Download Firmware to USB -->
+			<Table key="essentials_firmware_rbg_overclocked_usb">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/firmware_icons/usb.png</String></Pair>
+				<Pair key="title"><String>Baixar no USB</String></Pair>
+				<Pair key="info"><String>Baixa o firmware para /dev_usb000/PS3/UPDATE/. (Porta Direita)</String></Pair>
+			</Table>
+			<!-- Download Firmware to HDD -->
+			<Table key="essentials_firmware_rbg_overclocked_hdd">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/firmware_icons/hdd.png</String></Pair>
+				<Pair key="title"><String>Baixar no HDD</String></Pair>
+				<Pair key="info"><String>Baixa o firmware para /dev_hdd0/updater/01/
+				
+				Aviso: A Depuração de Atualização do Sistema deve ser ativada atráves de:
+				[Configurações] > (Debug Settings) > [Debug System Update].</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/folder-pixmap" key="essentials_firmware_rbg_overclocked_usb" attr="essentials_firmware_rbg_overclocked_usb" src="#essentials_firmware_rbg_overclocked_usb_item"/>
+			<Query class="type:x-xmb/folder-pixmap" key="essentials_firmware_rbg_overclocked_hdd" attr="essentials_firmware_rbg_overclocked_hdd" src="#essentials_firmware_rbg_overclocked_hdd_item"/>
+		</Items>
+	</View>
+	
+	<View id="essentials_firmware_rbg_overclocked_usb_item"> 	
+		<Attributes>
+			<Table key="firmware_rbg_overclocked_download">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://github.com/PS3-4K-Pro/Firmwares/releases/download/Overclocked/Rebug_Firmware_Overclocked_USB.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://github.com/PS3-4K-Pro/Firmwares/releases/download/Overclocked/Rebug_Firmware_Overclocked_USB.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>PS3RBG-INSTALLER_00-0000000000000000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/download.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="firmware_rbg_overclocked_download" attr="firmware_rbg_overclocked_download"/>
+		</Items>
+	</View>
+	
+	<View id="essentials_firmware_rbg_overclocked_hdd_item"> 	
+		<Attributes>
+			<Table key="firmware_rbg_overclocked_download">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://github.com/PS3-4K-Pro/Firmwares/releases/download/Overclocked/Rebug_Firmware_Overclocked_HDD.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://github.com/PS3-4K-Pro/Firmwares/releases/download/Overclocked/Rebug_Firmware_Overclocked_HDD.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>PS3RBG-INSTALLER_00-0000000000000000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/download.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="firmware_rbg_overclocked_download" attr="firmware_rbg_overclocked_download"/>
+		</Items>
+	</View>
+	
+	<!-- XMB™ Menu > Game Category > File Manager > Essentials Applications > Firmwares > Overclocked Firmwares > Developer Firmware -->
+	<View id="seg_essentials_firmware_dex_overclocked_items">
+		<Attributes>
+			<!-- Download Firmware to USB -->
+			<Table key="essentials_firmware_dex_overclocked_usb">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/firmware_icons/usb.png</String></Pair>
+				<Pair key="title"><String>Baixar no USB</String></Pair>
+				<Pair key="info"><String>Baixa o firmware para /dev_usb000/PS3/UPDATE/. (Porta Direita)</String></Pair>
+			</Table>
+			<!-- Download Firmware to HDD -->
+			<Table key="essentials_firmware_dex_overclocked_hdd">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/firmware_icons/hdd.png</String></Pair>
+				<Pair key="title"><String>Baixar no HDD</String></Pair>
+				<Pair key="info"><String>Baixa o firmware para /dev_hdd0/updater/01/
+				
+				Aviso: A Depuração de Atualização do Sistema deve ser ativada atráves de:
+				[Configurações] > (Debug Settings) > [Debug System Update].</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/folder-pixmap" key="essentials_firmware_dex_overclocked_usb" attr="essentials_firmware_dex_overclocked_usb" src="#essentials_firmware_dex_overclocked_usb_item"/>
+			<Query class="type:x-xmb/folder-pixmap" key="essentials_firmware_dex_overclocked_hdd" attr="essentials_firmware_dex_overclocked_hdd" src="#essentials_firmware_dex_overclocked_hdd_item"/>
+		</Items>
+	</View>
+	
+	<View id="essentials_firmware_dex_overclocked_usb_item"> 	
+		<Attributes>
+			<Table key="firmware_dex_overclocked_download">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://github.com/PS3-4K-Pro/Firmwares/releases/download/Overclocked/Developer_Firmware_Overclocked_USB.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://github.com/PS3-4K-Pro/Firmwares/releases/download/Overclocked/Developer_Firmware_Overclocked_USB.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>PS3DEX-INSTALLER_00-0000000000000000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/download.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="firmware_dex_overclocked_download" attr="firmware_dex_overclocked_download"/>
+		</Items>
+	</View>
+	
+	<View id="essentials_firmware_dex_overclocked_hdd_item"> 	
+		<Attributes>
+			<Table key="firmware_dex_overclocked_download">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://github.com/PS3-4K-Pro/Firmwares/releases/download/Overclocked/Developer_Firmware_Overclocked_HDD.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://github.com/PS3-4K-Pro/Firmwares/releases/download/Overclocked/Developer_Firmware_Overclocked_HDD.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>PS3DEX-INSTALLER_00-0000000000000000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/download.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="firmware_dex_overclocked_download" attr="firmware_dex_overclocked_download"/>
+		</Items>
+	</View>
+	
+	<!-- XMB™ Menu > Game Category > File Manager > Essentials Applications > Firmwares > Overclocked Firmwares > Dual Boot Firmware -->
+	<View id="seg_essentials_firmware_dfw_overclocked_items">
+		<Attributes>
+			<!-- Download Firmware to USB -->
+			<Table key="essentials_firmware_dfw_overclocked_usb">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/firmware_icons/usb.png</String></Pair>
+				<Pair key="title"><String>Baixar no USB</String></Pair>
+				<Pair key="info"><String>Baixa o firmware para /dev_usb000/PS3/UPDATE/. (Porta Direita)</String></Pair>
+			</Table>
+			<!-- Download Firmware to HDD -->
+			<Table key="essentials_firmware_dfw_overclocked_hdd">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/firmware_icons/hdd.png</String></Pair>
+				<Pair key="title"><String>Baixar no HDD</String></Pair>
+				<Pair key="info"><String>Baixa o firmware para /dev_hdd0/updater/01/
+				
+				Aviso: A Depuração de Atualização do Sistema deve ser ativada atráves de:
+				[Configurações] > (Debug Settings) > [Debug System Update].</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/folder-pixmap" key="essentials_firmware_dfw_overclocked_usb" attr="essentials_firmware_dfw_overclocked_usb" src="#essentials_firmware_dfw_overclocked_usb_item"/>
+			<Query class="type:x-xmb/folder-pixmap" key="essentials_firmware_dfw_overclocked_hdd" attr="essentials_firmware_dfw_overclocked_hdd" src="#essentials_firmware_dfw_overclocked_hdd_item"/>
+		</Items>
+	</View>
+	
+	<View id="essentials_firmware_dfw_overclocked_usb_item"> 	
+		<Attributes>
+			<Table key="firmware_dfw_overclocked_download">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://github.com/PS3-4K-Pro/Firmwares/releases/download/Overclocked/Dual_Firmware_Overclocked_USB.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://github.com/PS3-4K-Pro/Firmwares/releases/download/Overclocked/Dual_Firmware_Overclocked_USB.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>PS3DEX-INSTALLER_00-0000000000000000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/download.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="firmware_dfw_overclocked_download" attr="firmware_dfw_overclocked_download"/>
+		</Items>
+	</View>
+	
+	<View id="essentials_firmware_dfw_overclocked_hdd_item"> 	
+		<Attributes>
+			<Table key="firmware_dfw_overclocked_download">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://github.com/PS3-4K-Pro/Firmwares/releases/download/Overclocked/Dual_Firmware_Overclocked_HDD.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://github.com/PS3-4K-Pro/Firmwares/releases/download/Overclocked/Dual_Firmware_Overclocked_HDD.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>PS3DEX-INSTALLER_00-0000000000000000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/download.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="firmware_dfw_overclocked_download" attr="firmware_dfw_overclocked_download"/>
+		</Items>
+	</View>
+	
+	<!-- XMB™ Menu > Game Category > File Manager > Essentials Applications > Firmwares > Firmware Manager -->
+	<View id="seg_essentials_firmware_manager_items">
+		<Items>
+			<Query class="type:x-xmb/folder-pixmap" key="host_provider_hdd0_updater_01" src="host:/localhost/dev_hdd0/updater/01/"/>
+			<Query class="type:x-xmb/folder-pixmap" key="host_provider_hdd0_updater_02" src="host:/localhost/dev_hdd0/updater/02/"/>
+			<Query class="type:x-xmb/folder-pixmap" key="host_provider_hdd0_updater_03" src="host:/localhost/dev_hdd0/updater/03/"/>
+			<Query class="type:x-xmb/folder-pixmap" key="host_provider_hdd0_updater_04" src="host:/localhost/dev_hdd0/updater/04/"/>
+			<Query class="type:x-xmb/folder-pixmap" key="host_provider_hdd0_updater_05" src="host:/localhost/dev_hdd0/updater/05/"/>
+			<Query class="type:x-xmb/folder-pixmap" key="host_provider_hdd0_updater_06" src="host:/localhost/dev_hdd0/updater/06/"/>
+			<Query class="type:x-xmb/folder-pixmap" key="host_provider_hdd0_updater_07" src="host:/localhost/dev_hdd0/updater/07/"/>
+			<Query class="type:x-xmb/folder-pixmap" key="host_provider_hdd0_updater_08" src="host:/localhost/dev_hdd0/updater/08/"/>
+			<Query class="type:x-xmb/folder-pixmap" key="host_provider_hdd0_updater_09" src="host:/localhost/dev_hdd0/updater/09/"/>
+			<Query class="type:x-xmb/folder-pixmap" key="host_provider_usb0_updater_01" src="host:/localhost/dev_usb000/PS3/UPDATE/"/>
+			<Query class="type:x-xmb/folder-pixmap" key="host_provider_usb1_updater_02" src="host:/localhost/dev_usb002/PS3/UPDATE/"/>
+			<Query class="type:x-xmb/folder-pixmap" key="host_provider_usb2_updater_03" src="host:/localhost/dev_usb003/PS3/UPDATE/"/>
+			<Query class="type:x-xmb/folder-pixmap" key="host_provider_usb3_updater_04" src="host:/localhost/dev_usb004/PS3/UPDATE/"/>
+			<Query class="type:x-xmb/folder-pixmap" key="host_provider_usb4_updater_05" src="host:/localhost/dev_usb005/PS3/UPDATE/"/>
+			<Query class="type:x-xmb/folder-pixmap" key="host_provider_usb5_updater_06" src="host:/localhost/dev_usb006/PS3/UPDATE/"/>
+			<Query class="type:x-xmb/folder-pixmap" key="host_provider_usb6_updater_07" src="host:/localhost/dev_usb007/PS3/UPDATE/"/>
+		</Items>
+	</View>
+</XMBML>

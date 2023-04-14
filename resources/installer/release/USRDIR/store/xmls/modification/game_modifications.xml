@@ -1,0 +1,1440 @@
+<!-- This is part of PS3™ 4K Pro by Luan Teles - 01/02/2020 - DD/MM/YY -->
+
+<XMBML version="1.0">
+	<!-- XMB™ Menu > PlayStation™Network Category > Unofficial®Stores > Essential Applications > Game Modifications Downloader -->
+		<!-- (Storm Revolution: Road to Boruto and Potato Patch are more than 2gb+ and doesn't fit github, so i won't include them) -->
+	<View id="seg_game_modifications_items"> 
+		<Attributes>
+			<!-- 007: Quantum Of Solace -->	
+			<Table key="game_modification_01">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/game_modification_icons/007_quantum_of_solace.png</String></Pair>
+				<Pair key="title"><String>007: Quantum Of Solace (USB)</String></Pair>
+				<Pair key="info"><String>Seleção de modificações para esse título
+				Nota: Requer um dispositivo USB conectado, leia o guia de instruções.</String></Pair>
+			</Table>
+			<!-- Battlefield 4 -->	
+			<Table key="game_modification_02">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/game_modification_icons/battlefield4.png</String></Pair>
+				<Pair key="title"><String>Battlefield 4</String></Pair>
+				<Pair key="info"><String>Seleção de modificações para esse título.</String></Pair>
+			</Table>
+			<!-- BlackSite: Area 51 -->	
+			<Table key="game_modification_03">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/game_modification_icons/blacksite_area51.png</String></Pair>
+				<Pair key="title"><String>BlackSite: Area 51 (USB)</String></Pair>
+				<Pair key="info"><String>Seleção de modificações para esse título
+				Nota: Requer um dispositivo USB conectado, leia o guia de instruções.</String></Pair>
+			</Table>
+			<!-- Borderlands Franchise -->	
+			<Table key="game_modification_04">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/game_modification_icons/borderlands.png</String></Pair>
+				<Pair key="title"><String>Borderlands</String></Pair>
+				<Pair key="info"><String>Seleção de modificações para esse título.</String></Pair>
+			</Table>
+			<!-- Call of Duty Franchise -->
+			<Table key="game_modification_05">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/game_modification_icons/call_of_duty.png</String></Pair>
+				<Pair key="title"><String>Call of Duty</String></Pair>
+				<Pair key="info"><String>Seleção de modificações para esse título.</String></Pair>
+			</Table>
+			<!-- Dead Island Franchise -->
+			<Table key="game_modification_06">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/game_modification_icons/dead_island.png</String></Pair>
+				<Pair key="title"><String>Dead Island</String></Pair>
+				<Pair key="info"><String>Seleção de modificações para esse título.</String></Pair>
+			</Table>
+			<!-- Doom 3: BFG Edition -->
+			<Table key="game_modification_07">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/game_modification_icons/doom_3_bfg_edition.png</String></Pair>
+				<Pair key="title"><String>Doom 3: BFG Edition (USB)</String></Pair>
+				<Pair key="info"><String>Seleção de modificações para esse título
+				Nota: Requer um dispositivo USB conectado, leia o guia de instruções.</String></Pair>
+			</Table>
+			<!-- Duke Nukem Forever -->
+			<Table key="game_modification_08">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/game_modification_icons/duke_nukem.png</String></Pair>
+				<Pair key="title"><String>Duke Nukem Forever</String></Pair>
+				<Pair key="info"><String>Seleção de modificações para esse título.</String></Pair>
+			</Table>
+			<!-- Grand Theft Auto Franchise -->
+			<Table key="game_modification_09">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/game_modification_icons/grand_theft_auto.png</String></Pair>
+				<Pair key="title"><String>Grand Theft Auto</String></Pair>
+				<Pair key="info"><String>Seleção de modificações para esse título.</String></Pair>
+			</Table>
+			<!-- Grand Turismo Franchise -->
+			<Table key="game_modification_10">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/game_modification_icons/gran_turismo.png</String></Pair>
+				<Pair key="title"><String>Gran Turismo</String></Pair>
+				<Pair key="info"><String>Seleção de modificações para esse título.</String></Pair>
+			</Table>
+			<!-- Max Payne 3 -->
+			<Table key="game_modification_11">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/game_modification_icons/max_payne3.png</String></Pair>
+				<Pair key="title"><String>Max Payne 3</String></Pair>
+				<Pair key="info"><String>Seleção de modificações para esse título.</String></Pair>
+			</Table>
+			<!-- Minecraft -->
+			<Table key="game_modification_12">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/game_modification_icons/minecraft.png</String></Pair>
+				<Pair key="title"><String>Minecraft</String></Pair>
+				<Pair key="info"><String>Seleção de modificações para esse título.</String></Pair>
+			</Table>
+			<!-- Read Dead Redemption -->
+			<Table key="game_modification_13">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/game_modification_icons/red_dead_redemption.png</String></Pair>
+				<Pair key="title"><String>Red Dead Redemption</String></Pair>
+				<Pair key="info"><String>Seleção de modificações para esse título.</String></Pair>
+			</Table>
+			<!-- Skate 3 -->
+			<Table key="game_modification_14">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/game_modification_icons/skate_3.png</String></Pair>
+				<Pair key="title"><String>Skate 3</String></Pair>
+				<Pair key="info"><String>Seleção de modificações para esse título.</String></Pair>
+			</Table>
+			<!-- Skyrim Franchise -->
+			<Table key="game_modification_15">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/game_modification_icons/skyrim.png</String></Pair>
+				<Pair key="title"><String>Skyrim</String></Pair>
+				<Pair key="info"><String>Seleção de modificações para esse título.</String></Pair>
+			</Table>
+			<!-- The Last of Us -->
+			<Table key="game_modification_16">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/game_modification_icons/the_last_of_us.png</String></Pair>
+				<Pair key="title"><String>The Last of Us</String></Pair>
+				<Pair key="info"><String>Seleção de modificações para esse título.</String></Pair>
+			</Table>
+			<!-- Information -->
+			<Table key="game_modification_information">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/about.png</String></Pair>
+				<Pair key="title"><String>Informações</String></Pair>
+				<Pair key="info"><String>Mostra um guia de instruções.</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>javascript:window.resizeTo(screen.width,screen.height);window.location.assign("http://ps3-4k-pro.github.io/Guides/files/game_modifications.html")</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/folder-pixmap" key="game_modification_01" attr="game_modification_01" src="#seg_game_modification_01_item"/>
+			<Query class="type:x-xmb/folder-pixmap" key="game_modification_02" attr="game_modification_02" src="#seg_game_modification_02_item"/>
+			<Query class="type:x-xmb/folder-pixmap" key="game_modification_03" attr="game_modification_03" src="#seg_game_modification_03_item"/>
+			<Query class="type:x-xmb/folder-pixmap" key="game_modification_04" attr="game_modification_04" src="#seg_game_modification_04_item"/>
+			<Query class="type:x-xmb/folder-pixmap" key="game_modification_05" attr="game_modification_05" src="#seg_game_modification_05_item"/>
+			<Query class="type:x-xmb/folder-pixmap" key="game_modification_06" attr="game_modification_06" src="#seg_game_modification_06_item"/>
+			<Query class="type:x-xmb/folder-pixmap" key="game_modification_07" attr="game_modification_07" src="#seg_game_modification_07_item"/>
+			<Query class="type:x-xmb/folder-pixmap" key="game_modification_08" attr="game_modification_08" src="#seg_game_modification_08_item"/>
+			<Query class="type:x-xmb/folder-pixmap" key="game_modification_09" attr="game_modification_09" src="#seg_game_modification_09_item"/>
+			<Query class="type:x-xmb/folder-pixmap" key="game_modification_10" attr="game_modification_10" src="#seg_game_modification_10_items"/>
+			<Query class="type:x-xmb/folder-pixmap" key="game_modification_11" attr="game_modification_11" src="#seg_game_modification_11_item"/>
+			<Query class="type:x-xmb/folder-pixmap" key="game_modification_12" attr="game_modification_12" src="#seg_game_modification_12_items"/>
+			<Query class="type:x-xmb/folder-pixmap" key="game_modification_13" attr="game_modification_13" src="#seg_game_modification_13_items"/>
+			<Query class="type:x-xmb/folder-pixmap" key="game_modification_14" attr="game_modification_14" src="#seg_game_modification_14_item"/>
+			<Query class="type:x-xmb/folder-pixmap" key="game_modification_15" attr="game_modification_15" src="#seg_game_modification_15_item"/>
+			<Query class="type:x-xmb/folder-pixmap" key="game_modification_16" attr="game_modification_16" src="#seg_game_modification_16_item"/>
+			<Item class="type:x-xmb/module-action" key="game_modification_information" attr="game_modification_information" />	
+		</Items>
+	</View>
+	
+	<!-- Unofficial®Stores > Essential Applications > Game Modifications > 007: Quantum Of Solace -->
+	<View id="seg_game_modification_01_item">
+		<Attributes>
+			<!-- Mod Menu -->
+			<Table key="007_quantum_of_solace_mod_menu">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/plugin_folder.png</String></Pair>
+				<Pair key="title"><String>Menu de Modificações</String></Pair>
+				<Pair key="info"><String>Seleção de mod menus para esse título.</String></Pair>
+			</Table>		
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/folder-pixmap" key="007_quantum_of_solace_mod_menu" attr="007_quantum_of_solace_mod_menu" src="#007_quantum_of_solace_mod_menu_item"/>
+		</Items>
+	</View>
+	
+	<View id="007_quantum_of_solace_mod_menu_item">
+		<Attributes>
+			<Table key="download">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://github.com/PS3-4K-Pro/Packages/releases/download/Mods/007_Quantum_Of_Solace_-_Mods_-_USB.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://github.com/PS3-4K-Pro/Packages/releases/download/Mods/007_Quantum_Of_Solace_-_Mods_-_USB.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>CUSTOM-MODMENU00_00-0000000000000000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/download.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>
+	
+	<!-- Unofficial®Stores > Essential Applications > Game Modifications > Battlefield 4 -->
+	<View id="seg_game_modification_02_item">
+		<Attributes>
+			<!-- Mod Menu -->
+			<Table key="battlefield4_mod_menu">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/plugin_folder.png</String></Pair>
+				<Pair key="title"><String>Menu de Modificações</String></Pair>
+				<Pair key="info"><String>Seleção de mod menus para esse título.</String></Pair>
+			</Table>		
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/folder-pixmap" key="battlefield4_mod_menu" attr="battlefield4_mod_menu" src="#battlefield4_mod_menu_item"/>
+		</Items>
+	</View>
+	
+	<View id="battlefield4_mod_menu_item">
+		<Attributes>
+			<Table key="download">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://github.com/PS3-4K-Pro/Packages/releases/download/Mods/Battlefield_4_-_Mod_Menu.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://github.com/PS3-4K-Pro/Packages/releases/download/Mods/Battlefield_4_-_Mod_Menu.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>CUSTOM-MODMENU00_00-0000000000000000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/download.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>
+	
+	<!-- Unofficial®Stores > Essential Applications > Game Modifications > BlackSite: Area 51 -->
+	<View id="seg_game_modification_03_item">
+		<Attributes>
+			<!-- Mod Menu -->
+			<Table key="blacksite_area51_mod_menu">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/plugin_folder.png</String></Pair>
+				<Pair key="title"><String>Menu de Modificações</String></Pair>
+				<Pair key="info"><String>Seleção de mod menus para esse título.</String></Pair>
+			</Table>		
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/folder-pixmap" key="blacksite_area51_mod_menu" attr="blacksite_area51_mod_menu" src="#blacksite_area51_mod_menu_item"/>
+		</Items>
+	</View>
+	
+	<View id="blacksite_area51_mod_menu_item">
+		<Attributes>
+			<Table key="download">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://github.com/PS3-4K-Pro/Packages/releases/download/Mods/BlackSite_Area51_-_Mods_-_USB.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://github.com/PS3-4K-Pro/Packages/releases/download/Mods/BlackSite_Area51_-_Mods_-_USB.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>CUSTOM-MODMENU00_00-0000000000000000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/download.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>
+	
+	<!-- Unofficial®Stores > Essential Applications > Game Modifications > Borderlands -->
+	<View id="seg_game_modification_04_item">
+		<Attributes>
+			<!-- Borderlands: Pre-Sequel -->
+			<Table key="borderlands_pre_sequel">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/game_modification_icons/borderlands_the_pre_sequel.png</String></Pair>
+				<Pair key="title"><String>Borderlands: Pre-Sequel</String></Pair>
+				<Pair key="info"><String>Seleção de modificações para esse título.</String></Pair>
+			</Table>
+			<!-- Borderlands 2 -->
+			<Table key="borderlands_2">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/game_modification_icons/borderlands2.png</String></Pair>
+				<Pair key="title"><String>Borderlands: 2</String></Pair>
+				<Pair key="info"><String>Seleção de modificações para esse título.</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/folder-pixmap" key="borderlands_pre_sequel" attr="borderlands_pre_sequel" src="#seg_borderlands_pre_sequel_item"/>
+			<Query class="type:x-xmb/folder-pixmap" key="borderlands_2" attr="borderlands_2" src="#seg_borderlands_2_item"/>
+		</Items>
+	</View>
+	
+	<View id="seg_borderlands_pre_sequel_item">
+		<Attributes>
+			<Table key="borderlands_pre_sequel_mod_menu">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/plugin_folder.png</String></Pair>
+				<Pair key="title"><String>Menu de Modificações</String></Pair>
+				<Pair key="info"><String>Seleção de mod menus para esse título.</String></Pair>
+			</Table>		
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/folder-pixmap" key="borderlands_pre_sequel_mod_menu" attr="borderlands_pre_sequel_mod_menu" src="#borderlands_pre_sequel_mod_menu_item"/>
+		</Items>
+	</View>
+	
+	<View id="borderlands_pre_sequel_mod_menu_item">
+		<Attributes>
+			<Table key="download">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://github.com/PS3-4K-Pro/Packages/releases/download/Mods/Borderlands_-_Pre_Sequel_Mod_Menu.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://github.com/PS3-4K-Pro/Packages/releases/download/Mods/Borderlands_-_Pre_Sequel_Mod_Menu.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>CUSTOM-MODMENU00_00-0000000000000000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/download.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>
+	
+	<View id="seg_borderlands_2_item">
+		<Attributes>
+			<Table key="borderlands_2_mod_menu">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/plugin_folder.png</String></Pair>
+				<Pair key="title"><String>Menu de Modificações</String></Pair>
+				<Pair key="info"><String>Seleção de mod menus para esse título.</String></Pair>
+			</Table>		
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/folder-pixmap" key="borderlands_2_mod_menu" attr="borderlands_2_mod_menu" src="#borderlands_2_mod_menu_item"/>
+		</Items>
+	</View>
+	
+	<View id="borderlands_2_mod_menu_item">
+		<Attributes>
+			<Table key="download">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://github.com/PS3-4K-Pro/Packages/releases/download/Mods/Borderlands_2_-_Mod_Menu.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://github.com/PS3-4K-Pro/Packages/releases/download/Mods/Borderlands_2_-_Mod_Menu.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>CUSTOM-MODMENU00_00-0000000000000000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/download.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>
+	
+	<!-- Unofficial®Stores > Essential Applications > Game Modifications > Call Of Duty -->
+	<View id="seg_game_modification_05_item">
+		<Attributes>
+			<!-- Call of Duty: Advanced Warfare -->
+			<Table key="call_of_duty_advanced_warfare">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/game_modification_icons/call_of_duty_-_advanced_warfare.png</String></Pair>
+				<Pair key="title"><String>Call of Duty: Advanced Warfare</String></Pair>
+				<Pair key="info"><String>Seleção de modificações para esse título.</String></Pair>
+			</Table>
+			<!-- Call of Duty: Black Ops 1 -->
+			<Table key="call_of_duty_black_ops_1">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/game_modification_icons/call_of_duty_-_black_ops.png</String></Pair>
+				<Pair key="title"><String>Call of Duty: Black Ops 1</String></Pair>
+				<Pair key="info"><String>Seleção de modificações para esse título.</String></Pair>
+			</Table>
+			<!-- Call of Duty:  Black Ops 2 -->
+			<Table key="call_of_duty_black_ops_2">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/game_modification_icons/call_of_duty_-_black_ops_2.png</String></Pair>
+				<Pair key="title"><String>Call of Duty: Black Ops 2</String></Pair>
+				<Pair key="info"><String>Seleção de modificações para esse título.</String></Pair>
+			</Table>
+			<!-- Call of Duty:  Black Ops 3 -->
+			<Table key="call_of_duty_black_ops_3">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/game_modification_icons/call_of_duty_-_black_ops_3.png</String></Pair>
+				<Pair key="title"><String>Call of Duty: Black Ops 3</String></Pair>
+				<Pair key="info"><String>Seleção de modificações para esse título.</String></Pair>
+			</Table>
+			<!-- Call of Duty: Modern Warfare -->
+			<Table key="call_of_duty_modern_warfare">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/game_modification_icons/call_of_duty_-_modern_warfare.png</String></Pair>
+				<Pair key="title"><String>Call of Duty: Modern Warfare</String></Pair>
+				<Pair key="info"><String>Seleção de modificações para esse título.</String></Pair>
+			</Table>
+			<!-- Call of Duty: Modern Warfare 2 -->
+			<Table key="call_of_duty_modern_warfare_2">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/game_modification_icons/call_of_duty_-_modern_warfare_2.png</String></Pair>
+				<Pair key="title"><String>Call of Duty: Modern Warfare 2</String></Pair>
+				<Pair key="info"><String>Seleção de modificações para esse título.</String></Pair>
+			</Table>
+			<!-- Call of Duty: Modern Warfare 3 -->
+			<Table key="call_of_duty_modern_warfare_3">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/game_modification_icons/call_of_duty_-_modern_warfare_3.png</String></Pair>
+				<Pair key="title"><String>Call of Duty: Modern Warfare 3</String></Pair>
+				<Pair key="info"><String>Seleção de modificações para esse título.</String></Pair>
+			</Table>
+			<!-- Call of Duty: Ghosts -->
+			<Table key="call_of_duty_ghosts">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/game_modification_icons/call_of_duty_-_ghosts.png</String></Pair>
+				<Pair key="title"><String>Call of Duty: Ghosts</String></Pair>
+				<Pair key="info"><String>Seleção de modificações para esse título.</String></Pair>
+			</Table>
+			<!-- Call of Duty: Word At War -->
+			<Table key="call_of_duty_world_at_war">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/game_modification_icons/call_of_duty_-_world_at_war.png</String></Pair>
+				<Pair key="title"><String>Call of Duty: Word At War</String></Pair>
+				<Pair key="info"><String>Seleção de modificações para esse título.</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/folder-pixmap" key="call_of_duty_advanced_warfare" attr="call_of_duty_advanced_warfare" src="#seg_call_of_duty_advanced_warfare_item"/>
+			<Query class="type:x-xmb/folder-pixmap" key="call_of_duty_black_ops_1" attr="call_of_duty_black_ops_1" src="#seg_call_of_duty_black_ops_1_item"/>
+			<Query class="type:x-xmb/folder-pixmap" key="call_of_duty_black_ops_2" attr="call_of_duty_black_ops_2" src="#seg_call_of_duty_black_ops_2_item"/>
+			<Query class="type:x-xmb/folder-pixmap" key="call_of_duty_black_ops_3" attr="call_of_duty_black_ops_3" src="#seg_call_of_duty_black_ops_3_item"/>
+			<Query class="type:x-xmb/folder-pixmap" key="call_of_duty_modern_warfare" attr="call_of_duty_modern_warfare" src="#seg_call_of_duty_modern_warfare_item"/>
+			<Query class="type:x-xmb/folder-pixmap" key="call_of_duty_modern_warfare_2" attr="call_of_duty_modern_warfare_2" src="#seg_call_of_duty_modern_warfare_2_item"/>
+			<Query class="type:x-xmb/folder-pixmap" key="call_of_duty_modern_warfare_3" attr="call_of_duty_modern_warfare_3" src="#seg_call_of_duty_modern_warfare_3_item"/>
+			<Query class="type:x-xmb/folder-pixmap" key="call_of_duty_ghosts" attr="call_of_duty_ghosts" src="#seg_call_of_duty_ghosts_item"/>
+			<Query class="type:x-xmb/folder-pixmap" key="call_of_duty_world_at_war" attr="call_of_duty_world_at_war" src="#seg_call_of_duty_world_at_war_item"/>
+		</Items>
+	</View>
+	
+	<View id="seg_call_of_duty_advanced_warfare_item">
+		<Attributes>
+			<Table key="call_of_duty_advanced_warfare_mod_menu">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/plugin_folder.png</String></Pair>
+				<Pair key="title"><String>Menu de Modificações</String></Pair>
+				<Pair key="info"><String>Seleção de mod menus para esse título.</String></Pair>
+			</Table>		
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/folder-pixmap" key="call_of_duty_advanced_warfare_mod_menu" attr="call_of_duty_advanced_warfare_mod_menu" src="#call_of_duty_advanced_warfare_mod_menu_item"/>
+		</Items>
+	</View>
+	
+	<View id="call_of_duty_advanced_warfare_mod_menu_item">
+		<Attributes>
+			<Table key="download">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://github.com/PS3-4K-Pro/Packages/releases/download/Mods/Call_of_Duty_-_Advanced_Warfare_Mod_Menu.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://github.com/PS3-4K-Pro/Packages/releases/download/Mods/Call_of_Duty_-_Advanced_Warfare_Mod_Menu.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>CUSTOM-MODMENU00_00-0000000000000000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/download.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>
+	
+	<View id="seg_call_of_duty_black_ops_1_item">
+		<Attributes>
+			<Table key="call_of_duty_black_ops_1_mod_menu">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/plugin_folder.png</String></Pair>
+				<Pair key="title"><String>Menu de Modificações</String></Pair>
+				<Pair key="info"><String>Seleção de mod menus para esse título.</String></Pair>
+			</Table>		
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/folder-pixmap" key="call_of_duty_black_ops_1_mod_menu" attr="call_of_duty_black_ops_1_mod_menu" src="#call_of_duty_black_ops_1_mod_menu_item"/>
+		</Items>
+	</View>
+	
+	<View id="call_of_duty_black_ops_1_mod_menu_item">
+		<Attributes>
+			<Table key="download">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://github.com/PS3-4K-Pro/Packages/releases/download/Mods/Call_of_Duty_-_Black_Ops_1_Mod_Menu.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://github.com/PS3-4K-Pro/Packages/releases/download/Mods/Call_of_Duty_-_Black_Ops_1_Mod_Menu.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>CUSTOM-MODMENU00_00-0000000000000000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/download.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>
+	
+	<View id="seg_call_of_duty_black_ops_2_item">
+		<Attributes>
+			<Table key="call_of_duty_black_ops_2_mod_menu">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/plugin_folder.png</String></Pair>
+				<Pair key="title"><String>Menu de Modificações</String></Pair>
+				<Pair key="info"><String>Seleção de mod menus para esse título.</String></Pair>
+			</Table>		
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/folder-pixmap" key="call_of_duty_black_ops_2_mod_menu" attr="call_of_duty_black_ops_2_mod_menu" src="#call_of_duty_black_ops_2_mod_menu_item"/>
+		</Items>
+	</View>
+	
+	<View id="call_of_duty_black_ops_2_mod_menu_item">
+		<Attributes>
+			<Table key="download">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://github.com/PS3-4K-Pro/Packages/releases/download/Mods/Call_of_Duty_-_Black_Ops_2_Mod_Menu.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://github.com/PS3-4K-Pro/Packages/releases/download/Mods/Call_of_Duty_-_Black_Ops_2_Mod_Menu.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>CUSTOM-MODMENU00_00-0000000000000000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/download.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>
+	
+	<View id="seg_call_of_duty_black_ops_3_item">
+		<Attributes>
+			<Table key="call_of_duty_black_ops_3_mod_menu">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/plugin_folder.png</String></Pair>
+				<Pair key="title"><String>Menu de Modificações</String></Pair>
+				<Pair key="info"><String>Seleção de mod menus para esse título.</String></Pair>
+			</Table>		
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/folder-pixmap" key="call_of_duty_black_ops_3_mod_menu" attr="call_of_duty_black_ops_3_mod_menu" src="#call_of_duty_black_ops_3_mod_menu_item"/>
+		</Items>
+	</View>
+	
+	<View id="call_of_duty_black_ops_3_mod_menu_item">
+		<Attributes>
+			<Table key="download">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://github.com/PS3-4K-Pro/Packages/releases/download/Mods/Call_of_Duty_-_Black_Ops_3_Mod_Menu.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://github.com/PS3-4K-Pro/Packages/releases/download/Mods/Call_of_Duty_-_Black_Ops_3_Mod_Menu.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>CUSTOM-MODMENU00_00-0000000000000000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/download.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>
+	
+	<View id="seg_call_of_duty_modern_warfare_item">
+		<Attributes>
+			<Table key="call_of_duty_modern_warfare_mod_menu">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/plugin_folder.png</String></Pair>
+				<Pair key="title"><String>Menu de Modificações</String></Pair>
+				<Pair key="info"><String>Seleção de mod menus para esse título.</String></Pair>
+			</Table>		
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/folder-pixmap" key="call_of_duty_modern_warfare_mod_menu" attr="call_of_duty_modern_warfare_mod_menu" src="#call_of_duty_modern_warfare_mod_menu_item"/>
+		</Items>
+	</View>
+	
+	<View id="call_of_duty_modern_warfare_mod_menu_item">
+		<Attributes>
+			<Table key="download">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://github.com/PS3-4K-Pro/Packages/releases/download/Mods/Call_of_Duty_-_Modern_Warfare_Mod_Menu.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://github.com/PS3-4K-Pro/Packages/releases/download/Mods/Call_of_Duty_-_Modern_Warfare_Mod_Menu.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>CUSTOM-MODMENU00_00-0000000000000000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/download.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>
+	
+	<View id="seg_call_of_duty_modern_warfare_2_item">
+		<Attributes>
+			<Table key="call_of_duty_modern_warfare_2_mod_menu">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/plugin_folder.png</String></Pair>
+				<Pair key="title"><String>Menu de Modificações</String></Pair>
+				<Pair key="info"><String>Seleção de mod menus para esse título.</String></Pair>
+			</Table>		
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/folder-pixmap" key="call_of_duty_modern_warfare_2_mod_menu" attr="call_of_duty_modern_warfare_2_mod_menu" src="#call_of_duty_modern_warfare_2_mod_menu_item"/>
+		</Items>
+	</View>
+	
+	<View id="call_of_duty_modern_warfare_2_mod_menu_item">
+		<Attributes>
+			<Table key="download">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://github.com/PS3-4K-Pro/Packages/releases/download/Mods/Call_of_Duty_-_Modern_Warfare_2_Mod_Menu.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://github.com/PS3-4K-Pro/Packages/releases/download/Mods/Call_of_Duty_-_Modern_Warfare_2_Mod_Menu.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>CUSTOM-MODMENU00_00-0000000000000000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/download.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>
+	
+	<View id="seg_call_of_duty_modern_warfare_3_item">
+		<Attributes>
+			<Table key="call_of_duty_modern_warfare_3_mod_menu">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/plugin_folder.png</String></Pair>
+				<Pair key="title"><String>Menu de Modificações</String></Pair>
+				<Pair key="info"><String>Seleção de mod menus para esse título.</String></Pair>
+			</Table>		
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/folder-pixmap" key="call_of_duty_modern_warfare_3_mod_menu" attr="call_of_duty_modern_warfare_3_mod_menu" src="#call_of_duty_modern_warfare_3_mod_menu_item"/>
+		</Items>
+	</View>
+	
+	<View id="call_of_duty_modern_warfare_3_mod_menu_item">
+		<Attributes>
+			<Table key="download">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://github.com/PS3-4K-Pro/Packages/releases/download/Mods/Call_of_Duty_-_Modern_Warfare_3_Mod_Menu.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://github.com/PS3-4K-Pro/Packages/releases/download/Mods/Call_of_Duty_-_Modern_Warfare_3_Mod_Menu.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>CUSTOM-MODMENU00_00-0000000000000000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/download.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>
+	
+	<View id="seg_call_of_duty_ghosts_item">
+		<Attributes>
+			<Table key="call_of_duty_ghosts_mod_menu">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/plugin_folder.png</String></Pair>
+				<Pair key="title"><String>Menu de Modificações</String></Pair>
+				<Pair key="info"><String>Seleção de mod menus para esse título.</String></Pair>
+			</Table>		
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/folder-pixmap" key="call_of_duty_ghosts_mod_menu" attr="call_of_duty_ghosts_mod_menu" src="#call_of_duty_ghosts_mod_menu_item"/>
+		</Items>
+	</View>
+	
+	<View id="call_of_duty_ghosts_mod_menu_item">
+		<Attributes>
+			<Table key="download">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://github.com/PS3-4K-Pro/Packages/releases/download/Mods/Call_of_Duty_-_Ghosts_Mod_Menu.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://github.com/PS3-4K-Pro/Packages/releases/download/Mods/Call_of_Duty_-_Ghosts_Mod_Menu.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>CUSTOM-MODMENU00_00-0000000000000000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/download.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>
+	
+	<View id="seg_call_of_duty_world_at_war_item">
+		<Attributes>
+			<Table key="call_of_duty_world_at_war_mod_menu">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/plugin_folder.png</String></Pair>
+				<Pair key="title"><String>Menu de Modificações</String></Pair>
+				<Pair key="info"><String>Seleção de mod menus para esse título.</String></Pair>
+			</Table>		
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/folder-pixmap" key="call_of_duty_world_at_war_mod_menu" attr="call_of_duty_world_at_war_mod_menu" src="#call_of_duty_world_at_war_mod_menu_item"/>
+		</Items>
+	</View>
+	
+	<View id="call_of_duty_world_at_war_mod_menu_item">
+		<Attributes>
+			<Table key="download">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://github.com/PS3-4K-Pro/Packages/releases/download/Mods/Call_of_Duty_-_World_At_War_Mod_Menu.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://github.com/PS3-4K-Pro/Packages/releases/download/Mods/Call_of_Duty_-_World_At_War_Mod_Menu.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>CUSTOM-MODMENU00_00-0000000000000000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/download.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>
+	
+	<!-- Unofficial®Stores > Essential Applications > Game Modifications > Dead Island -->
+	<View id="seg_game_modification_06_item">
+		<Attributes>
+			<!-- Dead Island -->
+			<Table key="dead_island">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/game_modification_icons/dead_island.png</String></Pair>
+				<Pair key="title"><String>Dead Island</String></Pair>
+				<Pair key="info"><String>Seleção de modificações para esse título.</String></Pair>
+			</Table>
+			<!-- Dead Island: Riptide -->
+			<Table key="dead_island_riptide">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/game_modification_icons/dead_island_-_riptide.png</String></Pair>
+				<Pair key="title"><String>Dead Island: Riptide</String></Pair>
+				<Pair key="info"><String>Seleção de modificações para esse título.</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/folder-pixmap" key="dead_island" attr="dead_island" src="#seg_dead_island_item"/>
+			<Query class="type:x-xmb/folder-pixmap" key="dead_island_riptide" attr="dead_island_riptide" src="#seg_dead_island_riptide_item"/>
+		</Items>
+	</View>
+	
+	<!-- Unofficial®Stores > Essential Applications > Game Modifications > Dead Island > Dead Island -->
+	<View id="seg_dead_island_item">
+		<Attributes>
+			<!-- Mod Menu -->
+			<Table key="dead_island_mod_menu">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/plugin_folder.png</String></Pair>
+				<Pair key="title"><String>Menu de Modificações</String></Pair>
+				<Pair key="info"><String>Seleção de mod menus para esse título.</String></Pair>
+			</Table>		
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/folder-pixmap" key="dead_island_mod_menu" attr="dead_island_mod_menu" src="#dead_island_mod_menu_item"/>
+		</Items>
+	</View>
+	
+	<View id="dead_island_mod_menu_item">
+		<Attributes>
+			<Table key="download">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://github.com/PS3-4K-Pro/Packages/releases/download/Mods/Dead_Island_Mod_Menu.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://github.com/PS3-4K-Pro/Packages/releases/download/Mods/Dead_Island_Mod_Menu.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>CUSTOM-MODMENU00_00-0000000000000000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/download.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>
+	
+	<!-- Unofficial®Stores > Essential Applications > Game Modifications > Dead Island > Dead Island Riptide -->
+	<View id="seg_dead_island_riptide_item">
+		<Attributes>
+			<!-- Mod Menu -->
+			<Table key="dead_island_riptide_mod_menu">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/plugin_folder.png</String></Pair>
+				<Pair key="title"><String>Menu de Modificações</String></Pair>
+				<Pair key="info"><String>Seleção de mod menus para esse título.</String></Pair>
+			</Table>		
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/folder-pixmap" key="dead_island_riptide_mod_menu" attr="dead_island_riptide_mod_menu" src="#dead_island_riptide_mod_menu_item"/>
+		</Items>
+	</View>
+	
+	<View id="dead_island_riptide_mod_menu_item">
+		<Attributes>
+			<Table key="download">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://github.com/PS3-4K-Pro/Packages/releases/download/Mods/Dead_Island_-_Riptide_Mod_Menu.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://github.com/PS3-4K-Pro/Packages/releases/download/Mods/Dead_Island_-_Riptide_Mod_Menu.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>CUSTOM-MODMENU00_00-0000000000000000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/download.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>
+	
+	<!-- Unofficial®Stores > Essential Applications > Game Modifications > Doom 3: BFG Edition -->
+	<View id="seg_game_modification_07_item">
+		<Attributes>
+			<!-- Mod Menu -->
+			<Table key="doom_3_bfg_edition_mod_menu">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/plugin_folder.png</String></Pair>
+				<Pair key="title"><String>Menu de Modificações</String></Pair>
+				<Pair key="info"><String>Seleção de mod menus para esse título.</String></Pair>
+			</Table>		
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/folder-pixmap" key="doom_3_bfg_edition_mod_menu" attr="doom_3_bfg_edition_mod_menu" src="#doom_3_bfg_edition_mod_menu_item"/>
+		</Items>
+	</View>
+	
+	<View id="doom_3_bfg_edition_mod_menu_item">
+		<Attributes>
+			<Table key="download">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://github.com/PS3-4K-Pro/Packages/releases/download/Mods/Doom_3_-_BFG_Edition_Mod_Menu_-_USB.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://github.com/PS3-4K-Pro/Packages/releases/download/Mods/Doom_3_-_BFG_Edition_Mod_Menu_-_USB.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>CUSTOM-MODMENU00_00-0000000000000000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/download.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>
+	
+	<!-- Unofficial®Stores > Essential Applications > Game Modifications > Duke Nukem Forever -->
+	<View id="seg_game_modification_08_item">
+		<Attributes>
+			<!-- Mod Menu -->
+			<Table key="duke_nukem_forever_mod_menu">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/plugin_folder.png</String></Pair>
+				<Pair key="title"><String>Menu de Modificações</String></Pair>
+				<Pair key="info"><String>Seleção de mod menus para esse título.</String></Pair>
+			</Table>		
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/folder-pixmap" key="duke_nukem_forever_mod_menu" attr="duke_nukem_forever_mod_menu" src="#seg_duke_nukem_forever_mod_menu_items"/>
+		</Items>
+	</View>
+	
+	<View id="seg_duke_nukem_forever_mod_menu_items">
+		<Attributes>
+			<!-- Easy Challenges and XP Lobby Mod -->
+			<Table key="duke_nukem_forever_mod_menu_1">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/plugin_folder.png</String></Pair>
+				<Pair key="title"><String>Easy Challenges and XP Lobby Mod</String></Pair>
+				<Pair key="info"><String>Seleção de mod menus para esse título.</String></Pair>
+			</Table>
+			<!-- Mod Menu -->
+			<Table key="duke_nukem_forever_mod_menu_2">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/plugin_folder.png</String></Pair>
+				<Pair key="title"><String>Menu de Modificações</String></Pair>
+				<Pair key="info"><String>Seleção de mod menus para esse título.</String></Pair>
+			</Table>			
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/folder-pixmap" key="duke_nukem_forever_mod_menu_1" attr="duke_nukem_forever_mod_menu_1" src="#duke_nukem_forever_mod_menu_1_item"/>
+			<Query class="type:x-xmb/folder-pixmap" key="duke_nukem_forever_mod_menu_2" attr="duke_nukem_forever_mod_menu_2" src="#duke_nukem_forever_mod_menu_2_item"/>
+		</Items>
+	</View>
+	
+	<View id="duke_nukem_forever_mod_menu_1_item">
+		<Attributes>
+			<Table key="download">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://github.com/PS3-4K-Pro/Packages/releases/download/Mods/Duke_Nukem_Forever_-_Easy_Challenges_and_XP_Lobby.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://github.com/PS3-4K-Pro/Packages/releases/download/Mods/Duke_Nukem_Forever_-_Easy_Challenges_and_XP_Lobby.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>CUSTOM-MODMENU00_00-0000000000000000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/download.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>
+	
+	<View id="duke_nukem_forever_mod_menu_2_item">
+		<Attributes>
+			<Table key="download">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://github.com/PS3-4K-Pro/Packages/releases/download/Mods/Duke_Nukem_Forever_-_SP_MP_Mod_Menu.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://github.com/PS3-4K-Pro/Packages/releases/download/Mods/Duke_Nukem_Forever_-_SP_MP_Mod_Menu.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>CUSTOM-MODMENU00_00-0000000000000000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/download.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>
+	
+	<!-- Unofficial®Stores > Essential Applications > Game Modifications > Grand Theft Auto -->
+	<View id="seg_game_modification_09_item">
+		<Attributes>
+			<!-- Grand Theft Auto IV -->
+			<Table key="grand_theft_auto_iv">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/game_modification_icons/grand_theft_auto_iv.png</String></Pair>
+				<Pair key="title"><String>Grand Theft Auto: IV</String></Pair>
+				<Pair key="info"><String>Seleção de modificações para esse título.</String></Pair>
+			</Table>
+			<!-- Grand Theft Auto V -->
+			<Table key="grand_theft_auto_v">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/game_modification_icons/grand_theft_auto_v.png</String></Pair>
+				<Pair key="title"><String>Grand Theft Auto: V</String></Pair>
+				<Pair key="info"><String>Seleção de modificações para esse título.</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/folder-pixmap" key="grand_theft_auto_iv" attr="grand_theft_auto_iv" src="#seg_grand_theft_auto_iv_items"/>
+			<Query class="type:x-xmb/folder-pixmap" key="grand_theft_auto_v" attr="grand_theft_auto_v" src="#seg_grand_theft_auto_v_item"/>
+		</Items>
+	</View>
+	
+	<!-- Unofficial®Stores > Essential Applications > Game Modifications > Grand Theft Auto > Grand Theft Auto IV -->
+	<View id="seg_grand_theft_auto_iv_items">
+		<Attributes>
+			<!-- Enhancement Pack -->
+			<Table key="grand_theft_auto_iv_enhancement_pack">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/folder_xmbm.png</String></Pair>
+				<Pair key="title"><String>Pacote de Melhorias</String></Pair>
+				<Pair key="info"><String>Seleção de pacotes de melhorias para esse titulo</String></Pair>
+			</Table>
+			<!-- Mod Menu -->
+			<Table key="grand_theft_auto_iv_mod_menu">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/plugin_folder.png</String></Pair>
+				<Pair key="title"><String>Menu de Modificações</String></Pair>
+				<Pair key="info"><String>Seleção de mod menus para esse título.</String></Pair>
+			</Table>		
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/folder-pixmap" key="grand_theft_auto_iv_enhancement_pack" attr="grand_theft_auto_iv_enhancement_pack" src="#grand_theft_auto_iv_enhancement_pack_item"/>
+			<Query class="type:x-xmb/folder-pixmap" key="grand_theft_auto_iv_mod_menu" attr="grand_theft_auto_iv_mod_menu" src="#grand_theft_auto_iv_mod_menu_item"/>
+		</Items>
+	</View>
+	
+	<View id="grand_theft_auto_iv_enhancement_pack_item">
+		<Attributes>
+			<Table key="download">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://github.com/PS3-4K-Pro/Packages/releases/download/Mods/Grand_Theft_Auto_IV_Texture_Pack.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://github.com/PS3-4K-Pro/Packages/releases/download/Mods/Grand_Theft_Auto_IV_Texture_Pack.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>CUSTOM-MODMENU00_00-0000000000000000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/download.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>
+	
+	<View id="grand_theft_auto_iv_mod_menu_item">
+		<Attributes>
+			<Table key="download">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://github.com/PS3-4K-Pro/Packages/releases/download/Mods/Grand_Theft_Auto_IV_Mod_Menu.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://github.com/PS3-4K-Pro/Packages/releases/download/Mods/Grand_Theft_Auto_IV_Mod_Menu.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>CUSTOM-MODMENU00_00-0000000000000000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/download.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>
+	
+	<!-- Unofficial®Stores > Essential Applications > Game Modifications > Grand Theft Auto > Grand Theft Auto V -->
+	<View id="seg_grand_theft_auto_v_item">
+		<Attributes>
+			<!-- Mod Menu -->
+			<Table key="grand_theft_auto_v_mod_menu">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/plugin_folder.png</String></Pair>
+				<Pair key="title"><String>Menu de Modificações</String></Pair>
+				<Pair key="info"><String>Seleção de mod menus para esse título.</String></Pair>
+			</Table>		
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/folder-pixmap" key="grand_theft_auto_v_mod_menu" attr="grand_theft_auto_v_mod_menu" src="#grand_theft_auto_v_mod_menu_item"/>
+		</Items>
+	</View>
+	
+	<View id="grand_theft_auto_v_mod_menu_item">
+		<Attributes>
+			<Table key="download">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://github.com/PS3-4K-Pro/Packages/releases/download/Mods/Grand_Theft_Auto_V_Mod_Menu.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://github.com/PS3-4K-Pro/Packages/releases/download/Mods/Grand_Theft_Auto_V_Mod_Menu.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>CUSTOM-MODMENU00_00-0000000000000000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/download.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>
+	
+	<!-- Unofficial®Stores > Essential Applications > Game Modifications > Gran Turismo -->
+	<View id="seg_game_modification_10_items">
+		<Attributes>
+			<!-- Gran Turismo 5 -->
+			<Table key="gran_turismo_5">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/game_modification_icons/gran_turismo_5.png</String></Pair>
+				<Pair key="title"><String>Gran Turismo 5</String></Pair>
+				<Pair key="info"><String>Seleção de modificações para esse título.</String></Pair>
+			</Table>
+			<!-- Gran Turismo 6 -->
+			<Table key="gran_turismo_6">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/game_modification_icons/gran_turismo_6.png</String></Pair>
+				<Pair key="title"><String>Gran Turismo 6</String></Pair>
+				<Pair key="info"><String>Seleção de modificações para esse título.</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/folder-pixmap" key="gran_turismo_5" attr="gran_turismo_5" src="#seg_gran_turismo_5_item"/>
+			<Query class="type:x-xmb/folder-pixmap" key="gran_turismo_6" attr="gran_turismo_6" src="#seg_gran_turismo_6_item"/>
+		</Items>
+	</View>
+	
+	<!-- Unofficial®Stores > Essential Applications > Game Modifications > Gran Turismo > Gran Turismo 5 -->
+	<View id="seg_gran_turismo_5_item">
+		<Attributes>
+			<!-- Enchantment Pack -->
+			<Table key="seg_gran_turismo_5_enhancement_pack">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/folder_xmbm.png</String></Pair>
+				<Pair key="title"><String>Pacote de Melhorias</String></Pair>
+				<Pair key="info"><String>Seleção de pacotes de melhorias para esse titulo</String></Pair>
+			</Table>		
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/folder-pixmap" key="seg_gran_turismo_5_enhancement_pack" attr="seg_gran_turismo_5_enhancement_pack" src="#seg_gran_turismo_5_enhancement_pack_item"/>
+		</Items>
+	</View>
+	
+	<View id="seg_gran_turismo_5_enhancement_pack_item">
+		<Attributes>
+			<Table key="download">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://github.com/PS3-4K-Pro/Packages/releases/download/Mods/Gran_Turismo_5_Enhanced.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://github.com/PS3-4K-Pro/Packages/releases/download/Mods/Gran_Turismo_5_Enhanced.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>CUSTOM-MODMENU00_00-0000000000000000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/download.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>
+	
+	<!-- Unofficial®Stores > Essential Applications > Game Modifications > Gran Turismo > Gran Turismo 5 -->
+	<View id="seg_gran_turismo_6_item">
+		<Attributes>
+			<!-- Enchantment Pack -->
+			<Table key="seg_gran_turismo_6_enhancement_pack">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/folder_xmbm.png</String></Pair>
+				<Pair key="title"><String>Pacote de Melhorias</String></Pair>
+				<Pair key="info"><String>Seleção de pacotes de melhorias para esse titulo</String></Pair>
+			</Table>		
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/folder-pixmap" key="seg_gran_turismo_6_enhancement_pack" attr="seg_gran_turismo_6_enhancement_pack" src="#seg_gran_turismo_6_enhancement_pack_item"/>
+		</Items>
+	</View>
+	
+	<View id="seg_gran_turismo_6_enhancement_pack_item">
+		<Attributes>
+			<Table key="download">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://github.com/PS3-4K-Pro/Packages/releases/download/Mods/Gran_Turismo_6_Enhanced.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://github.com/PS3-4K-Pro/Packages/releases/download/Mods/Gran_Turismo_6_Enhanced.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>CUSTOM-MODMENU00_00-0000000000000000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/download.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>
+	
+	<!-- Unofficial®Stores > Essential Applications > Game Modifications > Max Payne 3 -->
+	<View id="seg_game_modification_11_item">
+		<Attributes>
+			<!-- Mod Menu -->
+			<Table key="max_payne_3_mod_menu">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/plugin_folder.png</String></Pair>
+				<Pair key="title"><String>Menu de Modificações</String></Pair>
+				<Pair key="info"><String>Seleção de mod menus para esse título.</String></Pair>
+			</Table>		
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/folder-pixmap" key="max_payne_3_mod_menu" attr="max_payne_3_mod_menu" src="#max_payne_3_mod_menu_item"/>
+		</Items>
+	</View>
+	
+	<View id="max_payne_3_mod_menu_item">
+		<Attributes>
+			<Table key="download">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://github.com/PS3-4K-Pro/Packages/releases/download/Mods/Max_Payne_3_-_Mod_Menu.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://github.com/PS3-4K-Pro/Packages/releases/download/Mods/Max_Payne_3_-_Mod_Menu.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>CUSTOM-MODMENU00_00-0000000000000000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/download.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>
+	
+	<!-- Unofficial®Stores > Essential Applications > Game Modifications > Minecraft -->
+	<View id="seg_game_modification_12_items">
+		<Attributes>
+			<!-- Mod Menu -->
+			<Table key="minecraft_mod_menu">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/plugin_folder.png</String></Pair>
+				<Pair key="title"><String>Menu de Modificações</String></Pair>
+				<Pair key="info"><String>Seleção de mod menus para esse título.</String></Pair>
+			</Table>
+			<!-- Texture Packs -->
+			<Table key="minecraft_texture_pack">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/syscalls_folder.png</String></Pair>
+				<Pair key="title"><String>Pacote de Texturas</String></Pair>
+				<Pair key="info"><String>Seleção de pacotes de textura para esse título.</String></Pair>
+			</Table>
+			
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/folder-pixmap" key="minecraft_mod_menu" attr="minecraft_mod_menu" src="#minecraft_mod_menu_item"/>
+			<Query class="type:x-xmb/folder-pixmap" key="minecraft_texture_pack" attr="minecraft_texture_pack" src="#seg_minecraft_texture_pack_items"/>
+		</Items>
+	</View>
+	
+	<View id="minecraft_texture_pack_BLES01976_item">
+		<Attributes>
+			<Table key="download">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://github.com/PS3-4K-Pro/Packages/releases/download/Mods/Minecraft_Texture_Pack_BLES01976.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://github.com/PS3-4K-Pro/Packages/releases/download/Mods/Minecraft_Texture_Pack_BLES01976.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>CUSTOM-TEXTUREPK_0-0000000000000000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/download.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>
+	
+	<View id="minecraft_mod_menu_item">
+		<Attributes>
+			<Table key="download">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://github.com/PS3-4K-Pro/Packages/releases/download/Mods/Minecraft_Mod_Menu.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://github.com/PS3-4K-Pro/Packages/releases/download/Mods/Minecraft_Mod_Menu.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>CUSTOM-MODMENU00_00-0000000000000000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/download.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>
+	
+	<!-- Unofficial®Stores > Essential Applications > Game Modifications > Minecraft > Texture Packs -->
+	<View id="seg_minecraft_texture_pack_items">
+		<Attributes>
+			<!-- Texture Pack for BLES01976 -->
+			<Table key="minecraft_texture_pack_BLES01976">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/package_download.png</String></Pair>
+				<Pair key="title"><String>BLES01976</String></Pair>
+				<Pair key="info"><String>Instala o pacote de texturas para essa variante regional do título.</String></Pair>
+			</Table>
+			<!-- Texture Pack for BLUS31426 -->
+			<Table key="minecraft_texture_pack_BLUS31426">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/package_download.png</String></Pair>
+				<Pair key="title"><String>BLUS31426</String></Pair>
+				<Pair key="info"><String>Instala o pacote de texturas para essa variante regional do título.</String></Pair>
+			</Table>
+			<!-- Texture Pack for NPEB01899 -->
+			<Table key="minecraft_texture_pack_NPEB01899">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/package_download.png</String></Pair>
+				<Pair key="title"><String>NPEB01899</String></Pair>
+				<Pair key="info"><String>Instala o pacote de texturas para essa variante regional do título.</String></Pair>
+			</Table>
+			<!-- Texture Pack for NPUB31419 -->
+			<Table key="minecraft_texture_pack_NPUB31419">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/package_download.png</String></Pair>
+				<Pair key="title"><String>NPUB31419</String></Pair>
+				<Pair key="info"><String>Instala o pacote de texturas para essa variante regional do título.</String></Pair>
+			</Table>	
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/folder-pixmap" key="minecraft_texture_pack_BLES01976" attr="minecraft_texture_pack_BLES01976" src="#minecraft_texture_pack_BLES01976_item"/>
+			<Query class="type:x-xmb/folder-pixmap" key="minecraft_texture_pack_BLUS31426" attr="minecraft_texture_pack_BLUS31426" src="#minecraft_texture_pack_BLUS31426_item"/>
+			<Query class="type:x-xmb/folder-pixmap" key="minecraft_texture_pack_NPEB01899" attr="minecraft_texture_pack_NPEB01899" src="#minecraft_texture_pack_NPEB01899_item"/>
+			<Query class="type:x-xmb/folder-pixmap" key="minecraft_texture_pack_NPUB31419" attr="minecraft_texture_pack_NPUB31419" src="#minecraft_texture_pack_NPUB31419_item"/>	
+		</Items>
+	</View>
+	
+	<View id="minecraft_texture_pack_BLES01976_item">
+		<Attributes>
+			<Table key="download">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://github.com/PS3-4K-Pro/Packages/releases/download/Mods/Minecraft_Texture_Pack_BLES01976.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://github.com/PS3-4K-Pro/Packages/releases/download/Mods/Minecraft_Texture_Pack_BLES01976.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>CUSTOM-TEXTUREPK_0-0000000000000000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/download.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>
+	
+	<View id="minecraft_texture_pack_BLUS31426_item">
+		<Attributes>
+			<Table key="download">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://github.com/PS3-4K-Pro/Packages/releases/download/Mods/Minecraft_Texture_Pack_BLUS31426.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://github.com/PS3-4K-Pro/Packages/releases/download/Mods/Minecraft_Texture_Pack_BLUS31426.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>CUSTOM-TEXTUREPK_0-0000000000000000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/download.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>
+	
+	<View id="minecraft_texture_pack_NPEB01899_item">
+		<Attributes>
+			<Table key="download">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://github.com/PS3-4K-Pro/Packages/releases/download/Mods/Minecraft_Texture_Pack_NPEB01899.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://github.com/PS3-4K-Pro/Packages/releases/download/Mods/Minecraft_Texture_Pack_NPEB01899.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>CUSTOM-TEXTUREPK_0-0000000000000000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/download.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>
+	
+	<View id="minecraft_texture_pack_NPUB31419_item">
+		<Attributes>
+			<Table key="download">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://github.com/PS3-4K-Pro/Packages/releases/download/Mods/Minecraft_Texture_Pack_NPUB31419.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://github.com/PS3-4K-Pro/Packages/releases/download/Mods/Minecraft_Texture_Pack_NPUB31419.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>CUSTOM-TEXTUREPK_0-0000000000000000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/download.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>
+	
+	<!-- Unofficial®Stores > Essential Applications > Game Modifications > Red Dead Redemption -->
+	<View id="seg_game_modification_13_items">
+		<Attributes>
+			<!-- Red Dead Redemption -->
+			<Table key="red_dead_redemption">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/game_modification_icons/red_dead_redemption.png</String></Pair>
+				<Pair key="title"><String>Red Dead Redemption</String></Pair>
+				<Pair key="info"><String>Seleção de modificações para esse título.</String></Pair>
+			</Table>
+			<!-- Red Dead Redemption: Game of The Year Edition -->
+			<Table key="red_dead_redemption_goty">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/game_modification_icons/red_dead_redemption.png</String></Pair>
+				<Pair key="title"><String>Red Dead Redemption: Game of The Year Edition</String></Pair>
+				<Pair key="info"><String>Seleção de modificações para esse título.</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/folder-pixmap" key="red_dead_redemption" attr="red_dead_redemption" src="#seg_red_dead_redemption_item"/>
+			<Query class="type:x-xmb/folder-pixmap" key="red_dead_redemption_goty" attr="red_dead_redemption_goty" src="#seg_red_dead_redemption_goty_item"/>
+		</Items>
+	</View>
+	
+	<View id="seg_red_dead_redemption_item">
+		<Attributes>
+			<Table key="red_dead_redemption_mod_menu">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/plugin_folder.png</String></Pair>
+				<Pair key="title"><String>Menu de Modificações</String></Pair>
+				<Pair key="info"><String>Seleção de mod menus para esse título.</String></Pair>
+			</Table>		
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/folder-pixmap" key="red_dead_redemption_mod_menu" attr="red_dead_redemption_mod_menu" src="#red_dead_redemption_mod_menu_item"/>
+		</Items>
+	</View>
+	
+	<View id="red_dead_redemption_mod_menu_item">
+		<Attributes>
+			<Table key="download">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://github.com/PS3-4K-Pro/Packages/releases/download/Mods/Red_Dead_Redemption_Mod_Menu.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://github.com/PS3-4K-Pro/Packages/releases/download/Mods/Red_Dead_Redemption_Mod_Menu.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>CUSTOM-MODMENU00_00-0000000000000000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/download.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>
+	
+	<View id="seg_red_dead_redemption_goty_item">
+		<Attributes>
+			<Table key="red_dead_redemption_goty_mod_menu">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/plugin_folder.png</String></Pair>
+				<Pair key="title"><String>Menu de Modificações</String></Pair>
+				<Pair key="info"><String>Seleção de mod menus para esse título.</String></Pair>
+			</Table>		
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/folder-pixmap" key="red_dead_redemption_goty_mod_menu" attr="red_dead_redemption_goty_mod_menu" src="#red_dead_redemption_goty_mod_menu_item"/>
+		</Items>
+	</View>
+	
+	<View id="red_dead_redemption_goty_mod_menu_item">
+		<Attributes>
+			<Table key="download">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://github.com/PS3-4K-Pro/Packages/releases/download/Mods/Red_Dead_Redemption_-_GOTY_Mod_Menu.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://github.com/PS3-4K-Pro/Packages/releases/download/Mods/Red_Dead_Redemption_-_GOTY_Mod_Menu.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>CUSTOM-MODMENU00_00-0000000000000000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/download.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>
+
+	<!-- Unofficial®Stores > Essential Applications > Game Modifications > Skate 3 -->
+	<View id="seg_game_modification_14_item">
+		<Attributes>
+			<Table key="skate_3_mod_menu">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/plugin_folder.png</String></Pair>
+				<Pair key="title"><String>Menu de Modificações</String></Pair>
+				<Pair key="info"><String>Seleção de mod menus para esse título.</String></Pair>
+			</Table>		
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/folder-pixmap" key="skate_3_mod_menu" attr="skate_3_mod_menu" src="#skate_3_mod_menu_item"/>
+		</Items>
+	</View>
+	
+	<View id="skate_3_mod_menu_item">
+		<Attributes>
+			<Table key="download">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://github.com/PS3-4K-Pro/Packages/releases/download/Mods/Skate_3_Mod_Menu.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://github.com/PS3-4K-Pro/Packages/releases/download/Mods/Skate_3_Mod_Menu.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>CUSTOM-MODMENU00_00-0000000000000000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/download.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>
+	
+	<!-- Unofficial®Stores > Essential Applications > Game Modifications > Skyrim -->
+	<View id="seg_game_modification_15_item">
+		<Attributes>
+			<!-- Skyrim -->
+			<Table key="skyrim">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/game_modification_icons/skyrim.png</String></Pair>
+				<Pair key="title"><String>Skyrim</String></Pair>
+				<Pair key="info"><String>Seleção de modificações para esse título.</String></Pair>
+			</Table>
+			<!-- Skyrim: Legendary Edition -->
+			<Table key="skyrim_legendary_edition">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/game_modification_icons/skyrim_-_legendary_edition.png</String></Pair>
+				<Pair key="title"><String>Skyrim: Legendary Edition</String></Pair>
+				<Pair key="info"><String>Seleção de modificações para esse título.</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/folder-pixmap" key="skyrim" attr="skyrim" src="#seg_skyrim_items"/>
+			<Query class="type:x-xmb/folder-pixmap" key="skyrim_legendary_edition" attr="skyrim_legendary_edition" src="#seg_skyrim_legnendary_edition_items"/>
+		</Items>
+	</View>
+	
+	<!-- Unofficial®Stores > Essential Applications > Game Modifications > Skyrim > Skyrim -->
+	<View id="seg_skyrim_items">
+		<Attributes>
+			<!-- Mod Menu -->
+			<Table key="skyrim_mod_menu">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/plugin_folder.png</String></Pair>
+				<Pair key="title"><String>Menu de Modificações</String></Pair>
+				<Pair key="info"><String>Seleção de mod menus para esse título.</String></Pair>
+			</Table>
+			<!-- Translation Pack -->
+			<Table key="skyrim_translation_pack">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/syscalls_folder.png</String></Pair>
+				<Pair key="title"><String>Pack de Traduções</String></Pair>
+				<Pair key="info"><String>Seleção de packs de traduções para esse título.</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/folder-pixmap" key="skyrim_mod_menu" attr="skyrim_mod_menu" src="#skyrim_mod_menu_item"/>
+			<!-- <Query class="type:x-xmb/folder-pixmap" key="skyrim_translation_pack" attr="skyrim_translation_pack" src="#skyrim_translation_pack_item"/> -->
+		</Items>
+	</View>
+	
+	<View id="skyrim_mod_menu_item">
+		<Attributes>
+			<Table key="download">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://github.com/PS3-4K-Pro/Packages/releases/download/Mods/Skyrim_-_Anniversary_Mod_Pack.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://github.com/PS3-4K-Pro/Packages/releases/download/Mods/Skyrim_-_Anniversary_Mod_Pack.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>CUSTOM-MODMENU00_00-0000000000000000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/download.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>
+	
+	<!-- Unofficial®Stores > Essential Applications > Game Modifications > Skyrim > Skyrim Legendary Edition -->
+	<View id="seg_skyrim_legnendary_edition_items">
+		<Attributes>
+			<!-- Mod Menu -->
+			<Table key="skyrim_legendary_edition_mod_menu">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/plugin_folder.png</String></Pair>
+				<Pair key="title"><String>Menu de Modificações</String></Pair>
+				<Pair key="info"><String>Seleção de mod menus para esse título.</String></Pair>
+			</Table>
+			<!-- Translation Pack -->
+			<Table key="skyrim_legendary_edition_translation_pack">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/package_download.png</String></Pair>
+				<Pair key="title"><String>Pack de Traduções</String></Pair>
+				<Pair key="info"><String>Seleção de packs de traduções para esse título.</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/folder-pixmap" key="skyrim_legendary_edition_mod_menu" attr="skyrim_legendary_edition_mod_menu" src="#skyrim_legendary_edition_mod_menu_item"/>
+			<!-- <Query class="type:x-xmb/folder-pixmap" key="skyrim_legendary_edition_translation_pack" attr="skyrim_legendary_edition_translation_pack" src="#skyrim_legendary_edition_translation_pack_item"/> -->
+		</Items>
+	</View>
+	
+	<View id="skyrim_legendary_edition_mod_menu_item">
+		<Attributes>
+			<Table key="download">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://github.com/PS3-4K-Pro/Packages/releases/download/Mods/Skyrim_Legendary_Edition_-_Anniversary_Mod_Pack.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://github.com/PS3-4K-Pro/Packages/releases/download/Mods/Skyrim_Legendary_Edition_-_Anniversary_Mod_Pack.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>CUSTOM-MODMENU00_00-0000000000000000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/download.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>
+	
+	<!-- Unofficial®Stores > Essential Applications > Game Modifications > The Last Of Us -->
+	<View id="seg_game_modification_16_item">
+		<Attributes>
+			<!-- Mod Menu -->
+			<Table key="the_last_of_us_mod_menu">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/plugin_folder.png</String></Pair>
+				<Pair key="title"><String>Menu de Modificações</String></Pair>
+				<Pair key="info"><String>Seleção de mod menus para esse título.</String></Pair>
+			</Table>		
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/folder-pixmap" key="the_last_of_us_mod_menu" attr="the_last_of_us_mod_menu" src="#the_last_of_us_mod_menu_item"/>
+		</Items>
+	</View>
+	
+	<View id="the_last_of_us_mod_menu_item">
+		<Attributes>
+			<Table key="download">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://github.com/PS3-4K-Pro/Packages/releases/download/Mods/The_Last_Of_Us_Debug_Menu.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://github.com/PS3-4K-Pro/Packages/releases/download/Mods/The_Last_Of_Us_Debug_Menu.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>CUSTOM-MODMENU00_00-0000000000000000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/download.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>
+</XMBML>

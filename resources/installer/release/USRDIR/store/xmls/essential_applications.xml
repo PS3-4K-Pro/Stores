@@ -6,8 +6,8 @@
 		<Attributes>
 			<Table key="essential_applications">
 				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/folder_xmbm.png</String></Pair>
-				<Pair key="title"><String>Applicativos Essenciais</String></Pair>
-				<Pair key="info"><String>Seleçao de applicativos essenciais para tirar o máximo do sistema.</String></Pair>
+				<Pair key="title"><String>Aplicativos Essenciais</String></Pair>
+				<Pair key="info"><String>Seleçao de aplicativos essenciais para tirar o máximo do sistema.</String></Pair>
 			</Table>
 		</Attributes>
 		<Items>
@@ -48,21 +48,53 @@
 			</Table>
 			<!-- Backup Manager Downloader -->
 			<Table key="backup_manager_downloader">
-				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/disc.png</String></Pair>
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/backup_managers.png</String></Pair>
 				<Pair key="title"><String>Gerenciadores de Backup</String></Pair>
 				<Pair key="info"><String>Seleção de aplicativos de gerenciamento de arquivos e backups.</String></Pair>
 			</Table>
+			<!-- Package Manager -->
+			<Table key="package_manager">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/package.png</String></Pair>
+				<Pair key="title"><String>Gerenciadores de Pacotes</String></Pair>
+				<Pair key="info"><String>Seleção de ferramentas de gerenciamento de pacotes.</String></Pair>
+				<Pair key="child"><String>segment</String></Pair>
+			</Table>
 			<!-- Homebrew Game Downloader -->
 			<Table key="homebrew_games_downloader">
-				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/package.png</String></Pair>
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/game.png</String></Pair>
 				<Pair key="title"><String>Jogos Homebrew</String></Pair>
 				<Pair key="info"><String>Seleção de jogos homebrew desenvolvidos pela comunidade.</String></Pair>
 			</Table>
 			<!-- Ported Games Downloader -->
 			<Table key="ported_games_downloader">
-				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/game.png</String></Pair>
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/disc.png</String></Pair>
 				<Pair key="title"><String>Jogos Portados</String></Pair>
 				<Pair key="info"><String>Seleção de jogos portados de outras plataformas pela comunidade.</String></Pair>
+			</Table>
+			<!-- Retro Games Downloader -->
+			<Table key="retro_downloader">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/retro.png</String></Pair>
+				<Pair key="title"><String>Jogos Retro</String></Pair>
+				<Pair key="info"><String>Seleção de jogos de consoles que marcaram época.</String></Pair>
+			</Table>
+			<!-- Game Modifications -->
+			<Table key="game_modifications">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/plugin.png</String></Pair>
+				<Pair key="title"><String>Modificações para Jogos</String></Pair>
+				<Pair key="info"><String>Seleção de modificações para diversos jogos.</String></Pair>
+			</Table>	
+			<!-- Firmware Downloader -->
+			<Table key="firmware_downloader">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/update.png</String></Pair>
+				<Pair key="title"><String>Software do Sistema</String></Pair>
+				<Pair key="info"><String>Seleção de firmwares para atualizar seu console facilmente.</String></Pair>
+				<Pair key="child"><String>segment</String></Pair>
+			</Table>
+			<!-- Legacy Downloader -->
+			<Table key="legacy_downloader">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/rebug.png</String></Pair>
+				<Pair key="title"><String>Legado</String></Pair>
+				<Pair key="info"><String>Seleção de aplicativos que ja fizeram seu legado e não mais necessários ou recomendados.</String></Pair>
 			</Table>
 		</Attributes>
 		<Items>
@@ -71,8 +103,13 @@
 			<Query class="type:x-xmb/folder-pixmap" key="emulator_downloader" attr="emulator_downloader" src="xmb://localhost/dev_hdd0/game/UNOSTORES/USRDIR/store/xmls/emulator/emulator_downloader.xml#seg_emulator_downloader_items"/>
 			<Query class="type:x-xmb/folder-pixmap" key="tools_downloader" attr="tools_downloader" src="xmb://localhost/dev_hdd0/game/UNOSTORES/USRDIR/store/xmls/tool/tool_downloader.xml#seg_tool_downloader_items"/>
 			<Query class="type:x-xmb/folder-pixmap" key="backup_manager_downloader" attr="backup_manager_downloader" src="xmb://localhost/dev_hdd0/game/UNOSTORES/USRDIR/store/xmls/backup_manager/backup_manager_downloader.xml#seg_backup_manager_downloader_items"/>
+			<Query class="type:x-xmb/folder-pixmap" key="package_manager" attr="package_manager" src="xmb://localhost/dev_hdd0/game/UNOSTORES/USRDIR/store/xmls/package_manager/package_manager.xml#seg_package_manager_items"/>
 			<Query class="type:x-xmb/folder-pixmap" key="homebrew_games_downloader" attr="homebrew_games_downloader" src="xmb://localhost/dev_hdd0/game/UNOSTORES/USRDIR/store/xmls/homebrew/homebrew_game_downloader.xml#seg_homebrew_game_downloader_items"/>
 			<Query class="type:x-xmb/folder-pixmap" key="ported_games_downloader" attr="ported_games_downloader" src="xmb://localhost/dev_hdd0/game/UNOSTORES/USRDIR/store/xmls/ports/ported_games_downloader.xml#seg_ported_games_downloader_items"/>
+			<Query class="type:x-xmb/folder-pixmap" key="game_modifications" attr="game_modifications" src="xmb://localhost/dev_hdd0/game/UNOSTORES/USRDIR/store/xmls/modification/game_modifications.xml#seg_game_modifications_items"/>
+			<Query class="type:x-xmb/folder-pixmap" key="firmware_downloader" attr="firmware_downloader" src="xmb://localhost/dev_hdd0/game/UNOSTORES/USRDIR/store/xmls/firmware/firmware_downloader.xml#seg_firmware_downloader_items"/>
+			<Query class="type:x-xmb/folder-pixmap" key="legacy_downloader" attr="legacy_downloader" src="xmb://localhost/dev_hdd0/game/UNOSTORES/USRDIR/store/xmls/legacy/legacy_downloader.xml#seg_legacy_downloader_items"/>
+		
 		</Items>
 	</View>
 	

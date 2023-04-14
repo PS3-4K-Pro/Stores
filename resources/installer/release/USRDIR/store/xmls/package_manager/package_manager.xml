@@ -1,0 +1,415 @@
+<!-- This is part of PS3™ 4K Pro by Luan Teles - 01/02/2020 - DD/MM/YY -->
+
+<XMBML version="1.0">
+	<View id="seg_package_manager_items">
+		<Items>
+			<Query class="type:x-xmb/folder-pixmap" key="package_files" src="#seg_package_files"/>
+			<Query class="type:x-xmb/folder-pixmap" key="download_manager" src="ese://localhost/query?type=download_control"/>
+		</Items>
+	</View>
+	
+	<!-- XMB Menu™ > PlayStation™Network Category > Unofficial®Stores > Package Manager > Install Package Files -->
+	<View id="seg_package_files">  
+		<Attributes>
+			<!-- Install Package Files -->
+			<Table key="package_files_install">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/package_manager_icons/package_hdd.png</String></Pair>
+				<Pair key="title"><String>Instalar Pacotes</String></Pair>
+				<Pair key="info"><String>Lista todos os arquivos de pacotes de diversas localizações.</String></Pair>
+			</Table>
+			<!-- Delete Package Files -->
+			<Table key="package_files_delete">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/package_manager_icons/package_delete.png</String></Pair>
+				<Pair key="title"><String>Deletar Pacotes</String></Pair>
+				<Pair key="info"><String>Lista todos os arqivos de pacote e possibilita a desinstalação dos mesmos.
+				
+				Para deletar um arquivo, aperte  sobre o mesmo.
+				
+				Aviso: A listagem pode demorar um pouco, todas as midias, dispositivos e drives são escaneados nessa operação.</String></Pair>
+				<Pair key="fo_lbl2_alpha"><String>0</String></Pair>
+				<Pair key="child"><String>segment</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/folder-pixmap" key="package_files_install" attr="package_files_install" src="#seg_package_files_install_items"/>
+			<Query class="type:x-xmb/folder-pixmap" key="package_files_delete" attr="package_files_delete" src="#seg_delete_files_location_all"/>
+		</Items>
+	</View>
+
+	<!-- XMB Menu™ > PlayStation™Network Category > Unofficial®Stores > Package Manager > Install Package Files > All Packages Files -->
+	<View id="seg_package_files_install_items">
+		<Attributes>
+			<Table key="shared_actions">
+				<Pair key="str_noitem"><String>msg_error_no_content</String></Pair>
+				<Pair key="child"><String>segment</String></Pair>
+			</Table>
+			<!-- All Package Files -->
+			<Table key="install_files_location_all" include="shared_actions">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/package_manager_icons/package_package.png</String></Pair>
+				<Pair key="title"><String>Todos os Pacotes</String></Pair>
+				<Pair key="info"><String>Lista todos os arquivos de pacotes conectados ao sistema e possibilita a instalação dos mesmos.
+				
+				Aviso: A listagem pode demorar um pouco, todas as midias, dispositivos e drives são escaneados nessa operação.</String></Pair>
+				<Pair key="fo_lbl2_alpha"><String>0</String></Pair>
+			</Table>
+			<!-- Background Package Location -->
+			<Table key="install_files_location_background" include="shared_actions">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/package_manager_icons/package_settings.png</String></Pair>
+				<Pair key="title"><String>Pacotes em Segundo Plano</String></Pair>
+				<Pair key="info"><String>Lista todos os arquivos de pacotes baixados em segundo plano que ficam em estado pendente em 99% porém já concluídos
+				
+				Aviso: A listagem pode demorar um pouco, todas as midias, dispositivos e drives são escaneados nessa operação.</String></Pair>
+				<Pair key="fo_lbl2_alpha"><String>0</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/folder-pixmap" key="install_files_location_all" attr="install_files_location_all" src="#seg_install_files_location_all"/>
+			<Query class="type:x-xmb/folder-pixmap" key="install_files_location_background" attr="install_files_location_background" src="#seg_install_files_location_background"/>
+		</Items>
+	</View>
+	
+	<!-- XMB Menu™ > PlayStation™Network Category > Unofficial®Stores > Package Manager > Install Package Files > All Packages Files -->
+	<View id="seg_install_files_batch_install">
+		<Attributes>
+			<!-- Install All Packages Files (USB) -->
+			<Table key="package_files_install_all">
+				<Pair key="info"><String>package_install</String></Pair>
+			  </Table>
+		</Attributes>
+		<Items>
+			<Item class="type:x-xmb/xmlnpsignup" key="package_files_install_all" attr="package_files_install_all"/>
+		</Items>
+	</View>
+	
+	
+<!-- Install Directories -->
+	<!-- All Package Paths -->
+	<View id="seg_install_files_location_all">
+		<Items>
+			<!-- Batch Install -->
+			<Query class="type:x-xmb/xmlpackagefolder" key="install_files_batch_install" src="#seg_install_files_batch_install"/>
+			<!-- PSN Bubbles -->
+			<Query class="type:x-xmb/folder-pixmap" key="seg_hdd_install" src="ese://localhost/query?type=install_game"/>
+			<Query class="type:x-xmb/folder-pixmap" key="seg_pkg_install" src="ese://localhost/query?type=install_pkg"/>
+			<!-- Packages Paths and Devices -->
+			<Query class="type:x-xmb/xmlpackagefolder" key="host_provider_flash_pkg" src="host://localhost/q?path=/dev_blind/rebug/packages&suffix=.pkg&subclass=x-host/package"/>
+			<Query class="type:x-xmb/xmlpackagefolder" key="host_provider_bdvd_pkg" src="host://localhost/q?path=/dev_bdvd&suffix=.pkg&subclass=x-host/package"/>
+			<Query class="type:x-xmb/xmlpackagefolder" key="host_provider_home_pkg1" src="host://localhost/q?path=/app_home/packages&suffix=.pkg&subclass=x-host/package"/>
+			<Query class="type:x-xmb/xmlpackagefolder" key="host_provider_home_pkg2" src="host://localhost/q?path=/app_home/PKG&suffix=.pkg&subclass=x-host/package"/>
+			<Query class="type:x-xmb/xmlpackagefolder" key="host_provider_hdd0_pkg1" src="host://localhost/q?path=/dev_hdd0/packages&suffix=.pkg&subclass=x-host/package"/>
+			<Query class="type:x-xmb/xmlpackagefolder" key="host_provider_hdd0_pkg2" src="host://localhost/q?path=/dev_hdd0/PKG&suffix=.pkg&subclass=x-host/package"/>
+			<Query class="type:x-xmb/xmlpackagefolder" key="host_provider_usb0_pkg" src="host://localhost/q?path=/dev_usb000&suffix=.pkg&subclass=x-host/package"/>
+			<Query class="type:x-xmb/xmlpackagefolder" key="host_provider_usb0_pkg1" src="host://localhost/q?path=/dev_usb000/packages&suffix=.pkg&subclass=x-host/package"/>
+			<Query class="type:x-xmb/xmlpackagefolder" key="host_provider_usb0_pkg2" src="host://localhost/q?path=/dev_usb000/PKG&suffix=.pkg&subclass=x-host/package"/>
+			<Query class="type:x-xmb/xmlpackagefolder" key="host_provider_usb0_dl_pkg" src="host://localhost/q?path=/dev_usb000/PS3/DOWNLOADS&suffix=.pkg&subclass=x-host/package"/>
+			<Query class="type:x-xmb/xmlpackagefolder" key="host_provider_usb1_pkg" src="host://localhost/q?path=/dev_usb001&suffix=.pkg&subclass=x-host/package"/>
+			<Query class="type:x-xmb/xmlpackagefolder" key="host_provider_usb1_pkg1" src="host://localhost/q?path=/dev_usb001/packages&suffix=.pkg&subclass=x-host/package"/>
+			<Query class="type:x-xmb/xmlpackagefolder" key="host_provider_usb1_pkg2" src="host://localhost/q?path=/dev_usb001/PKG&suffix=.pkg&subclass=x-host/package"/>
+			<Query class="type:x-xmb/xmlpackagefolder" key="host_provider_usb1_dl_pkg" src="host://localhost/q?path=/dev_usb001/PS3/DOWNLOADS&suffix=.pkg&subclass=x-host/package"/>
+			<Query class="type:x-xmb/xmlpackagefolder" key="host_provider_usb2_pkg" src="host://localhost/q?path=/dev_usb002&suffix=.pkg&subclass=x-host/package"/>
+			<Query class="type:x-xmb/xmlpackagefolder" key="host_provider_usb2_pkg1" src="host://localhost/q?path=/dev_usb002/packages&suffix=.pkg&subclass=x-host/package"/>
+			<Query class="type:x-xmb/xmlpackagefolder" key="host_provider_usb2_pkg2" src="host://localhost/q?path=/dev_usb002/PKG&suffix=.pkg&subclass=x-host/package"/>
+			<Query class="type:x-xmb/xmlpackagefolder" key="host_provider_usb2_dl_pkg" src="host://localhost/q?path=/dev_usb002/PS3/DOWNLOADS&suffix=.pkg&subclass=x-host/package"/>
+			<Query class="type:x-xmb/xmlpackagefolder" key="host_provider_usb3_pkg" src="host://localhost/q?path=/dev_usb003&suffix=.pkg&subclass=x-host/package"/>
+			<Query class="type:x-xmb/xmlpackagefolder" key="host_provider_usb3_pkg1" src="host://localhost/q?path=/dev_usb003/packages&suffix=.pkg&subclass=x-host/package"/>
+			<Query class="type:x-xmb/xmlpackagefolder" key="host_provider_usb3_pkg2" src="host://localhost/q?path=/dev_usb003/PKG&suffix=.pkg&subclass=x-host/package"/>
+			<Query class="type:x-xmb/xmlpackagefolder" key="host_provider_usb3_dl_pkg" src="host://localhost/q?path=/dev_usb003/PS3/DOWNLOADS&suffix=.pkg&subclass=x-host/package"/>
+			<Query class="type:x-xmb/xmlpackagefolder" key="host_provider_usb4_pkg" src="host://localhost/q?path=/dev_usb004&suffix=.pkg&subclass=x-host/package"/>
+			<Query class="type:x-xmb/xmlpackagefolder" key="host_provider_usb4_pkg1" src="host://localhost/q?path=/dev_usb004/packages&suffix=.pkg&subclass=x-host/package"/>
+			<Query class="type:x-xmb/xmlpackagefolder" key="host_provider_usb4_pkg2" src="host://localhost/q?path=/dev_usb004/PKG&suffix=.pkg&subclass=x-host/package"/>
+			<Query class="type:x-xmb/xmlpackagefolder" key="host_provider_usb4_dl_pkg" src="host://localhost/q?path=/dev_usb004/PS3/DOWNLOADS&suffix=.pkg&subclass=x-host/package"/>
+			<Query class="type:x-xmb/xmlpackagefolder" key="host_provider_usb5_pkg" src="host://localhost/q?path=/dev_usb005&suffix=.pkg&subclass=x-host/package"/>
+			<Query class="type:x-xmb/xmlpackagefolder" key="host_provider_usb5_pkg1" src="host://localhost/q?path=/dev_usb005/packages&suffix=.pkg&subclass=x-host/package"/>
+			<Query class="type:x-xmb/xmlpackagefolder" key="host_provider_usb5_pkg2" src="host://localhost/q?path=/dev_usb005/PKG&suffix=.pkg&subclass=x-host/package"/>
+			<Query class="type:x-xmb/xmlpackagefolder" key="host_provider_usb5_dl_pkg" src="host://localhost/q?path=/dev_usb005/PS3/DOWNLOADS&suffix=.pkg&subclass=x-host/package"/>
+			<Query class="type:x-xmb/xmlpackagefolder" key="host_provider_usb6_pkg" src="host://localhost/q?path=/dev_usb006&suffix=.pkg&subclass=x-host/package"/>
+			<Query class="type:x-xmb/xmlpackagefolder" key="host_provider_usb6_pkg1" src="host://localhost/q?path=/dev_usb006/packages&suffix=.pkg&subclass=x-host/package"/>
+			<Query class="type:x-xmb/xmlpackagefolder" key="host_provider_usb6_pkg2" src="host://localhost/q?path=/dev_usb006/PKG&suffix=.pkg&subclass=x-host/package"/>
+			<Query class="type:x-xmb/xmlpackagefolder" key="host_provider_usb6_dl_pkg" src="host://localhost/q?path=/dev_usb006/PS3/DOWNLOADS&suffix=.pkg&subclass=x-host/package"/>
+			<Query class="type:x-xmb/xmlpackagefolder" key="host_provider_usb7_pkg" src="host://localhost/q?path=/dev_usb007&suffix=.pkg&subclass=x-host/package"/>
+			<Query class="type:x-xmb/xmlpackagefolder" key="host_provider_usb7_pkg1" src="host://localhost/q?path=/dev_usb007/packages&suffix=.pkg&subclass=x-host/package"/>
+			<Query class="type:x-xmb/xmlpackagefolder" key="host_provider_usb7_pkg2" src="host://localhost/q?path=/dev_usb007/PKG&suffix=.pkg&subclass=x-host/package"/>
+			<Query class="type:x-xmb/xmlpackagefolder" key="host_provider_usb7_dl_pkg" src="host://localhost/q?path=/dev_usb007/PS3/DOWNLOADS&suffix=.pkg&subclass=x-host/package"/>
+			<Query class="type:x-xmb/xmlpackagefolder" key="host_provider_ms_pkg" src="host://localhost/q?path=/dev_ms&suffix=.pkg&subclass=x-host/package"/>
+			<Query class="type:x-xmb/xmlpackagefolder" key="host_provider_ms_pkg1" src="host://localhost/q?path=/dev_ms/packages&suffix=.pkg&subclass=x-host/package"/>
+			<Query class="type:x-xmb/xmlpackagefolder" key="host_provider_ms_pkg2" src="host://localhost/q?path=/dev_ms/PKG&suffix=.pkg&subclass=x-host/package"/>
+			<Query class="type:x-xmb/xmlpackagefolder" key="host_provider_ms_dl_pkg" src="host://localhost/q?path=/dev_ms/PS3/DOWNLOADS&suffix=.pkg&subclass=x-host/package"/>
+			<Query class="type:x-xmb/xmlpackagefolder" key="host_provider_sd_pkg" src="host://localhost/q?path=/dev_sd&suffix=.pkg&subclass=x-host/package"/>
+			<Query class="type:x-xmb/xmlpackagefolder" key="host_provider_sd_pkg1" src="host://localhost/q?path=/dev_sd/packages&suffix=.pkg&subclass=x-host/package"/>
+			<Query class="type:x-xmb/xmlpackagefolder" key="host_provider_sd_pkg2" src="host://localhost/q?path=/dev_sd/PKG&suffix=.pkg&subclass=x-host/package"/>
+			<Query class="type:x-xmb/xmlpackagefolder" key="host_provider_sd_dl_pkg" src="host://localhost/q?path=/dev_sd/PS3/DOWNLOADS&suffix=.pkg&subclass=x-host/package"/>
+			<Query class="type:x-xmb/xmlpackagefolder" key="host_provider_cf_pkg" src="host://localhost/q?path=/dev_cf&suffix=.pkg&subclass=x-host/package"/>
+			<Query class="type:x-xmb/xmlpackagefolder" key="host_provider_cf_pkg1" src="host://localhost/q?path=/dev_cf/packages&suffix=.pkg&subclass=x-host/package"/>
+			<Query class="type:x-xmb/xmlpackagefolder" key="host_provider_cf_pkg2" src="host://localhost/q?path=/dev_cf/PKG&suffix=.pkg&subclass=x-host/package"/>
+			<Query class="type:x-xmb/xmlpackagefolder" key="host_provider_cf_dl_pkg" src="host://localhost/q?path=/dev_cf/PS3/DOWNLOADS&suffix=.pkg&subclass=x-host/package"/>
+			<!-- PKGI Direct Download -->
+			<Query class="type:x-xmb/xmlpackagefolder" key="host_provider_cf_dl_pkg" src="host://localhost/q?path=/dev_hdd0/tmp/pkgi/&suffix=.pkg&subclass=x-host/package"/>			
+		</Items>
+	</View>
+	
+	<!-- Package Paths (User) -->
+	<View id="seg_install_files_location_background">
+		<Items>
+			<Query class="type:x-xmb/xmlpackagefolder" key="host_provider_user_00_pkg" src="host://localhost/q?path=/dev_hdd0/vsh/task/&suffix=.pkg&subclass=x-host/package"/>	  
+			<Query class="type:x-xmb/xmlpackagefolder" key="host_provider_user_01_pkg" src="host://localhost/q?path=/dev_hdd0/vsh/task/00000001&suffix=.pkg&subclass=x-host/package"/>	  
+			<Query class="type:x-xmb/xmlpackagefolder" key="host_provider_user_02_pkg" src="host://localhost/q?path=/dev_hdd0/vsh/task/00000002&suffix=.pkg&subclass=x-host/package"/>	  
+			<Query class="type:x-xmb/xmlpackagefolder" key="host_provider_user_03_pkg" src="host://localhost/q?path=/dev_hdd0/vsh/task/00000003&suffix=.pkg&subclass=x-host/package"/>	  
+			<Query class="type:x-xmb/xmlpackagefolder" key="host_provider_user_04_pkg" src="host://localhost/q?path=/dev_hdd0/vsh/task/00000004&suffix=.pkg&subclass=x-host/package"/>	  
+			<Query class="type:x-xmb/xmlpackagefolder" key="host_provider_user_05_pkg" src="host://localhost/q?path=/dev_hdd0/vsh/task/00000005&suffix=.pkg&subclass=x-host/package"/>	  
+			<Query class="type:x-xmb/xmlpackagefolder" key="host_provider_user_06_pkg" src="host://localhost/q?path=/dev_hdd0/vsh/task/00000006&suffix=.pkg&subclass=x-host/package"/>	  
+			<Query class="type:x-xmb/xmlpackagefolder" key="host_provider_user_07_pkg" src="host://localhost/q?path=/dev_hdd0/vsh/task/00000007&suffix=.pkg&subclass=x-host/package"/>	  
+			<Query class="type:x-xmb/xmlpackagefolder" key="host_provider_user_08_pkg" src="host://localhost/q?path=/dev_hdd0/vsh/task/00000008&suffix=.pkg&subclass=x-host/package"/>	  
+			<Query class="type:x-xmb/xmlpackagefolder" key="host_provider_user_09_pkg" src="host://localhost/q?path=/dev_hdd0/vsh/task/00000009&suffix=.pkg&subclass=x-host/package"/>	  
+			<Query class="type:x-xmb/xmlpackagefolder" key="host_provider_user_10_pkg" src="host://localhost/q?path=/dev_hdd0/vsh/task/00000010&suffix=.pkg&subclass=x-host/package"/>	  
+			<Query class="type:x-xmb/xmlpackagefolder" key="host_provider_user_11_pkg" src="host://localhost/q?path=/dev_hdd0/vsh/task/00000011&suffix=.pkg&subclass=x-host/package"/>	  
+			<Query class="type:x-xmb/xmlpackagefolder" key="host_provider_user_12_pkg" src="host://localhost/q?path=/dev_hdd0/vsh/task/00000012&suffix=.pkg&subclass=x-host/package"/>	  
+			<Query class="type:x-xmb/xmlpackagefolder" key="host_provider_user_13_pkg" src="host://localhost/q?path=/dev_hdd0/vsh/task/00000013&suffix=.pkg&subclass=x-host/package"/>	  
+			<Query class="type:x-xmb/xmlpackagefolder" key="host_provider_user_14_pkg" src="host://localhost/q?path=/dev_hdd0/vsh/task/00000014&suffix=.pkg&subclass=x-host/package"/>	  
+			<Query class="type:x-xmb/xmlpackagefolder" key="host_provider_user_15_pkg" src="host://localhost/q?path=/dev_hdd0/vsh/task/00000015&suffix=.pkg&subclass=x-host/package"/>
+			<Query class="type:x-xmb/xmlpackagefolder" key="host_provider_user_16_pkg" src="host://localhost/q?path=/dev_hdd0/vsh/task/00000016&suffix=.pkg&subclass=x-host/package"/>	  
+			<Query class="type:x-xmb/xmlpackagefolder" key="host_provider_user_17_pkg" src="host://localhost/q?path=/dev_hdd0/vsh/task/00000017&suffix=.pkg&subclass=x-host/package"/>	  
+			<Query class="type:x-xmb/xmlpackagefolder" key="host_provider_user_18_pkg" src="host://localhost/q?path=/dev_hdd0/vsh/task/00000018&suffix=.pkg&subclass=x-host/package"/>	  
+			<Query class="type:x-xmb/xmlpackagefolder" key="host_provider_user_19_pkg" src="host://localhost/q?path=/dev_hdd0/vsh/task/00000019&suffix=.pkg&subclass=x-host/package"/>	  
+			<Query class="type:x-xmb/xmlpackagefolder" key="host_provider_user_20_pkg" src="host://localhost/q?path=/dev_hdd0/vsh/task/00000020&suffix=.pkg&subclass=x-host/package"/>
+			<Query class="type:x-xmb/xmlpackagefolder" key="host_provider_user_21_pkg" src="host://localhost/q?path=/dev_hdd0/vsh/task/00000021&suffix=.pkg&subclass=x-host/package"/>	  
+			<Query class="type:x-xmb/xmlpackagefolder" key="host_provider_user_22_pkg" src="host://localhost/q?path=/dev_hdd0/vsh/task/00000022&suffix=.pkg&subclass=x-host/package"/>	  
+			<Query class="type:x-xmb/xmlpackagefolder" key="host_provider_user_23_pkg" src="host://localhost/q?path=/dev_hdd0/vsh/task/00000023&suffix=.pkg&subclass=x-host/package"/>	  
+			<Query class="type:x-xmb/xmlpackagefolder" key="host_provider_user_24_pkg" src="host://localhost/q?path=/dev_hdd0/vsh/task/00000024&suffix=.pkg&subclass=x-host/package"/>	  
+			<Query class="type:x-xmb/xmlpackagefolder" key="host_provider_user_25_pkg" src="host://localhost/q?path=/dev_hdd0/vsh/task/00000025&suffix=.pkg&subclass=x-host/package"/>	  
+			<Query class="type:x-xmb/xmlpackagefolder" key="host_provider_user_26_pkg" src="host://localhost/q?path=/dev_hdd0/vsh/task/00000026&suffix=.pkg&subclass=x-host/package"/>	  
+			<Query class="type:x-xmb/xmlpackagefolder" key="host_provider_user_27_pkg" src="host://localhost/q?path=/dev_hdd0/vsh/task/00000027&suffix=.pkg&subclass=x-host/package"/>	  
+			<Query class="type:x-xmb/xmlpackagefolder" key="host_provider_user_28_pkg" src="host://localhost/q?path=/dev_hdd0/vsh/task/00000028&suffix=.pkg&subclass=x-host/package"/>	  
+			<Query class="type:x-xmb/xmlpackagefolder" key="host_provider_user_29_pkg" src="host://localhost/q?path=/dev_hdd0/vsh/task/00000029&suffix=.pkg&subclass=x-host/package"/>	  
+			<Query class="type:x-xmb/xmlpackagefolder" key="host_provider_user_30_pkg" src="host://localhost/q?path=/dev_hdd0/vsh/task/00000030&suffix=.pkg&subclass=x-host/package"/>	  
+			<Query class="type:x-xmb/xmlpackagefolder" key="host_provider_user_31_pkg" src="host://localhost/q?path=/dev_hdd0/vsh/task/00000031&suffix=.pkg&subclass=x-host/package"/>	  
+			<Query class="type:x-xmb/xmlpackagefolder" key="host_provider_user_32_pkg" src="host://localhost/q?path=/dev_hdd0/vsh/task/00000032&suffix=.pkg&subclass=x-host/package"/>	  
+			<Query class="type:x-xmb/xmlpackagefolder" key="host_provider_user_33_pkg" src="host://localhost/q?path=/dev_hdd0/vsh/task/00000033&suffix=.pkg&subclass=x-host/package"/>	  
+			<Query class="type:x-xmb/xmlpackagefolder" key="host_provider_user_34_pkg" src="host://localhost/q?path=/dev_hdd0/vsh/task/00000034&suffix=.pkg&subclass=x-host/package"/>	  
+			<Query class="type:x-xmb/xmlpackagefolder" key="host_provider_user_35_pkg" src="host://localhost/q?path=/dev_hdd0/vsh/task/00000035&suffix=.pkg&subclass=x-host/package"/>
+			<Query class="type:x-xmb/xmlpackagefolder" key="host_provider_user_36_pkg" src="host://localhost/q?path=/dev_hdd0/vsh/task/00000036&suffix=.pkg&subclass=x-host/package"/>	  
+			<Query class="type:x-xmb/xmlpackagefolder" key="host_provider_user_37_pkg" src="host://localhost/q?path=/dev_hdd0/vsh/task/00000037&suffix=.pkg&subclass=x-host/package"/>	  
+			<Query class="type:x-xmb/xmlpackagefolder" key="host_provider_user_38_pkg" src="host://localhost/q?path=/dev_hdd0/vsh/task/00000038&suffix=.pkg&subclass=x-host/package"/>	  
+			<Query class="type:x-xmb/xmlpackagefolder" key="host_provider_user_39_pkg" src="host://localhost/q?path=/dev_hdd0/vsh/task/00000039&suffix=.pkg&subclass=x-host/package"/>	  
+			<Query class="type:x-xmb/xmlpackagefolder" key="host_provider_user_40_pkg" src="host://localhost/q?path=/dev_hdd0/vsh/task/00000041&suffix=.pkg&subclass=x-host/package"/>	  
+			<Query class="type:x-xmb/xmlpackagefolder" key="host_provider_user_41_pkg" src="host://localhost/q?path=/dev_hdd0/vsh/task/00000041&suffix=.pkg&subclass=x-host/package"/>	  
+			<Query class="type:x-xmb/xmlpackagefolder" key="host_provider_user_42_pkg" src="host://localhost/q?path=/dev_hdd0/vsh/task/00000042&suffix=.pkg&subclass=x-host/package"/>	  
+			<Query class="type:x-xmb/xmlpackagefolder" key="host_provider_user_43_pkg" src="host://localhost/q?path=/dev_hdd0/vsh/task/00000043&suffix=.pkg&subclass=x-host/package"/>	  
+			<Query class="type:x-xmb/xmlpackagefolder" key="host_provider_user_44_pkg" src="host://localhost/q?path=/dev_hdd0/vsh/task/00000044&suffix=.pkg&subclass=x-host/package"/>	  
+			<Query class="type:x-xmb/xmlpackagefolder" key="host_provider_user_45_pkg" src="host://localhost/q?path=/dev_hdd0/vsh/task/00000045&suffix=.pkg&subclass=x-host/package"/>	  
+			<Query class="type:x-xmb/xmlpackagefolder" key="host_provider_user_46_pkg" src="host://localhost/q?path=/dev_hdd0/vsh/task/00000046&suffix=.pkg&subclass=x-host/package"/>	  
+			<Query class="type:x-xmb/xmlpackagefolder" key="host_provider_user_47_pkg" src="host://localhost/q?path=/dev_hdd0/vsh/task/00000047&suffix=.pkg&subclass=x-host/package"/>	  
+			<Query class="type:x-xmb/xmlpackagefolder" key="host_provider_user_48_pkg" src="host://localhost/q?path=/dev_hdd0/vsh/task/00000048&suffix=.pkg&subclass=x-host/package"/>	  
+			<Query class="type:x-xmb/xmlpackagefolder" key="host_provider_user_49_pkg" src="host://localhost/q?path=/dev_hdd0/vsh/task/00000049&suffix=.pkg&subclass=x-host/package"/>	  
+			<Query class="type:x-xmb/xmlpackagefolder" key="host_provider_user_50_pkg" src="host://localhost/q?path=/dev_hdd0/vsh/task/00000050&suffix=.pkg&subclass=x-host/package"/>	
+			<Query class="type:x-xmb/xmlpackagefolder" key="host_provider_user_51_pkg" src="host://localhost/q?path=/dev_hdd0/vsh/task/00000051&suffix=.pkg&subclass=x-host/package"/>	  
+			<Query class="type:x-xmb/xmlpackagefolder" key="host_provider_user_52_pkg" src="host://localhost/q?path=/dev_hdd0/vsh/task/00000052&suffix=.pkg&subclass=x-host/package"/>	  
+			<Query class="type:x-xmb/xmlpackagefolder" key="host_provider_user_53_pkg" src="host://localhost/q?path=/dev_hdd0/vsh/task/00000053&suffix=.pkg&subclass=x-host/package"/>	  
+			<Query class="type:x-xmb/xmlpackagefolder" key="host_provider_user_54_pkg" src="host://localhost/q?path=/dev_hdd0/vsh/task/00000054&suffix=.pkg&subclass=x-host/package"/>	  
+			<Query class="type:x-xmb/xmlpackagefolder" key="host_provider_user_55_pkg" src="host://localhost/q?path=/dev_hdd0/vsh/task/00000055&suffix=.pkg&subclass=x-host/package"/>	  
+			<Query class="type:x-xmb/xmlpackagefolder" key="host_provider_user_56_pkg" src="host://localhost/q?path=/dev_hdd0/vsh/task/00000056&suffix=.pkg&subclass=x-host/package"/>	  
+			<Query class="type:x-xmb/xmlpackagefolder" key="host_provider_user_57_pkg" src="host://localhost/q?path=/dev_hdd0/vsh/task/00000057&suffix=.pkg&subclass=x-host/package"/>	  
+			<Query class="type:x-xmb/xmlpackagefolder" key="host_provider_user_58_pkg" src="host://localhost/q?path=/dev_hdd0/vsh/task/00000058&suffix=.pkg&subclass=x-host/package"/>	  
+			<Query class="type:x-xmb/xmlpackagefolder" key="host_provider_user_59_pkg" src="host://localhost/q?path=/dev_hdd0/vsh/task/00000059&suffix=.pkg&subclass=x-host/package"/>	  
+			<Query class="type:x-xmb/xmlpackagefolder" key="host_provider_user_60_pkg" src="host://localhost/q?path=/dev_hdd0/vsh/task/00000060&suffix=.pkg&subclass=x-host/package"/>	  
+			<Query class="type:x-xmb/xmlpackagefolder" key="host_provider_user_61_pkg" src="host://localhost/q?path=/dev_hdd0/vsh/task/00000061&suffix=.pkg&subclass=x-host/package"/>	  
+			<Query class="type:x-xmb/xmlpackagefolder" key="host_provider_user_62_pkg" src="host://localhost/q?path=/dev_hdd0/vsh/task/00000062&suffix=.pkg&subclass=x-host/package"/>	  
+			<Query class="type:x-xmb/xmlpackagefolder" key="host_provider_user_63_pkg" src="host://localhost/q?path=/dev_hdd0/vsh/task/00000063&suffix=.pkg&subclass=x-host/package"/>	  
+			<Query class="type:x-xmb/xmlpackagefolder" key="host_provider_user_64_pkg" src="host://localhost/q?path=/dev_hdd0/vsh/task/00000064&suffix=.pkg&subclass=x-host/package"/>	  
+			<Query class="type:x-xmb/xmlpackagefolder" key="host_provider_user_65_pkg" src="host://localhost/q?path=/dev_hdd0/vsh/task/00000065&suffix=.pkg&subclass=x-host/package"/>
+			<Query class="type:x-xmb/xmlpackagefolder" key="host_provider_user_66_pkg" src="host://localhost/q?path=/dev_hdd0/vsh/task/00000066&suffix=.pkg&subclass=x-host/package"/>	  
+			<Query class="type:x-xmb/xmlpackagefolder" key="host_provider_user_67_pkg" src="host://localhost/q?path=/dev_hdd0/vsh/task/00000067&suffix=.pkg&subclass=x-host/package"/>	  
+			<Query class="type:x-xmb/xmlpackagefolder" key="host_provider_user_68_pkg" src="host://localhost/q?path=/dev_hdd0/vsh/task/00000068&suffix=.pkg&subclass=x-host/package"/>	  
+			<Query class="type:x-xmb/xmlpackagefolder" key="host_provider_user_69_pkg" src="host://localhost/q?path=/dev_hdd0/vsh/task/00000069&suffix=.pkg&subclass=x-host/package"/>	  
+			<Query class="type:x-xmb/xmlpackagefolder" key="host_provider_user_70_pkg" src="host://localhost/q?path=/dev_hdd0/vsh/task/00000070&suffix=.pkg&subclass=x-host/package"/>
+			<Query class="type:x-xmb/xmlpackagefolder" key="host_provider_user_71_pkg" src="host://localhost/q?path=/dev_hdd0/vsh/task/00000071&suffix=.pkg&subclass=x-host/package"/>	  
+			<Query class="type:x-xmb/xmlpackagefolder" key="host_provider_user_72_pkg" src="host://localhost/q?path=/dev_hdd0/vsh/task/00000072&suffix=.pkg&subclass=x-host/package"/>	  
+			<Query class="type:x-xmb/xmlpackagefolder" key="host_provider_user_73_pkg" src="host://localhost/q?path=/dev_hdd0/vsh/task/00000073&suffix=.pkg&subclass=x-host/package"/>	  
+			<Query class="type:x-xmb/xmlpackagefolder" key="host_provider_user_74_pkg" src="host://localhost/q?path=/dev_hdd0/vsh/task/00000074&suffix=.pkg&subclass=x-host/package"/>	  
+			<Query class="type:x-xmb/xmlpackagefolder" key="host_provider_user_75_pkg" src="host://localhost/q?path=/dev_hdd0/vsh/task/00000075&suffix=.pkg&subclass=x-host/package"/>	  
+			<Query class="type:x-xmb/xmlpackagefolder" key="host_provider_user_76_pkg" src="host://localhost/q?path=/dev_hdd0/vsh/task/00000076&suffix=.pkg&subclass=x-host/package"/>	  
+			<Query class="type:x-xmb/xmlpackagefolder" key="host_provider_user_77_pkg" src="host://localhost/q?path=/dev_hdd0/vsh/task/00000077&suffix=.pkg&subclass=x-host/package"/>	  
+			<Query class="type:x-xmb/xmlpackagefolder" key="host_provider_user_78_pkg" src="host://localhost/q?path=/dev_hdd0/vsh/task/00000078&suffix=.pkg&subclass=x-host/package"/>	  
+			<Query class="type:x-xmb/xmlpackagefolder" key="host_provider_user_79_pkg" src="host://localhost/q?path=/dev_hdd0/vsh/task/00000079&suffix=.pkg&subclass=x-host/package"/>	  
+			<Query class="type:x-xmb/xmlpackagefolder" key="host_provider_user_80_pkg" src="host://localhost/q?path=/dev_hdd0/vsh/task/00000080&suffix=.pkg&subclass=x-host/package"/>	  
+			<Query class="type:x-xmb/xmlpackagefolder" key="host_provider_user_81_pkg" src="host://localhost/q?path=/dev_hdd0/vsh/task/00000081&suffix=.pkg&subclass=x-host/package"/>	  
+			<Query class="type:x-xmb/xmlpackagefolder" key="host_provider_user_82_pkg" src="host://localhost/q?path=/dev_hdd0/vsh/task/00000082&suffix=.pkg&subclass=x-host/package"/>	  
+			<Query class="type:x-xmb/xmlpackagefolder" key="host_provider_user_83_pkg" src="host://localhost/q?path=/dev_hdd0/vsh/task/00000083&suffix=.pkg&subclass=x-host/package"/>	  
+			<Query class="type:x-xmb/xmlpackagefolder" key="host_provider_user_84_pkg" src="host://localhost/q?path=/dev_hdd0/vsh/task/00000084&suffix=.pkg&subclass=x-host/package"/>	  
+			<Query class="type:x-xmb/xmlpackagefolder" key="host_provider_user_85_pkg" src="host://localhost/q?path=/dev_hdd0/vsh/task/00000085&suffix=.pkg&subclass=x-host/package"/>
+			<Query class="type:x-xmb/xmlpackagefolder" key="host_provider_user_86_pkg" src="host://localhost/q?path=/dev_hdd0/vsh/task/00000086&suffix=.pkg&subclass=x-host/package"/>	  
+			<Query class="type:x-xmb/xmlpackagefolder" key="host_provider_user_87_pkg" src="host://localhost/q?path=/dev_hdd0/vsh/task/00000087&suffix=.pkg&subclass=x-host/package"/>	  
+			<Query class="type:x-xmb/xmlpackagefolder" key="host_provider_user_88_pkg" src="host://localhost/q?path=/dev_hdd0/vsh/task/00000088&suffix=.pkg&subclass=x-host/package"/>	  
+			<Query class="type:x-xmb/xmlpackagefolder" key="host_provider_user_89_pkg" src="host://localhost/q?path=/dev_hdd0/vsh/task/00000089&suffix=.pkg&subclass=x-host/package"/>	  
+			<Query class="type:x-xmb/xmlpackagefolder" key="host_provider_user_90_pkg" src="host://localhost/q?path=/dev_hdd0/vsh/task/00000091&suffix=.pkg&subclass=x-host/package"/>	  
+			<Query class="type:x-xmb/xmlpackagefolder" key="host_provider_user_91_pkg" src="host://localhost/q?path=/dev_hdd0/vsh/task/00000091&suffix=.pkg&subclass=x-host/package"/>	  
+			<Query class="type:x-xmb/xmlpackagefolder" key="host_provider_user_92_pkg" src="host://localhost/q?path=/dev_hdd0/vsh/task/00000092&suffix=.pkg&subclass=x-host/package"/>	  
+			<Query class="type:x-xmb/xmlpackagefolder" key="host_provider_user_93_pkg" src="host://localhost/q?path=/dev_hdd0/vsh/task/00000093&suffix=.pkg&subclass=x-host/package"/>	  
+			<Query class="type:x-xmb/xmlpackagefolder" key="host_provider_user_94_pkg" src="host://localhost/q?path=/dev_hdd0/vsh/task/00000094&suffix=.pkg&subclass=x-host/package"/>	  
+			<Query class="type:x-xmb/xmlpackagefolder" key="host_provider_user_95_pkg" src="host://localhost/q?path=/dev_hdd0/vsh/task/00000095&suffix=.pkg&subclass=x-host/package"/>	  
+			<Query class="type:x-xmb/xmlpackagefolder" key="host_provider_user_96_pkg" src="host://localhost/q?path=/dev_hdd0/vsh/task/00000096&suffix=.pkg&subclass=x-host/package"/>	  
+			<Query class="type:x-xmb/xmlpackagefolder" key="host_provider_user_97_pkg" src="host://localhost/q?path=/dev_hdd0/vsh/task/00000097&suffix=.pkg&subclass=x-host/package"/>	  
+			<Query class="type:x-xmb/xmlpackagefolder" key="host_provider_user_98_pkg" src="host://localhost/q?path=/dev_hdd0/vsh/task/00000098&suffix=.pkg&subclass=x-host/package"/>	  
+			<Query class="type:x-xmb/xmlpackagefolder" key="host_provider_user_99_pkg" src="host://localhost/q?path=/dev_hdd0/vsh/task/00000099&suffix=.pkg&subclass=x-host/package"/>	  
+			<Query class="type:x-xmb/xmlpackagefolder" key="host_provider_user_100_pkg" src="host://localhost/q?path=/dev_hdd0/vsh/task/00000100&suffix=.pkg&subclass=x-host/package"/>															
+			<Query class="type:x-xmb/xmlpackagefolder" key="host_provider_user_101_pkg" src="host://localhost/q?path=/dev_hdd0/vsh/task/00000101&suffix=.pkg&subclass=x-host/package"/>	  
+			<Query class="type:x-xmb/xmlpackagefolder" key="host_provider_user_102_pkg" src="host://localhost/q?path=/dev_hdd0/vsh/task/00000102&suffix=.pkg&subclass=x-host/package"/>	  
+			<Query class="type:x-xmb/xmlpackagefolder" key="host_provider_user_103_pkg" src="host://localhost/q?path=/dev_hdd0/vsh/task/00000103&suffix=.pkg&subclass=x-host/package"/>	  
+			<Query class="type:x-xmb/xmlpackagefolder" key="host_provider_user_104_pkg" src="host://localhost/q?path=/dev_hdd0/vsh/task/00000104&suffix=.pkg&subclass=x-host/package"/>	  
+			<Query class="type:x-xmb/xmlpackagefolder" key="host_provider_user_105_pkg" src="host://localhost/q?path=/dev_hdd0/vsh/task/00000105&suffix=.pkg&subclass=x-host/package"/>	  
+			<Query class="type:x-xmb/xmlpackagefolder" key="host_provider_user_106_pkg" src="host://localhost/q?path=/dev_hdd0/vsh/task/00000106&suffix=.pkg&subclass=x-host/package"/>	  
+			<Query class="type:x-xmb/xmlpackagefolder" key="host_provider_user_107_pkg" src="host://localhost/q?path=/dev_hdd0/vsh/task/00000107&suffix=.pkg&subclass=x-host/package"/>	  
+			<Query class="type:x-xmb/xmlpackagefolder" key="host_provider_user_108_pkg" src="host://localhost/q?path=/dev_hdd0/vsh/task/00000108&suffix=.pkg&subclass=x-host/package"/>	  
+			<Query class="type:x-xmb/xmlpackagefolder" key="host_provider_user_109_pkg" src="host://localhost/q?path=/dev_hdd0/vsh/task/00000109&suffix=.pkg&subclass=x-host/package"/>	  
+			<Query class="type:x-xmb/xmlpackagefolder" key="host_provider_user_110_pkg" src="host://localhost/q?path=/dev_hdd0/vsh/task/00000110&suffix=.pkg&subclass=x-host/package"/>	  
+			<Query class="type:x-xmb/xmlpackagefolder" key="host_provider_user_111_pkg" src="host://localhost/q?path=/dev_hdd0/vsh/task/00000111&suffix=.pkg&subclass=x-host/package"/>	  
+			<Query class="type:x-xmb/xmlpackagefolder" key="host_provider_user_112_pkg" src="host://localhost/q?path=/dev_hdd0/vsh/task/00000112&suffix=.pkg&subclass=x-host/package"/>	  
+			<Query class="type:x-xmb/xmlpackagefolder" key="host_provider_user_113_pkg" src="host://localhost/q?path=/dev_hdd0/vsh/task/00000113&suffix=.pkg&subclass=x-host/package"/>	  
+			<Query class="type:x-xmb/xmlpackagefolder" key="host_provider_user_114_pkg" src="host://localhost/q?path=/dev_hdd0/vsh/task/00000114&suffix=.pkg&subclass=x-host/package"/>	  
+			<Query class="type:x-xmb/xmlpackagefolder" key="host_provider_user_115_pkg" src="host://localhost/q?path=/dev_hdd0/vsh/task/00000115&suffix=.pkg&subclass=x-host/package"/>
+			<Query class="type:x-xmb/xmlpackagefolder" key="host_provider_user_116_pkg" src="host://localhost/q?path=/dev_hdd0/vsh/task/00000116&suffix=.pkg&subclass=x-host/package"/>	  
+			<Query class="type:x-xmb/xmlpackagefolder" key="host_provider_user_117_pkg" src="host://localhost/q?path=/dev_hdd0/vsh/task/00000117&suffix=.pkg&subclass=x-host/package"/>	  
+			<Query class="type:x-xmb/xmlpackagefolder" key="host_provider_user_118_pkg" src="host://localhost/q?path=/dev_hdd0/vsh/task/00000118&suffix=.pkg&subclass=x-host/package"/>	  
+			<Query class="type:x-xmb/xmlpackagefolder" key="host_provider_user_119_pkg" src="host://localhost/q?path=/dev_hdd0/vsh/task/00000119&suffix=.pkg&subclass=x-host/package"/>	  
+			<Query class="type:x-xmb/xmlpackagefolder" key="host_provider_user_120_pkg" src="host://localhost/q?path=/dev_hdd0/vsh/task/00000120&suffix=.pkg&subclass=x-host/package"/>
+			<Query class="type:x-xmb/xmlpackagefolder" key="host_provider_user_121_pkg" src="host://localhost/q?path=/dev_hdd0/vsh/task/00000121&suffix=.pkg&subclass=x-host/package"/>	  
+			<Query class="type:x-xmb/xmlpackagefolder" key="host_provider_user_122_pkg" src="host://localhost/q?path=/dev_hdd0/vsh/task/00000122&suffix=.pkg&subclass=x-host/package"/>	  
+			<Query class="type:x-xmb/xmlpackagefolder" key="host_provider_user_123_pkg" src="host://localhost/q?path=/dev_hdd0/vsh/task/00000123&suffix=.pkg&subclass=x-host/package"/>	  
+			<Query class="type:x-xmb/xmlpackagefolder" key="host_provider_user_124_pkg" src="host://localhost/q?path=/dev_hdd0/vsh/task/00000124&suffix=.pkg&subclass=x-host/package"/>	  
+			<Query class="type:x-xmb/xmlpackagefolder" key="host_provider_user_125_pkg" src="host://localhost/q?path=/dev_hdd0/vsh/task/00000125&suffix=.pkg&subclass=x-host/package"/>	  
+			<Query class="type:x-xmb/xmlpackagefolder" key="host_provider_user_126_pkg" src="host://localhost/q?path=/dev_hdd0/vsh/task/00000126&suffix=.pkg&subclass=x-host/package"/>	  
+			<Query class="type:x-xmb/xmlpackagefolder" key="host_provider_user_127_pkg" src="host://localhost/q?path=/dev_hdd0/vsh/task/00000127&suffix=.pkg&subclass=x-host/package"/>	  
+			<Query class="type:x-xmb/xmlpackagefolder" key="host_provider_user_128_pkg" src="host://localhost/q?path=/dev_hdd0/vsh/task/00000128&suffix=.pkg&subclass=x-host/package"/>	  
+			<Query class="type:x-xmb/xmlpackagefolder" key="host_provider_user_129_pkg" src="host://localhost/q?path=/dev_hdd0/vsh/task/00000129&suffix=.pkg&subclass=x-host/package"/>	  
+			<Query class="type:x-xmb/xmlpackagefolder" key="host_provider_user_130_pkg" src="host://localhost/q?path=/dev_hdd0/vsh/task/00000130&suffix=.pkg&subclass=x-host/package"/>	  
+			<Query class="type:x-xmb/xmlpackagefolder" key="host_provider_user_131_pkg" src="host://localhost/q?path=/dev_hdd0/vsh/task/00000131&suffix=.pkg&subclass=x-host/package"/>	  
+			<Query class="type:x-xmb/xmlpackagefolder" key="host_provider_user_132_pkg" src="host://localhost/q?path=/dev_hdd0/vsh/task/00000132&suffix=.pkg&subclass=x-host/package"/>	  
+			<Query class="type:x-xmb/xmlpackagefolder" key="host_provider_user_133_pkg" src="host://localhost/q?path=/dev_hdd0/vsh/task/00000133&suffix=.pkg&subclass=x-host/package"/>	  
+			<Query class="type:x-xmb/xmlpackagefolder" key="host_provider_user_134_pkg" src="host://localhost/q?path=/dev_hdd0/vsh/task/00000134&suffix=.pkg&subclass=x-host/package"/>	  
+			<Query class="type:x-xmb/xmlpackagefolder" key="host_provider_user_135_pkg" src="host://localhost/q?path=/dev_hdd0/vsh/task/00000135&suffix=.pkg&subclass=x-host/package"/>
+			<Query class="type:x-xmb/xmlpackagefolder" key="host_provider_user_136_pkg" src="host://localhost/q?path=/dev_hdd0/vsh/task/00000136&suffix=.pkg&subclass=x-host/package"/>	  
+			<Query class="type:x-xmb/xmlpackagefolder" key="host_provider_user_137_pkg" src="host://localhost/q?path=/dev_hdd0/vsh/task/00000137&suffix=.pkg&subclass=x-host/package"/>	  
+			<Query class="type:x-xmb/xmlpackagefolder" key="host_provider_user_138_pkg" src="host://localhost/q?path=/dev_hdd0/vsh/task/00000138&suffix=.pkg&subclass=x-host/package"/>	  
+			<Query class="type:x-xmb/xmlpackagefolder" key="host_provider_user_139_pkg" src="host://localhost/q?path=/dev_hdd0/vsh/task/00000139&suffix=.pkg&subclass=x-host/package"/>	  
+			<Query class="type:x-xmb/xmlpackagefolder" key="host_provider_user_140_pkg" src="host://localhost/q?path=/dev_hdd0/vsh/task/00000141&suffix=.pkg&subclass=x-host/package"/>	  
+			<Query class="type:x-xmb/xmlpackagefolder" key="host_provider_user_141_pkg" src="host://localhost/q?path=/dev_hdd0/vsh/task/00000141&suffix=.pkg&subclass=x-host/package"/>	  
+			<Query class="type:x-xmb/xmlpackagefolder" key="host_provider_user_142_pkg" src="host://localhost/q?path=/dev_hdd0/vsh/task/00000142&suffix=.pkg&subclass=x-host/package"/>	  
+			<Query class="type:x-xmb/xmlpackagefolder" key="host_provider_user_143_pkg" src="host://localhost/q?path=/dev_hdd0/vsh/task/00000143&suffix=.pkg&subclass=x-host/package"/>	  
+			<Query class="type:x-xmb/xmlpackagefolder" key="host_provider_user_144_pkg" src="host://localhost/q?path=/dev_hdd0/vsh/task/00000144&suffix=.pkg&subclass=x-host/package"/>	  
+			<Query class="type:x-xmb/xmlpackagefolder" key="host_provider_user_145_pkg" src="host://localhost/q?path=/dev_hdd0/vsh/task/00000145&suffix=.pkg&subclass=x-host/package"/>	  
+			<Query class="type:x-xmb/xmlpackagefolder" key="host_provider_user_146_pkg" src="host://localhost/q?path=/dev_hdd0/vsh/task/00000146&suffix=.pkg&subclass=x-host/package"/>	  
+			<Query class="type:x-xmb/xmlpackagefolder" key="host_provider_user_147_pkg" src="host://localhost/q?path=/dev_hdd0/vsh/task/00000147&suffix=.pkg&subclass=x-host/package"/>	  
+			<Query class="type:x-xmb/xmlpackagefolder" key="host_provider_user_148_pkg" src="host://localhost/q?path=/dev_hdd0/vsh/task/00000148&suffix=.pkg&subclass=x-host/package"/>	  
+			<Query class="type:x-xmb/xmlpackagefolder" key="host_provider_user_149_pkg" src="host://localhost/q?path=/dev_hdd0/vsh/task/00000149&suffix=.pkg&subclass=x-host/package"/>	  
+			<Query class="type:x-xmb/xmlpackagefolder" key="host_provider_user_150_pkg" src="host://localhost/q?path=/dev_hdd0/vsh/task/00000150&suffix=.pkg&subclass=x-host/package"/>	
+			<Query class="type:x-xmb/xmlpackagefolder" key="host_provider_user_151_pkg" src="host://localhost/q?path=/dev_hdd0/vsh/task/00000151&suffix=.pkg&subclass=x-host/package"/>	  
+			<Query class="type:x-xmb/xmlpackagefolder" key="host_provider_user_152_pkg" src="host://localhost/q?path=/dev_hdd0/vsh/task/00000152&suffix=.pkg&subclass=x-host/package"/>	  
+			<Query class="type:x-xmb/xmlpackagefolder" key="host_provider_user_153_pkg" src="host://localhost/q?path=/dev_hdd0/vsh/task/00000153&suffix=.pkg&subclass=x-host/package"/>	  
+			<Query class="type:x-xmb/xmlpackagefolder" key="host_provider_user_154_pkg" src="host://localhost/q?path=/dev_hdd0/vsh/task/00000154&suffix=.pkg&subclass=x-host/package"/>	  
+			<Query class="type:x-xmb/xmlpackagefolder" key="host_provider_user_155_pkg" src="host://localhost/q?path=/dev_hdd0/vsh/task/00000155&suffix=.pkg&subclass=x-host/package"/>	  
+			<Query class="type:x-xmb/xmlpackagefolder" key="host_provider_user_156_pkg" src="host://localhost/q?path=/dev_hdd0/vsh/task/00000156&suffix=.pkg&subclass=x-host/package"/>	  
+			<Query class="type:x-xmb/xmlpackagefolder" key="host_provider_user_157_pkg" src="host://localhost/q?path=/dev_hdd0/vsh/task/00000157&suffix=.pkg&subclass=x-host/package"/>	  
+			<Query class="type:x-xmb/xmlpackagefolder" key="host_provider_user_158_pkg" src="host://localhost/q?path=/dev_hdd0/vsh/task/00000158&suffix=.pkg&subclass=x-host/package"/>	  
+			<Query class="type:x-xmb/xmlpackagefolder" key="host_provider_user_159_pkg" src="host://localhost/q?path=/dev_hdd0/vsh/task/00000159&suffix=.pkg&subclass=x-host/package"/>	  
+			<Query class="type:x-xmb/xmlpackagefolder" key="host_provider_user_160_pkg" src="host://localhost/q?path=/dev_hdd0/vsh/task/00000160&suffix=.pkg&subclass=x-host/package"/>	  
+			<Query class="type:x-xmb/xmlpackagefolder" key="host_provider_user_161_pkg" src="host://localhost/q?path=/dev_hdd0/vsh/task/00000161&suffix=.pkg&subclass=x-host/package"/>	  
+			<Query class="type:x-xmb/xmlpackagefolder" key="host_provider_user_162_pkg" src="host://localhost/q?path=/dev_hdd0/vsh/task/00000162&suffix=.pkg&subclass=x-host/package"/>	  
+			<Query class="type:x-xmb/xmlpackagefolder" key="host_provider_user_163_pkg" src="host://localhost/q?path=/dev_hdd0/vsh/task/00000163&suffix=.pkg&subclass=x-host/package"/>	  
+			<Query class="type:x-xmb/xmlpackagefolder" key="host_provider_user_164_pkg" src="host://localhost/q?path=/dev_hdd0/vsh/task/00000164&suffix=.pkg&subclass=x-host/package"/>	  
+			<Query class="type:x-xmb/xmlpackagefolder" key="host_provider_user_165_pkg" src="host://localhost/q?path=/dev_hdd0/vsh/task/00000165&suffix=.pkg&subclass=x-host/package"/>
+			<Query class="type:x-xmb/xmlpackagefolder" key="host_provider_user_166_pkg" src="host://localhost/q?path=/dev_hdd0/vsh/task/00000166&suffix=.pkg&subclass=x-host/package"/>	  
+			<Query class="type:x-xmb/xmlpackagefolder" key="host_provider_user_167_pkg" src="host://localhost/q?path=/dev_hdd0/vsh/task/00000167&suffix=.pkg&subclass=x-host/package"/>	  
+			<Query class="type:x-xmb/xmlpackagefolder" key="host_provider_user_168_pkg" src="host://localhost/q?path=/dev_hdd0/vsh/task/00000168&suffix=.pkg&subclass=x-host/package"/>	  
+			<Query class="type:x-xmb/xmlpackagefolder" key="host_provider_user_169_pkg" src="host://localhost/q?path=/dev_hdd0/vsh/task/00000169&suffix=.pkg&subclass=x-host/package"/>	  
+			<Query class="type:x-xmb/xmlpackagefolder" key="host_provider_user_170_pkg" src="host://localhost/q?path=/dev_hdd0/vsh/task/00000170&suffix=.pkg&subclass=x-host/package"/>
+			<Query class="type:x-xmb/xmlpackagefolder" key="host_provider_user_171_pkg" src="host://localhost/q?path=/dev_hdd0/vsh/task/00000171&suffix=.pkg&subclass=x-host/package"/>	  
+			<Query class="type:x-xmb/xmlpackagefolder" key="host_provider_user_172_pkg" src="host://localhost/q?path=/dev_hdd0/vsh/task/00000172&suffix=.pkg&subclass=x-host/package"/>	  
+			<Query class="type:x-xmb/xmlpackagefolder" key="host_provider_user_173_pkg" src="host://localhost/q?path=/dev_hdd0/vsh/task/00000173&suffix=.pkg&subclass=x-host/package"/>	  
+			<Query class="type:x-xmb/xmlpackagefolder" key="host_provider_user_174_pkg" src="host://localhost/q?path=/dev_hdd0/vsh/task/00000174&suffix=.pkg&subclass=x-host/package"/>	  
+			<Query class="type:x-xmb/xmlpackagefolder" key="host_provider_user_175_pkg" src="host://localhost/q?path=/dev_hdd0/vsh/task/00000175&suffix=.pkg&subclass=x-host/package"/>	  
+			<Query class="type:x-xmb/xmlpackagefolder" key="host_provider_user_176_pkg" src="host://localhost/q?path=/dev_hdd0/vsh/task/00000176&suffix=.pkg&subclass=x-host/package"/>	  
+			<Query class="type:x-xmb/xmlpackagefolder" key="host_provider_user_177_pkg" src="host://localhost/q?path=/dev_hdd0/vsh/task/00000177&suffix=.pkg&subclass=x-host/package"/>	  
+			<Query class="type:x-xmb/xmlpackagefolder" key="host_provider_user_178_pkg" src="host://localhost/q?path=/dev_hdd0/vsh/task/00000178&suffix=.pkg&subclass=x-host/package"/>	  
+			<Query class="type:x-xmb/xmlpackagefolder" key="host_provider_user_179_pkg" src="host://localhost/q?path=/dev_hdd0/vsh/task/00000179&suffix=.pkg&subclass=x-host/package"/>	  
+			<Query class="type:x-xmb/xmlpackagefolder" key="host_provider_user_180_pkg" src="host://localhost/q?path=/dev_hdd0/vsh/task/00000180&suffix=.pkg&subclass=x-host/package"/>	  
+			<Query class="type:x-xmb/xmlpackagefolder" key="host_provider_user_181_pkg" src="host://localhost/q?path=/dev_hdd0/vsh/task/00000181&suffix=.pkg&subclass=x-host/package"/>	  
+			<Query class="type:x-xmb/xmlpackagefolder" key="host_provider_user_182_pkg" src="host://localhost/q?path=/dev_hdd0/vsh/task/00000182&suffix=.pkg&subclass=x-host/package"/>	  
+			<Query class="type:x-xmb/xmlpackagefolder" key="host_provider_user_183_pkg" src="host://localhost/q?path=/dev_hdd0/vsh/task/00000183&suffix=.pkg&subclass=x-host/package"/>	  
+			<Query class="type:x-xmb/xmlpackagefolder" key="host_provider_user_184_pkg" src="host://localhost/q?path=/dev_hdd0/vsh/task/00000184&suffix=.pkg&subclass=x-host/package"/>	  
+			<Query class="type:x-xmb/xmlpackagefolder" key="host_provider_user_185_pkg" src="host://localhost/q?path=/dev_hdd0/vsh/task/00000185&suffix=.pkg&subclass=x-host/package"/>
+			<Query class="type:x-xmb/xmlpackagefolder" key="host_provider_user_186_pkg" src="host://localhost/q?path=/dev_hdd0/vsh/task/00000186&suffix=.pkg&subclass=x-host/package"/>	  
+			<Query class="type:x-xmb/xmlpackagefolder" key="host_provider_user_187_pkg" src="host://localhost/q?path=/dev_hdd0/vsh/task/00000187&suffix=.pkg&subclass=x-host/package"/>	  
+			<Query class="type:x-xmb/xmlpackagefolder" key="host_provider_user_188_pkg" src="host://localhost/q?path=/dev_hdd0/vsh/task/00000188&suffix=.pkg&subclass=x-host/package"/>	  
+			<Query class="type:x-xmb/xmlpackagefolder" key="host_provider_user_189_pkg" src="host://localhost/q?path=/dev_hdd0/vsh/task/00000189&suffix=.pkg&subclass=x-host/package"/>	  
+			<Query class="type:x-xmb/xmlpackagefolder" key="host_provider_user_190_pkg" src="host://localhost/q?path=/dev_hdd0/vsh/task/00000191&suffix=.pkg&subclass=x-host/package"/>	  
+			<Query class="type:x-xmb/xmlpackagefolder" key="host_provider_user_191_pkg" src="host://localhost/q?path=/dev_hdd0/vsh/task/00000191&suffix=.pkg&subclass=x-host/package"/>	  
+			<Query class="type:x-xmb/xmlpackagefolder" key="host_provider_user_192_pkg" src="host://localhost/q?path=/dev_hdd0/vsh/task/00000192&suffix=.pkg&subclass=x-host/package"/>	  
+			<Query class="type:x-xmb/xmlpackagefolder" key="host_provider_user_193_pkg" src="host://localhost/q?path=/dev_hdd0/vsh/task/00000193&suffix=.pkg&subclass=x-host/package"/>	  
+			<Query class="type:x-xmb/xmlpackagefolder" key="host_provider_user_194_pkg" src="host://localhost/q?path=/dev_hdd0/vsh/task/00000194&suffix=.pkg&subclass=x-host/package"/>	  
+			<Query class="type:x-xmb/xmlpackagefolder" key="host_provider_user_195_pkg" src="host://localhost/q?path=/dev_hdd0/vsh/task/00000195&suffix=.pkg&subclass=x-host/package"/>	  
+			<Query class="type:x-xmb/xmlpackagefolder" key="host_provider_user_196_pkg" src="host://localhost/q?path=/dev_hdd0/vsh/task/00000196&suffix=.pkg&subclass=x-host/package"/>	  
+			<Query class="type:x-xmb/xmlpackagefolder" key="host_provider_user_197_pkg" src="host://localhost/q?path=/dev_hdd0/vsh/task/00000197&suffix=.pkg&subclass=x-host/package"/>	  
+			<Query class="type:x-xmb/xmlpackagefolder" key="host_provider_user_198_pkg" src="host://localhost/q?path=/dev_hdd0/vsh/task/00000198&suffix=.pkg&subclass=x-host/package"/>	  
+			<Query class="type:x-xmb/xmlpackagefolder" key="host_provider_user_199_pkg" src="host://localhost/q?path=/dev_hdd0/vsh/task/00000199&suffix=.pkg&subclass=x-host/package"/>	  
+			<Query class="type:x-xmb/xmlpackagefolder" key="host_provider_user_200_pkg" src="host://localhost/q?path=/dev_hdd0/vsh/task/00000200&suffix=.pkg&subclass=x-host/package"/>
+		</Items>
+	</View>
+	
+	
+<!-- Delete Directories -->
+	<!-- All Package Paths -->
+	<View id="seg_delete_files_location_all">
+		<Items>
+			<Query class="type:x-xmb/xmlpackagefolder" key="host_provider_bdvd_pkg" src="host://localhost/q?path=/dev_bdvd&suffix=.pkg"/>
+			<Query class="type:x-xmb/xmlpackagefolder" key="host_provider_home_pkg1" src="host://localhost/q?path=/app_home/packages&suffix=.pkg"/>
+			<Query class="type:x-xmb/xmlpackagefolder" key="host_provider_home_pkg2" src="host://localhost/q?path=/app_home/PKG&suffix=.pkg"/>
+			<Query class="type:x-xmb/xmlpackagefolder" key="host_provider_hdd0_pkg1" src="host://localhost/q?path=/dev_hdd0/packages&suffix=.pkg"/>
+			<Query class="type:x-xmb/xmlpackagefolder" key="host_provider_hdd0_pkg2" src="host://localhost/q?path=/dev_hdd0/PKG&suffix=.pkg"/>
+			<Query class="type:x-xmb/xmlpackagefolder" key="host_provider_usb0_pkg" src="host://localhost/q?path=/dev_usb000&suffix=.pkg"/>
+			<Query class="type:x-xmb/xmlpackagefolder" key="host_provider_usb0_pkg1" src="host://localhost/q?path=/dev_usb000/packages&suffix=.pkg"/>
+			<Query class="type:x-xmb/xmlpackagefolder" key="host_provider_usb0_pkg2" src="host://localhost/q?path=/dev_usb000/PKG&suffix=.pkg"/>
+			<Query class="type:x-xmb/xmlpackagefolder" key="host_provider_usb0_dl_pkg" src="host://localhost/q?path=/dev_usb000/PS3/DOWNLOADS&suffix=.pkg"/>
+			<Query class="type:x-xmb/xmlpackagefolder" key="host_provider_usb1_pkg" src="host://localhost/q?path=/dev_usb001&suffix=.pkg"/>
+			<Query class="type:x-xmb/xmlpackagefolder" key="host_provider_usb1_pkg1" src="host://localhost/q?path=/dev_usb001/packages&suffix=.pkg"/>
+			<Query class="type:x-xmb/xmlpackagefolder" key="host_provider_usb1_pkg2" src="host://localhost/q?path=/dev_usb001/PKG&suffix=.pkg"/>
+			<Query class="type:x-xmb/xmlpackagefolder" key="host_provider_usb1_dl_pkg" src="host://localhost/q?path=/dev_usb001/PS3/DOWNLOADS&suffix=.pkg"/>
+			<Query class="type:x-xmb/xmlpackagefolder" key="host_provider_usb2_pkg" src="host://localhost/q?path=/dev_usb002&suffix=.pkg"/>
+			<Query class="type:x-xmb/xmlpackagefolder" key="host_provider_usb2_pkg1" src="host://localhost/q?path=/dev_usb002/packages&suffix=.pkg"/>
+			<Query class="type:x-xmb/xmlpackagefolder" key="host_provider_usb2_pkg2" src="host://localhost/q?path=/dev_usb002/PKG&suffix=.pkg"/>
+			<Query class="type:x-xmb/xmlpackagefolder" key="host_provider_usb2_dl_pkg" src="host://localhost/q?path=/dev_usb002/PS3/DOWNLOADS&suffix=.pkg"/>
+			<Query class="type:x-xmb/xmlpackagefolder" key="host_provider_usb3_pkg" src="host://localhost/q?path=/dev_usb003&suffix=.pkg"/>
+			<Query class="type:x-xmb/xmlpackagefolder" key="host_provider_usb3_pkg1" src="host://localhost/q?path=/dev_usb003/packages&suffix=.pkg"/>
+			<Query class="type:x-xmb/xmlpackagefolder" key="host_provider_usb3_pkg2" src="host://localhost/q?path=/dev_usb003/PKG&suffix=.pkg"/>
+			<Query class="type:x-xmb/xmlpackagefolder" key="host_provider_usb3_dl_pkg" src="host://localhost/q?path=/dev_usb003/PS3/DOWNLOADS&suffix=.pkg"/>
+			<Query class="type:x-xmb/xmlpackagefolder" key="host_provider_usb4_pkg" src="host://localhost/q?path=/dev_usb004&suffix=.pkg"/>
+			<Query class="type:x-xmb/xmlpackagefolder" key="host_provider_usb4_pkg1" src="host://localhost/q?path=/dev_usb004/packages&suffix=.pkg"/>
+			<Query class="type:x-xmb/xmlpackagefolder" key="host_provider_usb4_pkg2" src="host://localhost/q?path=/dev_usb004/PKG&suffix=.pkg"/>
+			<Query class="type:x-xmb/xmlpackagefolder" key="host_provider_usb4_dl_pkg" src="host://localhost/q?path=/dev_usb004/PS3/DOWNLOADS&suffix=.pkg"/>
+			<Query class="type:x-xmb/xmlpackagefolder" key="host_provider_usb5_pkg" src="host://localhost/q?path=/dev_usb005&suffix=.pkg"/>
+			<Query class="type:x-xmb/xmlpackagefolder" key="host_provider_usb5_pkg1" src="host://localhost/q?path=/dev_usb005/packages&suffix=.pkg"/>
+			<Query class="type:x-xmb/xmlpackagefolder" key="host_provider_usb5_pkg2" src="host://localhost/q?path=/dev_usb005/PKG&suffix=.pkg"/>
+			<Query class="type:x-xmb/xmlpackagefolder" key="host_provider_usb5_dl_pkg" src="host://localhost/q?path=/dev_usb005/PS3/DOWNLOADS&suffix=.pkg"/>
+			<Query class="type:x-xmb/xmlpackagefolder" key="host_provider_usb6_pkg" src="host://localhost/q?path=/dev_usb006&suffix=.pkg"/>
+			<Query class="type:x-xmb/xmlpackagefolder" key="host_provider_usb6_pkg1" src="host://localhost/q?path=/dev_usb006/packages&suffix=.pkg"/>
+			<Query class="type:x-xmb/xmlpackagefolder" key="host_provider_usb6_pkg2" src="host://localhost/q?path=/dev_usb006/PKG&suffix=.pkg"/>
+			<Query class="type:x-xmb/xmlpackagefolder" key="host_provider_usb6_dl_pkg" src="host://localhost/q?path=/dev_usb006/PS3/DOWNLOADS&suffix=.pkg"/>
+			<Query class="type:x-xmb/xmlpackagefolder" key="host_provider_usb7_pkg" src="host://localhost/q?path=/dev_usb007&suffix=.pkg"/>
+			<Query class="type:x-xmb/xmlpackagefolder" key="host_provider_usb7_pkg1" src="host://localhost/q?path=/dev_usb007/packages&suffix=.pkg"/>
+			<Query class="type:x-xmb/xmlpackagefolder" key="host_provider_usb7_pkg2" src="host://localhost/q?path=/dev_usb007/PKG&suffix=.pkg"/>
+			<Query class="type:x-xmb/xmlpackagefolder" key="host_provider_usb7_dl_pkg" src="host://localhost/q?path=/dev_usb007/PS3/DOWNLOADS&suffix=.pkg"/>
+			<Query class="type:x-xmb/xmlpackagefolder" key="host_provider_ms_pkg" src="host://localhost/q?path=/dev_ms&suffix=.pkg"/>
+			<Query class="type:x-xmb/xmlpackagefolder" key="host_provider_ms_pkg1" src="host://localhost/q?path=/dev_ms/packages&suffix=.pkg"/>
+			<Query class="type:x-xmb/xmlpackagefolder" key="host_provider_ms_pkg2" src="host://localhost/q?path=/dev_ms/PKG&suffix=.pkg"/>
+			<Query class="type:x-xmb/xmlpackagefolder" key="host_provider_ms_dl_pkg" src="host://localhost/q?path=/dev_ms/PS3/DOWNLOADS&suffix=.pkg"/>
+			<Query class="type:x-xmb/xmlpackagefolder" key="host_provider_sd_pkg" src="host://localhost/q?path=/dev_sd&suffix=.pkg"/>
+			<Query class="type:x-xmb/xmlpackagefolder" key="host_provider_sd_pkg1" src="host://localhost/q?path=/dev_sd/packages&suffix=.pkg"/>
+			<Query class="type:x-xmb/xmlpackagefolder" key="host_provider_sd_pkg2" src="host://localhost/q?path=/dev_sd/PKG&suffix=.pkg"/>
+			<Query class="type:x-xmb/xmlpackagefolder" key="host_provider_sd_dl_pkg" src="host://localhost/q?path=/dev_sd/PS3/DOWNLOADS&suffix=.pkg"/>
+			<Query class="type:x-xmb/xmlpackagefolder" key="host_provider_cf_pkg" src="host://localhost/q?path=/dev_cf&suffix=.pkg"/>
+			<Query class="type:x-xmb/xmlpackagefolder" key="host_provider_cf_pkg1" src="host://localhost/q?path=/dev_cf/packages&suffix=.pkg"/>
+			<Query class="type:x-xmb/xmlpackagefolder" key="host_provider_cf_pkg2" src="host://localhost/q?path=/dev_cf/PKG&suffix=.pkg"/>
+			<Query class="type:x-xmb/xmlpackagefolder" key="host_provider_cf_dl_pkg" src="host://localhost/q?path=/dev_cf/PS3/DOWNLOADS&suffix=.pkg"/>
+			<!-- PKGI Direct Download -->
+			<Query class="type:x-xmb/xmlpackagefolder" key="host_provider_cf_dl_pkg" src="host://localhost/q?path=/dev_hdd0/tmp/pkgi/&suffix=.pkg"/>			
+		</Items>
+	</View>
+</XMBML>

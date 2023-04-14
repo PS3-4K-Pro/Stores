@@ -1,0 +1,3056 @@
+<!-- Coded for TKDor Modder™ by Luan Teles -->
+
+<XMBML version="1.0">
+	<!-- XMB™ Menu > PlayStation™Network Category > Unofficial®Stores > Package Downloader > Legacy Apps Downloader -->
+	<View id="seg_legacy_downloader_items">
+		<Attributes>
+			<Table key="legacy_001">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/legacy_icons/advanced_power_options.png</String></Pair>
+				<Pair key="title"><String>Advanced Power Options</String></Pair>
+				<Pair key="info"><String>RELOADXM1  0.35 MB  [By DeViL303]</String></Pair>
+			</Table>
+			<Table key="legacy_002">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/legacy_icons/awesome_file_manager.png</String></Pair>
+				<Pair key="title"><String>Awesome Filemanager</String></Pair>
+				<Pair key="info"><String>BLES01337  0.89 MB  [By Comgenie]</String></Pair>
+			</Table>
+			<Table key="legacy_003">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/legacy_icons/awesome_mount_point_manager.png</String></Pair>
+				<Pair key="title"><String>Awesome Mountpoint Manager</String></Pair>
+				<Pair key="info"><String>HMBW00001  1.03 MB  [By NZHawk]</String></Pair>
+			</Table>
+			<Table key="legacy_004">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/legacy_icons/awesome_peek_poke.png</String></Pair>
+				<Pair key="title"><String>Awesome Peek Poker</String></Pair>
+				<Pair key="info"><String>HMBW00002  9.02 MB  [By NZHawk]</String></Pair>
+			</Table>
+			<Table key="legacy_005">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/legacy_icons/b0xloader_-_self_loader.png</String></Pair>
+				<Pair key="title"><String>B0xloader - SELF Loader</String></Pair>
+				<Pair key="info"><String>BLBX00003  0.56 MB  [By blackb0x]</String></Pair>
+			</Table>
+			<Table key="legacy_006">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/legacy_icons/backup_manager.png</String></Pair>
+				<Pair key="title"><String>Backup Manager</String></Pair>
+				<Pair key="info"><String>LAUN12345  0.52 MB  [By Anonymous and PSJailbreak Team]</String></Pair>
+			</Table>
+			<Table key="legacy_007">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/legacy_icons/blackb0x_ftp_server.png</String></Pair>
+				<Pair key="title"><String>Blackb0x FTP Server</String></Pair>
+				<Pair key="info"><String>BB0011111  0.61 MB  [By blackb0x]</String></Pair>
+			</Table>
+			<Table key="legacy_008">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/legacy_icons/bootos_installer.png</String></Pair>
+				<Pair key="title"><String>BootOS Installer</String></Pair>
+				<Pair key="info"><String>LNX000001  3.41 MB  [By Kneaw]</String></Pair>
+			</Table>
+			<Table key="legacy_009">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/legacy_icons/buttons_layout_changer.png</String></Pair>
+				<Pair key="title"><String>Buttons Layout Changer</String></Pair>
+				<Pair key="info"><String>ROGE00001  0.85 MB  [By Rogero]</String></Pair>
+			</Table>
+			<Table key="legacy_010">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/legacy_icons/cfw_load_usb.png</String></Pair>
+				<Pair key="title"><String>CFWLoad USB</String></Pair>
+				<Pair key="info"><String>STOK01340  2.35 MB  [By Stoker25]</String></Pair>
+			</Table>
+			<Table key="legacy_011">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/legacy_icons/change_idps.png</String></Pair>
+				<Pair key="title"><String>Change IDPS</String></Pair>
+				<Pair key="info"><String>CHIDALLREG  0.12 MB  [By Rancid]</String></Pair>
+			</Table>
+			<Table key="legacy_012">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/legacy_icons/chaos_air_bringer.png</String></Pair>
+				<Pair key="title"><String>Chaos Air Bringer</String></Pair>
+				<Pair key="info"><String>MONSTER01  0.11 MB  [By Rokiski]</String></Pair>
+			</Table>
+			<Table key="legacy_013">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/legacy_icons/cobra_box.png</String></Pair>
+				<Pair key="title"><String>Cobra Box</String></Pair>
+				<Pair key="info"><String>COBRABOX5  26.20 MB  [By Sadeghgenavehi]</String></Pair>
+			</Table>
+			<Table key="legacy_014">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/legacy_icons/cobra_cfw_tools.png</String></Pair>
+				<Pair key="title"><String>Cobra CFW Tools</String></Pair>
+				<Pair key="info"><String>COBRATOOL  42.69 MB  [By Bitsbubba]</String></Pair>
+			</Table>
+			<Table key="legacy_015">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/legacy_icons/coldboot_usb_installer.png</String></Pair>
+				<Pair key="title"><String>Coldboot USB Installer</String></Pair>
+				<Pair key="info"><String>CLDBTINST  0.10 MB  [By Joonie86]</String></Pair>
+			</Table>
+			<Table key="legacy_016">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/legacy_icons/condor_updater_recovery_mode_toggler.png</String></Pair>
+				<Pair key="title"><String>Condor Updater Recovery Mode Toggler</String></Pair>
+				<Pair key="info"><String>CNDR00002  3.08 MB  [By CondorStrike]</String></Pair>
+			</Table>
+			<Table key="legacy_017">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/legacy_icons/cover_manager.png</String></Pair>
+				<Pair key="title"><String>Cover Manager</String></Pair>
+				<Pair key="info"><String>OMAN46756  1.61 MB  [By Jurai2]</String></Pair>
+			</Table>
+			<Table key="legacy_018">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/legacy_icons/dev_blind_mounter.png</String></Pair>
+				<Pair key="title"><String>Dev_Blind Mounter</String></Pair>
+				<Pair key="info"><String>BLND00001  0.10 MB  [By Jjolano]</String></Pair>
+			</Table>
+			<Table key="legacy_019">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/legacy_icons/dragon_ftp.png</String></Pair>
+				<Pair key="title"><String>Dragon FTP</String></Pair>
+				<Pair key="info"><String>DARK0RSX5  0.63 MB  [By Darkhacker]</String></Pair>
+			</Table>
+			<Table key="legacy_020">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/legacy_icons/dump_flash_usb001.png</String></Pair>
+				<Pair key="title"><String>Dump Flash</String></Pair>
+				<Pair key="info"><String>DPFH00003  0.10 MB  [By Glevand]</String></Pair>
+			</Table>
+			<Table key="legacy_021">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/legacy_icons/dvd_enabler.png</String></Pair>
+				<Pair key="title"><String>DVD Enabler</String></Pair>
+				<Pair key="info"><String>DVDE00000  0.14 MB  [By Mergatz85]</String></Pair>
+			</Table>
+			<Table key="legacy_022">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/legacy_icons/dynarec_enabler.png</String></Pair>
+				<Pair key="title"><String>Dynarec Enabler</String></Pair>
+				<Pair key="info"><String>DYNA00001  0.10 MB  [By IngPereira and Zecoxao]</String></Pair>
+			</Table>
+			<Table key="legacy_023">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/legacy_icons/eid_root_key_dumper.png</String></Pair>
+				<Pair key="title"><String>EID Root Key Dumper</String></Pair>
+				<Pair key="info"><String>FLTZ00010  0.10 MB  [By Flatz]</String></Pair>
+			</Table>
+			<Table key="legacy_024">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/legacy_icons/eleganz_backup_manager.png</String></Pair>
+				<Pair key="title"><String>Eleganz</String></Pair>
+				<Pair key="info"><String>ELEGANZ00  7.76 MB  [By KaKaroto]</String></Pair>
+			</Table>
+			<Table key="legacy_025">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/legacy_icons/eraseme.png</String></Pair>
+				<Pair key="title"><String>Erase Me</String></Pair>
+				<Pair key="info"><String>BLES00132  0.19 MB  [By Chossy]</String></Pair>
+			</Table>
+			<Table key="legacy_026">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/legacy_icons/es35_customize.png</String></Pair>
+				<Pair key="title"><String>ES35's Customize</String></Pair>
+				<Pair key="info"><String>ES35CSTMZ  0.71 MB  [By EmersonS35]</String></Pair>
+			</Table>
+			<Table key="legacy_027">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/legacy_icons/evilnat_manager.png</String></Pair>
+				<Pair key="title"><String>Evilnat Manager</String></Pair>
+				<Pair key="info"><String>IRIS00069  1.67 MB  [By Evilnat]</String></Pair>
+			</Table>
+			<Table key="legacy_028">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/legacy_icons/expedite_benchmarking_tool.png</String></Pair>
+				<Pair key="title"><String>Expedite Benchmarking Tool</String></Pair>
+				<Pair key="info"><String>EXPEDITE  8.73 MB  [By KaKaRoToKS]</String></Pair>
+			</Table>
+			<Table key="legacy_029">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/legacy_icons/extended_download_plugin.png</String></Pair>
+				<Pair key="title"><String>Extended Download Plugin</String></Pair>
+				<Pair key="info"><String>DOWNLOADX  0.90 MB  [By DeViL303]</String></Pair>
+			</Table>
+			<Table key="legacy_030">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/legacy_icons/factory_service_mode.png</String></Pair>
+				<Pair key="title"><String>Factory Service Mode</String></Pair>
+				<Pair key="info"><String>FSMT00002  0.37 MB  [By CrashSerious]</String></Pair>
+			</Table>
+			<Table key="legacy_031">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/legacy_icons/ferrox_mod_installer.png</String></Pair>
+				<Pair key="title"><String>Ferrox Mod Installer</String></Pair>
+				<Pair key="info"><String>FERROXMOD  2.66 MB  [By Alexander]</String></Pair>
+			</Table>
+			<Table key="legacy_032">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/legacy_icons/flex_manager.png</String></Pair>
+				<Pair key="title"><String>Flex Manager</String></Pair>
+				<Pair key="info"><String>OMAN46756  2.66 MB  [By Dogie721 and Jurai2]</String></Pair>
+			</Table>
+			<Table key="legacy_033">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/legacy_icons/freeflash_mounter.png</String></Pair>
+				<Pair key="title"><String>FreeFlash Mounter</String></Pair>
+				<Pair key="info"><String>FREEFLASH  0.11 MB  [By Waninkoko]</String></Pair>
+			</Table>
+			<Table key="legacy_034">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/legacy_icons/funny_mamba_autoloader.png</String></Pair>
+				<Pair key="title"><String>Funny Mamba Autoloader</String></Pair>
+				<Pair key="info"><String>MAMBAINST  52.40 MB  [By PS3Ita]</String></Pair>
+			</Table>
+			<Table key="legacy_035">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/legacy_icons/gaia_manager.png</String></Pair>
+				<Pair key="title"><String>Gaia Manager</String></Pair>
+				<Pair key="info"><String>GAIA01985  0.37 MB  [By Drizztbsd]</String></Pair>
+			</Table>
+			<Table key="legacy_036">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/legacy_icons/gameboot_collection_installer.png</String></Pair>
+				<Pair key="title"><String>Gameboot Collection</String></Pair>
+				<Pair key="info"><String>GMBTCLLC1  1.10 MB  [By Bitsbubba]</String></Pair>
+			</Table>
+			<Table key="legacy_037">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/legacy_icons/gamepkg.png</String></Pair>
+				<Pair key="title"><String>gamePKG</String></Pair>
+				<Pair key="info"><String>GPKG00123  1.51 MB  [By CaptainnCPS-X]</String></Pair>
+			</Table>
+			<Table key="legacy_038">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/legacy_icons/gamesonic_manager.png</String></Pair>
+				<Pair key="title"><String>Game Sonic Manager</String></Pair>
+				<Pair key="info"><String>GAMEMNGR1  2.65 MB  [By Orion and TheHeroGAC]</String></Pair>
+			</Table>
+			<Table key="legacy_039">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/legacy_icons/greek_xmb_pack.png</String></Pair>
+				<Pair key="title"><String>Greek XMB Pack</String></Pair>
+				<Pair key="info"><String>XMBGREEK0  15.30 MB  [By Ermak86]</String></Pair>
+			</Table>
+			<Table key="legacy_040">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/legacy_icons/habib_qa_toggle_4.21+.png</String></Pair>
+				<Pair key="title"><String>Habib QA Toggle 4.21+</String></Pair>
+				<Pair key="info"><String>QAFLAG000  0.14 MB  [By Habib]</String></Pair>
+			</Table>
+			<Table key="legacy_041">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/legacy_icons/habib_toolbox.png</String></Pair>
+				<Pair key="title"><String>Habib Toolbox</String></Pair>
+				<Pair key="info"><String>COBRASWAP  0.18 MB  [By SMHabib]</String></Pair>
+			</Table>
+			<Table key="legacy_042">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/legacy_icons/han_toolbox.png</String></Pair>
+				<Pair key="title"><String>HAN Toolbox</String></Pair>
+				<Pair key="info"><String>HANTOOLBX  1.11 MB  [By DADi590]</String></Pair>
+			</Table>
+			<Table key="legacy_043">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/legacy_icons/henbrew_store.png</String></Pair>
+				<Pair key="title"><String>HENBrew Store</String></Pair>
+				<Pair key="info"><String>HENBSTORE  0.41 MB  [By ShaoliAssassin]</String></Pair>
+			</Table>
+			<Table key="legacy_044">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/legacy_icons/hen_toolbox.png</String></Pair>
+				<Pair key="title"><String>HEN Toolbox</String></Pair>
+				<Pair key="info"><String>INSTALLER  50.2 MB  [By DeViL303 and NotOnlyEyes]</String></Pair>
+			</Table>
+			<Table key="legacy_045">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/legacy_icons/hermers_manager.png</String></Pair>
+				<Pair key="title"><String>Hermes Manager</String></Pair>
+				<Pair key="info"><String>HMANAGER4  0.59 MB  [By Hermes]</String></Pair>
+			</Table>
+			<Table key="legacy_046">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/legacy_icons/homebrew_package_network.png</String></Pair>
+				<Pair key="title"><String>Homebrew Package Network</String></Pair>
+				<Pair key="info"><String>EXA000000  0.40 MB  [By Kneaw]</String></Pair>
+			</Table>
+			<Table key="legacy_047">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/legacy_icons/hvdebug_enable.png</String></Pair>
+				<Pair key="title"><String>HV Debug Enabler</String></Pair>
+				<Pair key="info"><String>HVDEBUG01  0.10 MB  [By User]</String></Pair>
+			</Table>
+			<Table key="legacy_048">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/legacy_icons/hybrid_manager.png</String></Pair>
+				<Pair key="title"><String>Hybrid Manager</String></Pair>
+				<Pair key="info"><String>HYBRIDMAN  2.37 MB  [By BillGates]</String></Pair>
+			</Table>
+			<Table key="legacy_049">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/legacy_icons/idps_viewer.png</String></Pair>
+				<Pair key="title"><String>IDPS Viewer</String></Pair>
+				<Pair key="info"><String>IDPS00001  0.15 MB  [By Nathan_r32_69]</String></Pair>
+			</Table>
+			<Table key="legacy_050">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/legacy_icons/install_fake_bdemu_dex.png</String></Pair>
+				<Pair key="title"><String>Install Fake BDEmu (DEX)</String></Pair>
+				<Pair key="info"><String>FAKEBDEMU  2.08 MB  [By Rancid]</String></Pair>
+			</Table>
+			<Table key="legacy_051">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/legacy_icons/install_package_files.png</String></Pair>
+				<Pair key="title"><String>Install Package Files</String></Pair>
+				<Pair key="info"><String>BLES80688  0.49 MB  [By Deank]</String></Pair>
+			</Table>
+			<Table key="legacy_052">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/legacy_icons/install_package_homebrew.png</String></Pair>
+				<Pair key="title"><String>Install Package Homebrew</String></Pair>
+				<Pair key="info"><String>INSTALLPK  0.61 MB  [By Deroad]</String></Pair>
+			</Table>
+			<Table key="legacy_053">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/legacy_icons/iris_manager.png</String></Pair>
+				<Pair key="title"><String>Iris Manager</String></Pair>
+				<Pair key="info"><String>IMANAGER4  3.97 MB  [By Estwald and D_SkyWalk]</String></Pair>
+			</Table>
+			<Table key="legacy_054">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/legacy_icons/juicyfix_games_update.png</String></Pair>
+				<Pair key="title"><String>Juicy Fix (Game Update Prompt Fix)</String></Pair>
+				<Pair key="info"><String>JUIC10000  0.10 MB  [By An0nym0us]</String></Pair>
+			</Table>
+			<Table key="legacy_055">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/legacy_icons/led_changer.png</String></Pair>
+				<Pair key="title"><String>LED Changer</String></Pair>
+				<Pair key="info"><String>LED0DISC0  0.15 MB  [By Deroad]</String></Pair>
+			</Table>
+			<Table key="legacy_056">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/legacy_icons/luafps3.png</String></Pair>
+				<Pair key="title"><String>LuaFPS3</String></Pair>
+				<Pair key="info"><String>LUAFPS310  1.58 MB  [By The_marioga]</String></Pair>
+			</Table>
+			<Table key="legacy_057">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/legacy_icons/luaplayer.png</String></Pair>
+				<Pair key="title"><String>LuaPlayer</String></Pair>
+				<Pair key="info"><String>LUAP00001  2.25 MB  [By Jonlimle]</String></Pair>
+			</Table>
+			<Table key="legacy_059">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/legacy_icons/lv2_dump.png</String></Pair>
+				<Pair key="title"><String>LV2 Dump</String></Pair>
+				<Pair key="info"><String>LV2D00000  0.55 MB  [By Blackb0x]</String></Pair>
+			</Table>
+			<Table key="legacy_060">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/legacy_icons/lv2_loader.png</String></Pair>
+				<Pair key="title"><String>LV2 Loader</String></Pair>
+				<Pair key="info"><String>LV2LOADER  0.13 MB  [By Joonie86]</String></Pair>
+			</Table>
+			<Table key="legacy_061">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/legacy_icons/lv2_patcher.png</String></Pair>
+				<Pair key="title"><String>LV2 Patcher</String></Pair>
+				<Pair key="info"><String>LV2000000  0.11 MB  [By Kneaw]</String></Pair>
+			</Table>
+			<Table key="legacy_062">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/legacy_icons/mamba_prx_loader.png</String></Pair>
+				<Pair key="title"><String>Mamba PRX Loader</String></Pair>
+				<Pair key="info"><String>MAMBAPRXL  84.3 MB  [By Aldostools]</String></Pair>
+			</Table>
+			<Table key="legacy_063">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/legacy_icons/memdump.png</String></Pair>
+				<Pair key="title"><String>MemDump</String></Pair>
+				<Pair key="info"><String>MEMD00001  1.95 MB  [By An0nym0us]</String></Pair>
+			</Table>
+			<Table key="legacy_064">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/legacy_icons/mhu_free_store.png</String></Pair>
+				<Pair key="title"><String>MHU Free Store</String></Pair>
+				<Pair key="info"><String>MHFS00000  0.65 MB  [By EXtermin]</String></Pair>
+			</Table>
+			<Table key="legacy_065">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/legacy_icons/monster_manager.png</String></Pair>
+				<Pair key="title"><String>Monster Manager</String></Pair>
+				<Pair key="info"><String>MONSTERMR  4.93 MB  [By Faxtron]</String></Pair>
+			</Table>
+			<Table key="legacy_066">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/legacy_icons/mount_alejandro.png</String></Pair>
+				<Pair key="title"><String>Mount Alejandro</String></Pair>
+				<Pair key="info"><String>MOUNTDFRW  0.42 MB  [By  Jaicrab and PS3mrenigma]</String></Pair>
+			</Table>
+			<Table key="legacy_067">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/legacy_icons/n4ru_flash_loader.png</String></Pair>
+				<Pair key="title"><String>n4ru Flash Loader</String></Pair>
+				<Pair key="info"><String>N4RULOADR  0.21 MB  [By n4ru]</String></Pair>
+			</Table>
+			<Table key="legacy_068">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/legacy_icons/open_asbestos_loader.png</String></Pair>
+				<Pair key="title"><String>Open AsbestOS Loader</String></Pair>
+				<Pair key="info"><String>LOAD00000  6.55 MB  [By MrGatz85 and Cael]</String></Pair>
+			</Table>
+			<Table key="legacy_069">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/legacy_icons/open_copy_install.png</String></Pair>
+				<Pair key="title"><String>Open Copy Install</String></Pair>
+				<Pair key="info"><String>OCOP46756  2.46 MB  [By WuEpE]</String></Pair>
+			</Table>
+			<Table key="legacy_070">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/legacy_icons/open_manager.png</String></Pair>
+				<Pair key="title"><String>Open Manager</String></Pair>
+				<Pair key="info"><String>OMAN46756  0.21 MB  [By Moh.sakaii and WuEpE]</String></Pair>
+			</Table>
+			<Table key="legacy_071">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/legacy_icons/open_ps3ftp.png</String></Pair>
+				<Pair key="title"><String>OpenPS3FTP (3.XX Only)</String></Pair>
+				<Pair key="info"><String>NPXS91337  0.45 MB  [By Jjolano]</String></Pair>
+			</Table>
+			<Table key="legacy_072">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/legacy_icons/open_ps3_ftpsplit.png</String></Pair>
+				<Pair key="title"><String>OpenPS3FTP Split</String></Pair>
+				<Pair key="info"><String>OFTP00001  0.10 MB  [By Onishin]</String></Pair>
+			</Table>
+			<Table key="legacy_073">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/legacy_icons/pl3_permission_fix.png</String></Pair>
+				<Pair key="title"><String>PL3 Permission Fix</String></Pair>
+				<Pair key="info"><String>FIXP12345  0.10 MB  [By Festizio]</String></Pair>
+			</Table>
+			<Table key="legacy_074">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/legacy_icons/play_manager.png</String></Pair>
+				<Pair key="title"><String>Play Manager</String></Pair>
+				<Pair key="info"><String>PLAYMNGR1  2.85 MB  [By _Slash_]</String></Pair>
+			</Table>
+			<Table key="legacy_075">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/legacy_icons/pluginx.png</String></Pair>
+				<Pair key="title"><String>PluginX</String></Pair>
+				<Pair key="info"><String>BOOT04XXX  4.94 MB  [By Exofreak]</String></Pair>
+			</Table>
+			<Table key="legacy_076">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/legacy_icons/plugin_manager.png</String></Pair>
+				<Pair key="title"><String>Plugin Manager</String></Pair>
+				<Pair key="info"><String>PLUGINMAN  1.51 MB  [By Orion]</String></Pair>
+			</Table>
+			<Table key="legacy_077">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/legacy_icons/polygonal_demo.png</String></Pair>
+				<Pair key="title"><String>Polygonal Demo</String></Pair>
+				<Pair key="info"><String>PONG66666  9.84 MB  [By ThatOtherPerson]</String></Pair>
+			</Table>
+			<Table key="legacy_078">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/legacy_icons/pretty_manager.png</String></Pair>
+				<Pair key="title"><String>Pretty Manager</String></Pair>
+				<Pair key="info"><String>OMAN46756  1.07 MB  [By Jurai2]</String></Pair>
+			</Table>
+			<Table key="legacy_079">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/legacy_icons/ps2_netemu_selector.png</String></Pair>
+				<Pair key="title"><String>PS2 Netemu Selector</String></Pair>
+				<Pair key="info"><String>PS2NETEMU  24.60 MB  [By Kozarovv]</String></Pair>
+			</Table>
+			<Table key="legacy_080">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/legacy_icons/ps3extra_xmb_mods_collection.png</String></Pair>
+				<Pair key="title"><String>PS3Extra XMB Mods Collection</String></Pair>
+				<Pair key="info"><String>PS3EXTRA5  33.80 MB  [By _obeWAN]</String></Pair>
+			</Table>
+			<Table key="legacy_081">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/legacy_icons/ps3ftp_(nogui).png</String></Pair>
+				<Pair key="title"><String>PS3FTP (No GUI)</String></Pair>
+				<Pair key="info"><String>FTPD00001  0.41 MB  [By StoneMcClane]</String></Pair>
+			</Table>
+			<Table key="legacy_082">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/legacy_icons/ps3ftpserver.png</String></Pair>
+				<Pair key="title"><String>PS3 FTP Server</String></Pair>
+				<Pair key="info"><String>FTPD12345  0.12 MB  [By Cjpc]</String></Pair>
+			</Table>
+			<Table key="legacy_083">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/legacy_icons/ps3ita_manager.png</String></Pair>
+				<Pair key="title"><String>PS3ITA Manager</String></Pair>
+				<Pair key="info"><String>PS3ITAU  23.30 MB  [By Rancid]</String></Pair>
+			</Table>
+			<Table key="legacy_084">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/legacy_icons/ps3kara.png</String></Pair>
+				<Pair key="title"><String>PS3 Kara</String></Pair>
+				<Pair key="info"><String>KARA01010  2.77 MB  [By TPS]</String></Pair>
+			</Table>
+			<Table key="legacy_085">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/legacy_icons/ps3load.png</String></Pair>
+				<Pair key="title"><String>PS3Load</String></Pair>
+				<Pair key="info"><String>PS3LOAD00  0.53 MB  [By AerialX and An0nym0us]</String></Pair>
+			</Table>
+			<Table key="legacy_086">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/legacy_icons/ps3loadx.png</String></Pair>
+				<Pair key="title"><String>PS3LoadX</String></Pair>
+				<Pair key="info"><String>PS3LOAD00  0.53 MB  [By Hermes and CondorStrike]</String></Pair>
+			</Table>
+			<Table key="legacy_087">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/legacy_icons/ps3lock_installer.png</String></Pair>
+				<Pair key="title"><String>PS3 Lock Installer</String></Pair>
+				<Pair key="info"><String>PS3LOCKUP  2.20 MB  [By Ermak86 and Echo6vi]</String></Pair>
+			</Table>
+			<Table key="legacy_088">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/legacy_icons/ps3manager_api_mamba_launcher.png</String></Pair>
+				<Pair key="title"><String>PS3 Manager Launcher</String></Pair>
+				<Pair key="info"><String>IRISMAN01  1.77 MB  [By NzV]</String></Pair>
+			</Table>
+			<Table key="legacy_089">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/legacy_icons/ps3messenger.png</String></Pair>
+				<Pair key="title"><String>PS3 Messenger</String></Pair>
+				<Pair key="info"><String>ABCD12345  0.97 MB  [By Samson]</String></Pair>
+			</Table>
+			<Table key="legacy_090">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/legacy_icons/ps3_on_time.png</String></Pair>
+				<Pair key="title"><String>PS3 On Time</String></Pair>
+				<Pair key="info"><String>PS3TRTIME  0.64 MB  [By Unknown]</String></Pair>
+			</Table>
+			<Table key="legacy_091">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/legacy_icons/ps3_cloud_drive.png</String></Pair>
+				<Pair key="title"><String>PS3 Cloud Drive</String></Pair>
+				<Pair key="info"><String>PSCD00001  3.56 MB  [By Mhaqs]</String></Pair>
+			</Table>
+			<Table key="legacy_092">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/legacy_icons/ps3_extranet.png</String></Pair>
+				<Pair key="title"><String>PS3 ExtraNET</String></Pair>
+				<Pair key="info"><String>PEXTRANET  2.96 MB  [By _obeWAN]</String></Pair>
+			</Table>
+			<Table key="legacy_093">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/legacy_icons/ps3_irc.png</String></Pair>
+				<Pair key="title"><String>PS3 IRC</String></Pair>
+				<Pair key="info"><String>WIRC12345  3.60 MB  [By Samson]</String></Pair>
+			</Table>
+			<Table key="legacy_094">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/legacy_icons/ps3_model_detection.png</String></Pair>
+				<Pair key="title"><String>PS3 Model Detection</String></Pair>
+				<Pair key="info"><String>TEST00000  0.10 MB  [By RMS]</String></Pair>
+			</Table>
+			<Table key="legacy_095">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/legacy_icons/ps3_xdr_ram_dumper.png</String></Pair>
+				<Pair key="title"><String>PS3 XDR Ram Dumper</String></Pair>
+				<Pair key="info"><String>ZZZZ00001  0.10 MB  [By kozarovv]</String></Pair>
+			</Table>
+			<Table key="legacy_096">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/legacy_icons/pschannel.png</String></Pair>
+				<Pair key="title"><String>PSChannel</String></Pair>
+				<Pair key="info"><String>PSCHANNEL  33.50 MB  [By Deroad]</String></Pair>
+			</Table>
+			<Table key="legacy_097">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/legacy_icons/psid_patch.png</String></Pair>
+				<Pair key="title"><String>PSID Patch</String></Pair>
+				<Pair key="info"><String>STOK01342  0.58 MB  [By Stoker25]</String></Pair>
+			</Table>
+			<Table key="legacy_098">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/legacy_icons/psninja.png</String></Pair>
+				<Pair key="title"><String>PSNinja</String></Pair>
+				<Pair key="info"><String>BLUS30017  0.68 MB  [By Smokin]</String></Pair>
+			</Table>
+			<Table key="legacy_099">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/legacy_icons/psnope.png</String></Pair>
+				<Pair key="title"><String>PSNope</String></Pair>
+				<Pair key="info"><String>NPXS09386  0.19 MB  [By User]</String></Pair>
+			</Table>
+			<Table key="legacy_100">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/legacy_icons/pspoke.png</String></Pair>
+				<Pair key="title"><String>PSPoke</String></Pair>
+				<Pair key="info"><String>NZHA00000  0.60 MB  [By NZHawk]</String></Pair>
+			</Table>
+			<Table key="legacy_101">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/legacy_icons/ps_seismograph.png</String></Pair>
+				<Pair key="title"><String>PS Seismograph</String></Pair>
+				<Pair key="info"><String>PSEISM1GR  0.82 MB  [By Deroad]</String></Pair>
+			</Table>
+			<Table key="legacy_102">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/legacy_icons/ps_unban.png</String></Pair>
+				<Pair key="title"><String>PS Unban</String></Pair>
+				<Pair key="info"><String>NOBAN0000  0.79 MB  [By x00]</String></Pair>
+			</Table>
+			<Table key="legacy_103">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/legacy_icons/qa_flag_tools_extra.png</String></Pair>
+				<Pair key="title"><String>QA Flag Extra</String></Pair>
+				<Pair key="info"><String>QAFG00003  0.70 MB  [By Gitbrew and Glevand]</String></Pair>
+			</Table>
+			<Table key="legacy_104">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/legacy_icons/quickdumpr.png</String></Pair>
+				<Pair key="title"><String>QuickDumpR</String></Pair>
+				<Pair key="info"><String>HMBW00003  0.12 MB  [By NZHawk]</String></Pair>
+			</Table>
+			<Table key="legacy_105">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/legacy_icons/rogero_manager.png</String></Pair>
+				<Pair key="title"><String>Rogero Manager</String></Pair>
+				<Pair key="info"><String>ROGE12345  26.00 MB  [By Rogero]</String></Pair>
+			</Table>
+			<Table key="legacy_106">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/legacy_icons/sacd-ripper.png</String></Pair>
+				<Pair key="title"><String>SACD Ripper</String></Pair>
+				<Pair key="info"><String>SACDRIP01  2.00 MB  [By Sacd-Ripper]</String></Pair>
+			</Table>
+			<Table key="legacy_107">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/legacy_icons/sconsole.png</String></Pair>
+				<Pair key="title"><String>SConsole</String></Pair>
+				<Pair key="info"><String>SCO0000003  0.40 MB  [By Scognito]</String></Pair>
+			</Table>
+			<Table key="legacy_108">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/legacy_icons/self_sprx_decrypter.png</String></Pair>
+				<Pair key="title"><String>SELF SPRX Decrypter</String></Pair>
+				<Pair key="info"><String>DCRY00001  2.73 MB  [By Heden DeLiGhT]</String></Pair>
+			</Table>
+			<Table key="legacy_109">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/legacy_icons/sen_enabler.png</String></Pair>
+				<Pair key="title"><String>SEN Enabler</String></Pair>
+				<Pair key="info"><String>NPEA90124  5.72 MB  [By Evilnat]</String></Pair>
+			</Table>
+			<Table key="legacy_110">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/legacy_icons/sexy_manager.png</String></Pair>
+				<Pair key="title"><String>Sexy Manager</String></Pair>
+				<Pair key="info"><String>OMAN46756  2.07 MB  [By Jurai2]</String></Pair>
+			</Table>
+			<Table key="legacy_111">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/legacy_icons/showtime_disc11.png</String></Pair>
+				<Pair key="title"><String>Showtime Disc Access</String></Pair>
+				<Pair key="info"><String>HTSD00001  0.18 MB  [By Andbey0nd]</String></Pair>
+			</Table>
+			<Table key="legacy_112">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/legacy_icons/simple_avchd_manager.png</String></Pair>
+				<Pair key="title"><String>Simple AVCHD Manager</String></Pair>
+				<Pair key="info"><String>AVCD00001  0.12 MB  [By ZoNeD]</String></Pair>
+			</Table>
+			<Table key="legacy_113">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/legacy_icons/simple_file_manager.png</String></Pair>
+				<Pair key="title"><String>Simple File Manager</String></Pair>
+				<Pair key="info"><String>PS3SFM001  1.05 MB  [By TPS]</String></Pair>
+			</Table>
+			<Table key="legacy_114">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/legacy_icons/simple_ntfs_iso_mounter.png</String></Pair>
+				<Pair key="title"><String>Simple NTFS ISO Mounter</String></Pair>
+				<Pair key="info"><String>SISO00123  1.05 MB  [By CaptainCPS-X]</String></Pair>
+			</Table>
+			<Table key="legacy_115">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/legacy_icons/simplicity_manager.png</String></Pair>
+				<Pair key="title"><String>Simplicity Manager</String></Pair>
+				<Pair key="info"><String>SIMPIRIS4  1.09 MB  [By StevenCaps]</String></Pair>
+			</Table>
+			<Table key="legacy_116">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/legacy_icons/solar.png</String></Pair>
+				<Pair key="title"><String>Solar</String></Pair>
+				<Pair key="info"><String>CNDR00001  27.50 MB  [By CondorStrike]</String></Pair>
+			</Table>
+			<Table key="legacy_117">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/legacy_icons/suiteapp.png</String></Pair>
+				<Pair key="title"><String>SuiteApp</String></Pair>
+				<Pair key="info"><String>SUIT11111  1.08 MB  [By Facanferff]</String></Pair>
+			</Table>
+			<Table key="legacy_118">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/legacy_icons/tempmon.png</String></Pair>
+				<Pair key="title"><String>TempMON</String></Pair>
+				<Pair key="info"><String>TEMPMON00  0.53 MB  [By SwapOne]</String></Pair>
+			</Table>
+			<Table key="legacy_119">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/legacy_icons/textreader.png</String></Pair>
+				<Pair key="title"><String>Text Reader</String></Pair>
+				<Pair key="info"><String>TXTR11111  1.43 MB  [By Facanferff]</String></Pair>
+			</Table>
+			<Table key="legacy_120">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/legacy_icons/thankyou_manager.png</String></Pair>
+				<Pair key="title"><String>Th@nkY0u Manager</String></Pair>
+				<Pair key="info"><String>TYMANAGER  8.32 MB  [By Neox3]</String></Pair>
+			</Table>
+			<Table key="legacy_121">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/legacy_icons/toggle_qa.png</String></Pair>
+				<Pair key="title"><String>Toogle QA</String></Pair>
+				<Pair key="info"><String>TOGGLEQAF  0.09 MB  [By Joonie86]</String></Pair>
+			</Table>
+			<Table key="legacy_122">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/legacy_icons/ultimate_toolbox.png</String></Pair>
+				<Pair key="title"><String>Ultimate Toolbox</String></Pair>
+				<Pair key="info"><String>ULTOOLBOX  482.0 MB  [By DeViL303]</String></Pair>
+			</Table>
+			<Table key="legacy_123">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/legacy_icons/tkdor_modder_irisman.png</String></Pair>
+				<Pair key="title"><String>Unofficial Iris Manager</String></Pair>
+				<Pair key="info"><String>IMANGER4U  5.67 MB  [By Alexander]</String></Pair>
+			</Table>
+			<Table key="legacy_124">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/legacy_icons/tkdor_modder_rebug_updater.png</String></Pair>
+				<Pair key="title"><String>Unofficial REBUG Updater (AIO)</String></Pair>
+				<Pair key="info"><String>XMBPLSMOD  2.17 MB  [By Bitsbubba]</String></Pair>
+			</Table>
+			<Table key="legacy_125">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/legacy_icons/usb_firm_loader.png</String></Pair>
+				<Pair key="title"><String>USB Firm Loader</String></Pair>
+				<Pair key="info"><String>JAICUSBL0  0.24 MB  [By Jaicrab]</String></Pair>
+			</Table>
+			<Table key="legacy_126">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/legacy_icons/usb_game_launcher.png</String></Pair>
+				<Pair key="title"><String>USB Game Launcher</String></Pair>
+				<Pair key="info"><String>HOMELAUN1  0.24 MB  [By Estwald and D_SkyWalk]</String></Pair>
+			</Table>
+			<Table key="legacy_127">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/legacy_icons/vsh_prx_loader.png</String></Pair>
+				<Pair key="title"><String>VSH PRX Loader</String></Pair>
+				<Pair key="info"><String>PRXLOADER  0.27 MB  [By @User, @Joonie86 and @NzV]</String></Pair>
+			</Table>
+			<Table key="legacy_128">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/legacy_icons/webman_launchpad.png</String></Pair>
+				<Pair key="title"><String>webMAN LaunchPad </String></Pair>
+				<Pair key="info"><String>LAUNCHPAD  60.40 MB  [By DeViL303]</String></Pair>
+			</Table>
+			<Table key="legacy_129">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/legacy_icons/web_browser_plus.png</String></Pair>
+				<Pair key="title"><String>Web Browser Plus</String></Pair>
+				<Pair key="info"><String>BROWSER01  0.20 MB  [By RazorX]</String></Pair>
+			</Table>
+			<Table key="legacy_130">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/legacy_icons/whats_new_on_psx-place.png</String></Pair>
+				<Pair key="title"><String>What's New on PSX-Place</String></Pair>
+				<Pair key="info"><String>WHATSNEW1  10.10 MB  [By DeViL303]</String></Pair>
+			</Table>
+			<Table key="legacy_131">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/legacy_icons/wipe_history.png</String></Pair>
+				<Pair key="title"><String>Wipe History</String></Pair>
+				<Pair key="info"><String>WIPE01337  0.36 MB  [By Smokin]</String></Pair>
+			</Table>
+			<Table key="legacy_132">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/legacy_icons/xmb_lock.png</String></Pair>
+				<Pair key="title"><String>XMB Lock</String></Pair>
+				<Pair key="info"><String>XMBLOCK00  7.07 MB  [By ErMak86 and Echo6vi]</String></Pair>
+			</Table>
+			<Table key="legacy_133">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/legacy_icons/xmbm+_2017.png</String></Pair>
+				<Pair key="title"><String>XMBM+ 2K17</String></Pair>
+				<Pair key="info"><String>XMBMANPLS  0.39 MB  [By Berion and XMBM+ Team]</String></Pair>
+			</Table>
+			<Table key="legacy_134">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/legacy_icons/xmbpd.png</String></Pair>
+				<Pair key="title"><String>XMBPD</String></Pair>
+				<Pair key="info"><String>XMBPDINST  1.14 MB  [By DeViL303]</String></Pair>
+			</Table>
+			<Table key="legacy_135">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/legacy_icons/xmb_modify_collection_installer.png</String></Pair>
+				<Pair key="title"><String>XMB Modify Collection</String></Pair>
+				<Pair key="info"><String>XMBMDIFY1  5.83 MB  [By Bitsbubba]</String></Pair>
+			</Table>
+			<Table key="legacy_136">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/legacy_icons/xmb_mod_manager.png</String></Pair>
+				<Pair key="title"><String>XMB Mod Manager</String></Pair>
+				<Pair key="info"><String>XMBMODMAN  10.60 MB  [By brunoLee]</String></Pair>
+			</Table>
+			<Table key="legacy_137">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/legacy_icons/xreg_plus.png</String></Pair>
+				<Pair key="title"><String>xReg Plus</String></Pair>
+				<Pair key="info"><String>XREG00001  150.0 MB  [By Joonie86]</String></Pair>
+			</Table>
+			<Table key="legacy_138">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/legacy_icons/cfw_extras_category_installer.png</String></Pair>
+				<Pair key="title"><String>CFW Extras Category</String></Pair>
+				<Pair key="info"><String>CFWEXINST  15.50 MB  [By DeViL303]</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/folder-pixmap" key="legacy_001" attr="legacy_001" src="#legacy_001_item"/>
+			<Query class="type:x-xmb/folder-pixmap" key="legacy_002" attr="legacy_002" src="#legacy_002_item"/>
+			<Query class="type:x-xmb/folder-pixmap" key="legacy_003" attr="legacy_003" src="#legacy_003_item"/>
+			<Query class="type:x-xmb/folder-pixmap" key="legacy_004" attr="legacy_004" src="#legacy_004_item"/>
+			<Query class="type:x-xmb/folder-pixmap" key="legacy_005" attr="legacy_005" src="#legacy_005_item"/>
+			<Query class="type:x-xmb/folder-pixmap" key="legacy_006" attr="legacy_006" src="#legacy_006_item"/>
+			<Query class="type:x-xmb/folder-pixmap" key="legacy_007" attr="legacy_007" src="#legacy_007_item"/>
+			<!-- <Query class="type:x-xmb/folder-pixmap" key="legacy_008" attr="legacy_008" src="#legacy_008_item"/> -->
+			<Query class="type:x-xmb/folder-pixmap" key="legacy_009" attr="legacy_009" src="#legacy_009_item"/>
+			<Query class="type:x-xmb/folder-pixmap" key="legacy_010" attr="legacy_010" src="#legacy_010_item"/>
+			<Query class="type:x-xmb/folder-pixmap" key="legacy_138" attr="legacy_138" src="#legacy_138_item"/>
+			<!-- <Query class="type:x-xmb/folder-pixmap" key="legacy_011" attr="legacy_011" src="#legacy_011_item"/> -->
+			<!-- <Query class="type:x-xmb/folder-pixmap" key="legacy_012" attr="legacy_012" src="#legacy_012_item"/> -->
+			<!-- <Query class="type:x-xmb/folder-pixmap" key="legacy_013" attr="legacy_013" src="#legacy_013_item"/> -->
+			<!-- <Query class="type:x-xmb/folder-pixmap" key="legacy_014" attr="legacy_014" src="#legacy_014_item"/> -->
+			<Query class="type:x-xmb/folder-pixmap" key="legacy_015" attr="legacy_015" src="#legacy_015_item"/>
+			<!-- <Query class="type:x-xmb/folder-pixmap" key="legacy_016" attr="legacy_016" src="#legacy_016_item"/> -->
+			<Query class="type:x-xmb/folder-pixmap" key="legacy_017" attr="legacy_017" src="#legacy_017_item"/>
+			<Query class="type:x-xmb/folder-pixmap" key="legacy_018" attr="legacy_018" src="#legacy_018_item"/>
+			<Query class="type:x-xmb/folder-pixmap" key="legacy_019" attr="legacy_019" src="#legacy_019_item"/>
+			<Query class="type:x-xmb/folder-pixmap" key="legacy_020" attr="legacy_020" src="#legacy_020_item"/>
+			<!-- <Query class="type:x-xmb/folder-pixmap" key="legacy_021" attr="legacy_021" src="#legacy_021_item"/> -->
+			<!-- <Query class="type:x-xmb/folder-pixmap" key="legacy_022" attr="legacy_022" src="#legacy_022_item"/> -->
+			<!-- <Query class="type:x-xmb/folder-pixmap" key="legacy_023" attr="legacy_023" src="#legacy_023_item"/> -->
+			<Query class="type:x-xmb/folder-pixmap" key="legacy_024" attr="legacy_024" src="#legacy_024_item"/>
+			<Query class="type:x-xmb/folder-pixmap" key="legacy_025" attr="legacy_025" src="#legacy_025_item"/>
+			<Query class="type:x-xmb/folder-pixmap" key="legacy_026" attr="legacy_026" src="#legacy_026_item"/>
+			<Query class="type:x-xmb/folder-pixmap" key="legacy_027" attr="legacy_027" src="#legacy_027_item"/>
+			<Query class="type:x-xmb/folder-pixmap" key="legacy_028" attr="legacy_028" src="#legacy_028_item"/>
+			<!-- <Query class="type:x-xmb/folder-pixmap" key="legacy_029" attr="legacy_029" src="#legacy_029_item"/> -->
+			<!-- <Query class="type:x-xmb/folder-pixmap" key="legacy_030" attr="legacy_030" src="#seg_legacy_030_items"/> -->
+			<Query class="type:x-xmb/folder-pixmap" key="legacy_031" attr="legacy_031" src="#legacy_031_item"/>
+			<Query class="type:x-xmb/folder-pixmap" key="legacy_032" attr="legacy_032" src="#legacy_032_item"/>
+			<Query class="type:x-xmb/folder-pixmap" key="legacy_033" attr="legacy_033" src="#legacy_033_item"/>
+			<!-- <Query class="type:x-xmb/folder-pixmap" key="legacy_034" attr="legacy_034" src="#legacy_034_item"/> -->
+			<Query class="type:x-xmb/folder-pixmap" key="legacy_035" attr="legacy_035" src="#legacy_035_item"/>
+			<Query class="type:x-xmb/folder-pixmap" key="legacy_036" attr="legacy_036" src="#legacy_036_item"/>
+			<Query class="type:x-xmb/folder-pixmap" key="legacy_037" attr="legacy_037" src="#legacy_037_item"/>
+			<Query class="type:x-xmb/folder-pixmap" key="legacy_038" attr="legacy_038" src="#legacy_038_item"/>
+			<!-- <Query class="type:x-xmb/folder-pixmap" key="legacy_039" attr="legacy_039" src="#legacy_039_item"/> -->
+			<!-- <Query class="type:x-xmb/folder-pixmap" key="legacy_040" attr="legacy_040" src="#legacy_040_item"/> -->
+			<!-- <Query class="type:x-xmb/folder-pixmap" key="legacy_041" attr="legacy_041" src="#legacy_041_item"/> -->
+			<Query class="type:x-xmb/folder-pixmap" key="legacy_042" attr="legacy_042" src="#legacy_042_item"/>
+			<Query class="type:x-xmb/folder-pixmap" key="legacy_043" attr="legacy_043" src="#legacy_043_item"/>
+			<Query class="type:x-xmb/folder-pixmap" key="legacy_044" attr="legacy_044" src="#legacy_044_item"/>
+			<Query class="type:x-xmb/folder-pixmap" key="legacy_045" attr="legacy_045" src="#legacy_045_item"/>
+			<Query class="type:x-xmb/folder-pixmap" key="legacy_046" attr="legacy_046" src="#legacy_046_item"/>
+			<!-- <Query class="type:x-xmb/folder-pixmap" key="legacy_047" attr="legacy_047" src="#legacy_047_item"/> -->
+			<Query class="type:x-xmb/folder-pixmap" key="legacy_048" attr="legacy_048" src="#legacy_048_item"/>
+			<Query class="type:x-xmb/folder-pixmap" key="legacy_049" attr="legacy_049" src="#legacy_049_item"/>
+			<!-- <Query class="type:x-xmb/folder-pixmap" key="legacy_050" attr="legacy_050" src="#legacy_050_item"/> -->
+			<Query class="type:x-xmb/folder-pixmap" key="legacy_051" attr="legacy_051" src="#legacy_051_item"/>
+			<Query class="type:x-xmb/folder-pixmap" key="legacy_052" attr="legacy_052" src="#legacy_052_item"/>
+			<Query class="type:x-xmb/folder-pixmap" key="legacy_053" attr="legacy_053" src="#legacy_053_item"/>
+			<!-- <Query class="type:x-xmb/folder-pixmap" key="legacy_054" attr="legacy_054" src="#legacy_054_item"/> -->
+			<Query class="type:x-xmb/folder-pixmap" key="legacy_055" attr="legacy_055" src="#legacy_055_item"/>
+			<Query class="type:x-xmb/folder-pixmap" key="legacy_056" attr="legacy_056" src="#legacy_056_item"/>
+			<Query class="type:x-xmb/folder-pixmap" key="legacy_057" attr="legacy_057" src="#legacy_057_item"/>
+			<!--<Query class="type:x-xmb/folder-pixmap" key="legacy_058" attr="legacy_058" src="#legacy_058_item"/> -->
+			<Query class="type:x-xmb/folder-pixmap" key="legacy_059" attr="legacy_059" src="#legacy_059_item"/>
+			<!-- <Query class="type:x-xmb/folder-pixmap" key="legacy_060" attr="legacy_060" src="#legacy_060_item"/> -->
+			<!-- <Query class="type:x-xmb/folder-pixmap" key="legacy_061" attr="legacy_061" src="#legacy_061_item"/> -->
+			<!-- <Query class="type:x-xmb/folder-pixmap" key="legacy_062" attr="legacy_062" src="#legacy_062_item"/> -->
+			<Query class="type:x-xmb/folder-pixmap" key="legacy_063" attr="legacy_063" src="#legacy_063_item"/>
+			<Query class="type:x-xmb/folder-pixmap" key="legacy_064" attr="legacy_064" src="#legacy_064_item"/>
+			<Query class="type:x-xmb/folder-pixmap" key="legacy_065" attr="legacy_065" src="#legacy_065_item"/>
+			<Query class="type:x-xmb/folder-pixmap" key="legacy_066" attr="legacy_066" src="#legacy_066_item"/>
+			<Query class="type:x-xmb/folder-pixmap" key="legacy_067" attr="legacy_067" src="#legacy_067_item"/>
+			<Query class="type:x-xmb/folder-pixmap" key="legacy_068" attr="legacy_068" src="#legacy_068_item"/>
+			<Query class="type:x-xmb/folder-pixmap" key="legacy_069" attr="legacy_069" src="#legacy_069_item"/>
+			<Query class="type:x-xmb/folder-pixmap" key="legacy_070" attr="legacy_070" src="#legacy_070_item"/>
+			<Query class="type:x-xmb/folder-pixmap" key="legacy_071" attr="legacy_071" src="#legacy_071_item"/>
+			<Query class="type:x-xmb/folder-pixmap" key="legacy_072" attr="legacy_072" src="#legacy_072_item"/>
+			<!-- <Query class="type:x-xmb/folder-pixmap" key="legacy_073" attr="legacy_073" src="#legacy_073_item"/> -->
+			<Query class="type:x-xmb/folder-pixmap" key="legacy_074" attr="legacy_074" src="#legacy_074_item"/>
+			<Query class="type:x-xmb/folder-pixmap" key="legacy_075" attr="legacy_075" src="#legacy_075_item"/>
+			<Query class="type:x-xmb/folder-pixmap" key="legacy_076" attr="legacy_076" src="#legacy_076_item"/>
+			<Query class="type:x-xmb/folder-pixmap" key="legacy_077" attr="legacy_077" src="#legacy_077_item"/>
+			<Query class="type:x-xmb/folder-pixmap" key="legacy_078" attr="legacy_078" src="#legacy_078_item"/>
+			<!-- <Query class="type:x-xmb/folder-pixmap" key="legacy_079" attr="legacy_079" src="#legacy_079_item"/> -->
+			<Query class="type:x-xmb/folder-pixmap" key="legacy_080" attr="legacy_080" src="#legacy_080_item"/>
+			<Query class="type:x-xmb/folder-pixmap" key="legacy_081" attr="legacy_081" src="#legacy_081_item"/>
+			<Query class="type:x-xmb/folder-pixmap" key="legacy_082" attr="legacy_082" src="#legacy_082_item"/>
+			<Query class="type:x-xmb/folder-pixmap" key="legacy_083" attr="legacy_083" src="#legacy_083_item"/>
+			<Query class="type:x-xmb/folder-pixmap" key="legacy_084" attr="legacy_084" src="#legacy_084_item"/>
+			<Query class="type:x-xmb/folder-pixmap" key="legacy_085" attr="legacy_085" src="#legacy_085_item"/>
+			<Query class="type:x-xmb/folder-pixmap" key="legacy_086" attr="legacy_086" src="#legacy_086_item"/>
+			<Query class="type:x-xmb/folder-pixmap" key="legacy_087" attr="legacy_087" src="#legacy_087_item"/>
+			<Query class="type:x-xmb/folder-pixmap" key="legacy_088" attr="legacy_088" src="#legacy_088_item"/>
+			<Query class="type:x-xmb/folder-pixmap" key="legacy_089" attr="legacy_089" src="#legacy_089_item"/>
+			<Query class="type:x-xmb/folder-pixmap" key="legacy_090" attr="legacy_090" src="#legacy_090_item"/>
+			<Query class="type:x-xmb/folder-pixmap" key="legacy_091" attr="legacy_091" src="#legacy_091_item"/>
+			<Query class="type:x-xmb/folder-pixmap" key="legacy_092" attr="legacy_092" src="#legacy_092_item"/>
+			<Query class="type:x-xmb/folder-pixmap" key="legacy_093" attr="legacy_093" src="#legacy_093_item"/>
+			<Query class="type:x-xmb/folder-pixmap" key="legacy_094" attr="legacy_094" src="#legacy_094_item"/>
+			<Query class="type:x-xmb/folder-pixmap" key="legacy_095" attr="legacy_095" src="#legacy_095_item"/>
+			<Query class="type:x-xmb/folder-pixmap" key="legacy_096" attr="legacy_096" src="#legacy_096_item"/>
+			<!-- <Query class="type:x-xmb/folder-pixmap" key="legacy_097" attr="legacy_097" src="#legacy_097_item"/> -->
+			<Query class="type:x-xmb/folder-pixmap" key="legacy_098" attr="legacy_098" src="#legacy_098_item"/>
+			<Query class="type:x-xmb/folder-pixmap" key="legacy_099" attr="legacy_099" src="#legacy_099_item"/>
+			<Query class="type:x-xmb/folder-pixmap" key="legacy_100" attr="legacy_100" src="#legacy_100_item"/>
+			<Query class="type:x-xmb/folder-pixmap" key="legacy_101" attr="legacy_101" src="#legacy_101_item"/>
+			<!-- <Query class="type:x-xmb/folder-pixmap" key="legacy_102" attr="legacy_102" src="#legacy_102_item"/> -->
+			<!-- <Query class="type:x-xmb/folder-pixmap" key="legacy_103" attr="legacy_103" src="#legacy_103_item"/> -->
+			<Query class="type:x-xmb/folder-pixmap" key="legacy_104" attr="legacy_104" src="#legacy_104_item"/>
+			<Query class="type:x-xmb/folder-pixmap" key="legacy_105" attr="legacy_105" src="#legacy_105_item"/>
+			<Query class="type:x-xmb/folder-pixmap" key="legacy_106" attr="legacy_106" src="#legacy_106_item"/>
+			<Query class="type:x-xmb/folder-pixmap" key="legacy_107" attr="legacy_107" src="#legacy_107_item"/>
+			<Query class="type:x-xmb/folder-pixmap" key="legacy_108" attr="legacy_108" src="#legacy_108_item"/>
+			<!-- <Query class="type:x-xmb/folder-pixmap" key="legacy_109" attr="legacy_109" src="#legacy_109_item"/> -->
+			<Query class="type:x-xmb/folder-pixmap" key="legacy_110" attr="legacy_110" src="#legacy_110_item"/>
+			<Query class="type:x-xmb/folder-pixmap" key="legacy_111" attr="legacy_111" src="#legacy_111_item"/>
+			<Query class="type:x-xmb/folder-pixmap" key="legacy_112" attr="legacy_112" src="#legacy_112_item"/>
+			<Query class="type:x-xmb/folder-pixmap" key="legacy_113" attr="legacy_113" src="#legacy_113_item"/>
+			<Query class="type:x-xmb/folder-pixmap" key="legacy_114" attr="legacy_114" src="#legacy_114_item"/>
+			<Query class="type:x-xmb/folder-pixmap" key="legacy_115" attr="legacy_115" src="#legacy_115_item"/>
+			<Query class="type:x-xmb/folder-pixmap" key="legacy_116" attr="legacy_116" src="#legacy_116_item"/>
+			<Query class="type:x-xmb/folder-pixmap" key="legacy_117" attr="legacy_117" src="#legacy_117_item"/>
+			<Query class="type:x-xmb/folder-pixmap" key="legacy_118" attr="legacy_118" src="#legacy_118_item"/>
+			<Query class="type:x-xmb/folder-pixmap" key="legacy_119" attr="legacy_119" src="#legacy_119_item"/>
+			<Query class="type:x-xmb/folder-pixmap" key="legacy_120" attr="legacy_120" src="#legacy_120_item"/>
+			<!-- <Query class="type:x-xmb/folder-pixmap" key="legacy_121" attr="legacy_121" src="#legacy_121_item"/> -->
+			<Query class="type:x-xmb/folder-pixmap" key="legacy_122" attr="legacy_122" src="#legacy_122_item"/>
+			<Query class="type:x-xmb/folder-pixmap" key="legacy_123" attr="legacy_123" src="#legacy_123_item"/>
+			<!-- <Query class="type:x-xmb/folder-pixmap" key="legacy_124" attr="legacy_124" src="#legacy_124_item"/> -->
+			<Query class="type:x-xmb/folder-pixmap" key="legacy_125" attr="legacy_125" src="#legacy_125_item"/>
+			<Query class="type:x-xmb/folder-pixmap" key="legacy_126" attr="legacy_126" src="#legacy_126_item"/>
+			<Query class="type:x-xmb/folder-pixmap" key="legacy_127" attr="legacy_127" src="#legacy_127_item"/>
+			<!-- <Query class="type:x-xmb/folder-pixmap" key="legacy_128" attr="legacy_128" src="#legacy_128_item"/> -->
+			<Query class="type:x-xmb/folder-pixmap" key="legacy_129" attr="legacy_129" src="#legacy_129_item"/>
+			<!-- <Query class="type:x-xmb/folder-pixmap" key="legacy_130" attr="legacy_130" src="#legacy_130_item"/> -->
+			<Query class="type:x-xmb/folder-pixmap" key="legacy_131" attr="legacy_131" src="#legacy_131_item"/>
+			<Query class="type:x-xmb/folder-pixmap" key="legacy_133" attr="legacy_133" src="#legacy_133_item"/>
+			<Query class="type:x-xmb/folder-pixmap" key="legacy_134" attr="legacy_134" src="#legacy_134_item"/>
+			<Query class="type:x-xmb/folder-pixmap" key="legacy_135" attr="legacy_135" src="#legacy_135_item"/>
+			<Query class="type:x-xmb/folder-pixmap" key="legacy_136" attr="legacy_136" src="#legacy_136_item"/>
+			<Query class="type:x-xmb/folder-pixmap" key="legacy_137" attr="legacy_137" src="#legacy_137_item"/>
+			<Query class="type:x-xmb/folder-pixmap" key="legacy_138" attr="legacy_138" src="#legacy_138_item"/>
+		</Items>
+	</View>
+	
+	<View id="legacy_001_item">
+		<Attributes>
+			<Table key="download">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>https://github.com/PS3-4K-Pro/Packages/releases/download/Legacy/Advanced_Power_Options.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>https://github.com/PS3-4K-Pro/Packages/releases/download/Legacy/Advanced_Power_Options.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>CUSTOM-RELOADXM1_00-0000000000000000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/hendl.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>	<View id="legacy_002_item">
+		<Attributes>
+			<Table key="download">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>https://github.com/PS3-4K-Pro/Packages/releases/download/Legacy/Awesome_File_Manager.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>https://github.com/PS3-4K-Pro/Packages/releases/download/Legacy/Awesome_File_Manager.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>EP0001-BLES01337_00-WEEEEEEEEEEEEEEJ</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/hendl.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>	<View id="legacy_003_item">
+		<Attributes>
+			<Table key="download">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>https://github.com/PS3-4K-Pro/Packages/releases/download/Legacy/Awesome_Mount_Point_Manager.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>https://github.com/PS3-4K-Pro/Packages/releases/download/Legacy/Awesome_Mount_Point_Manager.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>EP0001-HMBW00001_00-PLAYSTAYTIONGLTE</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/hendl.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>
+	
+	<View id="legacy_004_item">
+		<Attributes>
+			<Table key="download">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>https://github.com/PS3-4K-Pro/Packages/releases/download/Legacy/Awesome_Peek_Poke.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>https://github.com/PS3-4K-Pro/Packages/releases/download/Legacy/Awesome_Peek_Poke.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>EP0001-HMBW00002_00-PLAYSTAYTIONGLTE</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/hendl.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>	<View id="legacy_005_item">
+		<Attributes>
+			<Table key="download">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>https://github.com/PS3-4K-Pro/Packages/releases/download/Legacy/B0xloader_-_SELF_Loader.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>https://github.com/PS3-4K-Pro/Packages/releases/download/Legacy/B0xloader_-_SELF_Loader.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>UP0001-BLBX00003_00-0000111122223333</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/hendl.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>
+
+	<View id="legacy_006_item">
+		<Attributes>
+			<Table key="download">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>https://github.com/PS3-4K-Pro/Packages/releases/download/Legacy/Backup_Manager_v2.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>https://github.com/PS3-4K-Pro/Packages/releases/download/Legacy/Backup_Manager_v2.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>UP0001-LAUN12345_00-0000111122223333</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/hendl.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>
+
+	<View id="legacy_007_item">
+		<Attributes>
+			<Table key="download">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>https://github.com/PS3-4K-Pro/Packages/releases/download/Legacy/Blackb0x_FTPServer.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>https://github.com/PS3-4K-Pro/Packages/releases/download/Legacy/Blackb0x_FTPServer.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>UP0001-BB0011111_00-0000111122223333</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/hendl.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>
+
+	<View id="legacy_008_item">
+		<Attributes>
+			<Table key="download">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>https://github.com/PS3-4K-Pro/Packages/releases/download/Legacy/BootOS_Installer.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>https://github.com/PS3-4K-Pro/Packages/releases/download/Legacy/BootOS_Installer.pkgg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>KM0001-LNX000001_00-0000020083F0CCF4</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/hendl.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>
+
+	<View id="legacy_009_item">
+		<Attributes>
+			<Table key="download">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>https://github.com/PS3-4K-Pro/Packages/releases/download/Legacy/Buttons_Layout_Changer.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>https://github.com/PS3-4K-Pro/Packages/releases/download/Legacy/Buttons_Layout_Changer.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>GP0001-ROGE00001_00-0000111122223333</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/hendl.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>
+
+	<View id="legacy_010_item"> 	
+		<Attributes>
+			<Table key="download">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>https://github.com/PS3-4K-Pro/Packages/releases/download/Legacy/CFW_Load_USB.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>https://github.com/PS3-4K-Pro/Packages/releases/download/Legacy/CFW_Load_USB.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>HG0001-STOK01340_00-0000CFWLOAD111120</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/hendl.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>	<View id="legacy_011_item">
+		<Attributes>
+			<Table key="download">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>https://github.com/PS3-4K-Pro/Packages/releases/download/Legacy/Change_IDPS_All_Region.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>https://github.com/PS3-4K-Pro/Packages/releases/download/Legacy/Change_IDPS_All_Region.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>UP0001-CHIDALLREG_00-000000000000000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/hendl.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>
+	
+	<View id="legacy_012_item">
+		<Attributes>
+			<Table key="download">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>https://github.com/PS3-4K-Pro/Packages/releases/download/Legacy/Chaos_Air_Bringer_MAC_Address_Changer.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>https://github.com/PS3-4K-Pro/Packages/releases/download/Legacy/Chaos_Air_Bringer_MAC_Address_Changer.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>UP0001-MONSTER01_00-0000000000000000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/hendl.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>
+	
+	<View id="legacy_013_item">
+		<Attributes>
+			<Table key="download">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>https://github.com/PS3-4K-Pro/Packages/releases/download/Legacy/Cobra_Box.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>https://github.com/PS3-4K-Pro/Packages/releases/download/Legacy/Cobra_Box.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>UP0001-COBRABOX5_00-0151004054023703</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/hendl.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>
+
+	<View id="legacy_014_item"> 	
+		<Attributes>
+			<Table key="download">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>https://github.com/PS3-4K-Pro/Packages/releases/download/Legacy/Cobra_CFW_Tools.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>https://github.com/PS3-4K-Pro/Packages/releases/download/Legacy/Cobra_CFW_Tools.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>UP0100-COBRATOOL_00-BITSBUBBA00COBRA</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/hendl.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>
+	
+	<View id="legacy_015_item"> 	
+		<Attributes>
+			<Table key="download">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>https://github.com/PS3-4K-Pro/Packages/releases/download/Legacy/Coldboot_USB_Installer.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>https://github.com/PS3-4K-Pro/Packages/releases/download/Legacy/Coldboot_USB_Installer.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>UP0001-CLDBTINST_00-0000000000000000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/hendl.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>
+
+	<View id="legacy_016_item">
+		<Attributes>
+			<Table key="download">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>https://github.com/PS3-4K-Pro/Packages/releases/download/Legacy/Condor_Updater_Recovery_Mode_Toggler.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>https://github.com/PS3-4K-Pro/Packages/releases/download/Legacy/Condor_Updater_Recovery_Mode_Toggler.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>UP0001-CNDR00002_00-0000000000000000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/hendl.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>
+
+	<View id="legacy_017_item">
+		<Attributes>
+			<Table key="download">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>https://github.com/PS3-4K-Pro/Packages/releases/download/Legacy/Cover_Manager.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>https://github.com/PS3-4K-Pro/Packages/releases/download/Legacy/Cover_Manager.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>UP0001-OMAN46756_00-0000111122223333</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/hendl.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>
+	
+	<View id="legacy_018_item">
+		<Attributes>
+			<Table key="download">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>https://github.com/PS3-4K-Pro/Packages/releases/download/Legacy/Dev_Blind_Mounter.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>https://github.com/PS3-4K-Pro/Packages/releases/download/Legacy/Dev_Blind_Mounter.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>TOOL01-BLND00001_00-A6FF38AD32E2E690</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/hendl.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>
+	
+	<View id="legacy_019_item">
+		<Attributes>
+			<Table key="download">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>https://github.com/PS3-4K-Pro/Packages/releases/download/Legacy/DragonFTP.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>https://github.com/PS3-4K-Pro/Packages/releases/download/Legacy/DragonFTP.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>UP0001-DARK0RSX5_00-0000000000000000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/hendl.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>
+
+	<View id="legacy_020_item">
+		<Attributes>
+			<Table key="download">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>https://github.com/PS3-4K-Pro/Packages/releases/download/Legacy/Dump_Flash_USB001.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>https://github.com/PS3-4K-Pro/Packages/releases/download/Legacy/Dump_Flash_USB001.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>UP0001-DPFH00003_00-0000000000000000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/hendl.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>
+
+	<View id="legacy_021_item"> 	
+		<Attributes>
+			<Table key="download">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>https://github.com/PS3-4K-Pro/Packages/releases/download/Legacy/DVD_Enabler.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>https://github.com/PS3-4K-Pro/Packages/releases/download/Legacy/DVD_Enabler.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>UP0001-DVDE00000_00-0000111122223333</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/hendl.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>
+
+	<View id="legacy_022_item"> 	
+		<Attributes>
+			<Table key="download">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>https://github.com/PS3-4K-Pro/Packages/releases/download/Legacy/Dynarec_Enabler.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>https://github.com/PS3-4K-Pro/Packages/releases/download/Legacy/Dynarec_Enabler.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>LD0000-DYNA00001_00-0000000000000000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/hendl.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>
+
+	<View id="legacy_023_item">
+		<Attributes>
+			<Table key="download">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>https://github.com/PS3-4K-Pro/Packages/releases/download/Legacy/Eid_Root_Key_Dumper.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>https://github.com/PS3-4K-Pro/Packages/releases/download/Legacy/Eid_Root_Key_Dumper.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>UP0001-FLTZ00010_00-ERKDUMPER0000000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/hendl.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>
+
+	<View id="legacy_024_item">
+		<Attributes>
+			<Table key="download">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>https://github.com/PS3-4K-Pro/Packages/releases/download/Legacy/Eleganz_Backup_Manager.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>https://github.com/PS3-4K-Pro/Packages/releases/download/Legacy/Eleganz_Backup_Manager.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>EP0001-ELEGANZ00_00-0000000000000000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/hendl.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>
+
+	<View id="legacy_025_item"> 	
+		<Attributes>
+			<Table key="download">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>https://github.com/PS3-4K-Pro/Packages/releases/download/Legacy/EraseMe.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>https://github.com/PS3-4K-Pro/Packages/releases/download/Legacy/EraseMe.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>UP2005-BLES00132_00-HOMEBREW00000001</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/hendl.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>
+	
+	<View id="legacy_026_item"> 	
+		<Attributes>
+			<Table key="download">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>https://github.com/PS3-4K-Pro/Packages/releases/download/Legacy/ES35_Customize.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>https://github.com/PS3-4K-Pro/Packages/releases/download/Legacy/ES35_Customize.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>UP0001-ES35CSTMZ_00-0000000000000000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/hendl.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>
+
+	<View id="legacy_027_item">
+		<Attributes>
+			<Table key="download">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>https://github.com/PS3-4K-Pro/Packages/releases/download/Legacy/Evilnat_Manager.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>https://github.com/PS3-4K-Pro/Packages/releases/download/Legacy/Evilnat_Manager.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>UP0001-IRIS00069_00-0000000000000000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/hendl.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>
+
+	<View id="legacy_028_item">
+		<Attributes>
+			<Table key="download">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>https://github.com/PS3-4K-Pro/Packages/releases/download/Legacy/Expedite_Benchmarking_Tool.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>https://github.com/PS3-4K-Pro/Packages/releases/download/Legacy/Expedite_Benchmarking_Tool.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>UP0001-EXPEDITE_00-0000000000000000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/hendl.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>
+	
+	<View id="legacy_029_item">
+		<Attributes>
+			<Table key="download">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>https://github.com/PS3-4K-Pro/Packages/releases/download/Legacy/Extended_Download_Plugin.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>https://github.com/PS3-4K-Pro/Packages/releases/download/Legacy/Extended_Download_Plugin.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>UP0100-DOWNLOADX_00-DEVIL30300000000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/hendl.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>
+	
+	<!-- Factory Service Mode -->
+	<View id="seg_legacy_030_items">
+		<Attributes>
+			<!-- CEX Version  -->
+			<Table key="legacy_030_cex">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/legacy_icons/factory_service_mode.png</String></Pair>
+				<Pair key="title"><String>CEX Version</String></Pair>
+			</Table>
+			<!-- DEX Version -->
+			<Table key="legacy_030_dex">
+				<Pair key="icon"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/legacy_icons/factory_service_mode.png</String></Pair>
+				<Pair key="title"><String>DEX Version</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/folder-pixmap" key="legacy_030_cex" attr="legacy_030_cex" src="#legacy_030_cex_item"/>
+			<Query class="type:x-xmb/folder-pixmap" key="legacy_030_dex" attr="legacy_030_dex" src="#legacy_030_dex_item"/>
+		</Items>
+	</View>
+
+	<View id="legacy_030_cex_item">
+		<Attributes>
+			<Table key="download">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>https://github.com/PS3-4K-Pro/Packages/releases/download/Legacy/Factory_Service_Mode_CEX.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>https://github.com/PS3-4K-Pro/Packages/releases/download/Legacy/Factory_Service_Mode_CEX.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>FSM-FSMT00002_00-2C51B17639D14AB7</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/hendl.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>
+	
+	<View id="legacy_030_dex_item">
+		<Attributes>
+			<Table key="download">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>https://github.com/PS3-4K-Pro/Packages/releases/download/Legacy/Factory_Service_Mode_DEX.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>https://github.com/PS3-4K-Pro/Packages/releases/download/Legacy/Factory_Service_Mode_DEX.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>FSM-FSMT00002_00-2C51B17639D14AB7</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/hendl.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>
+	
+	<View id="legacy_031_item">
+		<Attributes>
+			<Table key="download">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>https://github.com/PS3-4K-Pro/Packages/releases/download/Legacy/Ferrox_Mod_Installer.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>https://github.com/PS3-4K-Pro/Packages/releases/download/Legacy/Ferrox_Mod_Installer.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>UP0001-FERROXMOD_00-0000000000000000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/hendl.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>
+	
+	<View id="legacy_032_item">
+		<Attributes>
+			<Table key="download">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>https://github.com/PS3-4K-Pro/Packages/releases/download/Legacy/FlexManager.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>https://github.com/PS3-4K-Pro/Packages/releases/download/Legacy/FlexManager.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>EP0001-OMAN46756_00-0000111112222333</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/hendl.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>
+	
+	<View id="legacy_033_item">
+		<Attributes>
+			<Table key="download">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>https://github.com/PS3-4K-Pro/Packages/releases/download/Legacy/FreeFlash_Mounter.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>https://github.com/PS3-4K-Pro/Packages/releases/download/Legacy/FreeFlash_Mounter.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>UP0001-FREEFLASH_00-0000000000000000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/hendl.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>
+	
+	<View id="legacy_034_item">
+		<Attributes>
+			<Table key="download">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>https://github.com/PS3-4K-Pro/Packages/releases/download/Legacy/Funny_Mamba_Autoloader.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>https://github.com/PS3-4K-Pro/Packages/releases/download/Legacy/Funny_Mamba_Autoloader.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>EP0001-MAMBAINST_00-0000000000000000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/hendl.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>
+	
+	<View id="legacy_035_item">
+		<Attributes>
+			<Table key="download">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>https://github.com/PS3-4K-Pro/Packages/releases/download/Legacy/Gaia_Manager.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>https://github.com/PS3-4K-Pro/Packages/releases/download/Legacy/Gaia_Manager.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>UP0001-GAIA01985_00-7679866932773369</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/hendl.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>
+
+	<View id="legacy_036_item">
+		<Attributes>
+			<Table key="download">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>https://github.com/PS3-4K-Pro/Packages/releases/download/Legacy/Gameboot_Collection.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>https://github.com/PS3-4K-Pro/Packages/releases/download/Legacy/Gameboot_Collection.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>UP0100-GMBTCLLC1_00-BITSBUBBA0000XMB</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/hendl.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>
+
+	<View id="legacy_037_item"> 	
+		<Attributes>
+			<Table key="download">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>https://github.com/PS3-4K-Pro/Packages/releases/download/Legacy/gamePKG.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>https://github.com/PS3-4K-Pro/Packages/releases/download/Legacy/gamePKG.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>GP4PS3-GPKG00123_00-0000000000000000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/hendl.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>
+	
+	<View id="legacy_038_item"> 	
+		<Attributes>
+			<Table key="download">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>https://github.com/PS3-4K-Pro/Packages/releases/download/Legacy/GameSonic_Manager.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>https://github.com/PS3-4K-Pro/Packages/releases/download/Legacy/GameSonic_Manager.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>UP0001-GAMEMNGR1_00-0000000000000000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/hendl.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>
+	
+	<View id="legacy_039_item"> 	
+		<Attributes>
+			<Table key="download">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>https://github.com/PS3-4K-Pro/Packages/releases/download/Legacy/Greek_XMB_Pack.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>https://github.com/PS3-4K-Pro/Packages/releases/download/Legacy/Greek_XMB_Pack.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>EP0001-XMBGREEK0_00-HDD0PATCH0000000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/hendl.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>
+	
+	<View id="legacy_040_item"> 	
+		<Attributes>
+			<Table key="download">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>https://github.com/PS3-4K-Pro/Packages/releases/download/Legacy/Habib_QA_Toggle_4.21+.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>https://github.com/PS3-4K-Pro/Packages/releases/download/Legacy/Habib_QA_Toggle_4.21+.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>UP0001-QAFLAG000_00-0000000000000000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/hendl.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>
+
+	<View id="legacy_041_item"> 	
+		<Attributes>
+			<Table key="download">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>https://github.com/PS3-4K-Pro/Packages/releases/download/Legacy/Habib_Toolbox.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>https://github.com/PS3-4K-Pro/Packages/releases/download/Legacy/Habib_Toolbox.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>UP0001-COBRASWAP_00-0000000000000000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/hendl.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>
+
+	<View id="legacy_042_item"> 	
+		<Attributes>
+			<Table key="download">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>https://github.com/PS3-4K-Pro/Packages/releases/download/Legacy/HAN_Toolbox.pkgg</String></Pair>
+				<Pair key="pkg_src_qa"><String>https://github.com/PS3-4K-Pro/Packages/releases/download/Legacy/HAN_Toolbox.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>UP0100-HANTOOLBX_00-PINK1000DEVIL303</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/hendl.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>
+	
+	<View id="legacy_043_item">
+		<Attributes>
+			<Table key="download">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>https://github.com/PS3-4K-Pro/Packages/releases/download/Legacy/HENBrew_Store.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>https://github.com/PS3-4K-Pro/Packages/releases/download/Legacy/HENBrew_Store.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>UP0100-HENBSTORE_00-0SHAOLINASSASSIN</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/hendl.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>
+	
+	<View id="legacy_044_item">
+		<Attributes>
+			<Table key="download">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>https://github.com/PS3-4K-Pro/Packages/releases/download/Legacy/HEN_Toolbox.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>https://github.com/PS3-4K-Pro/Packages/releases/download/Legacy/HEN_Toolbox.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>CUSTOM-INSTALLER_00-0000000000000000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/hendl.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>
+	
+	
+	<View id="legacy_045_item">
+		<Attributes>
+			<Table key="download">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>https://github.com/PS3-4K-Pro/Packages/releases/download/Legacy/Hermers_Manager.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>https://github.com/PS3-4K-Pro/Packages/releases/download/Legacy/Hermers_Manager.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>UP0001-HMANAGER4_00-0000000000000000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/hendl.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>
+	
+	<View id="legacy_046_item">
+		<Attributes>
+			<Table key="download">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>https://github.com/PS3-4K-Pro/Packages/releases/download/Legacy/Homebrew_Package_Network.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>https://github.com/PS3-4K-Pro/Packages/releases/download/Legacy/Homebrew_Package_Network.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>KM0001-EXA000000_00-0000000061F6B91C</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/hendl.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>
+
+	<View id="legacy_047_item">
+		<Attributes>
+			<Table key="download">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>https://github.com/PS3-4K-Pro/Packages/releases/download/Legacy/HVDebug_Enabler.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>https://github.com/PS3-4K-Pro/Packages/releases/download/Legacy/HVDebug_Enabler.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>XM0001-HVDEBUG01_00-004F28EEE9B31511</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/hendl.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>
+	
+	<View id="legacy_048_item">
+		<Attributes>
+			<Table key="download">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>https://github.com/PS3-4K-Pro/Packages/releases/download/Legacy/Hybrid_Manager.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>https://github.com/PS3-4K-Pro/Packages/releases/download/Legacy/Hybrid_Manager.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>UP0001-HYBRIDMAN_00-0000000000000000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/hendl.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>
+	
+	<View id="legacy_049_item">
+		<Attributes>
+			<Table key="download">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>https://github.com/PS3-4K-Pro/Packages/releases/download/Legacy/IDPS_Viewer.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>https://github.com/PS3-4K-Pro/Packages/releases/download/Legacy/IDPS_Viewer.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>EVIPS3-IDPS00001_00-0SELF0BY0EVILNAT</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/hendl.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>
+
+	<View id="legacy_050_item">
+		<Attributes>
+			<Table key="download">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>https://github.com/PS3-4K-Pro/Packages/releases/download/Legacy/Install_Fake_BDemu_DEX.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>https://github.com/PS3-4K-Pro/Packages/releases/download/Legacy/Install_Fake_BDemu_DEX.pkgg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>UP0001-FAKEBDEMU_00-0000000000000000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/hendl.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>
+	
+
+	<View id="legacy_051_item">
+		<Attributes>
+			<Table key="download">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>https://github.com/PS3-4K-Pro/Packages/releases/download/Legacy/Install_Package_Files.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>https://github.com/PS3-4K-Pro/Packages/releases/download/Legacy/Install_Package_Files.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>UP0001-BLES80688_00-0000000000000000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/hendl.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>
+	
+	<View id="legacy_052_item">
+		<Attributes>
+			<Table key="download">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>https://github.com/PS3-4K-Pro/Packages/releases/download/Legacy/Install_Package_Homebrew.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>https://github.com/PS3-4K-Pro/Packages/releases/download/Legacy/Install_Package_Homebrew.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>UP0001-INSTALLPK_00-0000000000000000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/hendl.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>
+	
+	<View id="legacy_053_item">
+		<Attributes>
+			<Table key="download">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>https://github.com/PS3-4K-Pro/Packages/releases/download/Legacy/IrisManager.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>https://github.com/PS3-4K-Pro/Packages/releases/download/Legacy/IrisManager.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>UP0001-IMANAGER4_00-0000000000000000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/hendl.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>
+
+	<View id="legacy_054_item">
+		<Attributes>
+			<Table key="download">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>https://github.com/PS3-4K-Pro/Packages/releases/download/Legacy/JuicyFix_-_Game_Update_Prompt_Fix.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>https://github.com/PS3-4K-Pro/Packages/releases/download/Legacy/JuicyFix_-_Game_Update_Prompt_Fix.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>UP0002-JUIC10000_00-MW2P000000000011</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/hendl.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>
+	
+	<View id="legacy_055_item">
+		<Attributes>
+			<Table key="download">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>https://github.com/PS3-4K-Pro/Packages/releases/download/Legacy/LED_Changer.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>https://github.com/PS3-4K-Pro/Packages/releases/download/Legacy/LED_Changer.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>UP0001-LED0DISC0_00-0000000000000000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/hendl.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>
+	
+	<View id="legacy_056_item">
+		<Attributes>
+			<Table key="download">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>https://github.com/PS3-4K-Pro/Packages/releases/download/Legacy/LuaFPS3.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>https://github.com/PS3-4K-Pro/Packages/releases/download/Legacy/LuaFPS3.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>UP0001-LUAFPS310_00-0000000000000000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/hendl.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>
+	
+	<View id="legacy_057_item">
+		<Attributes>
+			<Table key="download">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>https://github.com/PS3-4K-Pro/Packages/releases/download/Legacy/LuaPlayer.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>https://github.com/PS3-4K-Pro/Packages/releases/download/Legacy/LuaPlayer.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>UP0001-LUAP00001_00-0000000000000000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/hendl.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>
+	
+	<View id="legacy_059_item">
+		<Attributes>
+			<Table key="download">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>https://github.com/PS3-4K-Pro/Packages/releases/download/Legacy/LV2_Dump.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>https://github.com/PS3-4K-Pro/Packages/releases/download/Legacy/LV2_Dump.pkgg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>LD0000-LV2D00000_00-0000000000000000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/hendl.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>
+	
+	<View id="legacy_060_item">
+		<Attributes>
+			<Table key="download">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>https://github.com/PS3-4K-Pro/Packages/releases/download/Legacy/LV2_Loader.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>https://github.com/PS3-4K-Pro/Packages/releases/download/Legacy/LV2_Loader.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>UP0001-LV2LOADER_00-0000000000000000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/hendl.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>
+	
+	<View id="legacy_061_item">
+		<Attributes>
+			<Table key="download">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>https://github.com/PS3-4K-Pro/Packages/releases/download/Legacy/LV2_Patcher.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>https://github.com/PS3-4K-Pro/Packages/releases/download/Legacy/LV2_Patcher.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>KM0001-LV2000000_00-0241F3D31115C3E0</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/hendl.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>
+
+	<View id="legacy_062_item">
+		<Attributes>
+			<Table key="download">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>https://github.com/PS3-4K-Pro/Packages/releases/download/Legacy/MAMBA_PRX_Loader_4.84.2.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>https://github.com/PS3-4K-Pro/Packages/releases/download/Legacy/MAMBA_PRX_Loader_4.84.2.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>EP0001-MAMBAPRXL_00-0000000000000000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/hendl.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>
+
+	<View id="legacy_063_item">
+		<Attributes>
+			<Table key="download">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>https://github.com/PS3-4K-Pro/Packages/releases/download/Legacy/MemDump.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>https://github.com/PS3-4K-Pro/Packages/releases/download/Legacy/MemDump.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>AN0001-MEMD00001_00-D57DFE820242FA0F</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/hendl.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>
+	
+	<View id="legacy_064_item">
+		<Attributes>
+			<Table key="download">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>https://github.com/PS3-4K-Pro/Packages/releases/download/Legacy/MhuFreeStore.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>https://github.com/PS3-4K-Pro/Packages/releases/download/Legacy/MhuFreeStore.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>IV0000-MHFS00000_00-MHUFREESTORE0100</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/hendl.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>
+
+	<View id="legacy_065_item">
+		<Attributes>
+			<Table key="download">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>https://github.com/PS3-4K-Pro/Packages/releases/download/Legacy/Monster_Manager.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>https://github.com/PS3-4K-Pro/Packages/releases/download/Legacy/Monster_Manager.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>CFWPS3-MONSTERMR_00-0000000000000000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/hendl.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>
+
+	<View id="legacy_066_item">
+		<Attributes>
+			<Table key="download">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>https://github.com/PS3-4K-Pro/Packages/releases/download/Legacy/Mount_Alejandro.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>https://github.com/PS3-4K-Pro/Packages/releases/download/Legacy/Mount_Alejandro.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>UP0001-MOUNTDFRW_00-0000000000000000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/hendl.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>
+
+	<View id="legacy_067_item">
+		<Attributes>
+			<Table key="download">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>https://github.com/PS3-4K-Pro/Packages/releases/download/Legacy/n4ru_Flash_Loader.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>https://github.com/PS3-4K-Pro/Packages/releases/download/Legacy/n4ru_Flash_Loader.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>UP0001-N4RULOADR_00-0000111122223333</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/hendl.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>
+
+	<View id="legacy_068_item">
+		<Attributes>
+			<Table key="download">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>https://github.com/PS3-4K-Pro/Packages/releases/download/Legacy/Open_AsbestOS_Loader.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>https://github.com/PS3-4K-Pro/Packages/releases/download/Legacy/Open_AsbestOS_Loader.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>UP0001-LOAD00000_00-0000000000000000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/hendl.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>
+
+	<View id="legacy_069_item">
+		<Attributes>
+			<Table key="download">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>https://github.com/PS3-4K-Pro/Packages/releases/download/Legacy/Open_Copy_Install.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>https://github.com/PS3-4K-Pro/Packages/releases/download/Legacy/Open_Copy_Install.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>UP0001-OCOP46756_00-0000111122223333</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/hendl.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>
+
+	<View id="legacy_070_item"> 	
+		<Attributes>
+			<Table key="download">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>https://github.com/PS3-4K-Pro/Packages/releases/download/Legacy/Open_Manager_v2.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>https://github.com/PS3-4K-Pro/Packages/releases/download/Legacy/Open_Manager_v2.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>UP0001-OMAN46756_00-0000111122223333</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/hendl.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>
+	
+	<View id="legacy_071_item">
+		<Attributes>
+			<Table key="download">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>https://github.com/PS3-4K-Pro/Packages/releases/download/Legacy/Open_PS3FTP.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>https://github.com/PS3-4K-Pro/Packages/releases/download/Legacy/Open_PS3FTP.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>UP0001-NPXS91337_00-0000000000000000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/hendl.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>
+
+	<View id="legacy_072_item">
+		<Attributes>
+			<Table key="download">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>https://github.com/PS3-4K-Pro/Packages/releases/download/Legacy/Open_PS3_FTPsplit.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>https://github.com/PS3-4K-Pro/Packages/releases/download/Legacy/Open_PS3_FTPsplit.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>TP0001-OFTP00001_00-0000111122223333</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/hendl.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>
+
+	<View id="legacy_073_item">
+		<Attributes>
+			<Table key="download">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>https://github.com/PS3-4K-Pro/Packages/releases/download/Legacy/PL3_Permission_Fix.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>https://github.com/PS3-4K-Pro/Packages/releases/download/Legacy/PL3_Permission_Fix.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>UP0001-FIXP12345_00-0000111122223333</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/hendl.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>
+	
+	<View id="legacy_074_item">
+		<Attributes>
+			<Table key="download">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>https://github.com/PS3-4K-Pro/Packages/releases/download/Legacy/Play_Manager.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>https://github.com/PS3-4K-Pro/Packages/releases/download/Legacy/Play_Manager.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>UP0001-PLAYMNGR1_00-0000000000000000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/hendl.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>
+
+	<View id="legacy_075_item">
+		<Attributes>
+			<Table key="download">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>https://github.com/PS3-4K-Pro/Packages/releases/download/Legacy/PluginX.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>https://github.com/PS3-4K-Pro/Packages/releases/download/Legacy/PluginX.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>EVIPS3-BOOT04XXX_00-00PKG0BY0EVILNAT</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/hendl.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>
+
+	<View id="legacy_076_item">
+		<Attributes>
+			<Table key="download">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>https://github.com/PS3-4K-Pro/Packages/releases/download/Legacy/Plugin_Manager.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>https://github.com/PS3-4K-Pro/Packages/releases/download/Legacy/Plugin_Manager.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>UP0001-PLUGINMAN_00-0000000000000000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/hendl.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>
+
+	<View id="legacy_077_item">
+		<Attributes>
+			<Table key="download">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>https://github.com/PS3-4K-Pro/Packages/releases/download/Legacy/Polygonal_Demo.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>https://github.com/PS3-4K-Pro/Packages/releases/download/Legacy/Polygonal_Demo.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>UP0001-PONG66666_00-0000111122223333</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/hendl.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>
+
+	<View id="legacy_078_item">
+		<Attributes>
+			<Table key="download">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>https://github.com/PS3-4K-Pro/Packages/releases/download/Legacy/Pretty_Manager.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>https://github.com/PS3-4K-Pro/Packages/releases/download/Legacy/Pretty_Manager.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>UP0001-OMAN46756_00-0000111122223333</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/hendl.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>
+
+	<View id="legacy_079_item">
+		<Attributes>
+			<Table key="download">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>https://github.com/PS3-4K-Pro/Packages/releases/download/Legacy/PS2_Netemu_Selector.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>https://github.com/PS3-4K-Pro/Packages/releases/download/Legacy/PS2_Netemu_Selector.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>UP0001-PS2NETEMU_00-0000000000000000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/hendl.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>
+
+	<View id="legacy_080_item"> 	
+		<Attributes>
+			<Table key="download">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>https://github.com/PS3-4K-Pro/Packages/releases/download/Legacy/PS3Extra_XMB_Mods_Collection.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>https://github.com/PS3-4K-Pro/Packages/releases/download/Legacy/PS3Extra_XMB_Mods_Collection.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>EP0001-PS3EXTRA5_00-0000000000000000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/hendl.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>
+
+	<View id="legacy_081_item">
+		<Attributes>
+			<Table key="download">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>https://github.com/PS3-4K-Pro/Packages/releases/download/Legacy/PS3FTP.NoGui.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>hhttps://github.com/PS3-4K-Pro/Packages/releases/download/Legacy/PS3FTP.NoGui.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>UP0001-FTPD00001_00-0000000000000000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/hendl.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>
+	
+	<View id="legacy_082_item">
+		<Attributes>
+			<Table key="download">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>https://github.com/PS3-4K-Pro/Packages/releases/download/Legacy/PS3FTPServer.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>https://github.com/PS3-4K-Pro/Packages/releases/download/Legacy/PS3FTPServer.pkgg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>IV0000-FTPD12345_00-FTPD123450000000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/hendl.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>
+	
+	<View id="legacy_083_item">
+		<Attributes>
+			<Table key="download">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>https://github.com/PS3-4K-Pro/Packages/releases/download/Legacy/PS3ITA_Manager.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>https://github.com/PS3-4K-Pro/Packages/releases/download/Legacy/PS3ITA_Manager.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>UP0001-PS3ITAU_00-0000000000000000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/hendl.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>
+
+	<View id="legacy_084_item"> 	
+		<Attributes>
+			<Table key="download">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>https://github.com/PS3-4K-Pro/Packages/releases/download/Legacy/PS3Kara.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>https://github.com/PS3-4K-Pro/Packages/releases/download/Legacy/PS3Kara.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>UP0001-KARA01010_00-1010101010101010</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/hendl.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>
+	
+	<View id="legacy_085_item"> 	
+		<Attributes>
+			<Table key="download">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>https://github.com/PS3-4K-Pro/Packages/releases/download/Legacy/PS3Load.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>https://github.com/PS3-4K-Pro/Packages/releases/download/Legacy/PS3Load.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>UP0001-PS3LOAD00_00-0000000000000000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/hendl.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>
+
+	<View id="legacy_086_item">
+		<Attributes>
+			<Table key="download">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>https://github.com/PS3-4K-Pro/Packages/releases/download/Legacy/PS3LoadX.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>https://github.com/PS3-4K-Pro/Packages/releases/download/Legacy/PS3LoadX.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>UP0001-PS3LOAD00_00-0000000000000000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/hendl.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>
+
+	<View id="legacy_087_item">
+		<Attributes>
+			<Table key="download">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>https://github.com/PS3-4K-Pro/Packages/releases/download/Legacy/PS3Lock_Installer.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>https://github.com/PS3-4K-Pro/Packages/releases/download/Legacy/PS3Lock_Installer.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>EP0001-PS3LOCKUP_00-0000000000000000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/hendl.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>
+	
+	<View id="legacy_088_item">
+		<Attributes>
+			<Table key="download">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>https://github.com/PS3-4K-Pro/Packages/releases/download/Legacy/PS3Manager_API_Mamba_Launcher.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>https://github.com/PS3-4K-Pro/Packages/releases/download/Legacy/PS3Manager_API_Mamba_Launcher.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>EP0001-IRISMAN01_00-0000000000000000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/hendl.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>
+	
+	<View id="legacy_089_item">
+		<Attributes>
+			<Table key="download">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>https://github.com/PS3-4K-Pro/Packages/releases/download/Legacy/PS3Messenger.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>https://github.com/PS3-4K-Pro/Packages/releases/download/Legacy/PS3Messenger.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>UP0001-ABCD12345_00-0000111122223333</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/hendl.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>
+
+	<View id="legacy_090_item">
+		<Attributes>
+			<Table key="download">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>https://github.com/PS3-4K-Pro/Packages/releases/download/Legacy/PS3OnTime.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>https://github.com/PS3-4K-Pro/Packages/releases/download/Legacy/PS3OnTime.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>UP0001-PS3TRTIME_00-0000000000000000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/hendl.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>
+
+	<View id="legacy_091_item"> 	
+		<Attributes>
+			<Table key="download">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>https://github.com/PS3-4K-Pro/Packages/releases/download/Legacy/PS3_Cloud_Drive.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>https://github.com/PS3-4K-Pro/Packages/releases/download/Legacy/PS3_Cloud_Drive.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>CD0001-PSCD00001_00-0000000000000000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/hendl.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>
+
+	<View id="legacy_092_item"> 	
+		<Attributes>
+			<Table key="download">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>https://github.com/PS3-4K-Pro/Packages/releases/download/Legacy/PS3_ExtraNET.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>https://github.com/PS3-4K-Pro/Packages/releases/download/Legacy/PS3_ExtraNET.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>UP0001-PEXTRANET_00-0000000000000000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/hendl.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>
+
+	<View id="legacy_093_item">
+		<Attributes>
+			<Table key="download">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>https://github.com/PS3-4K-Pro/Packages/releases/download/Legacy/PS3_IRC.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>https://github.com/PS3-4K-Pro/Packages/releases/download/Legacy/PS3_IRC.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>UP0001-WIRC12345_00-0000111122223333</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/hendl.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>
+
+	<View id="legacy_094_item">
+		<Attributes>
+			<Table key="download">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>https://github.com/PS3-4K-Pro/Packages/releases/download/Legacy/PS3_Model_Detection.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>https://github.com/PS3-4K-Pro/Packages/releases/download/Legacy/PS3_Model_Detection.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>UP7000-TEST00000_00-0000111122223333</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/hendl.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>
+
+	<View id="legacy_095_item"> 	
+		<Attributes>
+			<Table key="download">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>https://github.com/PS3-4K-Pro/Packages/releases/download/Legacy/PS3_XDR_Ram_Dumper.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>https://github.com/PS3-4K-Pro/Packages/releases/download/Legacy/PS3_XDR_Ram_Dumper.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>UP0001-ZZZZ00001_00-PS3RAMDUMPER0000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/hendl.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>
+	
+	<View id="legacy_096_item"> 	
+		<Attributes>
+			<Table key="download">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>https://github.com/PS3-4K-Pro/Packages/releases/download/Legacy/PSChannel.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>https://github.com/PS3-4K-Pro/Packages/releases/download/Legacy/PSChannel.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>UP0001-PSCHANNEL_00-0000000000000000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/hendl.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>
+
+	<View id="legacy_097_item">
+		<Attributes>
+			<Table key="download">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>https://github.com/PS3-4K-Pro/Packages/releases/download/Legacy/PSID_Patch.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>https://github.com/PS3-4K-Pro/Packages/releases/download/Legacy/PSID_Patch.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>HG0001-STOK01342_00-0000000PSIDPATCH</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/hendl.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>
+
+	<View id="legacy_098_item">
+		<Attributes>
+			<Table key="download">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>https://github.com/PS3-4K-Pro/Packages/releases/download/Legacy/PSNinja.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>https://github.com/PS3-4K-Pro/Packages/releases/download/Legacy/PSNinja.pkgg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>UP0001-BLUS30017_00-0000000000000000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/hendl.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>
+	
+	<View id="legacy_099_item">
+		<Attributes>
+			<Table key="download">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>https://github.com/PS3-4K-Pro/Packages/releases/download/Legacy/PSNope.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>https://github.com/PS3-4K-Pro/Packages/releases/download/Legacy/PSNope.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>EP0001-NPXS09386_00-PSNOPE0000000106</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/hendl.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>
+
+	<View id="legacy_100_item">
+		<Attributes>
+			<Table key="download">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>https://github.com/PS3-4K-Pro/Packages/releases/download/Legacy/PSPoke.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>https://github.com/PS3-4K-Pro/Packages/releases/download/Legacy/PSPoke.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>UP0001-NZHA00000_00-0000000000000000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/hendl.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>
+	
+	<View id="legacy_101_item">
+		<Attributes>
+			<Table key="download">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>https://github.com/PS3-4K-Pro/Packages/releases/download/Legacy/PS_Seismograph.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>https://github.com/PS3-4K-Pro/Packages/releases/download/Legacy/PS_Seismograph.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>UP0001-PSEISM1GR_00-0000000000000000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/hendl.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>
+	
+	<View id="legacy_102_item">
+		<Attributes>
+			<Table key="download">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>https://github.com/PS3-4K-Pro/Packages/releases/download/Legacy/PS_Unban.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>https://github.com/PS3-4K-Pro/Packages/releases/download/Legacy/PS_Unban.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>UP0001-NOBAN0000_00-0000000000000000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/hendl.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>
+	
+	<View id="legacy_103_item">
+		<Attributes>
+			<Table key="download">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>https://github.com/PS3-4K-Pro/Packages/releases/download/Legacy/QA_Flag_Tools_Extra.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>https://github.com/PS3-4K-Pro/Packages/releases/download/Legacy/QA_Flag_Tools_Extra.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>UP0001-QAFG00003_00-0000000000000000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/hendl.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>
+	
+	<View id="legacy_104_item">
+		<Attributes>
+			<Table key="download">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>https://github.com/PS3-4K-Pro/Packages/releases/download/Legacy/QuickDumpR.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>https://github.com/PS3-4K-Pro/Packages/releases/download/Legacy/QuickDumpR.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>EP0001-HMBW00003_00-PLAYSTAYTIONGLTE</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/hendl.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>
+	
+	<View id="legacy_105_item">
+		<Attributes>
+			<Table key="download">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>https://github.com/PS3-4K-Pro/Packages/releases/download/Legacy/Rogero_Manager.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>https://github.com/PS3-4K-Pro/Packages/releases/download/Legacy/Rogero_Manager.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>ROGERO-ROGE12345_00-SIGNED0V82000355</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/hendl.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>
+
+	<View id="legacy_106_item">
+		<Attributes>
+			<Table key="download">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>https://github.com/PS3-4K-Pro/Packages/releases/download/Legacy/SACD-Ripper.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>https://github.com/PS3-4K-Pro/Packages/releases/download/Legacy/SACD-Ripper.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>UP0001-SACDRIP01_00-0000000000000000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/hendl.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>
+
+	<View id="legacy_107_item"> 	
+		<Attributes>
+			<Table key="download">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>https://github.com/PS3-4K-Pro/Packages/releases/download/Legacy/SConsole.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>https://github.com/PS3-4K-Pro/Packages/releases/download/Legacy/SConsole.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>UP0001-SCO0000003_00-000000000000000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/hendl.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>
+	
+	<View id="legacy_108_item"> 	
+		<Attributes>
+			<Table key="download">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>https://github.com/PS3-4K-Pro/Packages/releases/download/Legacy/SELF_SPRX_Decrypter.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>https://github.com/PS3-4K-Pro/Packages/releases/download/Legacy/SELF_SPRX_Decrypter.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>IV0001-DCRY00001_00-0000100000000000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/hendl.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>
+	
+	<View id="legacy_109_item"> 	
+		<Attributes>
+			<Table key="download">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>https://github.com/PS3-4K-Pro/Packages/releases/download/Legacy/SEN_Enabler.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>https://github.com/PS3-4K-Pro/Packages/releases/download/Legacy/SEN_Enabler.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>EP9001-NPEA90124_00-0000000000000000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/hendl.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>
+	
+	<View id="legacy_110_item"> 	
+		<Attributes>
+			<Table key="download">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>https://github.com/PS3-4K-Pro/Packages/releases/download/Legacy/Sexy_Manager.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>https://github.com/PS3-4K-Pro/Packages/releases/download/Legacy/Sexy_Manager.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>UP0001-OMAN46756_00-0000111122223333</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/hendl.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>
+
+	<View id="legacy_111_item"> 	
+		<Attributes>
+			<Table key="download">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>https://github.com/PS3-4K-Pro/Packages/releases/download/Legacy/ShowTime_DISC11.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>https://github.com/PS3-4K-Pro/Packages/releases/download/Legacy/ShowTime_DISC11.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>LAUNCH-HTSD00001_00-SHOWTIMEDISC0011</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/hendl.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>
+
+	<View id="legacy_112_item"> 	
+		<Attributes>
+			<Table key="download">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>https://github.com/PS3-4K-Pro/Packages/releases/download/Legacy/Simple_AVCHD_Manager.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>https://github.com/PS3-4K-Pro/Packages/releases/download/Legacy/Simple_AVCHD_Manager.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>UP0001-AVCD00001_00-0000000000001000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/hendl.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>
+	
+	<View id="legacy_113_item">
+		<Attributes>
+			<Table key="download">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>https://github.com/PS3-4K-Pro/Packages/releases/download/Legacy/Simple_File_Manager.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>https://github.com/PS3-4K-Pro/Packages/releases/download/Legacy/Simple_File_Manager.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>UP0001-PS3SFM001_00-0000000000000000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/hendl.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>
+	
+	<View id="legacy_114_item">
+		<Attributes>
+			<Table key="download">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>https://github.com/PS3-4K-Pro/Packages/releases/download/Legacy/Simple_NTFS_ISO_Mounter.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>https://github.com/PS3-4K-Pro/Packages/releases/download/Legacy/Simple_NTFS_ISO_Mounter.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>CAPCPS-SISO00123_00-0000000000000000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/hendl.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>
+	
+	<View id="legacy_115_item">
+		<Attributes>
+			<Table key="download">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>https://github.com/PS3-4K-Pro/Packages/releases/download/Legacy/Simplicity_Manager.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>https://github.com/PS3-4K-Pro/Packages/releases/download/Legacy/Simplicity_Manager.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>UP0001-SIMPIRIS4_00-0000000000000000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/hendl.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>
+
+	<View id="legacy_116_item">
+		<Attributes>
+			<Table key="download">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>https://github.com/PS3-4K-Pro/Packages/releases/download/Legacy/Solar.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>https://github.com/PS3-4K-Pro/Packages/releases/download/Legacy/Solar.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>UP0001-CNDR00001_00-0000000000000000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/hendl.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>
+	
+	<View id="legacy_117_item">
+		<Attributes>
+			<Table key="download">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>https://github.com/PS3-4K-Pro/Packages/releases/download/Legacy/SuiteApp.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>https://github.com/PS3-4K-Pro/Packages/releases/download/Legacy/SuiteApp.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>UP0001-SUIT11111_00-0000000000000000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/hendl.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>
+	
+	<View id="legacy_118_item">
+		<Attributes>
+			<Table key="download">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>https://github.com/PS3-4K-Pro/Packages/releases/download/Legacy/TempMON.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>https://github.com/PS3-4K-Pro/Packages/releases/download/Legacy/TempMON.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>TA9000-TEMPMON00_00-TEMPMON000000000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/hendl.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>
+
+	<View id="legacy_119_item">
+		<Attributes>
+			<Table key="download">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>https://github.com/PS3-4K-Pro/Packages/releases/download/Legacy/TextReader.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>https://github.com/PS3-4K-Pro/Packages/releases/download/Legacy/TextReader.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>UP0001-TXTR11111_00-0000111122223333</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/hendl.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>
+	
+	<View id="legacy_120_item">
+		<Attributes>
+			<Table key="download">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>https://github.com/PS3-4K-Pro/Packages/releases/download/Legacy/ThankYou_Manager.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>https://github.com/PS3-4K-Pro/Packages/releases/download/Legacy/ThankYou_Manager.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>UP0001-TYMANAGER_00-0000111122223333</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/hendl.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>
+
+	<View id="legacy_121_item">
+		<Attributes>
+			<Table key="download">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>https://github.com/PS3-4K-Pro/Packages/releases/download/Legacy/Toggle_QA.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>https://github.com/PS3-4K-Pro/Packages/releases/download/Legacy/Toggle_QA.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>UP0001-TOGGLEQAF_00-0000000000000000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/hendl.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>
+	
+	<View id="legacy_122_item">
+		<Attributes>
+			<Table key="download">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>https://github.com/PS3-4K-Pro/Packages/releases/download/Legacy/Ultimate_Toolbox.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>https://github.com/PS3-4K-Pro/Packages/releases/download/Legacy/Ultimate_Toolbox.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>CUSTOM-ULTOOLBOX_00-DEVIL30300000000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/hendl.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>
+	
+	<View id="legacy_123_item">
+		<Attributes>
+			<Table key="download">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>https://github.com/PS3-4K-Pro/Packages/releases/download/Legacy/Unofficial_IrisMAN.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>https://github.com/PS3-4K-Pro/Packages/releases/download/Legacy/Unofficial_IrisMAN.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>UP0001-IMANGER4U_00-0000000000000000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/hendl.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>
+
+	<View id="legacy_124_item">
+		<Attributes>
+			<Table key="download">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>https://github.com/PS3-4K-Pro/Packages/releases/download/Legacy/Unofficial_REBUG_Updater.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>https://github.com/PS3-4K-Pro/Packages/releases/download/Legacy/Unofficial_REBUG_Updater.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>UP0453-XMBPLSMOD_00-UNOFFICIALUPDATE</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/hendl.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>
+	
+	<View id="legacy_125_item">
+		<Attributes>
+			<Table key="download">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>https://github.com/PS3-4K-Pro/Packages/releases/download/Legacy/USB_Firm_Loader.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>https://github.com/PS3-4K-Pro/Packages/releases/download/Legacy/USB_Firm_Loader.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>XXYYYY-JAICUSBL0_00-JAICUSBLOADER003</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/hendl.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>
+	
+	<View id="legacy_126_item">
+		<Attributes>
+			<Table key="download">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>https://github.com/PS3-4K-Pro/Packages/releases/download/Legacy/USB_Game_Launcher.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>https://github.com/PS3-4K-Pro/Packages/releases/download/Legacy/USB_Game_Launcher.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>UP0001-HOMELAUN1_00-0000000000000000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/hendl.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>
+	
+	<View id="legacy_127_item">
+		<Attributes>
+			<Table key="download">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>https://github.com/PS3-4K-Pro/Packages/releases/download/Legacy/VSH_PRXLoader.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>https://github.com/PS3-4K-Pro/Packages/releases/download/Legacy/VSH_PRXLoader.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>EP0001-PRXLOADER_00-0000000000000000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/hendl.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>
+	
+	<View id="legacy_128_item">
+		<Attributes>
+			<Table key="download">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>https://github.com/PS3-4K-Pro/Packages/releases/download/Legacy/webMAN_LaunchPAD.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>https://github.com/PS3-4K-Pro/Packages/releases/download/Legacy/webMAN_LaunchPAD.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>UP0100-LAUNCHPAD_00-DEVIL30300000000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/hendl.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>
+
+	<View id="legacy_129_item">
+		<Attributes>
+			<Table key="download">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>https://github.com/PS3-4K-Pro/Packages/releases/download/Legacy/Web_Browser_Plus.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>https://github.com/PS3-4K-Pro/Packages/releases/download/Legacy/Web_Browser_Plus.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>RAZORX-BROWSER01_00-0000000009031985</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/hendl.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>
+
+	<View id="legacy_130_item">
+		<Attributes>
+			<Table key="download">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>https://github.com/PS3-4K-Pro/Packages/releases/download/Legacy/Whats_New_on_PSX-Place.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>https://github.com/PS3-4K-Pro/Packages/releases/download/Legacy/Whats_New_on_PSX-Place.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>UP0100-WHATSNEW1_00-DEVIL30300000000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/hendl.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>
+	
+	<View id="legacy_131_item">
+		<Attributes>
+			<Table key="download">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>https://github.com/PS3-4K-Pro/Packages/releases/download/Legacy/Wipe_History.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>https://github.com/PS3-4K-Pro/Packages/releases/download/Legacy/Wipe_History.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>UP0001-WIPE01337_00-0000000000000000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/hendl.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>
+	
+	<View id="legacy_132_item">
+		<Attributes>
+			<Table key="download">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>https://github.com/PS3-4K-Pro/Packages/releases/download/Legacy/XMBLock.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>https://github.com/PS3-4K-Pro/Packages/releases/download/Legacy/XMBLock.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>EP0001-XMBLOCK00_00-HDD0PATCH0000000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/hendl.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>
+	
+	<View id="legacy_133_item">
+		<Attributes>
+			<Table key="download">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>https://github.com/PS3-4K-Pro/Packages/releases/download/Legacy/XMBM+_2017.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>https://github.com/PS3-4K-Pro/Packages/releases/download/Legacy/XMBM+_2017.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>BP0001-XMBMANPLS_00-0000111122223333</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/hendl.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>
+	
+	<View id="legacy_134_item">
+		<Attributes>
+			<Table key="download">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>https://github.com/PS3-4K-Pro/Packages/releases/download/Legacy/XMBPD.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>https://github.com/PS3-4K-Pro/Packages/releases/download/Legacy/XMBPD.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>UP0100-XMBPDINST_00-DEVIL30300000000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/hendl.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>
+	
+	<View id="legacy_135_item">
+		<Attributes>
+			<Table key="download">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>https://github.com/PS3-4K-Pro/Packages/releases/download/Legacy/XMB_Modify_Collection.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>https://github.com/PS3-4K-Pro/Packages/releases/download/Legacy/XMB_Modify_Collection.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>UP0100-XMBMDIFY1_00-BITSBUBBA0000XMB</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/hendl.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>
+	
+	<View id="legacy_136_item">
+		<Attributes>
+			<Table key="download">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>https://github.com/PS3-4K-Pro/Packages/releases/download/Legacy/XMB_MOD_Manager.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>https://github.com/PS3-4K-Pro/Packages/releases/download/Legacy/XMB_MOD_Manager.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>CFWPS3-XMBMODMAN_00-PACKEDBYBRUNOLEE</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/hendl.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>
+	
+	<View id="legacy_137_item">
+		<Attributes>
+			<Table key="download">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>https://github.com/PS3-4K-Pro/Packages/releases/download/Legacy/xReg_Plus.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>https://github.com/PS3-4K-Pro/Packages/releases/download/Legacy/xReg_Plus.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>UP0001-XREG00001_00-0000000000000000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/hendl.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>	
+	
+	<View id="legacy_138_item">
+		<Attributes>
+			<Table key="download">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>https://github.com/PS3-4K-Pro/Packages/releases/download/Legacy/CFW_Extras_Category_Installer.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>https://github.com/PS3-4K-Pro/Packages/releases/download/Legacy/CFW_Extras_Category_Installer.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>UP0001-XREG00001_00-0000000000000000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/UNOSTORES/USRDIR/store/icons/main_icons/hendl.png</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/xmlnpsignup" key="download" attr="download"/> 
+		</Items>
+	</View>	
+</XMBML>
