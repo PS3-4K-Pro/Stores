@@ -1,0 +1,82 @@
+h1, .h1
+{
+   font-family: Arial;
+   font-weight: bold;
+   font-size: 32px;
+   text-decoration: none;
+   color: #000000;
+   background-color: transparent;
+   margin: 0 0 0 0;
+   padding: 0 0 0 0;
+   display: inline;
+}
+h2, .h2
+{
+   font-family: Arial;
+   font-weight: bold;
+   font-size: 27px;
+   text-decoration: none;
+   color: #000000;
+   background-color: transparent;
+   margin: 0 0 0 0;
+   padding: 0 0 0 0;
+   display: inline;
+}
+h3, .h3
+{
+   font-family: Arial;
+   font-weight: bold;
+   font-size: 24px;
+   text-decoration: none;
+   color: #000000;
+   background-color: transparent;
+   margin: 0 0 0 0;
+   padding: 0 0 0 0;
+   display: inline;
+}
+h4, .h4
+{
+   font-family: Arial;
+   font-weight: bold;
+   font-size: 21px;
+   font-style: italic;
+   text-decoration: none;
+   color: #000000;
+   background-color: transparent;
+   margin: 0 0 0 0;
+   padding: 0 0 0 0;
+   display: inline;
+}
+h5, .h5
+{
+   font-family: Arial;
+   font-weight: bold;
+   font-size: 19px;
+   text-decoration: none;
+   color: #000000;
+   background-color: transparent;
+   margin: 0 0 0 0;
+   padding: 0 0 0 0;
+   display: inline;
+}
+h6, .h6
+{
+   font-family: Arial;
+   font-weight: bold;
+   font-size: 16px;
+   text-decoration: none;
+   color: #000000;
+   background-color: transparent;
+   margin: 0 0 0 0;
+   padding: 0 0 0 0;
+   display: inline;
+}
+.CustomStyle
+{
+   font-family: "Courier New";
+   font-weight: bold;
+   font-size: 16px;
+   text-decoration: none;
+   color: #2E74B5;
+   background-color: transparent;
+}
